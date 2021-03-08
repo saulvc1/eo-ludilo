@@ -1,0 +1,2855 @@
+﻿The Project Gutenberg EBook of La mirinda historio de Petro Schlemihl, by 
+Adelbert von Chamisso
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: La mirinda historio de Petro Schlemihl
+
+Author: Adelbert von Chamisso
+
+Translator: Eugen Wüster
+
+Release Date: December 1, 2020 [EBook #63926]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LA MIRINDA HISTORIO DE PETRO SCHLEMIHL ***
+
+
+
+
+Produced by Andrew Sly, Miroslav Malovec and the Online
+Distributed Proofreading Team at https://www.pgdp.net
+
+
+
+
+
+
+ADELBERTO DE CHAMISSO
+
+  La mirinda historio de
+  PETRO SCHLEMIHL
+
+  El la germana originalo tradukis
+  Eugen Wüster
+
+  FERDINAND HIRT & SOHN EN LEIPZIG / 1922
+  ESPERANTO-FAKO
+
+
+
+
+  ĈIUJ RAJTOJ ESTAS REZERVATAJ
+  COPYRIGHT 1922 BY FERDINAND HIRT & SOHN EN LEIPZIG
+
+PRESEJO BREITKOPF & HÄRTEL, LEIPZIG
+
+
+
+
+Tabelo de enhavo.
+
+  Antaŭparolo                                     7
+  Vivo kaj verkado de Chamisso                    8
+  Al Adelberto de Chamisso                        9
+  Adelberto de Chamisso al Julius Eduard Hitzig  10
+  Fouqué al la sama                              11
+  Hitzig al Fouqué                               12
+  Al mia malnova amiko Petro Schlemihl           14
+  La mirinda historio de Petro Schlemihl         16
+  Notoj                                          80
+
+
+
+
+Antaŭparolo.
+
+
+Antaŭ 100 jaroj, en 1822, aperis la unua tradukaĵo de _Peter
+Schlemihl_; franca, ĉe _Ladvokat_ en Parizo. Ĝi estis farita de
+la frato de _Chamisso_, kontrolita de li mem kaj -- ŝanĝita (laŭ
+komisio) de la eldonisto: por doni al ĝi francecan eksteraĵon[F1].
+
+Cent jaroj el Chamisso faris klasikulon; donis al li la rajton,
+_sen_ la perado de koncesiema adaptisto paroli al la Tutmondo.
+Plenumiĝu do pri la libro Schlemihl la sorto de Schlemihl, ĝia
+heroo: La sepmejlobotoj Esperanto ĝin portu trans etnografiajn kaj
+geografiajn baraĵojn.
+
+Ekiru vian vojon, rakonto pri la viro, kiu perdis sian ombron;
+-- sian patrujon, kiel oni legis. Ĉie, kien ĉi-foje vi venos,
+vi renkontos homojn, al kiuj okazis same kiel al via dunacia
+elpensinto. Homojn, kiujn oni kulpigis pri simileco kun Schlemihl,
+pri nehavo de ombro-patrujo, sole ĉar ilia ombro vere havas la
+kvalitojn de ombro: ĉar ĝi ne malebligas la interproksimiĝon de la
+ombrohavantoj, povante sen difektiĝo kunfandiĝi kun aliaj ombroj al
+pli granda unuaĵo. Egale la esperantistoj kaj Chamisso spertis pri
+la neantoj de sia ombro:
+
+  „Se mi ĝin montris, ili pro intenc’
+  Ne vidis, rido ilin eksufokis.
+  Sed oni portas tion malgraŭ vol’;
+  Se nur senkulpo restas por konsol’.“
+
+1916 (jaro de l’ tradukado) kaj 1922 (jaro de l’ revizio kaj apero).
+Eugen Wüster.
+
+
+
+
+Vivo kaj verkado de Chamisso.
+
+
+Adelberto de _Chamisso_[F2] naskiĝis la 30. I. 1781 en Ĉampanio.
+Naŭjara li elmigris kun siaj gepatroj al Pruslando. Tie li komencis
+en 1798 la soldatan karieron enirante infanterian regimenton; li
+restis ankaŭ, kiam liaj gepatroj reiris Franclanden. La indigno pri
+la kapitulaco de _Hameln_ instigis lin, forlasi la militistan
+profesion. Pasiginte kelke da tempo en sia naskolando, li ekdediĉis
+sin en 1812 al universitataj studoj kaj pli poste ĝoje akceptis la
+inviton al partopreno en mondvojaĝo kun filo de la komedia verkisto
+_Kotzebue_; li esperis, trovi per ĝi liberigon de la interna
+malharmonio, kiun kaŭzis en li la bataloj pro libereco. En 1818 li
+edziĝis kaj ricevis ŝtatan oficon en scienca fako. Tri jarojn, post
+kiam li estis eknomata membro de la Akademio de l’ Sciencoj, li
+mortis la 21. VIII. 1838, viktimo de speciale forta atako de kronika
+bronkito.
+
+Liaj unuaj literaturaĵoj estis poemoj. Sekvis _Petro Schlemihl_,
+kiu estas tradukita en preskaŭ ĉiujn lingvojn de kulturo; la jaro de
+ĝia estiĝo estas 1813, kaj spegulas sin en ĝi la tiamaj malkvieto kaj
+senceleco de la aŭtoro mem. Kune kun _Gaudy_ la poeto germanecigis
+la _Chansons_ (Kantaĵojn) de _Béranger_ kaj redaktis dum kelke da
+tempo la _Musenalmenach_ (Almanakon de l’ muzoj). Kvankam laŭ
+naskiĝo Chamisso ja estis franco, li sukcesis la unua, doni al la
+tercetoj pure germanan karakteron; ekz. en siaj poemoj _Retraite_
+(Vespersignalo), _Matteo Falcone, der Korse_ (..., la korsikano)[F3]
+kaj, speciale citinda, _Salas y Gomez_. Krom la lingvistikaĵo
+_Über die Hawaische Sprache_ (Pri la havaja lingvo) Chamisso
+postlasis ankoraŭ aliajn sciencajn verkojn, precipe naturhistoriajn:
+_De animalibus quibusdam e classe vermium Linnaei etc._ (Pri iaj
+bestoj el la klaso de l’ vermoj laŭ Linné k. s.), _Übersicht der in
+Norddeutschland vorkommenden nützlichsten und schädlichsten Gewächse_
+(Epitomo de la plej utilaj kaj de la plej malutilaj kreskaĵoj
+troviĝantaj en Nord-Germanio), _Bemerkungen und Ansichten auf einer
+Entdeckungsreise unter Kotzebue_ (Rimarkoj kaj opinioj dum eltrova
+vojaĝo direktita de _Kotzebue_) kaj _Beschreibung einer Reise um
+die Welt_ (Priskribo de vojaĝo ĉirkaŭ la mondo).
+
+Al Adelberto de Chamisso.
+
+  Se franc’ germanon nun renkontas
+  Kaj noble ardas ĉies kor’,
+  Tuj kaptas ili kun fervor’
+  La glavon, kaj batal’ ekfontas.
+
+  Pli alta kampo de batal’
+  Kunigas nin, en flam’ pli hela.
+  Ho glor’ al vi, amik’ fidela,
+  Kaj al la liga ideal’!
+
+1813. Fouqué[F4].
+
+
+
+
+Adelberto de Chamisso al Julius Eduard Hitzig[1].
+
+
+Vi forgesas neniun, vi do supozeble ankoraŭ memoras iun Petro
+_Schlemihl_[2], kiun vi en pasintaj jaroj kelkfoje vidis ĉe mi;
+li estis longagamba homo, kiun oni opiniis mallerta, ĉar liaj
+movoj estis ĝenitaj, kaj kiu pro sia inerto estis konsiderata kiel
+maldiligenta. Mi amis lin. Vi ne povas esti forgesinta, kiel li foje
+en nia junula tempo pasis al ni tra la sonetoj; mi kunprenis lin
+al unu el la poeziaj tekunvenoj, kie li ekdormis ankoraŭ dum la
+skribado, ne ĝisatendante la legon. Nun mi ankaŭ memoras ŝercon,
+kiun vi faris pri li. Nome vi jam, Dio scias kie kaj kiam, vidis lin
+en malnova nigra kurtko[3], kiun, estas vere, li tiutempe ankoraŭ
+ĉiam surhavis, kaj vi diris: „Tiu homo devus esti nomata feliĉa,
+se lia animo estus nur duone tiom senmorta kiel lia kurtko“.
+-- Tiel malalte vi ĉiuj taksis lin. Koncerne min, mi amis lin.
+-- De tiu Schlemihl, kiun antaŭ multe da jaroj mi perdis el la
+vido, devenas la kajero, kiun mi volas konigi al vi. Nur al vi,
+_Eduard_, al mia plej proksima, plej intima amiko, al mia pli
+bona mio, de kiu mi povas kaŝi nenian sekreton, mi ĝin konigas; nur
+al vi kaj, memkompreneble, al nia _Fouqué_[4], same kiel vi
+radikanta en mia animo; sed en li mi ĝin konigas nur al la amiko,
+ne al la poeto. Vi ambaŭ komprenos, kiel malagrable estus al mi,
+se eble la konfeso, kiun honesta viro konfidante miajn amikecon
+kaj lojalon faris sur mia brusto, en verko de poeto estus fiksata
+al la pilorio; aŭ se nur iel ajn estus profane traktata, kvazaŭ
+malbona ŝerco, afero, kiu ne estas tio kaj ne devas esti. Mi mem,
+estas vere, devas konfesi mian bedaŭron, ke tiu historio, kiu
+nur fariĝis stultnaiva sub la plumo de la brava viro, ne povas
+esti prezentata de pli lerta fremda mano en sia tuta komikeco. Kion
+_Jean Paul_ estus farinta el ĝi! -- Cetere, kara amiko, eble en
+ĝi multaj estas cititaj, kiuj ankoraŭ vivas; ankaŭ tio devas esti
+atentata.
+
+Ankoraŭ vorton pri la maniero, kiel mi ricevis tiujn foliojn.
+Hieraŭ matene ĉe mia vekiĝo oni transdonis ilin al mi. Stranga
+viro, kiu portis longan grizan barbon kaj surhavis tute eluzitan
+nigran kurtkon, kun botanika skatolo super tiu kaj, ĉe la malseka,
+pluva vetero, kun pantofloj sur siaj botoj, estis demandinta pri mi
+kaj lasinta por mi tion; li estis pretendinta veni el Berlino.
+
+_Kunersdorf_[5], la 27an de septembro 1813a.
+
+Adelbert von Chamisso.
+
+P.-S. Mi almetas por vi desegnaĵon de la okulfrapa figuro, faritan
+de la lerta _Leopold_[6], kiu ĝuste staris ĉe sia fenestro.
+Kiam li vidis, kiom grava estas por mi tiu skizo, li volonte donacis
+ĝin al mi[F5].
+
+
+Fouqué[4] al la sama.
+
+
+Estas taskigite al ni, kara _Eduard_, konservi la historion de la
+kompatinda Schlemihl; konservi tiel, ke ĝi estu ŝirmita de la
+okuloj, kiuj ne devas enrigardi en ĝin. Jen malfacila tasko. Da tiaj
+okuloj ekzistas sufiĉe multe, kaj kiu mortemulo povas determini la
+sortojn de manuskripto; de aĵo preskaŭ pli gardenda ol eldirita
+vorto. Jen do mi agas kiel iu kaptita de kapturno, kiu en sia timo
+preferas tuj salti en la abismon: mi presigas la tutaĵon.
+
+Kaj tamen, Eduard, ekzistas pli seriozaj kaj pli bonaj motivoj por
+mia konduto. Se mi ne plene eraras, en nia kara Germanio batas multe
+da koroj kapablaj kaj ankaŭ indaj kompreni la kompatindan Schlemihl,
+kaj trans la vizaĝon de ne malmultaj veraj samlandanoj pasos rideto
+de kortuŝo ĉe la maldolĉa ŝerco, kiun aranĝas la vivo pri li,
+kaj ĉe la senmalica, kiun li aranĝas pri si mem. Kaj vi, mia
+Eduard, kiam vi rigardos tiun funde sinceran libron kaj ĉe tio
+pensos, ke multe da nekonataj korparencoj kun ni ekamos ĝin, eble
+ankaŭ sentos guton de balzamo falanta en la ardan vundon, kiun al vi
+kaj al ĉiuj vin amantaj faris la morto.
+
+Kaj fine: ekzistas -- mi konvinkiĝis pri tio per multaj spertoj
+-- ekzistas por la presitaj libroj genio, kiu metas ilin en la
+ĝustajn manojn kaj, se ne ĉiam, tamen tre ofte detenas de ili la
+malĝustajn. Ĉiukaze li havas nevideblan pendseruron antaŭ ĉiu
+vera verko de spirito kaj koro kaj scias kun tute neerarigebla lerto
+ŝlosi kaj malŝlosi ĝin.
+
+Al tiu genio, mia tre kara Schlemihl, mi konfidas vian rideton kaj
+viajn larmojn. Kaj nun, gardu vin Dio!
+
+_Nennhausen_[7], fino de majo 1814a. Fouqué.
+
+
+Hitzig al Fouqué.
+
+
+Jen do la rezultaĵoj de via ekstrema decido, presigi la
+Schlemihl-historion, kiun ni devis konservi kiel sekreton konfiditan
+nur la ni: ne sole francoj kaj angloj, holandanoj kaj hispanoj
+tradukis ĝin kaj amerikanoj depresis ĝin de la angloj, kiel mi
+detale sciigis en mia „_Gelehrtes Berlin_“[8]; sed ankaŭ por
+nia kara Germanio estas aranĝata nova eldono kun la desegnaĵoj de
+la angla, kiujn faris la fama _Cruikshank_[9] laŭ la vivo, per
+kio la afero nedubeble ankoraŭ multe pli diskonatiĝos. Se mi ne
+konsiderus vin sufiĉe punita pro via propraŭtoritata procedo
+(ĉar al mi vi ja en 1814 tute nenion diris pri la eldonado de la
+manuskripto) per tio, ke nia Chamisso ĉe sia velirado ĉirkaŭ la
+mondo, en la jaroj 1815a ĝis 1818a, certe en Ĉilo kaj Kamĉatko
+kaj eble eĉ ĉe sia amiko, la nun mortinta _Tameiamaia_ sur
+_O-Wahu_ plendis pri ĝi, -- tiam mi ankoraŭ nun postulus de vi
+publike pravigon.
+
+Sed, se mi eĉ volus, -- kio okazis, ne estas malfarebla kaj via
+atendo estis prava: multaj, multaj geamikoj kun ni ekŝatis la
+libreton en la lastaj dek tri sortoplenaj jaroj, antaŭ kiuj ĝi
+eniris la mondon. Neniam mi forgesos la horon, en kiu mi legis
+ĝin unuafoje al _Hoffmann_[10]. Ekster si pro plezuro kaj
+atentostreĉo, li estis alforĝita al miaj lipoj, ĝis kiam mi
+finis; li estis malpaciencega, koniĝi la poeton persone, kaj,
+ĝenerale tiom malinklina al ĉia imito, li tamen ne kontraŭstaris
+al la tento, krei sufiĉe nesukcesan varianton de la ideo de l’
+perdita ombro en la perdita spegula bildo de Erasmo _Spikher_
+(en sia rakonto _La aventuroj de la silvestra nokto_). Eĉ
+inter la infanojn nia mirinda historio sukcesis trabati al si vojon;
+foje, en hela vintra vespero, mi iris kun ĝia rakontinto sur la
+_Burgstraße_[11], kiam knabo okupiĝanta sur la glitkurejo
+ridis pri li; li kaptis la knabon kaj metis lin sub sian ursan
+mantelon, kiun vi bone konas. La knabo silentis kaj ne movis sin; sed
+kiam li estis remetita teren kaj jam sufiĉe malproksime de ni --
+irintaj pluen, kvazaŭ nenio okazis --, tiam li lautvoĉe postkriis
+al sia rabinto: „Gardu vin, Petro Schlemihl!“
+
+Tiel, mi pensas, la brava homo ankaŭ en sia nova, delikata vesto
+ĝojigos multajn, kiuj ne vidis lin en la simpla kurtko de 1814. Por
+tiu kaj tiu krome ankoraŭ estos surprize, en la diplomita prusa
+oficiro, la botanikisto kaj mondvojaĝisto, ankaŭ historiografo
+de la fama Petro Schlemihl, plie koniĝi lirikiston, kiu, ĉu
+eksonigante malajajn ĉu litovajn melodiojn, ĉie elmontras, ke lia
+poezia koro estas ĝuste lokita[12].
+
+Tial kara Fouqué, en la fino tamen ankoraŭ sinceran dankon pro
+la aperigo de la unua eldono; kaj akceptu kun niaj amikoj mian
+bondeziron por ĉi tiu dua.
+
+_Berlino_, en januaro 1827a. Eduard Hitzig.
+
+
+Al mia malnova amiko Petro Schlemihl[13].
+
+  Post longe jen skribaĵo via venas
+  Sub mian manon ree, kaj -- ho mir’! --
+  Pri nia amikeco pens’ min prenas
+  Dum la unua en la mondo ir’.
+  Malĝusta honto min jam ne retenas,
+  Maljuniĝinta kaj grizhara vir’:
+  Mi kiel iam nomos vin amiko,
+  Konfesos tia min al la publiko.
+
+  Amiko kompatinda, ne suferis
+  Mi tiom de l’ Ruzulo, kiom vi.
+  Al kio mi celadis kaj esperis,
+  Ja preskaŭ ĉio restis iluzi’;
+  Sed ke la ombro min al li liveris,
+  Ne gloros la grizulo sin pri mi.
+  La ombro kunnaskita al mi restis,
+  Kaj ĝi neniam ajn perdita estis.
+
+  Sed min, de infanpura konscienc’,
+  Anstataŭ vian mankon ili mokis. --
+  Ĉu inter ni ne estas diferenc’? --
+  Schlemihl, la ombro? oni min postvokis;
+  Se mi ĝin montris, ili pro intenc’
+  Ne vidis, rido ilin eksufokis.
+  Sed oni portas tion, malgraŭ vol’;
+  Se nur senkulpo restas por konsol’.
+
+  „Kaj kio do la ombro estas vere?“
+  Mi nun demandas, kiel oni min,
+  Ke ĝin taksadas tiel malmodere
+  De l’ mondo senkompata la rutin’?
+  Deknaŭmiltaga vivospert’ surtere
+  Forprenas tian juĝon en la fin’;
+  Ĉar ni la ombron estantaĵo fidas,
+  Ĝis ni estaĵojn ombriĝantaj vidas.
+
+  Konsentas tion ni per manoprem’,
+  Schlemihl, senŝanĝe ni antaŭeniros;
+  Ankoraŭ pli donitaj al ni mem,
+  Nenies ajn favoron ni aspiros.
+  Ni proksimiĝas jam al la ekstrem’:
+  Ĉu ridon, ĉu riproĉon ni akiros,
+  Post la ventego ni en la haveno
+  Dormados tamen sane kaj sen ĝeno.
+
+_Berlino_, aŭguston 1834an.
+
+
+Antaŭrakontaj piednotoj
+
+[F1] Valorajn servojn ĉe la revizio de ĉi tiu esperanta tradukaĵo
+faris la bonega franca de _Auguste Dietrich_ (Parizo 1888).
+
+[F2] Pron. Ŝamiso (⏑⏑́–).
+
+[F3] Ĝi pritraktas la saman temon kiel la jam (trifoje) esperantigita
+samnoma proza rakonto de _Prosper Mérimée_.
+
+[F4] Vidu la noton 4 en la fino de la libro.
+
+[F5] Tia bildo troviĝis en la unuaj eldonoj de Schlemihl.
+
+
+
+
+La mirinda historio de Petro Schlemihl.
+
+
+I.
+
+
+Post feliĉa, sed por mi tre peniga marveturo ni fine atingis la
+havenon. Tuj kiam mi albordiĝis kun la boato, mi ŝarĝis min mem
+per mia malgranda havaĵo, kaj, puŝpremante min tra la svarmanta
+homamaso, mi eniris en la unuan modestan domon, antaŭ kiu mi vidis
+pendanta ŝildon. Mi petis ĉambron; la botservisto ekzamenis min
+per rigardo kaj kondukis min en mansardon. Mi igis doni al mi
+freŝan akvon kaj precize priskribi, kie mi trovos sinjoron Tomo
+_John_[14]. -- „Antaŭ la Norda pordego, la unua vilao dekstre;
+granda, nova domo el ruĝa kaj blanka marmoro kun multe da kolonoj.“
+-- Bone. -- Estis ankoraŭ frue; mi tuj malligis mian paketon,
+elprenis mian nove transturnitan nigran frakon, orde vestis min,
+per miaj plej bonaj vestoj, enpoŝigis la rekomendan skribaĵon
+kaj tuj ekiris al la viro, kiu devis helpi min en la realigo de miaj
+modestaj esperoj.
+
+Suprenirinte la longan Nordan straton kaj atinginte la pordegon, mi
+baldaŭ vidis la kolonojn brilantaj tra la verdaĵo. -- „Do ĉi
+tie“, mi pensis. Mi forviŝis per mia naztuko la polvon de sur miaj
+piedoj, ĝustigis mian kravaton, kaj, rekomendante min al Dio, mi
+ektiris la sonorileton. La pordo salte malfermiĝis. En la vestiblo
+mi estis submetata al pridemandado; sed la pordisto anoncigis min,
+kaj mi havis la honoron, esti vokata en la parkon, kie sinjoro John
+promenis kun malgranda societo. Mi tuj rekonis la viron per la
+brilo de lia vastkorpa memkontento. Li akceptis min tre bone -- kiel
+riĉulo neniohavanton; li eĉ turnis sin al mi, tamen ne deturnante
+sin de la cetera societo, kaj prenis la prezentatan leteron el mia
+mano. „Jen! de mia frato; mi longe ne aŭdis pri li. Li ja estas
+sana?“ -- „Tie“, li daŭrigis, adresante sin al la societo kaj
+ne atendante mian respondon, dum li per la letero montris iun
+monteton, „tie mi farigos la novan konstruaĵon“. Li disrompis la
+sigelon, ne interrompante la konversacion, kiu turniĝis al la temo
+riĉeco. „Kiu ne estas posedanto de almenaŭ unu miliono“, li
+intermetis, „tiu estas, oni pardonu al mi la vorton, mizerulo!“
+„Ho, kiom vere!“ mi plensente ekkriis. Tio kredeble plaĉis al
+li; li alridetis min, dirante: „Restu ĉi tie, juna amiko; poste
+mi eble havos tempon por diri al vi, kion mi pensas pri tio.“ Li
+montris la leteron, kiun li poste enpoŝigis, kaj ree turnis sin al
+la societo. -- Li prezentis al juna sinjorino sian brakon, aliaj
+sinjoroj sin turnis al aliaj belulinoj, ĉio aranĝiĝis, kaj oni
+direktis sin al la monteto ĉirkaŭflorata de rozoj.
+
+Mi ŝoviĝis post ili, neniun ĝenante, ĉar neniu ajn okupis sin pri
+mi. La societo estis tre gaja, oni petolis kaj ŝercis, oni iafoje
+pri facilanimaĵoj parolis gravige, kelkfoje pri gravaĵoj facilanime,
+kaj agrable la sprito ekzerciĝis precipe pri forestantaj amikoj kaj
+iliaj aferoj. Mi estis tro fremda, por multe kompreni el ĉio ĉi,
+tro afliktita kaj meditema, por turni mian penson al tiaj enigmoj.
+
+Ni estis atingintaj la rozoboskon. La bela _Fanny_[15], ŝajne
+la reĝino de l’ tago, obstinis mem derompi florantan branĉon; ŝi
+vundetis sin per dorno, kaj, kvazaŭ el malhelaj rozoj, purpuro fluis
+sur ŝian delikatan manon. Tiu okazaĵo movigis la tutan societon.
+Oni serĉis anglan tafton. Silenta, maldika, sengrasa, longeta,
+nejuna viro, kiu apude kune iris kaj kiun mi ankoraŭ ne rimarkis,
+tuj metis la manon en la tute aliĝantan al la korpo baskan poŝon
+de sia antikva frako el griza tafto, eligis malgrandan biletujon,
+malfermis ĝin, kaj, respekte riverencante, li prezentis al la
+sinjorino la deziritaĵon. Ŝi akceptis ĝin ne atentante la doninton
+kaj ne dankante; la vundo estis pansata, kaj oni daŭrigis supreniri
+sur la monteton, de kies dorso oni volis ĝui la vastan perspektivon
+trans la verdan labirinton de l’ parko al la senmezura oceano.
+
+La vidaĵo vere estis granda kaj belega. Luma punkto aperis ĉe
+la horizonto inter la malhela maro kaj la bluo de la ĉielo.
+„Lornon!“ kriis John, kaj jam antaŭ kiam ekmoviĝis la servistaro
+aperanta pro la voko, la griza viro estis, kun modesta sinklino,
+metinta la manon en la poŝon de sia jako, eltirinta el ĝi belan
+_Dollond_[16]-lornon kaj ĝin prezentinta al sinjoro John. Tiu, tuj
+metante ĝin al la okulo, sciigis la societon, ke ĝi estas la ŝipo
+hieraŭ ekveturinta, kiun malfavoraj ventoj retenas en la vido de
+l’ haveno. La teleskopo iris de mano al mano kaj ne plu revenis en
+tiun de sia posedanto. Mi mem rigardis mirante tiun viron kaj ne
+sciis, kiamaniere la granda instrumento eliĝis el la malvastega
+poŝo; sed tio ŝajne frapis neniun, kaj oni ne pli okupis sin pri
+la grizulo ol pri mi mem.
+
+Refreŝigaĵoj estis prezentataj, la plej maloftaj fruktoj de ĉiuj
+terzonoj en plej valoraj ujoj. Sinjoro John kun facila konveneco
+gastigi, kaj tiam li por la dua fojo alparolis min: „Manĝu; tion
+vi ne havis surmare.“ Mi klinis min, sed li ne vidis tion, li jam
+parolis kun iu alia.
+
+Oni volonte estus ekkampinta sur la herbokovraĵo ĉe la deklivo
+de l’ monteto, kontraŭe de la etendita pejzaĝo, se oni ne estus
+timinta la malsekon de la tero. „Estus paradize“, iu societano
+diris, „se oni havus turkajn tapiŝojn, por ilin sterni ĉie tie.“
+La deziro apenaŭ estis eldirita, kiam la viro en la griza vesto
+jam havis la manon en la poŝo kaj kun modesta, eĉ humila mieno
+penis eltiri el ĝi luksan, per oro trateksitan turkan tapiŝon.
+Servistoj akceptis ĝin, kvazaŭ devus esti tiel, kaj malfaldis ĝin
+sur la loko dezirita. La societo sen pluaĵoj sidiĝis sur ĝi. Mi
+mem ree frapite rigardis tiun viron, lian poŝon, la tapiŝon, kiu
+havis longon de dudek paŝoj kaj larĝon de dek, kaj frotis miajn
+okulojn, ne sciante, kion pensi pri tio; precipe, ĉar neniu ion
+trovis stranga en ĝi.
+
+Mi estus dezirinta informi min pri tiu viro, demandi, kiu li estas;
+sed mi ne sciis, al kiu min turni, ĉar preskaŭ mi timis la
+servantajn sinjorojn ankoraŭ pli ol la sinjorojn servatajn. Fine mi
+kuraĝiĝis kaj aliris junan viron, kiu ŝajnis al mi malpli grava ol
+la aliaj kaj kiu kelkfoje staris sola. Mi mallaŭte petis lin, diri
+al mi, kiu estas tiu komplezema viro en la griza vesto. -- „Tiu,
+kiu aspektas kiel restopeco de fadeno, forkurinta el kudrilo de
+tajloro?“ -- „Jes, kiu staras sola.“ -- „Tiun mi ne konas“,
+li respondis al mi, kaj, ŝajne por eviti pli longan interparolon kun
+mi, li forturnis sin kaj parolis kun iu alia pri indiferentaj aferoj.
+
+La suno nun komencis brili pli forte kaj ekĝenis la sinjorinojn; la
+bela Fanny malceremonie direktis al la grizulo, kiun, laŭ mia scio,
+neniu ankoraŭ alparolis, la senkonsideran demandon: ĉu li eble
+ne havas kun si ankaŭ tendon? Li respondis ĝin per tiel profunda
+riverenco, kvazaŭ estas farata al li ne meritita honoro; kaj jam li
+havis la manon en la poŝo, el kiu mi vidis eliĝantaj ŝtofojn,
+stangojn, ŝnuretojn, feraĵon, mallonge: ĉion, kio apartenas al
+plej luksa ekskursotendo. La junaj sinjoroj helpis etendi ĝin, kaj
+ĝi superpendis la tutan amplekson de la tapiŝo, -- kaj neniu trovis
+ion eksterorda en tio.
+
+Mi jam de longe sentis hororeton, eĉ ian teruron; imagu plie mian
+animstaton, kiam, ĉe la deziro ĉi-poste eldirita, mi lin vidis
+eltiranta el sia poŝo ankoraŭ tri rajdoĉevalojn; jes, tri belajn,
+grandajn ĉevalojn kun selo kaj ilaro! -- Pripensu iom, pro Dio!
+ankoraŭ tri selitajn ĉevalojn el la sama poŝo, el kiu jam eliĝis
+paperujeto, lorno, maŝteksita tapiŝo, longa dudek paŝojn kaj larĝa
+dek, tendo, same granda, kaj ĉiuj stangoj kaj feraĵoj apartenaj!
+-- Se mi ne asertus al vi, ke mi vidis tion proprokule, vi certe
+ne kredus ĝin.
+
+Kiom ajn embarasita kaj humila la viro ŝajnis mem, kiom ajn malmulte
+la aliaj atentis pri li, tamen tiu pala aperaĵo, de kiu mi ne povis
+deturni la okulojn, fariĝis por mi tiel hororetiga, ke mi ne pli
+longe povis elporti ĝin.
+
+Mi decidis, elŝteliĝi el la societo, kio pro la negrava rolo, kiun
+mi ludis en ĝi, ŝajnis al mi tre facila. Mi volis reiri al la urbo,
+la venontan matenon ree provi, kion mi atingos de sinjoro John, kaj,
+se mi trovus la kuraĝon por tio, demandi pri la stranga griza viro.
+-- Ho, ke mi nur estu sukcesinta tiel forkuri!
+
+Mi efektive jam estis feliĉe ŝtelirinta tra la rozobosko, malsupren
+de la monteto, kaj troviĝis sur senarba herbokovrita placo; tiam
+mi, timante esti renkontata ekster la vojoj en la herbaĵo, esplore
+rigardis ĉirkaŭen. -- Kiom mi ektimis, vidante la viron en la
+griza frako sekvanta kaj alproksimiĝanta min. Li tuj demetis la
+ĉapelon antaŭ mi kaj tiel profunde riverencis, kiel neniu ankoraŭ
+faris antaŭ mi! Estis ne dubeble, ke li volis alparoli min, kaj,
+se mi ne volis esti malĝentila, mi ne povis eviti tion. Mi ankaŭ
+demetis la ĉapelon, responde klinis min kaj staris nudkapa en la
+sunbrilo kvazaŭ alforĝita. Plena de timo mi fikse rigardis lin
+kaj similis birdon, kiun rigidigis la vido de serpento. Li mem
+ŝajnis tre embarasita; li ne levis la rigardon, klinis sin diversajn
+fojojn, proksimiĝis kaj alparolis min per mallaŭta, nefirma voĉo,
+proksimume en la tono de almozpetanto.
+
+„La sinjoro bonvolu pardoni mian trudiĝemon, se mi kuraĝas,
+tiel nekonata aliri lin; mi havas ion por prezenti al li. Permesu
+favore --“ -- „Sed, pro Dio, sinjoro!“ mi eksplodis, plenigita
+de timo, „kion mi povas fari por viro, kiu --.“ Ni ambaŭ
+konfuziĝis kaj, ŝajnas al mi, ruĝiĝis.
+
+Post momento de silentado li ree ekparolis: „Dum la mallonga tempo,
+kiam mi ĝuis la feliĉon, esti proksime de vi, sinjoro, mi kelkajn
+fojojn -- permesu, ke mi tion diru al vi -- vere kun nedirebla admiro
+povis rigardi la belan, belan ombron, kiun vi en la sunbrilo kaj
+kvazaŭe kun ia nobla malestimo, mem ne atentante tion, ĵetas for de
+vi, la belegan ombron jen ĉe viaj piedoj. Pardonu al mi proponon,
+vere trokuraĝan: ĉu vi eble ne malinklinus, transcedi al mi vian
+ombron?“
+
+Li eksilentis, kaj mi havis senton, kvazaŭ en mia kapo turniĝus
+mueleja rado. Kion opinii pri tiu stranga propono, aĉeti de
+mi mian ombron? Li supozeble estas freneza, mi pensis, kaj per
+ŝanĝita tono, pli bone akordanta kun la humileco de la lia, mi jene
+respondis:
+
+„Ej, Ej! karulo, ĉu via propra ombro do ne sufiĉas al vi? Jen
+kion mi nomas negoco de tute stranga speco.“ Tuj li reekparolis:
+„Mi havas en mia poŝo diversajn aĵojn, kiuj al la sinjoro eble ne
+ŝajnus tute senvaloraj; por tiu netaksebla ombro mi konsideras la
+plej altan prezon nesufiĉa.“
+
+Nun ree min ekkaptis frostotremo, kiam mi estis memorigata pri tiu
+poŝo; kaj mi ne komprenis, kiel mi povis nomi lin „karulo“. Mi
+ree prenis la parolon kaj klopodis, laŭ eblo ripari tion per senlima
+ĝentileco.
+
+„Sed, sinjoro, pardonu al via humila servisto. Mi kredeble ne
+ĝuste komprenas vian diron; kiel do mia ombro povus -- --“. Li
+interrompis min: „Mi petas sole la permeson de via moŝto, levi
+vian noblan ombron kaj enpoŝigi ĝin; kiel mi faros tion, estu
+mia afero. Kompense, por pruvo de mia dankeco al la sinjoro, mi
+lasos lin elekti inter ĉiuj valoraĵoj, kiujn en la poŝo mi portas
+kun mi: la vera kreviga radiko, la mandragoro, naskemaj moneroj,
+rabtaleroj, la telertuko de la ŝildoportisto de Rolando, pendigila
+gnomo por laŭvola prezo; sed ĉio ĉi kredeble ne konvenas por vi:
+pli bone la magia ĉapeleto de Fortunato, nove kaj solide rebonigita;
+ankaŭ monsaketo, kia estis la lia[17].“ -- „La monsaketo de
+Fortunato!“ mi interrompis lin, kaj kiel ajn granda estis mia
+timo, per tiu unu vorto li estis kaptinta mian tutan spiriton. Mi
+ricevis kapturnon, kaj antaŭ miaj okuloj estis trembrilado kvazaŭ
+de duoblaj dukatoj. --
+
+„Via moŝto favore bonvolu rigardi kaj provi tiun saketon.“ Li
+metis la manon en la poŝon kaj per du fortikaj ledolaĉoj eltiris
+modere grandan solide kudritan saketon el kordova ledo kaj transdonis
+ĝin al mi. Mi metis la manon en ĝin kaj eltiris dek ormonerojn,
+kaj ree dek, kaj ree dek, kaj ree dek; mi rapide prezentis al li la
+manon: „Bone! ĝi estu; por la saketo vi ricevos mian ombron!“
+Li konsente kaptis mian manon, poste tuj ekgenuis antaŭ mi, kaj
+mi vidis lin kun admirinda lerto delikate deiganta de la herbaĵo
+mian ombron de l’ kapo ĝis la piedoj, levanta, kunrulanta kaj
+faldanta kaj fine enpoŝiganta ĝin. Li leviĝis, ankoraŭ unu fojon
+riverencis antaŭ mi kaj poste retiriĝis al la rozujaro. Ŝajnis al
+mi, ke tie mi aŭdas lin mallaŭte subridanta. Sed mi forte tenis la
+saketon per ĝiaj laĉoj; ĉirkaŭ mi la tero estis sunluma kaj en mi
+ankoraŭ ne estis klara konscio.
+
+
+
+
+II.
+
+
+Fine mi renkonsciiĝis kaj rapidis forlasi tiun lokon, kien mi
+esperis jam ne bezoni reveni. Unue mi plenigis miajn poŝojn per oro,
+poste mi kunligis la laĉojn de la saketo sur mia kolo kaj kaŝis
+ĝin mem sur mia brusto. Ne atentate mi eliris la parkon, atingis la
+landvojon kaj direktiĝis al la urbo. Kiam, okupite de miaj pensoj,
+mi proksimiĝis al la pordego, mi subite aŭdis krii post mi: „Juna
+sinjoro! he! juna sinjoro! aŭdu do!“ -- Mi rigardis returne,
+maljuna virino kriis post mi: „La sinjoro ja gardu sin, vi perdis
+vian ombron.“ -- „Dankon, panjo!“ Mi ĵetis al ŝi ormoneron
+pro la bonintenca konsilo kaj iris sub la arbojn.
+
+Tuj ĉe la pordego mi ree devis aŭdi de la gardostaranto:
+„Sinjoro, kie vi lasis vian ombron?“ kaj tuj poste refoje de
+kelke da virinoj: „Jesuo kaj Mario! la kompatindulo ne havas
+ombron!“ Tio komencis tedi min, kaj mi tre zorge evitis, iri en
+la sunbrilon. Sed tio ne ĉie estis ebla; ekzemple ne sur la Larĝa
+strato, kiun mi devis kruci la unuan kaj, malfeliĉe por mi, ĝuste
+en la sama horo, kiam la knaboj venis el la lernejo. Malbenita
+ĝiba bubo, kiun mi ankoraŭ nun vidas, tuj sciis, ke mia ombro
+mankas al mi. Ege kriante li denuncis min al la tuta literatura
+stratbubaro antaŭurba, kiu tuj komencis min kritiki kaj surĵeti per
+koto. „Ordemaj homoj havas la kutimon“, ili kriis, „kunpreni
+sian ombron irante en la sunbrilon“. Por malembarasi min de
+ili, mi malavare ĵetis monon inter ilin kaj saltis en fiakron,
+kiun havigis al mi kompatemuloj. Tuj kiam mi troviĝis sola en la
+kaleŝo ruliĝanta, mi ekploregis. Supozeble jam vekiĝis en mi la
+antaŭsento: ke, je kiom sur la tero mono pli valoras ol merito kaj
+virto, je tiom la ombro estas pli alte taksata eĉ ol oro; kaj kiel
+antaŭe mi oferis la riĉecon al mia konscienco, mi nun fordonis la
+ombron por pura mono; kio povis, kio devis surtere fariĝi el mi?
+
+Mi ankoraŭ estis tre konfuzita, kiam la veturilo haltis antaŭ mia
+malnova gastejo; mi ektimis sole pro la imago, ankoraŭfoje eniri
+tiun malbonan subtegmentan ĉambron. Mi igis alporti de tie mian
+malluksan paketon, malŝate akceptis ĝin, ĵetis kelkajn ormonerojn
+kaj ordonis veturigi min antaŭ la plej elegantan hotelon. La domo
+estis turnita al norde, mi ne bezonis timi la sunon. Mi donis oron
+al la veturigisto, postulis la plej bonajn ĉambrojn de l’ fronta
+flanko kaj enŝlosis min tie, tuj kiam mi povis.
+
+Kion vi pensas, ke mi faris nun! -- Ho, mia kara _Chamisso_,
+eĉ antaŭ vi konfesi tion, igas min ruĝiĝi. Mi detiris la fatalan
+monsaketon de sur mia brusto, kaj, kun ia furiozo, kiu per si mem
+multiĝis en mi kvazaŭ flagranta brulo, mi eltiris oron el ĝi, kaj
+oron, kaj oron, kaj pli kaj pli da oro kaj semis ĝin sur la plankon
+kaj paŝadis sur ĝi kaj tintigis ĝin, kaj ĵetadis, plezurigante
+mian kompatindan koron per la brilo kaj la sono de l’ oro, ĉiam
+pli da metalo al la metalo, ĝis mi mem lacigite falis sur tiun
+luksan kuŝejon kaj diboĉe fosis en ĝi, min ruladis sur ĝi. Tiel
+pasis la tago, la vespero; mi ne malŝlosis mian pordon, la nokto
+trovis min kuŝanta sur la oro, kaj poste min kaptis la dormo.
+
+Jen mi sonĝis pri vi; ŝajnis al mi, ke mi staras post la vitropordo
+de via malgranda ĉambro kaj de tie vidas vin sidanta ĉe via
+labortablo inter skeleto kaj fasko da sekigitaj kreskaĵoj; antaŭ
+vi estis malfermitaj la verkoj de _Haller_, _Humbold_ kaj _Linné_,
+sur via sofo kuŝis volumo de _Goethe_ kaj la _Magia Ringo_[18]; mi
+longe rigardis vin kaj ĉiun aĵon en via ĉambro, kaj post tio ree vin;
+sed vi ne moviĝis, nek spiris, vi estis malviva.
+
+Mi vekiĝis. Ŝajnis esti ankoraŭ tre frue. Mia horloĝo estis
+haltinta. Mi sentis min kvazaŭ bastonita, krome soifa kaj malsata;
+de la antaŭa mateno mi ne manĝis. Indigne kaj tedite mi forpuŝis
+tiun oron, per kiu ĵus antaŭe mi satigis mian malsaĝan koron;
+nun ĝi tedis min, kaj mi ne sciis, kion fari pri ĝi. Ĝi ne povis
+resti tiel sur la planko. Mi provis, ĉu la saketo ree englutus
+ĝin. -- Ne. Neniu el miaj fenestroj malfermiĝis super la maro.
+Fine mi devis konsenti kaj ĝin pene kaj ŝvitante porti al granda
+ŝranko, staranta en iu kabineto, kaj enpaki ĝin tie. Mi restigis
+nur kelke da plenmanoj. Fininte la laboron, mi konsumite kuŝigis min
+en apogseĝon kaj atendis, ĝis homoj komencis moviĝi en la domo.
+Mi igis, tuj kiam tio estis ebla, alporti manĝaĵojn kaj voki la
+mastron.
+
+Kun tiu viro mi priparolis la estontan aranĝon de mia loĝejo. Por
+mia persona servado li rekomendis al mi iun _Bendel_[19], kies
+fidela kaj inteligenta fizionomio tuj favorigis min al li. Li estis
+la sama, kies sindonemo de tiam konsolante akompanis min tra la
+mizero de l’ vivo kaj min helpis, elporti mian malgajan sorton. Mi
+pasigis la tutan tagon en miaj ĉambroj kun senmastraj servistoj,
+ŝuistoj, tajloroj kaj komercistoj; mi establis min kaj precipe
+aĉetis tre multe da valoraĵoj kaj gemoj, por forigi almenaŭ iom de
+la multa amasigita oro; sed neniel ŝajnis al mi, ke la amaso povus
+malpliiĝi.
+
+Dume okupadis min angorigaj duboj pri mia stato. Mi tute ne kuraĝis
+eliri el mia pordo kaj vespere igis bruligi en mia salono kvardek
+vakskandelojn, antaŭ ol forlasi la mallumon. Tremante mi rememoris
+la teruran scenon kun la lernejanoj. Kiom ajn da kuraĝo mi bezonis
+por tio, mi decidis ankoraŭ unu fojon provi la publikan juĝon. --
+Tiutempe la noktoj estis lunlumaj. Vespere mi ĉirkaŭvolvis min per
+larĝa mantelo, profunde surŝovis mian ĉapelon kaj elŝteliĝis el
+la domo, tremante kiel krimulo. Nur sur izolita placo mi eliris el
+la ombro de la domoj, de kiuj ŝirmate mi venis ĝis tiu loko, en la
+lunlumon, preparita, aŭdi mian sorton el la buŝo de la pasantoj.
+
+Ŝparigu al mi, kara amiko, la doloran ripeton de ĉio, kion mi
+devis elporti. La virinoj ofte montris plej profundan kompaton, kiun
+mi sentigis al ili; kaj tiuj elmontraĵoj ne malpli trapikis mian
+koron ol la moko de la junularo kaj la fiera malestimo de la viroj,
+precipe de tiaj dikaj vastkorpuloj, kiuj mem ĵetis larĝan ombron.
+Bela ĉarma knabino, kiu ŝajne akompanis siajn gepatrojn, singarde
+rigardantajn nur antaŭ siajn piedojn, okaze turnis al mi sian luman
+okulon; ŝi videble ektimis rimarkante mian senombrecon, kaŝis
+sian belan vizaĝon en sia vualo, mallevis la kapon kaj senbrue
+preteriris.
+
+Pli longe mi ne elportis tion. Salecaj torentoj eliĝis el miaj
+okuloj, kaj kun fendita koro mi ŝanceliĝante retiriĝis en la
+mallumon. Mi devis min apogi al la domoj, por firmigi miajn paŝojn,
+kaj malrapide kaj malfrue mi atingis mian loĝejon.
+
+La nokton mi pasigis sendorma. La sekvintan tagon mi tuj ordonis,
+ĉie serĉi la viron en la griza frako. Eble mi sukcesus retrovi
+lin, mi pensis, kaj kiel bonŝance, se li, kiel mi, pentus pri la
+malprudenta interŝanĝo! Mi venigis Bendel, li ŝajnis vigla kaj
+lerta; -- mi precize pentris al li la viron, kiu posedas trezoron,
+mi diris, sen kiu la vivo por mi nur estas turmento. Mi indikis al
+li la tempon, la lokon, kie mi vidis lin, priskribis al li ĉiujn
+ĉeestintojn kaj aldonis ankoraŭ jenan signon: li precipe demandu
+pri Dollond-lorno, pri turka tapiŝo trateksita per oro, pri luksa
+ekskursotendo kaj fine pri nigraj rajdoĉevalviroj, kies historio,
+mi diris, ne precizigante la kielon, estas ligita kun tiu de la
+enigma viro, kiu al ĉiu ŝajnis negrava kaj kies apero detruis la
+trankvilon kaj la feliĉon de mia vivo.
+
+Finparolinte mi alportis ŝarĝaĵon da oro tiom grandan, kian mi
+povis porti, kaj krome almetis gemojn kaj juvelojn de sufiĉe granda
+valoro. „Bendel“, mi diris, „tio malbaras multajn vojojn kaj
+faciligas multon, kio ŝajnis neebla; ne estu avara pri ĝi, kiel
+mi ne estas, sed iru kaj ĝojigu vian mastron per sciigoj, sur kiuj
+estas bazita lia sola espero.“
+
+Li foriris. Malfrue kaj malĝoja li revenis. Neniu el la servistoj
+de sinjoro John, neniu el liaj gastoj -- li parolis kun ĉiuj --
+memoris eĉ nur iomete la viron en la griza vesto. La nova teleskopo
+ĉeestis, kaj neniu sciis, de kie ĝi venis; la tapiŝo kaj la
+tendo estis ankoraŭ sur la sama monteto, la servistoj gloris la
+riĉecon de sia mastro, kaj neniu sciis, de kie li ricevis tiujn
+novajn valoraĵojn. Li mem havis plezuron pri ili, kaj estis al li
+indiferente, ke li ne sciis ilian devenon; la ĉevalojn havis en
+siaj staloj la junaj sinjoroj, kiuj rajdis sur ili, kaj ili alte
+laŭdis la malavarecon de sinjoro John, kiu tiutage donacis al ili
+la ĉevalojn. Jen kiom mi sciiĝis el la detala rakonto de Bendel,
+kies rapidema fervoro kaj prudenta konduto, malgraŭ la foresto de
+sukceso, ricevis mian merititan laŭdon. Malgaja mi faris signon al
+li, ke li lasu min sola.
+
+„Mi raportis“, li denove ekparolis, „al mia sinjoro pri la afero por
+li plej grava. Restas al mi io por transdiri, kion hodiaŭ matene
+komisiis al mi homo, kiun mi renkontis antaŭ la pordo elirante por
+mia afero, en kiu mi tiel malbone sukcesis. La propraj vortoj de tiu
+viro estis: “Diru al sinjoro Petro Schlemihl, ke li ne plu vidos min
+ĉi tie, ĉar mi estas veturonta trans la maron kaj favora vento ĝuste
+vokas min al la haveno. Sed post jara intertempo mi havos la honoron,
+viziti lin kaj tiam proponi al li alian, tiam eble por li akceptindan
+negocon. Prezentu al li miajn plej humilajn komplimentojn kaj certigu
+lin pri mia dankeco“. Mi demandis lin, kiu li estas, sed li diris,
+ke vi bone konas lin.“
+
+„Kiel aspektis la viro?“ mi kriis plena de antaŭsento, kaj
+Bendel priskribis al mi la viron en la griza frako, trajto post
+trajto, vorto post vorto, same kiel li priskribis en sia antaŭa
+rakonto la viron, pri kiu li klopodis informi sin. --
+
+„Malfeliĉulo!“ mi ekkriis, tordante la manojn, „tio ja estis
+li mem!“ Jen li subite malblindiĝis: „Jes, ĝi estis li, vere
+estis!“ li timigite ekkriis, „kaj mi blindigita, stulta ne
+rekonis lin kaj perfidis mian mastron!“
+
+Ploregante li eksplodis per plej maldolĉaj riproĉoj kontraŭ
+si mem, kaj lia malespero devis eĉ al mi sentigi kompaton. Mi
+konsolis lin, certigis al li kelke da fojoj, ke mi ne dubas pri
+lia fidelo, kaj tuj sendis lin al la haveno por, se eble, sekvi
+la postsignojn de tiu stranga viro. Sed en tiu sama mateno multe
+da ŝipoj, kiujn malfavoraj ventoj retenis en la haveno, estis
+ekveturintaj; ĉiuj destinitaj por aliaj regionoj de l’ mondo,
+ĉiuj por aliaj marbordoj, kaj la grizulo estis malaperinta kiel
+ombro, ne lasante postsignon.
+
+
+
+
+III.
+
+
+Kiom utilus flugiloj al tiu, kiu estas firme alforĝita per feraj
+ĉenoj? Li devus malgraŭ ili kaj eĉ pli terure malesperi. Mi
+kuŝis, kiel _Faffner_[20] ĉe sia trezoro, senigite de ĉia
+homa konsolo kaj suferante de malhavo ĉe mia oro; mi jam ne amis
+ĝin, mi ĝin malbenis, ĉar per ĝi mi vidis min izolita de ĉia
+vivo. En mi sola konservante mian malgajan sekreton, mi timis la plej
+malaltan el miaj servistoj, kiun samtempe mi devis envii; ĉar li
+havis ombron, li rajtis sin montri en la sunbrilo. Mi forfunebris en
+miaj ĉambroj la tagojn kaj noktojn, kaj la ĉagreno manĝetis mian
+koron.
+
+Ankoraŭ iu alia antaŭ miaj okuloj konsumiĝis de sufero; mia fidela
+Bendel ne ĉesis sin turmenti per silentaj riproĉoj, ke li trompis
+la fidon de sia bona mastro ne rekonante tiun, kiun serĉi li estis
+komisiita kaj kun kiu li devis konsideri intime ligita mian malgajan
+sorton. Sed mi neniel povis riproĉi lin; mi rekonis en la okazaĵo
+la enigman naturon de la nekonato.
+
+Por preterlasi nenian provon, foje mi sendis Bendel kun multvalora
+brilianta ringo al la plej fama pentristo de la urbo invitigante lin,
+fari al mi viziton. Li venis, mi forigis miajn servistojn, ŝlosis
+la pordon, sidiĝis apud la viro, kaj, glorinte lian arton, mi kun
+premiĝanta koro turnis min al la afero mem; antaŭe mi igis lin
+promesi nepran diskretecon.
+
+„Sinjor’ profesoro“, mi daŭrigis, „ĉu por homo plej malbonŝance
+perdinta sian ombron vi eble povus pentri falsan ombron?“ -- „Vi
+parolas pri ĵetata ombro?“ -- „Certe, tian mi celas.“ -- „Sed“, li
+plue demandis min, „per kia mallertaĵo, per kia malzorgo li do povis
+perdi sian ombron?“ „Kiel tio fariĝis“, mi respondis, „ja eble
+estas tre malgrave; tamen aŭdu, ke en Ruslando“, mi senhonte
+mensogis al li, „kie la pasintan vintron li faris vojaĝon, foje,
+ĉe eksterordinara malvarmo, lia ombro tiom frostofiksiĝis al la
+tero, ke li jam ne povis deigi ĝin.“
+
+„La falsa ĵetata ombro, kiun mi povus pentri al li“, la profesoro
+respondis, „tamen estus nur tia, ke li nepre perdus ĝin per movo eĉ
+plej malgranda, -- precipe se li tiel malmulte estis alligita
+al sia propra ombro, kiel oni povas konkludi laŭ via rakonto mem;
+kiu ne havas ombron, ne iru en sunbrilon, jen l’ aĵo plej prudenta
+kaj plej sendanĝera“. Li leviĝis kaj foriris, ĵetante al mi trapikan
+rigardon, kiun la mia ne povis elporti. Mi refalis en mian seĝon kaj
+kaŝis mian vizaĝon en miaj manoj.
+
+Tian ankoraŭ trovis min Bendel, kiam li eniris. Li vidis la doloron
+de sia mastro kaj volis silente kaj respekte retiriĝi. -- Mi levis
+la rigardon, -- mi subfalis sub la pezo de mia ĉagreno, mi devis
+komuniki ĝin: „Bendel“, mi kriis al li, „vi sola, kiu vidas
+kaj respektas miajn suferojn, kiu ŝajnas ne voli ekkoni ilian
+kaŭzon sed nur silente kaj sindone dividi ilin kun mi, venu al mi,
+Bendel, kaj estu la konfidato de mia koro. La trezoron de mia oro mi
+ne forŝlosis de vi, mi ne volas forŝlosi de vi ankaŭ la fonton de
+mia aflikto. -- Bendel, ne forlasu min. Bendel, vi vidas min riĉa,
+malavara, bonevola; vi opinias, ke la tuta mondo devus glori min, kaj
+vi vidas min evitanta la mondon kaj min forŝlosanta de ĝi. Bendel,
+tiu mondo juĝis, ĝi forpuŝis min, kaj eble eĉ vi deturnos vin
+de mi, sciiĝinte mian teruran sekreton: Bendel, mi estas riĉa,
+malavara, bonevola, sed, -- ho Dio! -- mi ne havas ombron!“ --
+
+„Ne havas ombron?“ terurite ekkriis la bonulo, kaj larmoj tuj
+verŝiĝis el liaj okuloj. -- „Ve al mi, ke mi naskiĝis por servi
+al senombra mastro!“ Li eksilentis kaj mi kaŝis mian vizaĝon en
+miaj manoj!
+
+„Bendel“, mi malfrue kaj tremante aldonis, „nun vi posedas mian
+sekreton, nun vi povas perfidi ĝin. Iru kaj atestu kontraŭ mi.“
+Ŝajnis, ke en lia interno okazas akra batalo; fine li sin teren
+ĵetis antaŭ mi, kaptis mian manon kaj surverŝis ĝin per siaj
+larmoj. „Ve!“ li ekkriis. „Kion ajn opinias la mondo, pro ombro
+mi nek povas, nek volas forlasi mian bonan mastron; mi agos prefere
+honeste ol saĝe: mi restos ĉe vi, pruntos al vi mian ombron, helpos
+al vi, kie mi povos, kaj kie mi ne povos, mi ploros kun vi.“ Mi
+ĵetis min al lia kolo, mirante pro tia nekutimata pensmaniero, ĉar
+mi estis konvinkita, ke ne pro oro li faris tion.
+
+De tiu tempo iom ŝanĝiĝis mia sorto kaj mia vivoaranĝo. Estas ne
+priskribeble, kiel zorgeme Bendel sciis kaŝi mian mankon. Ĉie li
+estis antaŭ mi kaj kun mi, antaŭvidante ĉion, farante preparojn
+kaj, kie ne antaŭvidite minacis danĝero, tuj kovrante min per
+sia ombro; ĉar li estis pli granda kaj pli larĝa ol mi. Tial mi
+kuraĝis ree min montri inter la homoj kaj komencis ludi gravan
+rolon en la mondo. Mi ja devis ŝajne alpreni multe da strangaĵoj
+kaj kapricoj; sed ili bone konvenas al riĉulo. Kaj tiel longe, kiel
+la vero restis kaŝita, mi ĝuis ĉiajn honoron kaj respekton, kiaj
+estis ŝuldataj al mia oro. Pli trankvila mi atendis la viziton de la
+enigma nekonato, promesitan por la tempo post unu jaro.
+
+Mi tre bone sentis, ke mi ne devis resti longe en loko, kie oni
+jam vidis min sen ombro kaj kie mia senombreco do facile povis
+malkaŝiĝi. Krome mi, eble jam nur kiel sola, ankoraŭ pensis pri
+tio, kia mi montris min ĉe sinjoro John, kaj tio estis por mi prema
+memoro. Tial mi volis ĉi tie nur fari provon, por aliloke povi
+pli facile kaj certece konduti; -- sed prezentiĝis io, kio min
+kelkatempe retenis per mia vanteco: jen kie en la homo la ankro plej
+certe enfundiĝas.
+
+La sama bela Fanny, kiun mi refoje renkontis aliloke, montris por
+mi, ne memorante, ke ŝi iam vidis min, iom da intereso; ĉar nun
+mi havis spriton kaj saĝon. Kiam mi parolis, oni aŭskultis, kaj
+mi mem ne sciis, kiel mi akiris la arton, tiel facile konversacii
+kaj direkti la konversacion. -- La impreso, kiun mi kredis estis
+farinta al la belulino, forprenis de mi la prudenton, kiel ĝuste ŝi
+deziris; kaj de nun mi sekvis ŝin kun mil penoj tra la ombro kaj la
+krepusko, kie ajn mi povis. Mi estis vanta sole pri tio, vantigi ŝin
+pri mi; kaj malgraŭ la deziro mi ne povis peli mian ebrion el la
+kapo en la koron.
+
+Sed por kio longe kaj detale ripeti al vi la tute ordinaran aferon?
+-- Vi mem sufiĉe ofte rakontis ĝin al mi pri aliaj honestuloj.
+-- Al la malnova, bone konata ludo, en kiu mi naive prenis sur min
+trivialan rolon, aliĝis, estas vere, speciale verkita katastrofo, ne
+atendite de mi kaj de ŝi kaj de ĉiuj.
+
+Kiam iuvespere laŭ mia kutimo mi estis kuniginta societon en
+ĝardeno, mi promenis brako en brako kun la sinjorino, en ioma
+malproksimo de la aliaj gastoj, kaj klopodis artifiki frazaĵojn.
+Ŝi estis deceme turninta sian rigardon altere kaj dolĉe reciprokis
+la premon de mia mano. Jen neatendite post ni elnubiĝis la luno, --
+kaj ŝi vidis nur _sian_ ombron falanta antaŭ nin. Ŝi forte
+ektremis kaj konsternite rigardis min, poste denove la teron, per
+la okulo serĉante mian ombron; kaj kio okazis en ŝi, tiel strange
+pentriĝis sur ŝiaj mienoj, ke mi estus eminta laŭte ekridi, se mi
+ne mem sentus malvarmajn fluojn sur la dorso.
+
+Mi ellasis ŝin svenantan el mia brako, flugis kvazaŭ sago tra
+la teruritaj gastoj, atingis la pordon, min ĵetis en la unuan
+veturilon, kiun mi tie trovis staranta, kaj reveturis al la urbo,
+kie ĉi-foje je mia malfeliĉo mi lasis la gardeman Bendel. Li
+ektimis vidante min, unu vorto malkaŝis al li ĉion. Tuj oni venigis
+poŝtoĉevalojn. Mi prenis kun mi nur unu el miaj servistoj, ruzegan
+friponon, nomatan _Rascal_[21], kiu estis sciinta necesigi sin
+al mi per sia lerto kaj ne povis eĉ nur supozeti ion pri la hodiaŭa
+okazaĵo. En la sama nokto mi ankoraŭ trapasis tridek mejlojn.
+Bendel postrestis por malaranĝi mian mastraĵon, donaci oron, kaj
+alvenigi l’ aĵon plej necesan. Kiam li atingis min en la sekvinta
+tago, mi ĵetis min inter liajn brakojn kaj ĵuris al li, -- tute ne,
+ke mi ne plu faros malsaĝaĵojn, sed nur, ke estonte mi estos pli
+singarda. Ni sen interrompo daŭrigis nian vojaĝon, trans la limon
+kaj la montaron; ne pli frue ol sur la alia deklivo, disigite jam per
+alta remparo de tiu fatala tero, mi lasis min decidigi, en proksima
+kaj malmulte vizitata banloko ripozi de ĉiuj penoj kaj lacigoj.
+
+
+
+
+IV.
+
+
+En mia rakonto mi devos rapide transpasi tempon, ĉe kiu mi volontege
+pli longe haltus, se mi scius en la memoro elvoki ĝian vivan
+spiriton. Sed la koloro, kiu ĝin vivigis kaj sole povas revivigi,
+estingiĝis en mi, kaj kiam mi volas retrovi en mia brusto la
+sentimentojn, kiuj tiam levis ĝin tiel potence, la dolorojn kaj
+la feliĉon, la piajn iluziojn, -- tiam mi vane batas al roko, kiu
+jam ne donas vivan fonton; la dio forlasis min. Kiel ŝanĝite ĝi
+nun rigardas min, tiu pasinta tempo! -- Tie en la banloko mi estis
+ludonta heroan rolon; sed la prezentado enamiĝas en paron de bluaj
+okuloj. La gepatroj, trompite de la ludo, ĉiamaniere klopodas por
+rapide definitivigi la aferon, kaj la trivialan farson finas mokego.
+Kaj jen ĉio, ĉio! -- Tio ŝajnas al mi senspritaĉa kaj banala, kaj
+samtempe estas terure, ke tia povas ŝajni al mi tio, kio foje metis
+en mian bruston tiel riĉan, grandan senton. _Mina_[22], kiel mi
+iam ploris vin perdante, tiel mi ploras nun, ke mi ankaŭ en mi ne
+povas retrovi vin. Ĉu mi do tiom maljuniĝis? -- Ho mizera racio!
+Nur unu pulsobato de tiu tempo, ankoraŭ nur unu momento de tiu revo.
+-- Sed ne! Soleca mi estas sur la dezerta maro de viaj maldolĉaj
+akvoj, kaj antaŭ longe la ŝaŭmantaĵo elŝprucis el la lasta
+pokalo de ĉampano.
+
+Mi estis antaŭsendinta Bendel kun kelkaj sakoj da oro, por ke li
+aranĝu por mi en la urbeto loĝejon laŭ miaj bezonoj. Tie li
+dissemis multe da mono, kaj iom neprecize parolis pri la eminenta
+fremdulo, al kiu li servas (ĉar mi ne volis, ke li diru mian nomon),
+kaj tio naskis en la bonuloj strangajn pensojn. Tuj kiam mia domo
+estis preta por akcepti min, Bendel revenis por akompani min tien. Ni
+ekvojaĝis.
+
+Proksimume unu mejlon for de la urbo, sur vasta sunluma loko, feste
+ornamita homamaso baris al ni la vojon. La veturilo haltis. Muziko,
+sonorado, kanonpafoj aŭdiĝis, laŭta vivukrio flugis tra la aero,
+-- antaŭ la pordoklapo de la veturilo aperis ĥoro da blanke
+vestitaj junulinoj. Ĉiuj estis eksterordinare belaj, sed kompare
+kun la unu ili malaperis, kiel la steloj de l’ nokto kompare kun
+la suno. Ŝi elpaŝis el la mezo de l’ fratinoj; la alta delikata
+figuro honteme ruĝiĝante ekgenuis antaŭ mi kaj prezentis al mi sur
+silka kuseno kronon plektitan el laŭro, olivobranĉoj kaj rozoj; ŝi
+diris kelke da vortoj malbone preparita kaj novulo sur la scenejo,
+mi dum pri majesteco, respekto kaj amo, kiujn mi ne komprenis, sed
+kies sorĉa arĝentosono ebriigis miajn orelon kaj koron. Ŝajnis al
+mi, ke jam unu fojon preterpasis min tiu ĉiela aperaĵo. La ĥoro
+komencis kaj kantis la laŭdon al bona reĝo kaj la feliĉon de lia
+popolo.
+
+Kaj tiu sceno, kara amiko, okazis meze en la sunbrilo! Ŝi ankoraŭ
+genuis du paŝojn antaŭ mi, kaj mi, senombra, ne povis transsalti
+tiun interspacon, ne miaflanke ĵeti min surgenuen antaŭ tiu
+anĝelo. Ho, kiom mi estus doninta por ombro en tiu momento! Mi
+devis kaŝi mian honton, mian angoron, mian malesperon profunde en
+la fundo de mia veturilo. Bendel fine decidiĝis por mi. Li elsaltis
+de la alia flanko el la veturilo; mi ankoraŭ revokis lin kaj
+donis al li el mia kesteto, ĝuste kuŝanta ĉemane, grandvaloran
+diamantan kronon, kiu iam estis destinita por la bela Fanny. Li
+paŝis antaŭen, kaj, parolante en la nomo de sia mastro, li diris,
+ke mi nek povas, nek volas akcepti tiajn honoraĵojn kaj ke supozeble
+per eraro okazis ĉio ĉi, sed ke tamen mi dankas al la bonaj
+loĝantoj de la urbo pro ilia bona intenco. Dume li prenis la
+prezentatan florkronon de ĝia loko kaj anstataŭis ĝin per la
+brilianta diademo; poste li respekte etendis sian manon al la
+junulino, por relevi ŝin, kaj forigis per gesto la pastraron, la
+magistraton kaj ĉiujn deputitarojn. Neniu plu estis allasata.
+Li ordonis al la homamaso disiĝi kaj cedi lokon al la ĉevaloj,
+resaltis en la veturilon kaj galopege ni forveturis al la urbeto,
+pasante sub triumfarko konstruita el foliaĵo kaj floroj. -- La
+kanonoj ne ĉesis pafi. -- La veturilo haltis antaŭ mia domo; mi
+rapide ensaltis en la pordon, disigante la popolamason allogitan
+de la deziro, vidi min. La popolaĉo vivukriadis sub mia fenestro,
+kaj mi igis pluvi el ĝi duoblajn dukatojn. Vespere la urbo estis
+memvole iluminata. --
+
+Kaj mi ankoraŭ neniel sciis, kion signifas ĉio ĉi kaj por kiu
+mi estas prenata. Mi forsendis Rascal, por ke li informu sin. Oni
+rakontis al li, ke oni ricevis certajn sciigojn, ke la bona reĝo de
+Prusio sub la nomo de grafo vojaĝas tra la lando; ke oni rekonis
+mian adjutanton kaj ke li perfidis sin kaj min; kiel granda fine
+estis la ĝojo, kiam oni estis certa, havi min en la loko mem. Nun,
+estas vere, oni ekkomprenis, ke evidente mi volas gardi nepran
+inkogniton kaj kiom malprave oni agis tiel altrude levante la vualon.
+Sed ke mi tiel favoroplene, tiel indulgeme koleretis, -- ke mi certe
+ne povos ne pardoni al ilia bona koro.
+
+Al mia sentaŭgulo la afero ŝajnis tiel amuza, ke li per punaj
+paroloj kiel eble plej klopodis, provizore plifortigi la kredon de
+tiuj bonaj homoj. Li prezentis al mi tre komikan raporton, kaj,
+vidante min amuzita per ĝi, li regalis min eĉ per la petolaĵoj,
+kiujn li faris. -- Ĉu mi devas konfesi? Esti rigardata kiel la
+respektata estro, flatis min tamen, kvankam tio okazis nur per
+intermikso.
+
+Por la sekvonta vespero mi ordonis prepari feston sub la arboj
+ombrantaj la lokon antaŭ mia domo kaj inviti al ĝi la tutan urbon.
+La mistera forto de mia saketo, la klopodoj de Bendel kaj la aktiva
+elpensemo de Rascal sukcesis, venki eĉ la tempon. Efektive estas
+mirige, kiel lukse kaj bele ĉio aranĝiĝis en tiel malmultaj horoj.
+Kiaj pompo kaj abundo jen naskiĝis! Ankaŭ la ingenia lumilaro estis
+tiel saĝe dislokita, ke mi sentis min tute sendanĝera. Nenio estis
+forgesita, mi nur povis laŭdi miajn servistojn.
+
+La vespero alvenis. La gastoj aperis kaj estis prezentataj al mi.
+Pri la majesteco oni ne plu parolis; sed kun profundaj respekto
+kaj humilo oni min nomis: sinjor’ grafo. Kion fari? Mi toleris
+la grafecon kaj restis de nun graf’ Petro. Meze de la tumulto de
+l’ festo mia animo deziris nur ŝin sole. Malfrue ŝi aperis,
+ŝi, kiu estis la krono kaj ĝin portis. Ŝi deceme sekvis siajn
+gepatrojn kaj ŝajnis ne scii, ke ŝi estas la plej bela. Estis
+prezentataj al mi sinjoro la arbaristo, lia edzino kaj lia filino. Al
+la gepatroj mi sciis diri multe da agrablaj kaj ĝentilaj paroloj;
+sed antaŭ la filino mi staris kvazaŭ riproĉata knabo, ne povante
+eligi eĉ unu vorton. Fine mi balbutante petis ŝin, honori tiun
+feston akceptante en ĝi la rolon, kies signo ŝin ornamas. Honteme
+kun kortuŝa rigardo ŝi petis indulgon; sed antaŭ ŝi pli hontema
+ol ŝi mem, mi kiel unua regato en profunda respekto prezentis al
+ŝi mian omaĝon, kaj la konduto de la grafo fariĝis por ĉiuj
+gastoj modelo kaj ordono, kiujn sekvi ili ĝoje fervoris. Majesteco,
+senkulpo kaj gracio, interligite kun belo, regis ĝojan feston. La
+feliĉaj gepatroj de Mina opiniis altigita sian infanon sole por
+honori ilin; mi mem estis en nedirebla ebrio. Kiujn mi ankoraŭ havis
+el la juveloj siatempe aĉetitaj por liberigi min de embarasa oro,
+ĉiujn perlojn, ĉiujn valorŝtonojn mi ordonis meti en du kovritajn
+pladojn kaj dum la manĝo rondirigi inter ŝiaj kunulinoj kaj ĉiuj
+sinjorinoj en la nomo de la reĝino; dume oro sen interrompo estis
+ĵetata trans la antaŭmetitajn barierojn al la popolo ĝojkrianta.
+
+La sekvintan matenon Bendel konfidencie sciigis al mi, ke la
+suspekto, kiun li jam de longe sentis pri la honesto de Rascal, nun
+certiĝis. Hieraŭ li trompe ŝtelis tutajn sakojn da oro. „Ni
+malenviu al tiu senhava ruzulo la malgrandan akiraĵon; mi volonte
+donacas al ĉiuj, kial ne ankaŭ al li? Hieraŭ li kaj ĉiuj novaj
+servistoj, kiujn vi donis al mi, honeste servis al mi, ili ĝoje
+helpis min, festi ĝojan feston.“
+
+Oni ne plu parolis pri tio. Rascal restis la unua el miaj servistoj.
+Sed Bendel estis mia amiko kaj konfidenciulo. Li kutimiĝis rigardi
+mian riĉecon neelĉerpebla, kaj li ne klopodis koniĝi ĝiajn
+fontojn; kontraŭe li, konformiĝante al miaj intencoj, helpis min en
+la elpensado de okazoj por aperigi ĝin kaj malŝpari oron. Pri tiu
+nekonato, la pala kaŝglitulo, li sciis nur tion: ke sole li povas
+liberigi min de la malbeno sur mi pezanta kaj ke mi timas lin, sur
+kiu estas bazita mia sola espero; krome, ke mi estas konvinkita, ke
+li povos min trovi ĉie kaj mi lin nenie, kaj ke mi tial, atendante
+la fiksitan tagon, ĉesigis la vanan serĉadon.
+
+La lukseco de mia festo kaj mia konduto dum ĝi komence subtenis
+en la kredemaj loĝantoj de la urbo ilian antaŭformitan opinion.
+Sed tre baldaŭ ja laŭ la gazetoj montriĝis, ke la tuta fabela
+vojaĝo de la reĝo de Pruslando estis nura senbaza famo. Sed ia
+reĝo mi tamen estis laŭ ilia opinio kaj do devis resti, eĉ unu
+el la plej riĉaj kaj reĝaj, kiuj ajn ekzistas. Oni nur ne precize
+sciis, kiu reĝo. La mondo neniam havis kaŭzon por plendi pri manko
+de monarkoj, plej malmulte en niaj tagoj; tiuj bonuloj, ankoraŭ ne
+vidintaj iun, kun egala bonŝanco konjektis jen pri tiu jen pri alia.
+-- Graf’ Petro ĉiam restis, kiu li estis en realo.
+
+Foje inter la bangastoj aperis komercisto, kiu bankrotis por riĉigi
+sin; li ĝuis ĝeneralan estimon kaj ĵetis larĝan, kvankam iom
+palan ombron. Ĉi tie li volis parade montri la riĉaĵon de li
+kolektitan, kaj li eĉ ekhavis la ideon, konkuri kun mi. Mi uzis
+mian saketon kaj baldaŭ atingis, ke la kompatindulo devis refoje
+bankroti kaj iri trans la montaron, por savi sian reputacion. Tiel
+mi malembarasis min de li. -- En tiu regiono mi faris multe da
+sentaŭguloj kaj mallaborantoj!
+
+Malgraŭ la reĝaj pompo kaj malŝparado, per kiuj mi subigis al
+mi ĉion, en mia domo mi vivis tre simple kaj retirite. Mi estis
+farinta por mi regulo plej grandan singardemon; neniu alia ol Bendel,
+indiferente sub kiu preteksto, rajtis eniri la ĉambrojn, en kiuj mi
+loĝadis. Tiel longe, kiel brilis la suno, mi tenis min enŝlosita
+kun li en ili, kaj oni diris: la grafo laboras en sia kabineto. Al
+tiuj laboroj rilatis la oftaj kurieroj, kiujn mi sendis kaj ricevis
+pro ĉia bagatelo. -- Nur vespere, inter miaj arboj aŭ en mia
+salono, lerte kaj riĉe lumigita laŭ la disponoj de Bendel, mi
+akceptis societon. Se mi eliris, dum kio Bendel ĉiam devis observi
+min per akrevidaj okuloj, tio okazis nur, por viziti la arbaristan
+ĝardenon, sole pro ŝi; ĉar la plej interna koro de mia vivo estis
+mia amo.
+
+Ho, bona Chamisso, mi esperas, ke vi ankoraŭ ne forgesis, kio estas
+amo! Ĉi tie mi lasas al vi multe por kompletigi. Mina vere estis
+bona, dolĉa infanino, inda de amo. Mi estis kateninta al mi ŝian
+tutan fantazion; en sia humilo ŝi ne sciis, per kio ŝi povis
+meriti, ke mi eĉ nur ĵetis rigardon al ŝi; kaj ŝi donis amon por
+amo per la plena juneca forto de senkulpa koro. Ŝi amis kiel virino,
+oferante sin tutan; memforgese, sinfordone pensante nur pri tiu, kiu
+estis ŝia vivo, senzorge, ĉu ŝi mem pereos: tio estas, ŝi vere
+amis. --
+
+Sed mi --, ho kiel terurajn horojn -- terurajn kaj tamen indajn,
+ke mi deziru ilian revenon -- mi ofte forploris sur la brusto de
+Bendel, kiam mi post la unua senkonscia ebrieco estis rekolektinta
+miajn pensojn kaj akre rigardinta min mem! Mi, kiu senombra, kun
+malica egoismo pereigante ĉi tiun anĝelon, per mensogoj ŝtele
+altiris al mi la puran animon! Jen mi decidis, mem malkaŝi al ŝi
+mian sekreton; jen mi promesis per solenaj ĵuroj, ke mi forŝiros
+min de ŝi kaj forkuros; jen ree mi ekploris kaj interkonsentis kun
+Bendel, kiel vespere mi vizitos ŝin en la arbarista ĝardeno. --
+
+En aliaj tempoj mi mensogis al mi mem pri grandaj esperoj pro la
+proksima vizito de la griza nekonato kaj denove ploris, vane provinte
+kredi al ili. Mi estis elkalkulinta la tagon, en kiu mi atendis
+revidi la teruran; ĉar li estis dirinta: post jara intertempo, kaj
+mi konfidis al lia diro.
+
+La gepatroj estis bonaj respektindaj maljunuloj, kiuj tre amis sian
+solan infanon; la tuta interrilato surprizis ilin jam ekzistante, kaj
+ili ne sciis, kion fari en tio. Ili antaŭe ne estis revintaj, ke
+graf’ Petro povus eĉ nur pensi pri ilia infanino; nun li eĉ amis
+ŝin kaj estis responde amata. -- La patrino ja estis sufiĉe vanta,
+por pensi pri parenciĝo kaj klopodi por ĝia efektivigo; la bona
+natura saĝo de la patro rifuzis tian ekstravagancan ambicion. Ambaŭ
+estis konvinkitaj pri la pureco de mia amo -- ili povis fari nenion
+krom preĝi por sia infanino.
+
+Jen venas en mian manon letero de Mina, skribita en tiu tempo. --
+Jes, tio estas ŝia skribo! Mi volas ĝin kopii por vi:
+
+„Mi estas malforta, sensaĝa knabino; povus imagi, ke mia amato,
+ĉar mi lin arde, arde amas, ne volus kaŭzi doloron al la kompatinda
+knabino. -- Ho, vi estas tiel bona, tiel nedireble bona; sed ne
+komprenu min malĝuste. Vi ne oferu, ne volu oferi al mi ion. Ho Dio!
+mi povus malami min, se vi farus tion. Ne, -- vi igis min senlime
+feliĉa, vi instruis min ami. Daŭrigu vian vojon! -- Mi ja scias
+mian sorton, graf’ Petro ne apartenas al mi, apartenas al la mondo.
+Mi volas esti fiera aŭdante: tio estis li, kaj tio ree li estis, kaj
+tion li plenumis; tie oni adoris lin, kaj tie oni diigis lin. Vidu,
+kiam mi pensas tion, mi koleretas kontraŭ vi, ke ĉe naiva infanino
+vi povas forgesi vian altan destinon. -- Foriru! Alie tiu penso fine
+malfeliĉigos min, kiu per vi estas tiel feliĉa, ho! tiel feliĉega.
+-- Ĉu mi ne ankaŭ plektis olivobranĉon kaj rozoburĝonon en vian
+vivon kiel en la florkronon, kiun mi estis permesata prezenti al vi?
+Mi havas vin en la koro, mia amato, ne timu foriri de mi, -- mortos
+mi, ho! tiel feliĉega, tiel nedireble feliĉega per vi!“ --
+
+Vi povas imagi, kiel tiuj vortoj devis fendi mian koron. Mi diris
+al ŝi, ke mi ne estas tio, por kio oni ŝajnas preni min; ke mi
+nur estas riĉa, sed senlime mizera viro. Ke sur mi pezas malbeno,
+kiu estu la sola sekreto inter ŝi kaj mi, ĉar mi ankoraŭ ne tute
+perdis la esperon, esti liberigata de ĝi. Ke la veneno de miaj tagoj
+estas la timo, ke ŝin mi povus ŝiri kun mi en la abismon; ŝin, kiu
+estas la sola lumo, la sola feliĉo, la sola koro de mia vivo. Poste
+ŝi denove ploris tial, ke mi estas malfeliĉa. Ho, ŝi estis tiel
+amema, tiel bona! Povante ŝparigi al mi nur unu larmon, ŝi -- kun
+kioma feliĉego! -- por pago estus oferinta sin mem tutan.
+
+Sed ŝi tute ne komprenis ĝuste mian diron; ŝi nun supozis min ia
+princo, kiun trafis peza pundecido, ia ekzilita eminentulo, kaj ŝia
+fantazio ne laciĝis pentri al ŝi inter heroaj bildoj belege la
+amaton.
+
+Foje mi diris al ŝi: „Mina, la lasta tago en la venonta monato
+povas ŝanĝi kaj decidi mian sorton; se tio ne okazos, mi devos
+morti, ĉar mi ne volas malfeliĉigi vin.“ -- Ŝi plorante kaŝis
+sian kapon sur mia brusto. „Se via sorto ŝanĝiĝos, lasu min nur
+scii, ke vi estas feliĉa, mi ne havas pretendon pri vi. -- Se vi
+estos mizera, ligu min al via mizero, por ke mi helpu al vi porti
+ĝin.“
+
+„Knabino, knabino, reprenu ĝin, tiun rapidan, tiun malsaĝan
+vorton, kiu forkuris el viaj lipoj! Ĉu vi konas ĝin, tiun mizeron,
+ĉu vi konas ĝin, tiun malbenon? Ĉu vi scias, kiu estas via amato,
+-- kion li --? Ĉu vi ne vidas min konvulsie ektremanta kaj kaŝanta
+de vi sekreton?“ Singultante ŝi falis al miaj piedoj kaj kun ĵuro
+rediris sian peton.
+
+La arbaristo eniris. Mi deklaris al li, ke mi intencas, la unuan de
+la venonta monato peti la manon de lia filino; mi aldonis, ke mi
+fiksas tiun tempon, ĉar ĝis tiam kredeble okazos aferoj, kiuj povus
+havi influon al mia sorto kaj ke neŝanĝebla estas nur mia amo al
+lia filino.
+
+La bonulo preskaŭ ektimis aŭdante tiajn vortojn el la buŝo
+de graf’ Petro. Li ĵetis sin al mia kolo kaj poste kontraŭe
+fariĝis tute hontema pro tio, ke li ne regis sin. Nun li komencis
+dubi, pripensi kaj esplori; li parolis pri doto, pri sekuro por la
+estonteco de sia kara infanino. Mi dankis lin, ke li memorigis min
+pri tio, kaj diris al li, ke mi deziras loksidiĝi kaj senzorge
+vivadi en tiu regiono, kie mi ŝajnas esti amata. Mi petis lin, en
+la nomo de sia filino aĉeti la plej belajn el la bienoj proponataj
+por aĉeto kaj asigni je mi la pagaĵon. Mi aldonis, ke en tio patro
+plej bone povas servi al fianĉo. -- Tiu tasko kaŭzis al li multe
+da klopodo, ĉar ĉie iu fremdulo antaŭiĝis al li; tial li aĉetis
+bienojn nur por proksimume unu miliono.
+
+Ke mi ŝarĝis lin per tiu afero, ĝustedire estis ruzaĵeto por
+forigi lin; kaj mi jam uzis similajn pri li, ĉar mi devas konfesi,
+ke li estis iom embarasa. La bona patrino kontraŭe estis surdeta kaj
+ne, kiel li, ĵaluza pri la honoro, malenuigi sinjoron la grafon per
+konversacio. --
+
+Alvenis la patrino. La gefeliĉuloj insiste petis min, tiun vesperon
+pli longe restadi inter ili; sed mi ne povis resti unu minuton pli:
+mi jam vidis la leviĝantan lunon brileti ĉe la horizonto. -- Mia
+tempo estis forpasinta.
+
+La sekvintan vesperon mi ree iris al la arbarista ĝardeno. Mi
+estis ĵetinta mian mantelon larĝe sur la ŝultrojn kaj estis
+profunde surŝovinta la ĉapelon. Mi aliris al Mina; kiam ŝi levis
+la rigardon kaj vidis min, ŝi faris nevolan movon. Jen ree klare
+prezentiĝis al mia animo la aperaĵo de tiu terura nokto, kiam mi
+en la lunbrilo montris min sen ombro. Ĝi vere estis ŝi. Sed ĉu
+ankaŭ ŝi nun rekonis min? Ŝi estis silenta kaj okupita de pensoj
+-- io pezis sur mia brusto kvazaŭ cent funtoj --, mi leviĝis de mia
+sidloko. Silente plorante ŝi falis al mia brusto. Mi foriris.
+
+De tiam mi kelkfoje trovis ŝin plorantan; fariĝis pli kaj pli
+mallume en mia animo; -- nur la gepatroj naĝis en supermezura
+feliĉego. La fatala tago proksimiĝis, korprema kaj sufoka kiel
+fulmotondra nubo. La antaŭvespero estis veninta -- mi apenaŭ plu
+povis spiri. Antaŭzorgeme mi estis pleniginta kelke da kestoj per
+oro; mi maldormante atendis la dekan horon. -- Ĝi eksonis. --
+
+Nun mi sidadis turnante la okulon al la horloĝo, nombrante la
+sekundojn, la minutojn kvazaŭ ponardopikojn. Ĉe ĉiu ajn bruo mi
+ekskuiĝis; komenciĝis la tago. La plumbe inertaj horoj forpuŝis
+unu la alian; fariĝis tagmezo, vespero, nokto. Ŝoviĝis la
+montriloj -- velkis la espero. Sonis la dekunua, kaj nenio aperis;
+la lastaj minutoj de la lasta horo pasis, kaj nenio aperis; sonis la
+unua bato, la lasta bato de l’ dekdua horo, kaj senespera, dronante
+en larmoj, mi refalis sur mian kuŝejon. Morgaŭ mi estis -- por
+ĉiam senombra -- petonta la manon de la amatino. Angoroplena dormo
+proksimiĝe al la mateno fermis miajn okulojn.
+
+
+
+
+V.
+
+
+Estis ankoraŭ frue, kiam min vekis voĉoj, kiuj en akra disputo
+aŭdiĝis en mia antaŭĉambro. Mi ekaŭskultis. -- Bendel malpermesis
+eniri en mian pordon; Rascal ĵuris kaj reĵuris, ke li ne akceptas
+ordonojn de samspeculo, kaj nepre volis penetri en miajn ĉambrojn.
+La bona Bendel prezentis al li, ke liaj vortoj, se mi aŭdus ilin,
+senigus lin de superaĵa servo. Rascal minacis, ke li metos manon
+sur lin, se li volus ankoraŭ pli longe bari al li la eniron.
+
+Mi estis min duone vestinta; mi kolere kaj abrupte malfermis la
+pordon kaj alĵetis min al Rascal: „Kion vi volas, fripono -- --?“
+Li reiris du paŝojn kaj respondis tute malvarme: „Plej humile peti
+vin, sinjoro grafo, iom vidigi al mi vian ombron, -- la suno ĝuste
+tiel bele brilas sur la korto.“ --
+
+Mi estis kvazaŭ frapita de fulmo. Pasis sufiĉe da tempo ĝis kiam
+mi retrovis la parolkapablon. -- „Kiel servisto povas kontraŭ sia
+mastro --?“ Li tute trankvile interrompis min: „Servisto povas
+esti viro tre honesta kaj ne voli servi senombrulon; mi postulas mian
+forliberigon.“ Mi devis procedi alimaniere: „Sed Rascal, kara
+Rascal, kiu inspiris al vi tiun malfeliĉan ideon? Kiel vi povas
+pensi -- -- --?“ Li samtone daŭrigis: „Iaj homoj pretendas, ke
+vi ne havas ombron -- kaj, mallonge, vi montros al mi vian ombron aŭ
+vi forliberigos min.“
+
+Bendel, pala kaj tremanta, sed havanta pli da spiritĉeesto ol mi,
+faris al mi mansignon: mi turnis min pro helpo al la ĉiokvietiga
+oro. Sed ankaŭ ĝi estis perdinta sian povon; li ĵetis ĝin al
+miaj piedoj: „De senombrulo mi nenion akceptas.“ Li turnis al mi
+la dorson, kaj, kun la ĉapelo sur la kapo kaj fajfante kanteton,
+li malrapide iris el la ĉambro. Mi kaj Bendel postrestis kvazaŭ
+ŝtonigitaj, senpense kaj senmove sekvante lin per niaj rigardoj. --
+
+Kun profunda ĝemeto kaj havante la morton en la koro mi fine
+pretigis min, plenumi mian promeson kaj, kiel krimulo antaŭ siaj
+juĝistoj, aperi en la arbarista ĝardeno. Mi eniris la malhelan
+laŭbon, al kiu ili donis mian nomon kaj kie ili supozeble ankaŭ
+ĉi-foje atendis min. La patrino venis renkonten al mi, serena kaj
+ĝoja. Mina estis sidanta, pala kaj bela kiel la unua neĝo, kiu
+kelkfoje en la aŭtuno kisas la lastajn florojn kaj tuj fluidiĝos
+en maldolĉan akvon. La arbaristo kun abruptaj movoj iradis tien
+kaj reen, tenante skribitan folion en la mano; ŝajnis, ke li
+multon subpremas en si, kio, alternante kun subitaj ruĝo kaj palo,
+pentriĝis sur lia vizaĝo, alitempe ne vidiganta afekciojn. Li
+venis renkonten al mi, kiam mi eniris, kaj postulis per vortoj ofte
+interrompataj, paroli kun mi sola. La vojeto, sur kiun li invitis min
+sekvi al li, kondukis al libera, sunluma parto de la ĝardeno; -- ne
+respondante mi ekokupis sidlokon, kaj okazis longa silentado, kiun
+eĉ la bona patrino ne kuraĝis interrompi.
+
+La arbaristo ankoraŭ ĉiam per neegalaj paŝegoj pasis tien kaj reen
+tra la laŭbo; subite li haltis antaŭ mi, rigardis sur la paperon,
+kiun li tenis, kaj demandis min per ekzamenanta rigardo: „Ĉu
+efektive ia Petro Schlemihl, sinjoro grafo, estus nekonata al vi?“
+Mi silentis. -- „Viro de bonega karaktero kaj apartaj kapabloj
+--“ Li atendis respondon. -- „Kaj se mi mem estus tiu viro?“ --
+„Kiu“, li kolere aldonis, „perdis sian ombron!!“ -- „Ho,
+mia antaŭsento, mia antaŭsento!“ Mina ekkriis, „jes, mi jam de
+longe scias, li ne havas ombron!“ Kaj ŝi falis inter la brakojn
+de la patrino, kiu plena de teruro, spasme alpremante ŝin al si,
+riproĉis ŝin, ke ŝi kaŝis tiel fatalan sekreton en si. Sed ŝi
+estis, kiel Aretuzo, ŝanĝiĝinta en larmofonton, kiu ĉe la sono
+de mia voĉo fluis pli abunde kaj kiu ĉe mia proksimiĝo tumulte
+ekmuĝis.
+
+„Kaj vi ne hezitis“, la arbaristo furioze reekparolis, „kaj vi
+ne hezitis, trompegi ŝin kaj nin; kaj vi pretekstas ami ŝin, kiun
+vi igis tiel mizera? Vidu, kiel ŝi ploras kaj baraktas. Ho, terure!
+terure!“ --
+
+Mi tiom perdis ĉian spiritĉeeston, ke mi kvazaŭ delirante
+ekparolis: Ke lastinstance ombro estas nur ombro, ke ĝi ne estas
+nepre necesa, kaj ke la afero ne valoras la penon, tiom brui pri
+ĝi. Sed mi tiom sentis la nefunditecon de miaj vortoj, ke mi
+ĉesis meminstige, sen tio, ke li estus bonvolinta al mi respondi.
+Mi ankoraŭ aldonis, ke, kion oni iafoje perdis, oni alifoje povas
+retrovi.
+
+Kolere kaj abrupte li alparolis min: „Konfesu al mi, sinjoro,
+konfesu al mi, kiel vi seniĝis de via ombro?“ -- Necesis refoje
+mensogi: „Foje krudulo tiel mallerte enpaŝis en mian ombron, ke
+li faris en ĝi grandan ŝirotruon. Mi nur fordonis ĝin por ripari,
+ĉar oro multe povas. Jam hieraŭ mi estus devinta rericevi ĝin.“
+--
+
+„Bone, sinjoro, tute bone!“ la arbaristo respondis. „Vi svatas
+vin al mia filino, tion faras ankaŭ aliaj; mi kiel patro devas
+zorgi pri ŝi. Mi donas al vi limtempon de tri tagoj, en kiu vi
+havigu al vi ombron. Se dum tri tagoj vi aperos antaŭ mi kun bone
+adaptita ombro, vi estos bonvenanta al mi; sed en la kvara tago --
+tion mi deklaras al vi -- mia filino estos la edzino de aliulo.“
+-- Mi volis ankoraŭ provi, direkti vorton al Mina; sed, pli forte
+singultante, ŝi firme alpremis sin al sia patrino, kaj tiu silente
+donis al mi signon, ke mi foriru. Mi ŝanceliĝe foriris, kaj ŝajnis
+al mi, ke fermiĝas post mi la mondo.
+
+Fortirinte min el la amema prigardo de Bendel mi kurante erarvagis
+tra arbaroj kaj kampoj. Ŝvitaĵo de angoro gutis de mia frunto,
+obtuza ĝemado elpremiĝis el mia brusto, frenezo en mi furiozis. --
+
+Mi ne scias, kiel longe tio daŭris, kiam mi sur sunluma erikejo
+sentis min tirata per mia maniko. -- Mi haltis kaj rigardis posten:
+ĝi estis la viro en la griza vesto, kiu ŝajne perdis la spiron
+kurante post mi. Li tuj ekparolis:
+
+„Mi anoncis min por la hodiaŭa tago; sed vi ne estis sufiĉe
+atendema. Tamen, ĉio ankoraŭ statas bone; vi sekvos mian konsilon
+interŝanĝe reprenante vian ombron, kiu estas sub via dispono, kaj
+tuj reirante. Vi estos bonvenanta en la arbarista ĝardeno, kaj ĉio
+estis nur ŝerco. Pri Rascal, kiu vin perfidis kaj sin svatas al via
+fianĉino, mi zorgos; tiu fripono estas matura por sia puno.“
+
+Mi ankoraŭ staradis kvazaŭ en sonĝo. -- „... anoncis min por la
+hodiaŭa tago?“ -- Mi prikalkulis ankoraŭfoje la tempon. -- Li
+estis prava, mi kalkulante ĉiam eraris je unu tago. Mi serĉis per
+la dekstra mano la saketon sur mia brusto; li divenis mian intencon
+kaj reiris du paŝojn:
+
+„Ne, sinjor’ grafo“, li diris, „tiu estas en tro ĝustaj manoj, tiun
+vi konservu.“ -- Mi demande rigardis lin per okuloj rigidaj de miro;
+li daŭrigis: „Mi petas sole bagatelon kiel memoraĵon: bonvolu nur
+subskribi tiun papereton.“ -- Sur la pergameno legiĝis la vortoj:
+
+„Subskribante mi testamentas al la posedanto de ĉi tiu bileto mian
+animon post ĝia natura disiĝo de mia korpo.“
+
+Muta de miro mi rigardis alterne la skribaĵon kaj la grizan
+nekonaton. -- Li dume per plumo ĵus tranĉita estis kaptinta guton
+da sango, kiu fluis al mi sur la manon el freŝa dorna vundeto, kaj
+prezentis ĝin al mi. --
+
+„Kiu vi do estas?“ mi fine demandis lin. „Ĉu tio estas grava?“ li
+respondis; „kaj ĉu tion oni ne vidas per mia aspekto? Kompatindulo,
+kvazaŭa scienculo-fizikisto, kiun liaj amikoj malbone dankas pro
+lertaj servoj kaj kiu por si mem surtere ne havas alian plezuron ol
+siajn eksperimentetojn. Sed subskribu do, dekstre, tie malsupre:
+Petro Schlemihl.“
+
+Mi skuis la kapon kaj diris: „Pardonu, sinjoro, tion mi ne
+subskribos.“ -- „Ne“, li mire ripetis, „kaj kial ne?“ --
+
+„Ŝajnas al mi kvazaŭ riske, doni mian animon por mia ombro.“ --
+„Jen do“, li respondis, „riske!“ kaj li eksplodis per laŭta
+rido kontraŭ mi. „Se mi rajtas demandi, kia aĵo do tio estas, via
+animo? Ĉu vi iam ajn vidis ĝin, kaj kion vi intencas fari per ĝi,
+kiam vi estos mortinta? Ĝoju do, ke vi trovas por ĝi ŝatanton,
+kiu ankoraŭ dum via vivo volas pagi la postlason de tiu X, de tiu
+galvana forto aŭ polariza aganto -- aŭ kio ajn tiu freneza aĵo
+estas onidire -- per io reala, nome per via efektiva ombro, per kiu
+vi povas ricevi la manon de via amatino kaj atingi la plenumiĝon de
+ĉiuj viaj deziroj. Ĉu vi preferas, la kompatindan junulinon mem
+alpuŝi kaj liveri al tiu malnobla fripono, al tiu Rascal? -- Ne,
+tion vere vi devas rigardi proprokule! Venu, mi pruntos al vi tiun
+nevidebligan ĉapon“ (li tiris ion el la poŝo), „kaj nevidate ni
+vizitos la arbaristan ĝardenon.“ --
+
+Mi devas konfesi, ke mi treege hontis, esti mokridata de tiu viro.
+Mi malamis lin tutkore, kaj mi opinias, ke tiu persona antipatio
+pli ol principoj aŭ antaŭjuĝoj detenis min, aĉeti mian ombron
+per la dezirata subskribo, kiom ajn necesa ĝi estis por mi. Same
+mi ne povis elporti la penson, ke li estos mia akompananto ĉe
+la iro, kiun li proponis al mi. Vidi tiun malbelan kaŝglitulon,
+tiun mokrideman koboldon inter mi kaj mia amatino, inter niaj du
+disŝiritaj kaj sangantaj koroj, -- jen kio ribeligis mian internon.
+Mi konsideris ĉion okazintan kiel neŝanĝeblan kaj mian mizeron
+kiel nedeturneblan; turnante min al tiu viro mi do diris:
+
+„Sinjoro, mi vendis al vi mian ombron por tiu monsaketo, kaj mi
+jam sufiĉe pentis pri tio, kvankam ĝi mem estas tre bona. Se la
+interŝanĝo povus malfariĝi, tiam, per Dio, mi konsentus!“ Li
+skuis la kapon, kaj lia mieno tre malsereniĝis. Mi daŭrigis:
+„Tiam mi ankaŭ ne volas vendi al vi ion alian el mia propraĵo,
+eĉ ne por la proponita prezo de mia ombro, kaj sekve nenion
+subskribos. Laŭ tio oni ankaŭ povas konkludi, ke la maskado, al kiu
+vi invitas min, por vi devus fariĝi multe pli amuza ol por mi. Do
+akceptu miajn senkulpigojn, kaj, ĉar la aferoj statas tiel, -- ni
+disiĝu!“ --
+
+„Mi bedaŭras, sinjoro Schlemihl, ke vi obstine forrifuzas la
+negocon, kiun mi amike proponis al vi. Sed eble mi alian fojon
+pli bone sukcesos. Ĝis baldaŭa revido! -- Jen ja! permesu al mi
+ankoraŭ montri al vi, ke mi neniel lasas difektiĝi la aĵojn, kiujn
+mi aĉetas, sed ke mi zorge gardas ilin.“ --
+
+Li tuj tiris mian ombron el sia poŝo, kaj, per lerta ĵeto
+malfaldante ĝin sur la erikejo, li ĝin etendis sunflanke ĉe siaj
+piedoj. Tiel li iris inter la du ombroj servantaj al li, inter la mia
+kaj la lia; ĉar la mia same devis obei al li kaj sekvi kaj adaptiĝi
+al ĉiuj liaj movoj.
+
+Kiam mi post tiel longa tempo revidis mian kompatindan ombron kaj
+ĝin trovis malaltigita al tia hontinda servo, ĝuste kiam ĝia manko
+metis min en tiel nedireblan mizeron, jen rompiĝis mia koro, kaj mi
+komencis ploregi. La malamato paradis per sia rabaĵo kaj senhonte
+ripetis sian proponon:
+
+„Ankoraŭ vi povas reakiri ĝin: unu plumostreko, kaj vi forsavos
+la malfeliĉan Mina el la ungegoj de tiu fripono en la brakojn de la
+altestimata sinjor’ grafo; -- kiel dirite, nur unu plumostrekon!“
+Miaj larmoj elverŝiĝis kun renovigita forto; sed mi deturnis min
+kaj faris al li mansignon, ke li foriru.
+
+Bendel, kiu plena de maltrankvilo estis laŭirinta miajn postsignojn
+ĝis tie, ĉi-momente alvenis. Trovante min plorantan kaj mian
+ombron -- ĉar ĝi ne povis esti ne rekonata -- sub la potenco de
+la stranga griza nekonato, tiu fidela, sindona homo tuj decidis,
+rehavigi al mi mian propraĵon, se necese eĉ perforte; kaj ĉar
+li mem ne sciis mani tiun delikatan aĵon, li tuj atakis la viron
+per vortoj kaj, sen multaj diskutoj, ordonis al li, senprokraste
+redoni al mi mian propraĵon. Tiu, anstataŭ iel respondi, turnis
+la dorson al la senkulpa bravulo kaj foriris. Sed Bendel eklevis la
+ramnan bastonegon, kiun li portis, kaj, premsekvante lin kaj kelke da
+fojoj ordonante, redoni la ombron, li senindulge sentigis al li la
+plenan forton de sia fortika brako. Kvazaŭ kutimanta tian trakton,
+la alia mallevis la kapon, kurbigis la ŝultrojn, kaj, silente kaj
+trankvile paŝante, li daŭrigis vojiri tra la erikejo, forrabante al
+mi samtempe mian ombron kaj mian fidelan serviston. Longe ankoraŭ
+mi aŭdis la surdan bruon sonanta tra la dezerto, ĝis kiam fine ĝi
+perdiĝis en la malproksimo. Sola mi estis, kiel antaŭe, kun mia
+malfeliĉo.
+
+
+
+
+VI.
+
+
+Postrestinte sur la dezerta erikejo mi lasis liberan kuron al
+abundegaj larmoj; ili malŝarĝis mian kompatindan koron de
+nedirebla, angoriga premo. Sed mi ne vidis limojn de mia supermezura
+mizero, nenian eliron, nenian celon; precipe mi sorbis kun furioza
+soifo la novan venenon, kiun la nekonato verŝis en miajn vundojn.
+Kiam mia imago elvokis la bildon de Mina, kaj la amata dolĉa figuro
+pala kaj larmanta aperis antaŭ mi, kian mi laste vidis ŝin en mia
+malgloro, -- jen aroga kaj mokanta la ombro de Rascal sin ŝovis
+inter ŝin kaj min. Mi kaŝis mian vizaĝon kaj forkuris tra la
+solejo, sed la abomeninda aperaĵo ne ellasis min; ĝi persekutis min
+kurantan, ĝis mi sen spiro falis al la tero kaj malsekigis ĝin per
+nova torento de larmoj.
+
+Kaj ĉio ĉi pro ombro! Kaj tiun ombron plumostreko estus redoninta
+al mi. Mi meditis pri la miriga propono kaj mia rifuzo. Estis en mi
+kaoso, mi ne plu kapablis juĝi kaj koncepti.
+
+La tago pasis; mi kvietigis mian malsaton per sovaĝaj fruktoj, mian
+soifon ĉe la plej proksima monta torento. Alvenis la nokto; mi
+kuŝigis min sub arbo. La malseka mateno vekis min de profunda dormo,
+en kiu mi mem aŭdis min stertoranta kvazaŭ dum agonio. Bendel
+devis esti perdinta mian postsignaron, kaj mi ĝojis pensante tion.
+Mi ne volis reiri inter la homojn, de kiuj mi angore forkuris, kiel
+la timema ĉasbestaro de l’ montoj. Tiel mi pasigis tri tagojn de
+korpremo.
+
+En la mateno de la kvara tago mi troviĝis sur sabla ebenaĵo, sur
+kiun brilis la suno; mi sidis en ĝiaj radioj sur pecego de roko,
+ĉar mi nun ŝatis ĝui ĝian vidon, tiel longe malhavitan. Mi
+silente nutris mian koron per ĝia malespero. Jen ektimigis min
+mallaŭta bruo; preta por forkuri, mi rigardis ĉirkaŭen. Mi vidis
+neniun; sed sur la sunluma sablo preterglitis min homa ombro, simila
+al la mia; vojirante tiel sola, ĝi ŝajnis perdita de sia mastro.
+
+Jen naskiĝis en mi potenca deziro: „Ombro“, mi pensis, „ĉu
+vi serĉas vian mastron? Tian mi volas al vi havigi!“ Kaj mi
+alsaltis, por perforte ekokupi ĝin. Ĉar mi opiniis verŝajna, ke mi
+nur bezonus paŝi en ĝiajn piedlokojn tiel, ke ĝi aliĝu al miaj
+piedoj; ke tiam ĝi fiksiĝos al ili kaj kun la tempo kutimiĝos min.
+
+Mia movo kaŭzis, ke la ombro forkuris de mi, kaj mi devis persekuti
+la malpezan forkuranton. La necesajn fortojn por tiu peniga ĉaso
+povis doni al mi sole la espero, savi min el mia terura situacio. Ĝi
+direktis sian kuron al arbaro, kiu ja ankoraŭ estis malproksima,
+sed en kies ombro mi nepre devis perdi ĝin. Mi vidis tion; ektimo
+kaptis mian koron, ekscitis mian deziron, akcelis mian kuron. Mi
+videble malgrandigis la interspacon, mi pli kaj pli proksimiĝis
+al la ombro, mi nepre devis atingi ĝin. Nun ĝi subite haltis kaj
+returnis sin al mi. Kiel leono sur sian kaptaĵon, mi per fortega
+salto min alĵetis por ekokupi ĝin, -- kaj trafis sur neatenditan
+kaj malmolan kontraŭstaron. De nevidebla brako mi ricevis la plej
+terurajn flankopuŝojn, kiujn, povas esti, iam sentis homo.
+
+La efiko de mia ektimego estis, ke mi konvulsie kunbatis la brakojn
+kaj alpremis al mi tion, kio nevidate staris antaŭ mi. Dum la rapida
+ago mi sterniĝis vizaĝaltere; tiam sub mi kaj ĉirkaŭprenate de mi
+videbliĝis homo, kiu estis falinta surdorsen.
+
+Nun la tuta okazaĵo fariĝis por mi tre nature klarigebla. Tiu
+viro devis esti unue portinta kaj nun forĵetinta la nevideblan
+birdoneston, kiu nevidebligas ankaŭ sian portanton, sed ne lian
+ombron. Mi rigardis ĉirkaŭen kaj tre baldaŭ ekvidis la ombron de
+la nevidebla nesto, salte leviĝis kaj proksimiĝis kaj kaptis la
+multvaloran rabaĵon. Nevidebla, senombra mi tenis la neston en la
+manoj.
+
+La viro rapide elrektiĝis kaj serĉis per la okuloj sian feliĉigitan
+venkinton; sed li ekvidis sur la vasta sunluma ebenaĵo nek lin, nek
+lian ombron, al kiu speciale direktis sin lia maltrankvila atento.
+Ĉar ke mi estas senombra, li antaŭe ne havis tempon por rimarki, kaj
+li ankaŭ ne povis konjekti tion. Konvinkinte sin, ke ĉia postsigno
+malaperis, li malesperege turnis sin kontraŭ sin mem kaj elŝiris
+siajn harojn. Al mi la akirita trezoro donis samtempe la eblon kaj
+la deziron, ree miksi min inter la homojn. Ne mankis al mi pretekstoj
+kontraŭ mi mem, por beligi mian hontindan rabon, aŭ, pli ĝuste, mi
+ne bezonis tion fari; kaj por eviti ĉiun penson de tia speco mi
+forrapidis, ne rigardante returne al la malfeliĉulo, kies angoran
+voĉon mi ankoraŭ longe aŭdis postsonanta al mi. Tiaj almenaŭ la
+cirkonstancoj de l’ okazaĵo ŝajnis al mi tiam.
+
+Mi brulis de deziro, iri al la arbarista ĝardeno kaj mem konstati
+la verecon de tio, kion sciigis al mi tiu malamato. Sed mi ne sciis,
+kie mi estis; mi suriris la plej proksiman monteton por orienti min,
+kaj mi vidis de ĝia supro la proksiman urbeton kaj la arbaristan
+ĝardenon kuŝantaj sub miaj piedoj. -- Mia koro forte batis, kaj
+larmoj de tute alia speco ol la ĝis nun verŝitaj ekplenigis miajn
+okulojn: mi estis revidonta ŝin. -- Maltrankvila sopiro rapidigis
+miajn paŝojn, dum mi malsupreniris laŭ la plej rekta vojo. Mi
+nevidate preterpasis kelke da kamparanoj, venantaj el la urbo. Ili
+parolis pri mi, Rascal kaj la arbaristo; mi nenion volis aŭskulti
+kaj preterrapidis.
+
+Mi eniris en la ĝardenon, kun ĉiuj ekskuiĝoj de l’ atendo en la
+brusto. -- Renkonten al mi sonis io kvazaŭ rido; mi ektremis kaj
+rapide rigardis ĉirkaŭen, sed mi ne povis ekvidi iun. Mi paŝis
+pluen; ŝajnis al mi, ke mi ekaŭdas ĉe mia flanko bruon kvazaŭ
+de paŝanta homo; sed nenio estis videbla: mi pensis, ke min trompis
+mia orelo. Estis ankoraŭ frue; neniu estis en la laŭbo de graf’
+Petro, la ĝardeno ankoraŭ estis malplena. Mi travagis la konatajn
+vojetojn, mi penetris ĝis la loĝodomo. La sama bruo pli aŭdebla
+persekutis min. Kun premata koro mi sidiĝis sur benkon, kiu en
+sunluma spaco staris kontraŭflanke de la dompordo. Ŝajnis al mi, ke
+mi aŭdas la nevidatan koboldon kun mokrido sidiĝanta apud mi. La
+ŝlosilo estis turnata en la pordo, ĝi malfermiĝis; la arbaristo
+eliris kun paperoj en la mano. Mi sentis kvazaŭe nebulon pasanta
+sur mia kapo. Mi rigardis ĉirkaŭen, kaj -- ho teruro! -- la viro
+en la griza frako sidis apud mi, kun satana rideto rigardante al mi.
+-- Li estis tirinta sian nevidebligan ĉapon ankaŭ sur mian kapon,
+kaj ĉe liaj piedoj lia kaj mia ombroj pace kuŝis unu apud la alia;
+en la mano li tenis la konatan pergamenon, senkonsidere ludante per
+ĝi. Dum la arbaristo, okupite per la paperoj, iris tien kaj reen
+en la ombro de la laŭbo, li familiare klinis sin al mia orelo kaj
+flustris al mi la vortojn: „Vi do tamen akceptis mian inviton; jen
+ni, kiel oni diras, du kapoj sub unu ĉapo! -- Nu bone, bone! Sed nun
+redonu al mi mian birdoneston; vi jam ne bezonas ĝin kaj estas tro
+honesta viro, por maljuste reteni ĝin. Kaj nenian dankon pro ĝi;
+mi certigas vin, ke mi ĝin volontege pruntis al vi.“ -- Li decide
+forprenis ĝin el mia mano, enpoŝigis ĝin kaj refoje mokridis min;
+li ridis tiel laŭte, ke la arbaristo levis sian rigardon. -- Mi
+sidis kvazaŭ ŝtoniĝinta.
+
+„Vi ja devas konfesi al mi“, li daŭrigis, „ke tia ĉapo estas
+multe pli oportuna. Ĝi ja kovras ne nur sian portanton, sed samtempe
+ankaŭ lian ombron kaj tiom da aliulaj, kiom li deziras kunpreni.
+Vidu, hodiaŭ mi ree kondukas du kun mi.“ Li ree ridis: „Sciu,
+Schlemihl, kion oni komence ne volas fari meminstige, tion oni fine
+tamen devas fari devigate. Mi pensas, ke vi bone ankoraŭ aĉetus
+ĝin de mi kaj reprenus la fianĉinon; ĉar ankoraŭ estas tempo. Pri
+tiu Rascal ni zorgos, ke li estu pendigata; tio estos por ni facila
+tiel longe, kiel ne mankos ŝnuro. -- Aŭdu, mi aldonas krome mian
+ĉapon.“
+
+La patrino eliris el la domo, kaj la interparolo komenciĝis. --
+„Kion Mina faras?“ -- „Ŝi ploras.“ -- „Malsaĝa infano! nenio ja
+estas ŝanĝebla!“ -- „Certe; sed tiel frue edzinigi ŝin kun aliulo!
+Ho, mia edzo, vi estas kruela kontraŭ via propra infano!“ -- „Ne,
+patrino, tion vi rigardas tute malĝuste. Se ŝi jam antaŭ la ĉeso
+de siaj larmoj, ja infanaj, vidos sin la edzino de tre riĉa kaj
+honorata viro, tiam ŝi konsolite vekiĝos el sia doloro, kvazaŭ el
+sonĝo, kaj dankos Dion kaj nin; vi vidos!“ -- „Volu Dio!“ -- „Ŝi
+nun, estas vere, havas tre konsiderindan posedaĵon; sed post la
+sensacio, kiun kaŭzis la fatala afero kun la aventuristo, ĉu vi
+pensas, ke ŝi baldaŭ trovus alian partion por ŝi tiel konvenan
+kiel sinjoro Rascal? Ĉu vi scias, kiom li posedas, tiu sinjoro
+Rascal? Li havas ĉi tie en la lando bienojn por ses milionoj,
+liberajn de ĉiaj ŝuldoj, kontante pagitajn. Mi havis la dokumentojn
+en la manoj! Estis li, kiu siatempe ĉie foraĉetis al mi la plej
+bonajn bienojn; krome li havas en sia monpaperujo bilojn je la nomo
+Tomo John por proksimume tri milionoj kaj duono.“ -- „Li kredeble
+ŝtelis tre multe.“ -- „Jen, kion vi ree diras? Li gardeme ŝparis,
+kiam aliaj malŝparis.“ -- „Viro, kiu surhavis la livreon!“ --
+„Stultaĵoj! Li ja havas neriproĉeblan ombron.“ -- „Vi estas prava,
+sed -- -- --“
+
+La viro en la griza frako ridis kaj rigardis min. La pordo
+malfermiĝis, kaj Mina eliris. Ŝi apogis sin sur la brako de
+ĉambristino; silentaj larmoj fluis sur ŝiajn belajn palajn vangojn.
+Ŝi eksidis en seĝo, pretigita por ŝi sub la tilioj, kaj ŝia
+patro okupis seĝon flanke de ŝi. Karese li prenis ŝian manon, kaj
+per delikataj vortoj li alparolis ŝin, dum ŝia ploro duobliĝis:
+„Vi estas mia bona, kara infano; vi estos prudenta kaj ne volos
+aflikti vian maljunan patron, kiu deziras nur vian feliĉon. Mi
+bone komprenas, karulino, ke la afero tre emociis vin; vi mirinde
+forsaviĝis de via malfeliĉo! Antaŭ kiam ni malkovris la hontindan
+trompon, vi tre amis tiun neindulon! Vidu, Mina, mi scias tion kaj
+ne riproĉas vin proe. Mi mem, kara infano, ankaŭ amis lin, tiel
+longe, kiel mi rigardis lin granda sinjoro. Sed vi mem komprenas, ke
+nun ĉio aliiĝis. Kio! Ĉiu pudelo ja havas sian ombron, kaj la edzo
+de mia kara infanino -- -- Ne, vi neniel plu pensas pri li; ĉu ne?
+-- Aŭdu, Mina, nun vian manon aspiras viro, kiu ne timas la sunon;
+honorata viro, kiu ja ne estas princo, sed posedas dek milionojn,
+dekoble tiom, kiom vi; viro, kiu feliĉigos mian karan infanon.
+Nenion respondu al mi, ne kontraŭstaru, estu mia bona, obeema
+filino; lasu vian amantan patron zorgi por vi, sekigi viajn larmojn.
+Promesu al mi, doni vian manon al sinjoro Rascal. -- Diru, ĉu vi
+volas tion promesi al mi?“ --
+
+Ŝi respondis per estingita voĉo: „Mi de nun ne plu havas volon,
+nek deziron sur la tero. Fariĝu pri mi, kion volas mia patro.“
+En tiu momento sinjoro Rascal estis anoncata kaj jam aroge eniris
+la rondon. Mina svenis. Mia malamata kunulo kolere rigardis min kaj
+flustris al mi la rapidajn vortojn: „Kaj tion vi povas toleri!
+Kio do fluas anstataŭ sango en viaj vejnoj?“ Per rapida movo li
+gratvundetis mian manon, eliĝis sango, kaj li daŭrigis: „Vere!
+ruĝa sango! -- Do subskribu!“ Mi tenis la pergamenon kaj la plumon
+en miaj manoj.
+
+
+
+
+VII.
+
+
+Mi malkaŝos min al via juĝo, kara Chamisso, kaj ne klopodos korupti
+ĝin. Longe mi mem plenumis severan juĝon kontraŭ mi, nutrante la
+vermon de memturmento en mia koro. Konstante tiu kriza momento de
+mia vivo prezentiĝis al mia animo, kaj nur kun dubema okulo, kun
+humilo kaj pento mi povis rigardi ĝin. -- Kara amiko! Homo, kiu
+nur foje facilanime metas la piedon ekster la rektan vojon, baldaŭ
+estas forkondukata sur aliajn vojojn, kiuj tiras lin malsupren,
+ĉiam malsupren; tiam li vane vidas la gvidstelojn briletantaj sur
+la ĉielo: li ne plu povas elekti, senhalte li devas malsupreniri la
+deklivon kaj sin mem oferi al Nemezo. Post tiu kulpa nepripensitaĵo,
+kiu ŝarĝis min per la malbeno, mi krime entrudiĝis per amo en
+la sorton de alia estulo; kio restis al mi, post kiam mi semis
+ruiniĝon, ol blinde alsalti por helpo tien, kie rapida savo estis
+postulata de mi? Ĉar la lasta horo sonis. -- Ne taksu min tiel
+malalte, mia Adelberto, ke vi pensas, ke iu ajn postulita prezo
+ŝajnis al mi troa, ke pri io ajn, apartenanta al mi, mi pli avaris
+ol pri mia oro. -- Ne, Adelberto; sed mia animo estis plenigita de
+nesuperebla malamo kontraŭ tiu enigma kaŝglitanto sur malrektaj
+vojoj. Mi eble juĝis lin maljuste, sed ĉia kuneco kun li ribeligis
+mian internon. -- Ankaŭ ĉi-foje, kiel jam tiel ofte en mia vivo
+kaj kiel ĝenerale tiel ofte en la historio de l’ homoj, okazaĵo
+anstataŭis agon. Pli poste mi repaciĝis kun mi mem. Unue mi lernis
+respekti la Neceson; kaj kio pli apartenas al ĝi ol la faro farita,
+la okazaĵo okazinta! Krome mi ankaŭ lernis respekti tiun neceson
+kiel saĝan Providencon, kiu estas la animo de tiu tuta granda
+radaro, en kiu ni funkcias nur kiel movataj movantaj radoj; kio devas
+okazi, nepre okazas. Ĉar kio devis fariĝi, tio okazis, kaj ne sen
+la disponoj de tiu providenco, kiun fine ankoraŭ mi lernis respekti
+en mia sorto kaj en la sorto de la estaĵoj kun mi ligitaj.
+
+Mi ne scias, ĉu vidi la kaŭzon en la streĉiteco de mia animo,
+plenigita de tiel potencaj sentoj, ĉu en la konsumiĝo de miaj
+fizikaj fortoj, kiujn dum la lastaj tagoj malfortigis ne kutimita
+malhavado, ĉu fine en la detruanta tumulto, kiun la proksimeco de
+tiu griza monstro naskis en mia tuta naturo; ĉiukaze en la momento
+de subskribado profunda sveno min kaptis, kaj mi kuŝis kelke da
+tempo kvazaŭ en la brakoj de l’ morto.
+
+Piedfrapado kaj malbenado estis la unuaj sonoj, kiuj trafis mian
+orelon, kiam mi rekonsciiĝis. Mi malfermis la okulojn; estis
+malhele, mia malamata akompananto riproĉante klopodis pri mi: „Ĉu
+tio ne estas konduto kiel de maljuna virinaĉo? -- Oni ekregu sin kaj
+vigle plenumu, kion oni decidis! Aŭ ĉu oni ŝanĝis sian intencon
+kaj preferas plorgrimaci?“ -- Mi pene levis min de la tero, kie mi
+kuŝis, kaj silente rigardis ĉirkaŭen. Estis malfrua vespero. El
+la hele lumigita arbaristejo sonis festa muziko, unuopaj grupoj de
+homoj promenis tra la vojoj de la ĝardeno. Kelkaj konversaciantoj
+alproksimiĝis kaj okupis lokon sur la benko, kie mi pli antaŭe
+estis sidinta. Ili interparolis pri la edziĝo de la riĉa sinjoro
+Rascal kun la filino de l’ gastiganto, kiu okazis en la mateno. --
+La afero do fariĝis. --
+
+Mi forŝovis de mia kapo la nevidebligan ĉapon de la nekonato,
+kiu tuj malaperis por mi, kaj, dronigante min en la plej profunda
+mallumo de l’ arbetaĵoj kaj pasante la laŭbon de graf’ Petro, mi
+silente rapidis al la elirejo de l’ ĝardeno. Sed nevidebla akompanis
+min mia turmentanto kaj persekutis min per akraj vortoj: „Jen do la
+danko pro la peno, kiun oni prenis flegante vian nervo-malfortan
+moŝton dum la tuta tago. Kaj oni estu la mistifikito en la ludo.
+Bone, sinjor’ obstinulo; forkuru nur de mi, ni tamen estas
+nedisigeblaj. Vi havas mian oron kaj mi havas vian ombron; tio nin
+ambaŭ ne lasas trankvilaj. -- Ĉu oni iam aŭdis, ke ombro forlasis
+sian mastron? La via min tiradas post vi, ĝis kiam vi reakceptis ĝin
+en vian favoron kaj mi seniĝis de ĝi. Kion vi preterlasis, fari laŭ
+volonta meminstigo, tion vi, nur tro malfrue, devos postfari pro
+tedo kaj enuo; oni ne evitas sian sorton.“ En la sama tono li
+konstante daŭrigis. Vane mi fugis; li ne ĉesis, kaj ĉiam ĉeestante
+li moke parolis pri oro kaj ombro. Propra penso ne estis ebla al mi.
+
+Tra senhomaj stratoj mi estis direktiĝinta al mia domo. Kiam mi
+staris antaŭ ĝi kaj ĝin rigardis, mi apenaŭ povis rekoni ĝin:
+Post la enrompitaj fenestroj nenia lumo brulis; la pordoj estis
+fermitaj, nenia servisto plu moviĝis en la interno. Mia akompananto
+laŭte ekridis: „Jes, jes, tiel okazas! Sed vian Bendel vi kredeble
+trovos en la domo; antaŭzorge oni lin lastadate sendis hejmen tiel
+lacigitan, ke li kredeble ankoraŭ ne forlasis ĝin! -- Nu, por
+hodiaŭ bonan nokton! Ĝis baldaŭa revido!“
+
+Mi estis plurfoje sonoriginta; lumo aperis. Bendel de interne
+demandis, kiu sonorigis. Kiam la bonulo rekonis mian voĉon, li
+apenaŭ povis bridi sian ĝojon; la pordo rapidege malfermiĝis,
+plorante ni falis unu inter la brakojn de l’ alia. Mi trovis lin
+tre ŝanĝita, malforta kaj malsana; koncerne min, miaj haroj tute
+griziĝis.
+
+Li kondukis min tra la dezertiĝintaj ĉambroj al interna, domaĝita
+salono. Li alportis ion por manĝi kaj trinki, ni sidiĝis, li ree
+ekploris. Li rakontis al mi, ke li lastadate tiel longe batante
+persekutis la grize vestitan malgrasulon, kiun li renkontis kun mia
+ombro, ke li perdis mian postsignaron kaj falis teren pro laco; fine,
+kiam li ne povis retrovi min, li reiris hejmen, kie baldaŭ poste,
+laŭ instigo de Rascal, alkuris la popolaĉo, enrompis la fenestrojn
+kaj satigis sian detruemon. Tiel ili agis kontraŭ sia bonfarinto.
+Mia servistaro estis forkurinta ĉiuflanken. La loka polico ekzilis
+min kiel suspektindan el la urbo, kaj fiksis al mi limtempon de dudek
+kvar horoj, por forlasi ĝian teritorion. Al tio, kion mi sciis pri
+la riĉeco kaj la edziĝo de Rascal, li povis aldoni ankoraŭ multe.
+Tiu malbonulo, kiu kaŭzis ĉion, kio ĉi tie trafis min, devis de la
+komenco esti koninta mian sekreton. Ŝajnis, ke li nur altirite de la
+oro alŝovis sin al mi kaj ke li jam en la unua tempo sciis havigi al
+si ŝlosilon por tiu ŝranko, metante fundamenton de tiuj riĉaĵoj,
+kiujn ankoraŭ pliigi li nun povis rezigni.
+
+Ĉion ĉi Bendel rakontis al mi ofte eksplodante per larmoj, kaj
+poste li denove ploris pro ĝojo, revidi min, ree havi min ĉe
+si, kaj, post longa dubado, al kiaj ekstremoj la malfeliĉo eble
+kondukis min, vidi min trankvile kaj rezignacie elportanta ĝin. Ĉar
+tian formon nun estis alpreninta en mi la malespero. Mi vidis mian
+mizeron antaŭ mi grandegan, neŝanĝeblan; mi estis elĉerpinta
+miajn larmojn pro ĝi, ĝi jam ne povis elpremi kriojn el mia brusto,
+malvarme kaj indiferente mi prezentis al ĝi mian nudigitan kapon.
+
+„Bendel“, mi ekparolis, „vi scias mian sorton. Ne sen antaŭa
+kulpo nun trafis min tia peza puno. Vi, senkulpa viro, ne pli longe
+ligu vian sorton al la mia; mi ne volas tion. Ankoraŭ dum la nokto
+mi forrajdos; selu al mi ĉevalon. Mi rajdos sola; vi restos, mi
+volas tion. Devas ĉi tie kuŝi ankoraŭ kelke da kestoj kun oro;
+konservu ilin. Mi, sola, migrados tra la mondo; sed se iam ajn mi
+ree pasigos serenan horon kaj la feliĉo ŝajnas returni al mi sian
+favoron, tiam mi fidele pensos pri vi, ĉar sur via fidela brusto mi
+ploris en penoplenaj, doloraj horoj.“
+
+Kun rompita koro kaj premate de teruro la honestulo devis obei al
+tiu lasta ordono de sia mastro; mi estis surda por liaj petoj kaj
+rezonoj, blinda por liaj larmoj. Li alkondukis al mi la ĉevalon. Mi
+premis la ploranton ankoraŭ unu fojon al mia brusto, sursaltis la
+selon, kaj, kaŝite de la nokto, mi malproksimiĝis de la tombo de
+mia vivo, senzorge, sur kiun vojon kondukos min mia ĉevalo; ĉar
+de nun mi havis sur la tero nenian celon, nenian deziron, nenian
+esperon.
+
+
+
+
+VIII.
+
+
+Baldaŭ aliĝis al mi piediranto. Paŝinte dum kelka tempo apud mia
+ĉevalo li petis de mi la permeson, ĉar ni ja iras la saman vojon,
+meti mantelon, kiun li portis, malantaŭe sur mian ĉevalon; mi lasis
+fari tion ne respondante. Li dankis min kun plaĉa ĝentileco pro tiu
+facila servo, laŭdis mian ĉevalon kaj uzis tiun okazon, por glori
+la feliĉon kaj la potencon de la riĉuloj, komencante, mi ne scias
+kiel, specon de monologo, ĉe kiu mi estis nur lia aŭskultanto.
+
+Li disvolvis siajn ideojn pri la vivo kaj la mondo, kaj li tre
+baldaŭ sin turnis al la metafiziko, kiu devis eltrovi la vorton
+solvantan ĉiujn enigmojn. Kun multe da klareco li elmontris la
+problemon kaj komencis respondi la demandon.
+
+Vi scias, amiko mia, ke, pasinte tra la lernejo de l’ filozofoj,
+mi klare ekkonis mian netaŭgecon por filozofia spekulado kaj ke mi
+decidis, plene eviti tiun kampon. De tiam mi lasis multajn aĵojn
+tiaj, kiaj ili estis, rezignante scii kaj kompreni ilin; kiel vi mem
+konsilis al mi, mi sekvis laŭ povo, fidante mian naturan saĝon,
+la voĉon en mi sur propra vojo. Nun tiu elokventulo ŝajnis al mi
+kun multe da talento starigi solidan konstruaĵon, kiu altiĝis
+bazite sur si mem kaj tenis sin kvazaŭ per iu interna neceso. Nur
+mi tute ne trovis en ĝi tion, kion ĝuste mi volus serĉi en ĝi,
+kaj tiel ĝi fariĝis por mi nura artaĵo, kies elegantaj unuaĵeco
+kaj perfekteco plezurigis sole la okulojn; sed mi volonte aŭskultis
+la elokventan viron, kiu forturnis mian atenton de mia sufero al si
+mem, kaj mi volonte estus fordoninta min al liaj rezonoj, se li estus
+okupinta mian animon same, kiel mian intelekton.
+
+Dume la tempo pasis, kaj nerimarkate la matena krepusko jam estis
+ekheliginta la ĉielon. Mi ektimis, kiam mi subite levis la rigardon
+kaj vidis en la oriento glore aperi la kolorojn anoncantajn la
+proksimiĝon de la suno. Kontraŭ ĝi en tiu horo, kiam la ombroj
+de l’ korpoj paradas per sia tuta amplekso, nenia ŝirmo, nenia
+remparo estis videbla en tiu nekovrita regiono! Kaj mi ne estis sola!
+Mi ĵetis rigardon al mia akompananto kaj denove ektimis: estis la
+viro en la griza frako.
+
+Li ridetis pri mia konsterno, kaj, ne lasante min ekparoli, li
+daŭrigis: „Lasu nian reciprokan intereson, kiel ja estas kutimo
+en la mondo, por kelke da tempo kunligi nin; por disiĝi ni ĉiam
+ankoraŭ havos tempon. Ĉi tiu vojo laŭiranta la montaron ja estas
+la sola, kiun vi povas sekvi prudente. Vi ankoraŭ ne pensis pri
+tio; sed malsupren en la valon vi ne povas iri, kaj reiri trans la
+montaron vi kredeble ankoraŭ malpli volas. Kaj ĉi tiu vojo ĝuste
+estas ankaŭ la mia. -- Mi pruntos al vi vian ombron por la tempo
+de nia kunesto, kaj vi kompense toleros min en via proksimo; vi
+ja ankaŭ ne plu havas ĉe vi vian Bendel; mi faros al vi bonajn
+servojn. Vi ne amas min, tion mi bedaŭras. Malgraŭ tio vi povos uzi
+min. La diablo ne estas tiel nigra, kiel oni pentras lin. Hieraŭ
+vi kolerigis min, estas vere; sed mi ne volas hodiaŭ konservi
+kontraŭ vi resenton pro tio, kaj vi devas konfesi mem, ke mi jam
+mallongigis al vi la vojon ĝis ĉi tie. -- Nur iom prove reakceptu
+vian ombron.“
+
+La suno estis leviĝinta, sur la vojo homoj venis renkonten al ni;
+mi akceptis la proponon, kvankam kun interna malinklino. Ridetante
+li glitigis mian ombron al la tero; tuj ĝi ekokupis sian lokon
+sur la ombro de la ĉevalo kaj gaje trotadis ĉe mia flanko. Mi
+havis tre strangan senton. Mi preterrajdis aron da kampuloj, kiuj
+respekte kun nudigita kapo cedis lokon al la bonhava viro. Mi rajdis
+pluen; avidokule kaj oblikve mi rigardis, kun batanta koro, de sur
+mia ĉevalo al tiu ombro, kiu antaŭe estis la mia kaj kiun nun mi
+pruntis de fremdulo, eĉ de malamiko.
+
+Koncerne tiun, li senzorge paŝadis ĉe mia flanko kaj ĝuste fajfis
+kantaĵeton. Li estis piediranta, mi havis ĉevalon sub mi: kapturno
+kaptis min, la tento estis tro granda. Subite mi turnis la bridon,
+alpremis ambaŭ spronojn, kaj galopege eniris flankan vojon. Sed mi
+ne sukcesis kuntreni la ombron; ĉe la turniĝo ĝi deglitis de la
+ĉevalo kaj atendis sur la landvojo sian rajtan posedanton. Hontante
+mi devis returni mian ĉevalon. Kiam la viro en la griza frako estis
+trankvile fininta sian kantaĵeton, li mokridis min, reĝustigis al
+mi la ombron kaj instruis min, ke ĝi ne pli frue volos resti fiksita
+al mi, ol kiam mi ree posedos ĝin kiel rajtan propraĵon. „Mi
+tenas vin“, li daŭrigis, „per via ombro, kaj vi ne fortiros vin
+de mi. Riĉulo kiel vi ja bezonas ombron; tio ne estas ŝanĝebla,
+kaj vi estas riproĉinda nur pro tio, ke vi ne pli frue komprenis
+ĝin.“
+
+Mi daŭrigis mian vojaĝon laŭ la sama vojo. Revenis al mi ĉiuj
+oportunaĵoj de l’ vivo, kaj eĉ belo kaj lukso min ree ĉirkaŭis.
+Mi povis libere kaj sen ĝeno movi min, ĉar mi posedis, kvankam
+nur prunte, ĵetatan ombron; ĉie mi sentigis la respekton, kiun
+ordonas la riĉeco. Sed mi havis la morton en la koro. Mia miriga
+akompananto, kiu sin mem konsiderigis la plej neinda servisto de la
+plej riĉa homo en la mondo, estis eksterorde servema, senlime lerta,
+vera idealo de ĉambristo por riĉa viro; sed li neniam forlasis min
+kaj senĉese parolis al mi, ĉiam montrante plej grandan fidon, ke mi
+fine, eĉ nur por liberigi min de li, faros la negocon pri la ombro.
+-- Li kaŭzis al mi same grandan embarason kiel malamon. Mi povis
+vere timi lin. Mi estis min iginta dependa de li; li min tenis en sia
+mano, rekondukinte min en la belegon de la mondo de mi fugita. Mi
+devis toleri lian elokventon kaj preskaŭ sentis, ke li estas prava.
+Riĉulo en la mondo devas havi ombron, kaj se mi volis konservi la
+pozicion, kiun reokupi li delogis min, nur unu eliro estis videbla.
+Sed mi firme decidis, oferinte mian amon, estinginte la brilon de mia
+vivo, ne kontrakti eĉ por ĉiuj ombroj en la mondo mian animon al
+tiu homaĉo. Mi ne sciis, kiel tio finiĝos.
+
+Foje ni sidis antaŭ kaverno, kiun la fremduloj vojaĝantaj tra
+la montaro kutimas viziti. Tie oni aŭdas la muĝadon de subteraj
+riveregoj suprensonanta el senmezura profundo, kaj nenia fundo
+ŝajnas haltigi la bruantan faladon de ŝtono enĵetita. Kun abunda
+fantazio kaj magia brilo de koloroj li, kiel ofte, pentris al mi
+zorge detalitajn bildojn de tio, kion dank’ al mia saketo mi
+plenumos en la mondo, se nur mi ree estus la mastro de mia ombro.
+Apoginte la kubutojn surgenue kaj kaŝinte mian vizaĝon en miaj
+manoj mi aŭskultis la hipokritulon, kaj mia koro estis dividita
+inter la tento kaj mia firma volo. Tian internan malakordon mi ne
+povis pli longe elteni; mi komencis la decidan batalon:
+
+„Vi ŝajnas forgesi, sinjoro, ke permesante al vi, iakondiĉe resti
+en mia akompano, mi tamen rezervis al mi plenan liberecon.“ --
+„Se vi ordonas tion, mi enpakos kaj foriĝos.“ Tiu minaco estis
+al li malfremda. Mi silentis; li tuj komencis kunruli mian ombron. Mi
+paliĝis, sed mi senparole lasis fari tion. Okazis longa silentado.
+Li la unua ekparolis: „Vi ne ŝatas min, sinjoro, vi malamas min,
+mi scias; sed kial vi malamas min? Ĉu eble tial, ke vi atakis min
+sur publika vojo kaj volis perforte rabi mian birdoneston? Aŭ ĉu
+tial, ke vi provis, kiel fripono, ŝteli mian propraĵon, la ombron,
+kiun vi opiniis konfidita al via nura honesto? Koncerne min, mi
+ne malamas vin pro tio; mi trovas tute natura, ke vi klopodas uzi
+ĉiujn viajn sukcesilojn, ruzon kaj perforton. Ke, aparte de tio,
+vi havas plej severajn principojn kaj pensas kiel la personigita
+honesto, tio estas persona prefero, kontraŭ kiu mi ankaŭ nenion
+diras. -- _Miaj_ principoj efektive ne estas tiel severaj kiel
+la viaj; mi nur agas, kiel vi pensas. Aŭ ĉu mi eble iam premis la
+dikfingron sur vian gorĝon, por ekposedi vian ŝatatan animon, kiun
+malgraŭ ĉio mi deziras? Ĉu mi persekutigis vin per servisto, por
+rericevi mian interŝanĝe donitan monsaketon? Ĉu mi provis forfugi
+kun ĝi?“ Mi nenion havis por respondi al tio; li daŭrigis: „Nu
+bone, sinjoro, bone! Vi ne ŝatas min; ankaŭ tion mi bone komprenas
+kaj ne koleras al vi pro tio. Ni devas disiĝi, tio estas klara;
+ankaŭ vi komencas tre enuigi min. Do, por definitive liberigi vin
+de mia plua embarasa ĉeesto, mi ankoraŭ unu fojon konsilas al vi:
+reaĉetu de mi la objekton!“ -- Mi prezentis al li la saketon:
+„Por tiu prezo.“ -- „Ne.“ -- Mi profunde ekĝemetis kaj reprenis la
+parolon: „Do ne. Sed mi insistas, sinjoro, ni disiĝu; ne pli longe
+baru al mi la vojon en mondo, kiu espereble estas sufiĉe vasta por
+ni ambaŭ.“ Li ridetis kaj respondis: „Mi foriros, sinjoro; sed
+antaŭe mi volas vin informi, kiel vi povos sonorigi al via tre
+humila servisto, se vi iam ajn dezirus tion: Vi bezonas nur skui
+vian saketon, ke la eternaj ormoneroj tintu en ĝi; tiu sono tuj
+altiras min. Ĉiu zorgas pri sia intereso en ĉi tiu mondo; vi vidas,
+ke mi samtempe zorgas pri la via, ĉar mi evidente malkaŝas al
+vi novan povon! Ho tiu saketo! Kaj eĉ se la tineoj jam estus
+formanĝintaj vian ombron, ĝi ankoraŭ estus forta ligilo inter ni.
+Do, vi tenas min per mia oro; ankaŭ de malproksime disponu pri via
+servisto. Vi scias, ke mi povas fari sufiĉe bonajn servojn al miaj
+amikoj kaj ke la riĉuloj havas speciale bonajn interrilatojn kun mi;
+vi mem tion vidis. Vian ombron tamen, sinjoro -- ne forgesu tion --
+vi rericevos nur sub unu sola kondiĉo.“
+
+Figuroj de l’ pasinta tempo prezentiĝis al mia animo. Rapide mi
+demandis lin: „Ĉu vi havas subskribaĵon de sinjoro John?“ --
+Li ridetis: „Ĉe tiel bona amiko mi tute ne bezonis tion.“ --
+„Kie li estas? Per Dio, mi volas scii!“ Hezitante li metis la
+manon en la poŝon, kaj, eltirate el ĝi per la haroj, aperis la
+pala, defigurita vizaĝo de Tomo John, kaj la bluaj lipoj de l’
+kadavro elformis la pezajn vortojn: „_Justo judicio Dei judicatus
+sum; justo judicio Dei condemnatus sum_[23].“ Teruro min kaptis,
+kaj, rapide ĵetante la sonantan saketon en la abismon, mi diris al
+la grizulo la lastajn vortojn: „Mi alĵuras vin en la nomo de Dio,
+terura! foriĝu kaj neniam plu montru vin antaŭ miaj okuloj!“ Li
+leviĝis malserena kaj malaperis post la rokoj, kiuj ĉirkaŭis tiun
+sovaĝan lokon.
+
+
+
+
+IX.
+
+
+Nun mi do estis senombra kaj senmona; sed peza ŝarĝaĵo estis
+forprenita de mia brusto, mi ree estis serena. Se mi ne estus
+perdinta ankaŭ mian amatinon aŭ se almenaŭ mi ne estus sentinta
+min riproĉebla pri ŝia perdo, -- mi opinias, ke mi povintus esti
+feliĉa. -- Sed mi ne sciis, kion fari nun. Mi traserĉis miajn
+poŝojn kaj ankoraŭ trovis en ili kelke da ormoneroj; mi nombris
+ilin kaj ekridis. Mi lasis mian ĉevalon malsupre en la gastejo; mi
+hontis, reiri tien. Almenaŭ mi devis ĝisatendi la subiron de la
+suno; kaj tiu estis ankoraŭ alte sur la ĉielo. Mi kuŝiĝis en la
+ombro de la plej proksimaj arboj kaj trankvile ekdormis.
+
+Ĉarmaj bildoj en aereca danco interplektis sin al plaĉa sonĝo.
+Mina, kun florkrono sur la haroj, preterglitis kaj afable alridetis
+min. Ankaŭ la honesta Bendel estis kronita per floroj kaj pasis
+kun afabla saluto. Multajn aliajn, kaj ŝajnas al mi, ankaŭ vin,
+Chamisso, mi ankoraŭ vidis malproksime en la amaso. Hela lumo
+brilis, sed neniu havis ombron; kaj, pli strange, tio ne malbele
+impresis. Nur floroj kaj kantoj, amo kaj ĝojo, sub palmoboskoj.
+-- Mi povis nek reteni, nek klare distingi tiujn forbloviĝemajn,
+ĉarmajn figurojn; sed mi scias, ke mi volonte sonĝis tian sonĝon
+kaj ke mi volis eviti la vekiĝon; mi vere jam maldormis kaj ankoraŭ
+tenis fermitaj la okulojn, por pli longe konservi en mia animo la
+foriĝantajn aperaĵojn.
+
+Fine mi malfermis la okulojn. La suno ankoraŭ estis sur la ĉielo,
+sed en la oriento; mi estis preterdorminta la nokton. Mi prenis
+tion kiel signon, ke mi ne reiru al la gastejo. Sen bedaŭro mi
+forlasis kiel perditan, kion mi ankoraŭ posedis tie, kaj decidis
+piedire sekvi flankan straton pasantan tra la multarba bazo de l’
+montaro. Mi lasis al la sorto, plenumi, kion ĝi intencis pri mi.
+Mi ne rigardis malantaŭen kaj ankaŭ ne konsideris la eblon, min
+turni al Bendel, lasita kiel riĉulo. Mi pririgardis min rilate al
+la nova rolo, kiun mi estis ludonta en la mondo: Mia vesto estis
+tre modesta. Mi surhavis malnovan nigran kurtkon[3], kiun mi jam
+portis en Berlino kaj kiu, mi ne scias kiel, nur por tiu vojaĝo
+ree trafis sub mian manon. Sur la kapo mi havis vojaĝoĉapon kaj
+sur la piedoj paron da malnovaj botoj. Mi leviĝis, tranĉis al mi
+ankoraŭ nodbastonon kiel memoraĵon kaj tuj ekiris. En la arbaro mi
+renkontis maljunan kampulon, kiu afable salutis min kaj kun kiu mi
+komencis interparoli. Mi demandis, kiel sciema vojaĝanto, unue pri
+la vojo, poste pri la regiono kaj ĝiaj loĝantoj, la produktaĵoj de
+l’ montaro kaj simile plu. Li prudente kaj paroleme respondis al
+miaj demandoj. Ni venis al la lito de torento, kiu estis renversinta
+larĝan strion de la arbaro. Mi interne sentis frostotremon ekvidante
+tiun sunbrilan spacon; mi lasis antaŭiri la kampulon. Sed meze de
+la danĝera loko li haltis kaj turnis sin al mi, por rakonti al mi
+la historion de tiu detruo. Li baldaŭ rimarkis mian mankon kaj
+interrompis sian rakonton: „Sed kiel do tio fariĝas, sinjoro,
+vi ja ne havas ombron!“ -- „Bedaŭrinde! bedaŭrinde!“ mi ĝemetante
+respondis. „Dum longa, grava malsano mi perdis la harojn, la ungojn
+kaj la ombron. Vidu, patro, la haroj, kiujn mi rericevis, estas tute
+blankaj -- en mia aĝo! --, la ungoj estas tre mallongaj, kaj
+la ombro, tiu ankoraŭ ne volas rekreski.“ -- „Ej! ej!“ la
+maljunulo kapskuante respondis, „nenia ombro, tio estas malbona!
+tio estis vere grava malsano, kiun havis la sinjoro.“ Sed li jam ne
+daŭrigis sian rakonton, kaj ĉe la plej proksima transversa vojo, kiu
+sin prezentis, li senparole forlasis min. -- Maldolĉaj larmoj
+denove tremis sur miaj vangoj, kaj mia sereno estis for.
+
+Kun malĝoja koro mi daŭrigis mian vojon, kaj ne plu serĉis ies
+societon. Mi restis en la plej malhela parto de l’ arbaro kaj devis
+kelkafoje, por pasi sunbrilan strion, atendi horojn, ĝis nenies
+okulo malpermesis al mi la transiron. Vespere mi klopodis trovi
+pasloĝejon en la vilaĝoj. La celo de mia irado estis minejo en la
+arbaro, kie mi esperis ricevi laboron sub la tero; ĉar flanke de
+tio, ke mia nuna situacio ordonis al mi, mem zorgi pri mia vivoteno,
+mi bone ekkonis, ke sole streĉa laboro min povos ŝirmi de miaj
+detruaj pensoj.
+
+Kelke da pluvotagoj tre akcelis mian iradon, sed por la kosto de
+miaj botoj, kies plandoj estis faritaj por graf’ Petro kaj ne por
+la piediristo. Mi jam iris sur malkovritaj piedoj. Mi devis aĉeti
+paron da novaj botoj. En la sekvinta mateno mi serioze okupis min pri
+tiu afero en vilaĝo, kie estis kermeso kaj kie en butiko vendiĝis
+malnovaj kaj novaj botoj. Mi longe elektis kaj marĉandis. Mi devis
+rezigni paron da novaj, kiujn mi estus dezirinta; la prezo estis
+tro malmodera. Mi do kontentiĝis per malnovaj, kiuj ankoraŭ estis
+bonaj kaj fortaj. La bela blondbukla knabo, kiu tenis la butikon,
+transdonis ilin al mi interŝanĝe por mia mono, dezirante al mi kun
+afabla rideto feliĉon por la vojo. Mi tuj surmetis ilin kaj eliris
+el la loko tra la norda pordo.
+
+Mi estis tre absorbita de miaj pensoj kaj apenaŭ vidis, kien mi
+metis la piedojn; ĉar mi pensis pri la minejo, kie mi esperis
+alveni jam vespere, kaj pri la maniero, prezenti min tie. Mi
+ankoraŭ ne iris ducent paŝojn, kiam mi rimarkis, ke mi perdis
+mian vojon. Mi rigardis ĉirkaŭen, por retrovi ĝin: mi staris
+en sovaĝa, malnovega abiaro, kiun ŝajne ankoraŭ neniam trafis
+hakilo. Mi penetris pluen ankoraŭ kelke da paŝoj: mi vidis min
+meze de dezertaj rokoj, surkreskitaj nur de saksifragoj kaj musko,
+inter kiuj kuŝis kampoj de neĝo kaj glacio. La aero estis tre
+malvarma. Mi rigardis returne: la arbaro estis malaperinta post
+mi. Mi faris ankoraŭ kelke da paŝoj: la silento de l’ morto
+ĉirkaŭis min. Sen limoj etendiĝis la glacio, sur kiu mi staris,
+kaj densa nebulo pezis sur ĝi; la suno vidiĝis sanga ĉe la
+bordo de l’ horizonto. La malvarmo estis neelportebla. Mi ne
+sciis, kio okazis al mi. La rigidiga frosto devigis min akceli
+miajn paŝojn. Mi aŭdis nur la muĝadon de malproksimaj akvoj.
+Ankoraŭ unu paŝo, kaj mi estis ĉe la glacia bordo de oceano.
+Ĉe mia vido sennombraj fokaroj sin ĵetis tumulte en la maron. Mi
+laŭiris tiun bordon: mi ree vidis nudajn rokojn, teron, betularojn
+kaj abiarojn. Mi kuris ankoraŭ kelke da minutoj rekte antaŭen:
+estis sufoka varmego. Mi rigardis ĉirkaŭen: mi staris inter belaj
+rizokampoj sub morusarboj. Mi sidiĝis en ilia ombro kaj rigardis
+mian horloĝon: pasis apenaŭ kvaronhoro, de kiam mi forlasis la
+foiron en la vilaĝo. Mi kredis sonĝi kaj mordis mian langon, por
+veki min; sed mi reale maldormis. Mi fermis la okulojn, por kolekti
+miajn pensojn. Jen mi aŭdis antaŭ mi skandi strangajn silabojn tra
+la nazo. Mi levis la rigardon: du ĉinoj, nepre rekoneblaj per sia
+azia fizionomio, se mi eĉ ne fidus al iliaj vestoj, kun laŭlandaj
+salutoj alparolis min en sia lingvo. Mi leviĝis kaj reeniris kelke
+da paŝoj: mi ne plu vidis ilin. La pejzaĝo estis tute ŝanĝita;
+arboj, arbaroj anstataŭis la rizokampojn. Mi rigardis tiujn arbojn
+kaj la herbojn, kiuj floris ĉirkaŭ mi: kelkajn mi konis, ili estis
+kreskaĵoj de l’ sudorienta Azio. Mi volis proksimiĝi al unu el
+tiuj arboj: unu paŝo, kaj ree ĉio estis ŝanĝita. Mi nun ekiris
+kiel rekruto ekzercata, malrapide, mezurante la paŝojn. Landoj kun
+admirinda varieco, kampoj, herbejoj, montaroj, stepoj, sablodezertoj
+malvolviĝis antaŭ mia mireganta rigardo. Dubo ne estis ebla: mi
+havis sepmejlobotojn[24] sur la piedoj.
+
+
+
+
+X.
+
+
+En muta piemo mi falis surgenuen kaj verŝis larmojn de danko. Ĉar
+subite mia estonteco klare prezentiĝis al mia animo. Pro frua kulpo
+ekzilite el la homa socio, mi kompense estis alkondukata al la
+naturo, kiun mi ĉiam amis; la tero estis donata al mi kiel riĉa
+ĝardeno, la studo kiel direktanta forto de mia vivo, kaj ĝia celo
+fariĝis la scienco. Tio ne estis decido, kiun mi alprenis. Mi nur
+klopodis de tiam, kun silenta, severa, ne ĉesanta diligento fidele
+realigi tiun idealon, kiu hele vidiĝis al mia interna okulo; kaj mia
+memkontento dependis de mia alproksimiĝo al tiu modelo. --
+
+Mi energie leviĝis, por senhezite per rapida ĉirkaŭen-rigardo
+preni posedon de la kampo, kie mi volis de nun rikolti. Mi staris sur
+la altaĵoj de Tibeto, kaj la suno, kiun antaŭ malmulte da horoj mi
+vidis leviĝi, ĉi tie jam klinis sin subironte. Mi reatingis ĝin
+en ĝia irado, tramigrante Azion de oriente al okcidente. Mi eniris
+Afrikon, kaj, scivole rigardante, mi trapasis ĝin kelkfoje laŭ
+ĉiuj direktoj. Admirante en Egiptio la malnovajn piramidojn kaj
+templojn mi ekvidis en la dezerto, proksime de la centpordega Tebo,
+la kavernojn, kie loĝis la kristanaj ermitoj. Subite naskiĝis en
+mi la decida kaj klara penso: tie estos mia loksidejo. Mi elektis
+kiel estontan loĝejon unu el la plej kaŝitaj kavernoj, kiu estis
+samtempe vasta, oportuna kaj ne alirebla por ŝakaloj; poste mi
+daŭrigis mian migradon.
+
+Ĉe la Kolonoj de Herkulo mi transpaŝis al Eŭropo. Rigardinte
+ĝiajn sudajn kaj nordajn provincojn, mi pasis de Nord-Azio trans la
+polusan glaciejon al Grenlando kaj Ameriko. Mi travagis la du partojn
+de tiu kontinento, kaj la vintro, kiu jam regis en la sudo, rapide
+repelis min de la Horna terkapo norden.
+
+Mi haltis, ĝis kiam tagiĝis en la orienta Azio, kaj nur post ioma
+ripozo daŭrigis mian vagadon. Mi sekvis tra ambaŭ Amerikoj la
+montaran ĉenon, kiu enhavas la plej altajn konatajn elstaraĵojn de
+nia globo. Malrapide kaj singarde mi paŝis de supro al supro, jen
+trans flamantajn vulkanojn, jen trans neĝokovritajn kupolojn, ofte
+havante penon spiri. Mi atingis la Elian monton kaj saltis trans la
+Beringan markolon al Azio. Mi sekvis ties orientan bordon en ĝia
+serpentumado kaj esploris kun speciala atento, kiuj el la insuloj
+tie kuŝantaj estas alireblaj por mi. De la duoninsulo Malako miaj
+botoj portis min sur la insulojn Sumatro, Javo, _Bali_ kaj
+_Lombok_. Mi provis, ofte eĉ kun danĝero kaj tamen ĉiam vane,
+malbari al mi -- trans la malpli grandajn insulojn kaj rokojn, de
+kiuj tiu maro estas plenplena -- transiron nordokcidenten al Borneo
+kaj al aliaj insuloj de tiu arkipelago. Mi devis forlasi tiun
+esperon. Mi fine sidiĝis sur la plej ekstrema pinto de Lombok, kaj,
+turninte la vizaĝon al sude kaj oriente, mi ploris kvazaŭ antaŭ la
+firme ŝlosita krado de mia malliberejo, ke mi tiel baldaŭ renkontis
+mian ĉirkaŭlimon. La kurioza Nov-Holando, tiel necesega por la
+kompreno pri la tero kaj ĝia vesto teksita de l’ suno, pri la
+plantaro kaj bestaro, estis fermita por mi, same kiel la Suda maro
+kun siaj zoofitaj insuloj.
+
+Kaj tiel jam de la origino ĉio, kion mi estis kolektonta kaj
+kreonta, estis kondamnita, resti nura fragmento. -- Ho mia Adelberto,
+kio estas la klopodoj de l’ homoj!
+
+Ofte, dum la plej severa vintro de Sud-Ameriko, mi provis iri de la
+Horna terpinto trans la polusan glaciejon orienten tiujn eble ducent
+paŝojn, kiuj disigis min de _Diemen_-lando kaj Nov-Holando. Mi
+eĉ ne zorgis pri la reveno kaj ĉu tiu malbona lando eble fermiĝos
+super mi, kiel la kovrilo de mia ĉerko; kun freneza riskemo mi
+malespere faris paŝojn trans flosumantan glacion, mi spitis la
+malvarmon kaj la maron. Vane: mi ankoraŭ ne estis sur Nov-Holando.
+Post tiaj provoj de transiro mi ĉiufoje revenis al Lombok, sidiĝis
+sur ĝia plej ekstrema pinto kaj ree ploris, turninte la vizaĝon al
+sude kaj oriente, kvazaŭ antaŭ la firme ŝlosita kiel krado de mia
+ĉerko. --
+
+Fine mi forŝiris min de tiu loko kaj reiris kun malĝoja koro en la
+internan Azion. Mi plue travagis ĝin, sekvante la matenan krepuskon
+al okcidente, kaj ankoraŭ en la nokto mi alvenis en Tebio, ĉe mia
+loĝejo elektita en la antaŭa posttagmezo.
+
+Tuj kiam mi estis iom ripozinta kaj estis tago tra Eŭropo, mia
+unua zorgo estis, havigi al mi ĉion bezonatan. Unue mi bezonis
+haltigoŝuojn; ĉar mi estis spertinta, kiel malagrable estas, nur
+per demeto de la botoj povi mallongigi siajn paŝojn, por oportune
+ekzameni proksimajn objektojn. Paro da pantofloj metitaj sur la
+botojn tute efikis tiel, kiel mi esperis; pli poste mi ĉiam portis
+kun mi eĉ du parojn, ĉar mi sufiĉe ofte forĵetis la unuan paron
+de la piedoj, ne havante tempon por ilin relevi, kiam leonoj, homoj
+aŭ hienoj ektimigis min ĉe miaj botanikaj esploroj. Mia tre
+bona horloĝo estis por la mallonga daŭro de miaj iroj taŭgega
+kronometro. Krome mi ankoraŭ bezonis sekstanton, kelkajn fizikajn
+instrumentojn kaj librojn.
+
+Por ĉion ĉi alporti mi faris kelke da angorigaj vizitoj al Londono
+kaj Parizo, kiujn ĝuste ombris nebulo por mi favora. Kiam la
+restaĵo de mia sorĉa oro estis konsumita, mi alportis kiel pagaĵon
+afrikan eburon, facile troveblan; ĉe tio, estas vere, mi devis
+elekti la plej malgrandajn dentojn, por ke ilia pezo ne superu miajn
+fortojn. Baldaŭ mi estis provizita per ĉio kaj tuj komencis mian
+novan vivmanieron de privata sciencisto.
+
+Mi travagadis la teron, mezurante jen ĝiajn altaĵojn, jen la
+temperaturon de ĝiaj fontoj kaj tiun de la aero, jen observante
+bestojn aŭ esplorante kreskaĵojn. Mi rapidis de la ekvatoro al
+la poluso, de unu kontinento al la alia, komparante spertojn kun
+spertoj. La ovoj de la afrikaj strutoj aŭ de la nordaj marbirdoj
+kune kun fruktoj, precipe de la tropikaj palmoj kaj bananujoj, estis
+mia plej ordinara nutraĵo. Por mankanta feliĉo mi havis kiel
+surogaton la nikotianojn kaj por la homaj simpatio kaj kunuleco la
+fidelan amon de pudelo. Tiu gardis mian kavernon en Tebio kaj ĝoje
+alsaltis, kiam mi, ŝarĝite de novaj riĉaĵoj, revenis al li, tiel
+li almenaŭ siaparte sentigis min, ke mi ne estas sola sur la tero.
+Sed ankoraŭ aventuro estis rekondukonta min inter la homojn.
+
+
+
+
+XI.
+
+
+Kiam foje, kun haltigitaj botoj, mi kolektis likenojn kaj algojn
+sur la bordoj de Nordlando, subite blanka urso el post roko venis
+renkonten al mi. Mi volis, forĵetinte la pantoflojn, surpaŝi
+insulon kontraŭflanke lokitan, al kiu nuda roko, intere elstaranta
+el la ondoj, ebligis la transiron. La unu piedon mi firme metis sur
+la rokon, sed sur la alia flanko mi falegis en la maron: la alia
+pantoflo nerimarkite restis sur la piedo.
+
+La granda malvarmo kaptis min; mi havis penon savi mian vivon de tiu
+danĝero. Tuj kiam mi ree havis teron sub mi, mi kuris kiel eble plej
+rapide al la Libia dezerto, por tie sekigi min en la sunbrilo. Sed
+kiam mi estis elmetita al ĝi, ĝi tiel brule trafis sur mian kapon,
+ke mi tre malsana denove ŝanceliris norden. Mi klopodis havigi al
+mi per forta moviĝado faciligon kaj kuris per nefirmaj, rapidaj
+paŝoj de okcidente al oriente kaj de oriente al okcidente. Jen mi
+troviĝis en la tago, jen en la nokto, jen en la somero kaj jen en
+vintra malvarmo.
+
+Mi ne scias, kiel longe mi tiel ŝanceliradis sur la tero. Brula
+febro ardis tra miaj vejnoj; kun granda angoro mi sentis, ke mi
+perdas la konscion. Malfeliĉe ankoraŭ okazis, ke mi dum tiu
+nesingarda kurado surpaŝis ies piedojn. Mi eble kaŭzis al li
+doloron; mi ricevis fortan puŝon kaj ekfalis. --
+
+Kiam mi rekonsciiĝis, mi trankvile kuŝis en bona lito, kiu staris
+inter multe da aliaj litoj en vasta kaj bela ĉambrego. Iu sidis ĉe
+la kapoparto de mia lito; homoj iris tra la ĉambrego de unu lito
+al la alia. Ili venis antaŭ la mian kaj interparolis pri mi. Sed
+ili nomis min „numero dekdu“. Kaj tamen sur la muro ja nigra
+marmora tabulo tute certe montris en grandaj oraj literoj mian ĝuste
+skribitan nomon
+
+PETRO SCHLEMIHL.
+
+Tio ne estis iluzio, mi povis klare legi la nomon. Sub ĝi troviĝis
+ankoraŭ du vicoj da literoj sur la tabulo; sed mi estis tro
+malforta, por deĉifri ilin. Mi refermis la okulojn. --
+
+Mi aŭdis laŭte kaj kompreneble legi ion, en kio estis parolo pri
+Petro Schlemihl; sed mi ne povis koncepti la sencon. Mi vidis afablan
+viron kaj tre belan virinon nigre vestitan aperantaj antaŭ mia lito.
+Ili ne ŝajnis fremdaj al mi, sed mi ne povis rekoni ilin.
+
+Pasis kelke da tempo, kaj mi refortiĝis. Mi estis nomata „numero
+dekdu“, kaj „numero dekdu“ pro sia longa barbo estis konsiderata
+kiel judo; sed pro tio li ne estis malpli zorge flegata. Ke li
+ne havas ombron, oni ŝajne ne estis rimarkinta. Miaj botoj, oni
+certigis min, kun ĉio, kion oni trovis sur mi ĉe mia akcepto en
+la domon, estis bone kaj sekure konservitaj, por esti redonataj al mi
+post mia resaniĝo. La loko, en kiu mi kuŝis malsana, havis la nomon
+SCHLEMIHLIUM[25]. Kio ĉiutage estis legata pri Petro Schlemihl,
+estis admono, preĝi por li, la bonfara fondinto de tiu establaĵo.
+La afabla viro, kiun mi estis vidinta ĉe mia lito, estis Bendel; la
+bela virino estis Mina.
+
+Mi, ne rekonite, saniĝis en la Schlemihlium kaj eksciis ankoraŭ pli
+multe: Mi estis en la patrourbo de Bendel. Tie li estis fondinta sub
+mia nomo, per la restaĵo de mia oro, kiu ne alportis alian benon,
+tiun hospicon, kie malfeliĉuloj benis min; kaj li mem ĝin direktis.
+Mina estis vidvino; malsukcesa kriminala proceso estis kostinta
+al sinjoro Rascal la vivon kaj al ŝi mem la plejparton de ŝia
+posedaĵo. Ŝiaj gepatroj ne plu ekzistis. Ŝi vivis ĉi tie kiel
+diotima vidvino kaj plenumis farojn de kompatemo.
+
+Foje ŝi interparolis ĉe la lito de „numero dekdu“ kun sinjoro
+Bendel. „Kial, nobla sinjorino“, li demandis, „vi volas tiel
+ofte elmeti vin al la danĝera aero ĉi tie reganta? Ĉu do la
+sorto estus tiel malmilda kontraŭ vi, ke vi dezirus morti?“ --
+„Ne, sinjoro Bendel, de kiam mi finsonĝis mian longan sonĝon
+kaj vekiĝis de mia interna dormo, mi bone fartas; de tiam mi ne plu
+deziras, nek timas la morton. De tiam mi serene pensas pri la pasinta
+kaj la estonta tempoj. Ĉu ne ankaŭ vi sentas silentan internan
+feliĉon, nun servante al via sinjoro kaj amiko en maniero tiel
+dioplaĉa?“ -- „Jes, nobla sinjorino, dankon al Dio! Mirinde ja
+okazis al ni. Multe da ĝojo kaj da maldolĉa aflikto ni senkonsidere
+sorbis el la plena kaliko. Nun ĝi estas malplena; nun oni povus
+opinii, ke ĉio ĉi estis nur provo kaj ke nun necesas, saĝigite
+atendi la veran teatraĵon. Sed malsama estas la vera teatraĵo, kaj
+oni ne deziras la revenon de la unua iluzio; kaj tamen oni entute
+ĝojas, ke oni ĝin vivis, kia ĝi estis. Kaj mi ankaŭ akiris la
+fidon, ke nia malnova amiko nun trovas sin pli bone ol tiam.“ --
+„Ankaŭ mi tion pensas“, la bela vidvino respondis, kaj ili
+preteriris min.
+
+Tiu interparolo estis profunde impresinta min; sed mi ŝanceliĝis,
+ĉu rekonigi min aŭ ĉu nerekonite foriri. -- Mi decidiĝis. Mi
+donigis al mi paperon kaj krajonon kaj skribis la vortojn:
+
+„Ankaŭ via malnova amiko nun trovas sin pli bone ol tiam; kaj, se
+li elpagas sian kulpon, ĝi estas elpago repaciga.“
+
+Post tio mi diris, ke mi volus vesti min, ĉar mi sentas min pli
+forta. Oni alportis la ŝlosilon de la malgranda ŝranko, kiu staris
+apud mia lito. Enestis ĉio, kio apartenis al mi. Mi surmetis miajn
+vestojn, pendigis super mia nigra kurtko la botanikan skatolon,
+en kiu mi ĝojante retrovis miajn likenojn de l’ nordo, kaj
+surpiedigis la botojn. Poste mi metis la skribitan papereton sur mian
+liton, kaj tuj, kiam malfermiĝis la pordo, mi jam estis malproksime,
+sur la vojo al Tebio.
+
+Kiam mi sekvis laŭlonge de la siria bordo la vojon, sur kiu mi
+foriris la lastan fojon de hejme, mi vidis mian kompatindan Figaron
+veni renkonten al mi. La bonega pudelo ŝajne volis sekvi laŭ la
+postsignoj sian mastron, kiun kredeble li longe atendis hejme. Mi
+haltis kaj kriis al li. Bojante li alsaltis al mi kun mil kortuŝaj
+elmontroj de sia naiva, senbrida ĝojo. Mi prenis lin sub la brakon,
+ĉar kompreneble li ne povis sekvi min, kaj reportis lin kun mi
+hejmen.
+
+Tie mi trovis ĉion en la sama ordo, kaj laŭ la mezuro, kiel mi
+rericevis fortojn, mi iom post iom revenis al miaj antaŭaj okupoj
+kaj al mia malnova vivmaniero. Sole mi evitis dum tuta jaro la
+polusan malvarmon, kiun mia korpo tute ne povis elporti. --
+
+Kaj tiel, mia kara Chamisso, mi vivas ankoraŭ hodiaŭ. Miaj botoj
+ne eluziĝas, kion komence igis timi min la tre sciencoplena verko
+de la fama _Tieckius: De rebus gestis Pollicilli_[26]. Ili perdas
+neniom de sia povo. Sole mia forto konsumiĝas. Sed mi havas la
+konsolon, ke mi uzis ĝin, ne senfrukte, por sekvi nevarian celon.
+Ĝis kie atingis miaj botoj, mi pli funde, ol antaŭ mi iu ajn homo,
+koniĝis la teron, ĝian formon, ĝiajn altaĵojn, ĝian temperaturon,
+ĝian ŝanĝiĝantan atmosferon, la fenomenojn de ĝia magneta forto kaj
+la vivon sur ĝi, precipe en la plantaro. La faktojn mi elmontris,
+kun kiel eble plej granda precizo kaj laŭ klara ordo, en pluraj
+verkoj; miajn konkludojn kaj opiniojn mi skize notis en kelke da
+traktaĵoj. Mi fiksis la geografion de la interno de Afriko kaj de la
+arktaj landoj, de la interno de Azio kaj de ĝiaj orientaj marbordoj.
+Mia _Historio de la plantoj de ambaŭ mondoj_ reprezentas grandan
+fragmenton de la universala plantaro de l’ tero kaj eron de mia
+sistemo de l’ naturo. Mi opinias, ke en ĝi mi ne nur pliigis la
+nombron de la konataj specoj per almenaŭ pli ol triono, sed ke
+mi ankaŭ alportis kontribuaĵon por la natura sistemo kaj por la
+geografio de l’ plantoj. Mi nun diligente laboras pri mia bestaro.
+Mi zorgos, ke antaŭ mia morto miaj manuskriptoj estu deponataj ĉe
+la berlina universitato.
+
+Kaj vin, mia kara Chamisso, mi elektis kiel konservonton de mia
+mirinda historio, por ke ĝi eble post mia foriro de la tero povu
+servi al iuj el ĝiaj loĝantoj kiel utila instruo. Kaj vi, amiko
+mia, se vi volas vivi inter la homoj, lernu unue respekti la ombron,
+kaj poste la oron. Se vi volas vivi nur por vi kaj por la pli bona
+parto en vi, tiam vi ne bezonas konsilon.
+
+
+
+
+Notoj
+
+(ekster 2 kaj 17 devenantaj de la tradukinto)
+
+
+[1] Pron. _Julius_ (–́⏑⏑) _Eduard_ (–́⏑⏑) _Hicig_ (⏑́⏑): berlina
+verkisto, amiko kaj biografo de Chamisso.
+
+[2] Pron. _Ŝlemil_ (––́). _Schlemihl_, aŭ pli bone _Schlemiel_,
+estas hebrea nomo kaj signifas _Teofilo_ aŭ _Amata de Dio_. En la
+popola lingvo de l’ judoj tio estas la nomo de mallertaj kaj
+malbonŝancaj homoj, kiuj sukcesas pri nenio en la mondo. Tia
+Schlemihl rompas sian fingron en la veŝta poŝo, li falas sur la
+dorson, rompas sian nazan oston, li ĉiam venas malĝustatempe.
+Schlemihl, kies nomo fariĝis proverba, estas persono, pri kiu la
+Talmudo rakontas jenan okazaĵon: Li havis interrilatojn kun la
+edzino de rabeno, lasas sin kapti ĉe tio kaj estas mortigata. La
+komento elmontras la malbonŝancon de tiu Schlemihl, kiu devas tiel
+alte elpagi, kion ĉiu alia faras sen puno. (_Chamisso_)
+
+[3] _kurtko_ [FGR], radiko enkondukita de la tradukinto: pola
+militista tuniko, F _kurtke_ aŭ _kurtka_, G _Kurtka_.
+
+[4] Barono _de la Motte-Fouqué_, pron. _de_ (⏑) _la_ (⏑) _Mot-Fuke_
+(⏑́––́): germana poeto, amiko de Chamisso, aŭtoro de _Ondino_ (trad.
+_Myslik_).
+
+[5] Pron. _Kunersdorf_ (–́⏑⏑).
+
+[6] Pron. _Leopold_ (–́⏑⏑): germana formo de _Leopoldo_.
+
+[7] Pron. _Nenhaŭzen_ (⏑–́⏑).
+
+
+[8] Pron. _Gelertes Berlin_ (⏑–́⏑⏑–́): „_Instruita Berlino_“, gazeto
+eldonita de Hitzig.
+
+[9] Pron. _Krukŝenk_ (⏑́⏑): angla karikaturisto kaj kuprogravuristo.
+
+[10] Pron. _Hofman_ (⏑́–): romantika verkisto-komponisto; detala
+artikolo pri li troviĝas en la libro _La Vendreda Klubo_ (_Ferdinand
+Hirt & Sohn, Leipzig 1921_).
+
+[11] Pron. _Burgŝtrase_ (⏑́–⏑): „_Fortikkastela strato_“.
+
+[12] La dua eldono havis alaĵon de poemoj.
+
+[13] Tiun poemon Chamisso antaŭmetis al la tria eldono.
+
+[14] Pron. _Jon_ (–) aŭ, angle, _Ĝon_ (⏑).
+
+[15] Pron. _Fani_ (⏑́–), mallongiga formo de _Franciskino_.
+
+[16] Pron. _Dolend_ (⏑́⏑): anglo, kiu en 1757 konstrukciis la unuan
+lornon.
+
+[17] Diversaj, troviĝantaj en la buŝo de ĉiu vartistino, valoraĵoj
+kaj talismanoj de niaj popolrakontoj. -- La _kreviga radiko_
+malfermas ĉiun pordon kaj disbatas ĉiun seruron. La nigra pego
+(_Picus martius_) ĝin konas. Li konstruas sian neston en kavaj
+arboj, kaj oni devas ŝtopi la aperturon, post kiam la birdo
+elflugis. Li alportos la radikon, por malfermi sian neston; oni
+devas kapti lin, por ĝin havigi al si. -- La rakontoj pri la
+_mandragoro_ estas tre diferencaj. Estas tre malfacile, havigi
+ĝin al si; ĝi donas specialan kapablon, akiri trezorojn. --
+_Naskemaj moneroj_ estas kupraj moneroj, kiuj ĉiufoje, kiam oni
+turnas ilin, demetas ormoneron. -- _Rabtalero_ estas talero, kiu
+ĉiam revenas al sia mastro kunportante la monerojn survoje tuŝitajn.
+-- La _telertuko_ estas tablotuko, kiu kovras sin per ĉiuj manĝaĵoj
+dezirataj. -- La _pendigila gnomo_ estas enbotela diablo faranta,
+kion oni volas, kaj donanta, kion oni postulas. Oni aĉetas lin por
+mono, sed oni povas siavice vendi ĝin nur por prezo malpli granda,
+ol oni mem donis. Lia rajto estas, kiel propraĵon kunpreni la lastan
+posedanton, kiu jam ne povas liberigi sin de li, ĉar la prezo
+fariĝis tro malalta. (_Chamisso_)
+
+[18] _La Magia Ringo_ (_Der Zauberring_): verko de _Fouqué_ (v. 4).
+
+[19] Pron. _Bendel_ (⏑́⏑): la nomo de la servosoldato de _Chamisso_.
+
+[20] _Faf(f)ner_ (⏑́⏑): laŭ la norda mitologio drako gardanta
+trezoron de oro.
+
+[21] Pron. _Reskel_ (⏑́⏑): angla vorto signifanta „fripono“.
+
+[22] Pron. _Mina_ (–́⏑): mallongiga formo de _Vilhelmino_.
+
+[23] Latina, pron. _Justo_ (⏑́–) _judikio_ (–⏑́⏑–) _Dei_ (⏑́–)
+_judikatus_ (–⏑–́⏑) _sum_ (⏑); ... _kondemnatus_ (⏑⏑–́⏑) _sum_:
+_Per la justa juĝo de Dio mi estas juĝita, per la justa juĝo de
+Dio mi estas kondamnita._
+
+[24] _sepmejlobotoj_: botoj, kiuj ĉe ĉiu paŝo antaŭenportas sian
+posedanton sep mejlojn.
+
+[25] Latina, pron. _Ŝlemilium_ (––́⏑⏑): „_Schlemihl-ejo_“.
+
+[26] Latina, pron. _Tikius_ (–́⏑⏑), _De_ (–) _rebus_ (–́⏑) _gestis_
+(⏑́–) _Polikili_ (⏑⏑⏑́–): _Pri la elfaroj de Knabo-Fingro_. Celita
+estas _Tieck, Leben und Taten des kleinen Thomas, genannt Däumchen_
+(Vivo kaj agoj de la malgranda Tomo, nomata Dikfingreto).
+
+
+Noto de transskribinto:
+
+Mi iom refaris la prezenton de la piednotoj, kaj forigis ties
+paĝnumero-referencoj. Mi registris ŝanĝojn en la teksto per html-aj
+komentoj. Ankaŭ originalajn paĝkomencojn mi simile registris.
+
+
+
+
+
+
+End of the Project Gutenberg EBook of La mirinda historio de Petro Schlemihl, by 
+Adelbert von Chamisso
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LA MIRINDA HISTORIO DE PETRO SCHLEMIHL ***
+
+***** This file should be named 63926-0.txt or 63926-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/3/9/2/63926/
+
+Produced by Andrew Sly, Miroslav Malovec and the Online
+Distributed Proofreading Team at https://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

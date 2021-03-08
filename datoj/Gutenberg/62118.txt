@@ -1,0 +1,3229 @@
+﻿The Project Gutenberg EBook of Legendoj, by Andrzej Niemojewski
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Legendoj
+
+Author: Andrzej Niemojewski
+
+Translator: Bronislaw Kuhl
+
+Release Date: May 13, 2020 [EBook #62118]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LEGENDOJ ***
+
+
+
+
+Produced by Andrew Sly, Miroslav Malovec and the Online
+Distributed Proofreading Team at https://www.pgdp.net
+
+
+
+
+
+
+A. NIEMOJEWSKI
+
+LEGENDOJ
+
+  Kun permeso de la aŭtoro
+  el la pola originalo tradukis
+  Bronisław Kuhl
+
+  Kun antaŭparolo de
+  Antoni Grabowski
+
+Dua, korektita eldono
+
+
+  FERDINAND HIRT & SOHN EN LEIPZIG / 1923
+  ESPERANTO-FAKO
+
+
+
+
+  ĈIUJ RAJTOJ ESTAS REZERVATAJ
+  PRESEJO BREITKOPF & HÄRTEL, LEIPZIG
+
+
+
+
+TABELO DE ENHAVO
+
+              Paĝo
+  Antaŭparolo    7
+  Tentistoj     11
+  Majlaĥ        35
+  Admono        48
+  Du disciploj  71
+
+
+
+
+ANTAŬPAROLO
+
+
+A. Niemojewski (legu: Njemojeski), la aŭtoro de la „Legendoj“, estas
+talenta pola nuntempa verkisto, kiu kolektis jam riĉan rikolton de
+sia literatura agado.
+
+Niemojewski publikigis unue serion da lirikaj poezioj: „Poezioj“,
+„Subteraĵoj“, „Promesita lando“, „Brulruĝoj“, „Polonia irridenta“,
+„Ĉefurbo“, „Petegoj“, „Urtikoj“. Ĉie en ili brilas bela arta
+formo kaj nobla tendenco, sed speciale grandan talenton elmontris
+Niemojewski en la poemoj, en kiuj li kantas pri la ĝojoj kaj suferoj
+de la laboristaj sferoj.
+
+Poste Niemojewski verkis la dramojn: „Familio“, „Tiu tago“, „Rokita“,
+„Fabelo“, kaj la rakontojn: „Leteroj de frenezulo“, „Legendoj“
+ktp. -- Plue sekvis liaj literaturaj studoj pri la pola literaturo
+(Wyspianski) kaj bildoj el sistemaj vojaĝoj tra Eŭropo, Egiptujo,
+Palestino, Sirio ktp.
+
+La frukto de tiuj vojaĝoj estis interalie ankaŭ du volumoj da
+orientlandaj noveloj „El sub polvo de jarcentoj“, kiuj formas en la
+literatura agado de l' aŭtoro transiron de beletristiko al precizaj
+studoj, ĉar Niemojewski, komencinte kiel artisto, transformiĝis
+iom post iom en scienciston kaj dediĉis sin fine tute al la kompara
+esplorado de religioj.
+
+En tiu ĉi direkto Niemojewski tradukis unue verkojn, de Renan kaj el
+lingvo greka la Judan Militon de Jozefo Flavius, poste li publikigis
+serion da malpli grandaj propraj studoj: „Historio de la Kruco“,
+„Kreado de la mondo laŭ biblio“, „Du bibliaj arboj“, kaj en la lasta
+tempo aperis la grandega verko: „Dio Jezus“, kiun Niemojewski eldonis
+pole kaj en plivastigita propra germana traduko. Tiun ĉi verkon
+la aŭtoro kompletigis ankoraŭ per la studaĵo: „Kial rapidis la
+disciploj al Emaus“.
+
+Niemojewski pruvas en ambaŭ lastaj verkoj la tezon, ke en la
+evangelioj estas kaŝitaj astraj sistemoj, t. e. ke al la movado
+de evangeliaj personoj sur tero estas konformaj la movoj de
+ĉielkorpoj en precize difinitaj periodoj. La aldonitaj ilustraĵoj
+multe plifaciligas la komprenon de tiuj interesaj malkaŝoj,
+nepriparoleblaj pli vaste en la kadroj de tiu ĉi artikoleto.
+
+Kiel unu el ĉefoj de la polaj liberpensuloj Niemojewski redaktas de
+la jaro 1906 la organon „Myśl niepodległa“ (Penso sendependa).
+
+Kelkaj verkoj de Niemojewski estas tradukitaj en diversajn lingvojn;
+ankaŭ nia esperanta literaturo posedas jam kelke da ili en lingvo
+internacia.
+
+La nuna libro „Legendoj“ konsistas el 4 poeziaj rakontoj kaj
+bildoj el la vivo de Jezuo, sed tiu ĉi nomo, kvankam li estas la
+ĉefa heroo, nenie estas dirita, sed lasita al la konjektemo de la
+legantoj. Li kaj lia granda verko estas traktataj diskrete, kaj ili
+formas nur la kondukan fadenon de serio da koloraj morbildoj el tiu
+epoko. La ĉefan akcenton la aŭtoro metis sur la medion kaj sur la
+manieron, kiel similaj ideoj ĝin impresis. Ne mankas ankaŭ aludoj
+pri similaj rilatoj en la hejmlando de l' aŭtoro, kiel ni vidas
+tion en la legendo „Tentistoj“. -- Kvankam la temo estas elstudita,
+la novelista talento de l' aŭtoro brilas en la legendoj plenforte.
+La tutaĵo vivas kaj impresas potence la animon de la leganto.
+
+Ni opinias, ke ankaŭ inter la esperantaj samideanoj la „Legendoj“
+estos volonte legataj, kaj ni povas nur gratuli la aŭtoron, ke li
+en la persono de S-ro Kuhl, konata jam pro lia bela stilo esperanta,
+trovis tiel bonan tradukinton.
+
+Ant. Grabowski.
+
+
+NOTO
+
+Donante la permeson esperantigi la „Legendojn“, la aŭtoro skribis al
+mi:
+
+„Fine mi petas, ke Vi en 'Tentistoj' ŝanĝu ĉie la vorton 'rabboni'
+je 'rabbi', ĉar tiam mi ne konis ankoraŭ tiun ĉi iomon da hebrea
+lingvo, kiun mi konas nun, kaj 'vocativus' ŝajnis al mi esti
+'nominativus'.“
+
+Tio estas la sola diferenco inter ĉiuj sinsekvintaj eldonoj de
+l' pola originalo kaj la Esperanta traduko. Ĉiujn aliajn nomojn
+aŭ karakterizajn esprimojn mi penis konservi -- kiom tio nur estis
+ebla -- senŝanĝe, por ne perdi la ĉarmon, kiu karakterizas la tutan
+verkon.
+
+La tradukinto.
+
+
+
+
+TENTISTOJ
+
+
+En Jeruŝalaim regis sufoka atmosfero. La mano de la Landestro
+ekpendis super ĉiuj partioj kaj permesis al nenies kapo elkreski
+super la alteco de l' Roma lanco. La homoj okupitaj per metio,
+marĉandistoj, procenteguloj, riĉaj mallaboremuloj, pensantaj
+nur pri la oportunaĵoj de l' vivo, fine laboristoj kaj ĉiuspeca
+simplularo ne sentis la pezon de tiu mano. Sed la klasoj superaj,
+konservantaj en sia brusto la politikajn tradiciojn, dezirantaj
+influojn, signifon kaj estrecon, rigardis per kolera okulo la palacon
+de la Landestro, kaj ofte dum la noktoj, kondukante sekretajn
+interkonsilojn, pripensis planojn, kiujn la sekvonta mateno disblovis
+kiel nebulojn. Tiuj klasoj sentis sian forton kaj sian malpovon. Ili
+sentis sian forton, ĉar kuniĝinte kun Sinhedriono, ili havis la
+potencon ĉerpatan el la Skribo, la vivan vorton de l' pastroj kaj
+eminentan, riĉecan situacion; do ĉirkaŭitaj ili estis kvazaŭ
+per triobla gardmuro kaj neniu povis ilin ataki. Samtempe tamen
+ili sentis sian malpovon, ĉar tia situacio ne sufiĉis al ili,
+kaj havante super si la singardeman Landestron, ili ne povis fari
+unu paŝon ekster tiun ĉi trioblan muron de la okupita feliĉa
+pozicio. La popolo ilin estimis, obeis kaj salutis la riĉulojn;
+ili deziris, ke tiu popolo je donita ordono sekvu ilin, kien ajn
+ili ĝin kondukos. Sed tion ili ne povis esperi. La popolo estis
+dormanta pulvo; sed ili en siaj animoj ne havis eĉ unu fajreron,
+por ĝin eltiri kaj ĵeti en tiun pulvon. Ĉerpante sian forton el
+la pasinteco, ili ne havis kapablon rigardi la estontecon, kaj se la
+rilatoj fariĝus por ili eĉ plej oportunaj, ekzistis inter ili nek
+unu homo, kapabla esti estro. Ili eĉ ne kreis al si idealon en tiu
+ĉi direkto. Ili ekposedis sole la arton malpermesadi, haltigadi,
+malrapidigi la fervorojn; ili tamen ne scipovis montri la vojon,
+heligi ĝin per ideo kaj veki al ago. Tio estis direkto sendirekta,
+kaŝado de ĉiu lumo sub barelo, atendado kaj deziro malligi ĉiun
+nodon sen almeto de l' mano. Kaj se iu ajn la manon intencis etendi,
+ili kaptadis lin, rekondukis, kaj eĉ timis, vidante en li estontan
+despoton. La popolo tamen, kvankam ŝajne ĝi estis senviva, kreis
+al si la idealon de l' estonta estro. Tiu idealo estis Meŝjaĥ,
+antaŭdirita de la profetoj. Kaj tio estis vere idealo de la popolo,
+sed ne de la superaj klasoj, ĉar ili tiujn profetojn martiradis kaj
+mortigadis. Kvankam ili ankaŭ kredis, ke venos la Antaŭdirito,
+tamen inter ilia kredo kaj la kredo de l' popolo estis abismo. Ili
+komprenis la Skribon, la popolo ĝin sentis. La popolo atendis viron,
+instruantan pri tio, kio en profundo de ĉies koro estis sentata;
+la popolo demandis neniam, el kiu familio la profeto devenis; ĝi
+atendis nur la agojn kaj al ili nur kredis. Sed ili postulis, ke al
+ili estu montrita persono, ke la venonto, malferminte la librojn,
+montru per la fingro sian ateston generacian, la konsenton de sia
+nomo kun la nomo de l' antaŭdiro, ke antaŭ ĉio li ne estu surprizo
+kaj ke li trovu ilin preparitaj je tia alveno. Dume pasis jaroj post
+jaroj, la popolo alkutimiĝis al la nova ordo, kiu delonge fariĝis
+malnova, la malesperiĝo ekregis ilin ĉiam pli forte, ĝis fine ili
+komencis, por sin plifortigi, proponi planojn, kapti avide ĉiun
+sciigon, kiu antaŭdirus ŝanĝon, doni al ĝi troigitan signifon
+kaj fine ekscitiĝi per ĉio ĉi, kreante rilatojn, kiuj ŝanĝis
+ilin en potencajn fantomojn, disvastigantajn la timon nokte, kiam
+ĉiuj ripozas, sed senfortajn dum la tago, kiam oni devas agadi.
+
+Ĉiusemajne ili kunvenadis dum malfrua vespero ĉe Kajafas, kie ili
+interŝanĝis la plej detalajn kaj precizajn sciigojn pri tio, kio
+okazis en diversaj urboj de la lando, kaj eĉ pri tio, kio estas
+okazonta en Romo, ĉar ne mankis al ili rilatoj en la ĉefurbo de
+l' mondo. Poste tiujn ĉi sciigojn ili diskutadis kaj eltiradis
+konkludojn. Dum tiaj kunvenoj oni ne diferencigis aferojn gravajn
+de malgravaj. Ĉiu afero estis grava; tio dependis de ĝia kunigo
+kun aliaj sciigoj. Oni rakontis do al si kun ĉagrenitaj vizaĝoj,
+en kiun la Roma Cezaro enamiĝis, kia estas la karaktero de tiu
+ĉi virino, kian influon ŝi posedas je la estro de l' mondo, kaj
+kiu ree ŝin influas. Oni pripensis tion, ĉu la konsulo, sendita
+Iberion, favoras ilin, ĉu ne, kaj ĉu ne estus pli bone zorgi,
+ke oni revoku tiun ĉi konsulon kaj sendu al lia loko alian. Oni
+diskutadis ankaŭ ĉiun detalon el la hejma vivo de la Landestro, kio
+en certa okazo povus esti en Romo profitigata kontraŭ aŭ por li.
+Kajafas aŭskultis kutime tiujn ĉi interparolojn gratante per la
+fingroj inter la dentoj kaj rigardis atente la parolantojn, kaj nur
+fine li prenis la voĉon kaj per eksterordinare sprita opinio solvis
+ĉiun problemon, eligante strange simplan konkludon. Nur Suten, unu
+el la plej grandaj riĉuloj, scipovis iufoje lin konvinki, ĉar li
+posedis intelekton eble ankoraŭ pli spritan, grandan elokventecon
+kaj ankaŭ maloftan sinregadon. Sed li estis homo ankoraŭ juna,
+apenaŭ tridekjara. Do li ne povis tiom scii, kiom sciis Kajafas, kiu
+faligis lian rezonadon per simpla cito de ia okazintaĵo, pruvanta la
+malkonsenton kun la teorio anoncata de Suten.
+
+Dum unu el tiaj kunsidoj Suten sciigis, ke rondiras en la urbetoj en
+akompano de kelkaj disciploj juna rabbi, kiu kuracas per la metado
+de la manoj kaj vekas inter la amasoj admiron. Kajafas interrompis
+ŝerce, ke oni povus lin alkonduki en la templon, por ke li metu
+la manojn sur la kapojn de l' impostistoj, prenantaj ĵus de la
+popolo novan imposton. Baldaŭ tamen la interparolo turnis sin en
+alian direkton, ĉar iu alportis sciigon, ke en la konsilantaro,
+ĉirkaŭanta la Cezaron, okazis gravaj ŝanĝoj kaj eniris homoj
+nekonataj. Suten ne partoprenis en plua interparolo, kaj eĉ pli frue
+ol kutime forlasis la kunsidon. Dum la venonta li tute ne ĉeestis.
+
+Post du semajnoj li tamen venis ree kaj alportis pluajn sciigojn pri
+tiu rabbi. Ĉar mankis sciigoj pli gravaj, do oni aŭskultis lian
+rakonton ĝis la fino. Li certigis, ke rabbi ne nur okupas sin per
+la sanigado, sed ankaŭ anoncas instruon, kiu ne ĉiurilate estas
+konsenta kun la tradicia interpretado de la Skribo. Sciigo tiu
+maltrankviligis Annas-on, la bopatron de Kajafas, la plej altan en
+tiu ĉi jaro pastron, ĉar li estis tre postulema en la aferoj de
+l' interpreto de la Skribo. Li do komencis detale demandadi pri tiu
+instruo. Sed Kajafas ektusetis kaj ordonis al Suten rakonti simple
+tion, kio okazis, kaj ne tion, kion oni parolis. Suten komencis
+do larĝe priparoli, ke tiu rabbi akiris grandan famon ĉe la
+popolo, kiu tie kaj ie komencas murmuri, ke li estas la antaŭdirita
+Meŝjaĥ.
+
+Tiuj vortoj elvokis grandan ridon inter la kunveno. Eĉ Annas svingis
+la manon en la aero kaj ridetis kaj la aliaj diversmaniere komencis
+ŝerci. Suten eksilentis, sidiĝis en angulo, sed estis tre kolera.
+
+Tiu ĉi sintenado turnis la atenton de Kajafas, kiu donis la signon,
+ke oni silentiĝu, kaj li diris, ke simila afero okazis antaŭ dek
+ok jaroj dufoje, antaŭ dudek jaroj unufoje kaj antaŭ kvardek jaroj
+trifoje. Je tio ĉi leviĝis Suten, ĵetis planken telereton, kiun li
+havis en la mano, kaj ekkriis forte:
+
+-- Tia afero okazis ankoraŭ neniam!
+
+Kaj ree frutempe li forlasis la kunsidon.
+
+La sekvontan tagon matene venigis lin Kajafas, iris kun li en la
+ĝardenon kaj longe ili solece interparolis. Post tiu ĉeesto ĉe
+Kajafas, Suten forlasis la urbon kaj dum unu monato li ne aperis
+en la kunvenoj. Post monato li revenis. Ĉiuj lin ĉirkaŭis kaj
+demandis, kie li vojaĝis. Sed li donis respondojn elturniĝajn aŭ
+eĉ tute silentis. Dume Kajafas sidiĝis sur sia loko kaj kontraŭ la
+kutimo prenis la unua la voĉon.
+
+Li komencis rekte de tio, ke li estos parolanta pri tiu juna rabbi.
+Ĉiuj fariĝis tre scivolaj kaj kelkaj alrigardis Suten-on, kiu
+sidiĝis pli malproksime, mallevis la kapon, kvazaŭ li ordigadis la
+pensojn kaj sin al io preparis.
+
+Kajafas parolis, ke la afero prezentiĝas iom alie, ol tio komence
+ŝajnis. La juna rabbi ne estas ia ajn trompanto, nek sorĉisto,
+nek monkolektanto, nek li ŝajnigas profeton, nek anoncas aferojn
+eksterordinarajn, kiujn oni devus kontraŭbatali, nek li celas
+estrecon, nek estas homo, ribeliganta la popolon. Ŝajnas tamen,
+ke la popolo aliĝas al li, ĉar ĝi sekvas lin, aŭskultas lian
+instruadon, ĉirkaŭas lin per granda ŝatado, preskaŭ adoro. Estas
+iuj kiuj forlasis la edzinojn kaj familiojn kaj lin sekvas; la aliaj
+forĵetis sian metion, por konstante esti ĉe lia flanko. Rakontas
+homoj kredindaj, ke tiel estas. Sed kredindaj homoj povas havi
+malprofundan rigardon kaj malfortan aŭdosenton; ili povas vidi nur
+la efikon, sed ne la kaŭzon, kaj admiri la fumon, ne rimarkinte la
+flamon. Sed tie ĉi ne temas pri tio. Rabbi estas viro de la popolo
+kaj tia homo estas bezona hodiaŭ!
+
+Granda miro ekregis ĉiujn. Ili ne povis kompreni la argumentojn de
+Kajafas. De ĉiuj flankoj oni sieĝis lin, ke li pliklarigu, kion li
+pensas.
+
+Kajafas tamen laciĝis kaj ne volis paroli pli longe. Sed la
+sekvontan kunsidon li kunvokis ne por la venonta semajno, sed
+por postmorgaŭ. Ĉiuj disiris en granda pensincitiĝo. Ĉar ili
+komprenis, ke, se Kajafas tiel konsideras la aferojn, do tio estas
+efektive grava.
+
+Al tiu sekvanta kunsido venis ĉiuj tre frue, kaj Kajafas, stariginte
+kelkajn en la antaŭĉambro, por ke ili gardu la servistaron, faris
+grandan paroladon.
+
+En tiu ĉi parolado li prezentis la nunan situacion, ne ŝparante
+nigrajn kolorojn, nek mallaŭdojn. Li elmontris, ke en tiu stato de
+l' aferoj neeble estas eĉ revi pri la forskuo de l' Roma estreco.
+La popolo ilin obeas, sed nur en la templo, se tamen ili ordonus al
+ĝi ataki la gvardion de la Landestro, ĝi verŝajne malobeus kaj
+ligitajn kondukus ilin al la magistrato. Lerteco ne mankas al ili,
+sed ili tute ne posedas la influon je la popolo. Mankas al ili homo.
+Tia homo povus esti tiu juna rabbi.
+
+Poste li citis multajn ekzemplojn, pruvantajn, ke en ordinaraj
+kondiĉoj rabbi post kelkaj jaroj fariĝos la plej populara viro en
+la lando. Nomo lia estos sonanta en ĉies buŝoj. De ili dependas, ke
+tio okazu pli frue...
+
+Se la amaso per lia pero transirus sub ilian influon, la sendependeco
+estus jam duone akirita. Romo ne havas grandajn profitojn el la lando
+malriĉa, multfoje jam rabita kaj tiel malproksima. La Landestroj
+englutas grandajn sumojn kaj ofte estas malkaŝataj iliaj mensogoj.
+Por Romo certe maloportuna estas la akiraĵo, kaj verŝajne ĝi ne
+disverŝus sangon por teni ĝin en siaj manoj. Cetere oni povus
+interkonsenti. Por tio tamen, por movigi la amasojn en tiun direkton,
+oni bezonas estron. Tiu estro povas esti nur tia homo, kiel rabbi...
+
+Sed tia estro devus ilin absolute obei. Rabbi estas homo el la amaso;
+li estas tamen laŭ la rakonto -- intelekto ne subiĝanta facile al
+direktado de aliaj personoj. Sed li estas juna! La juneco forigas
+multajn malfacilaĵojn. Rabbi estas homo simpla, al kiu devus plaĉi
+la interrilatoj kun la plej altaj aferoj, se ili alvokus lin al siaj
+celoj!
+
+La popolo atendas Meŝjaĥ-on kaj direktas la okulojn al rabbi. Liaj
+faroj parolas multe. Kvankam Kajafas tion ne kredas kaj la juna rabbi
+ankaŭ tion ne kredas, kaj ĉiuokaze ne devus tion kredi, kun la
+popolo tamen la afero prezentas sin alimaniere. La popolo devas kredi
+tion, kio estas bezona, sed ne tion, kio estas vera. La popolo povas
+kredi, ke rabbi estas Meŝjaĥ.
+
+Al tiu ĉi homo turnis la atenton Suten. Per tio li pruvis, ke li
+posedas la okulojn escepte viglajn kaj ke li estas destinita al
+plenumo de gravaj agoj. Li do mem parolu la ceteron.
+
+Ekregis profunda silento, ĉar ĉiuj eksentis, ke la afero havas
+eksterordinaran karakteron kaj postulas multan atenton por la
+prijuĝo.
+
+Suten komencis rakonti, ke de longa tempo li esploris la paŝojn de
+rabbi kaj lin jam iom ekkonis. Li citis multajn ekzemplojn de la
+influo, kian havas rabbi, kaj konfesis, ke li estas certe la plej
+kapabla intelekto ekster la muroj.
+
+Lia parolo estas frapanta, kvankam mallonga. Kien ajn li turnas la
+okulojn, elkreskas amasegoj, kvazaŭ el sub la tero, kaj sekvas lin.
+Li akiris de la egiptaj kuracistoj la arton meti la manojn kaj havas
+fortan okulon. Suten vidis per propraj okuloj, kiel unufoje sub lia
+rigardo sekiĝis figujo.
+
+Sed li estas simplulo. Kiam ĉirkaŭas lin la amasoj, li posedas la
+memkonscion. Oni ne scias tamen, kiel li agus, se li stariĝus antaŭ
+ilia kunveno.
+
+Li devas deziregi la estrecon, ĉar per siaj faroj parte li ĝin
+jam ekposedis. Estreco lia estas jam granda -- kaj tie Suten komencis
+paroli mokplene -- eble ĝi ne trairus la urbajn pordegojn kaj tial
+tiujn pordegojn evitas; sed invitita ĝi kurbiĝos, apud ni ĝi
+elkreskos kaj jam revene ne penetros tra tiuj ĉi pordegoj.
+
+Pro tio do estas nepra bezono lin nune akiri. Suten demandas la
+ĉeestantojn, ĉu ili konsentas je tio.
+
+La ĉeestantoj komencis murmuri inter si kaj turnis la okulojn al
+Kajafas. Tiu ĉi klare kaj precize konfesis, ke la akiro de rabbi
+estas afero treege grava. La kunvenintaro jesis.
+
+Tiam Suten prenis ree la voĉon kaj demandis, ĉu la ĉeestantoj
+permesas al li interkonsenti kun rabbi, aŭ ne. Kaj se ili pli multe
+konfidus al iu alia, ili diru la nomon.
+
+Kajafas donis signon per la mano, dezirante respondi. Oni eksilentis,
+kaj li parolis tiamaniere.
+
+La afero, kiun ili pripensas, estas egale grava, kiel danĝera.
+Grava, ĉar ĝi igas esperi; danĝera, ĉar ĝi minacas per proskripcio.
+Kiu estas fine tiu ĉi rabbi, tion neniu certe scias. Tial do estas
+necesa escepta singardemo. Suten iras kun li paroli. Sed li nune
+parolu kun li nur siaflanke, kiel viro eminenta, sed ne kiel ilia
+reprezentanto. Se la afero ne prosperos, la sekreto dronos inter
+du paroj da okuloj; en la plej malbona okazo elmetos sin al danĝero
+sole Suten. Se tamen la afero iros bone, tiam estos tempo kunveni
+denove kaj esplori la pluajn sekvojn.
+
+La kunvenintoj konsentis je tio unuvoĉe.
+
+Suten estis veturonta jam la sekvontan tagon. Frumatene Kajafas
+alvokis lin ankoraŭ unufoje ĉe sin kaj provizis per diversaj
+avertoj.
+
+Li timis, ĉu Suten taŭgas por tiu tasko. Li konis lin de la
+infanaĝo, konis liajn preferojn kaj mankojn. La preferoj estis
+grandaj, sed ankaŭ la mankoj gravaj. Suten ne estis kapabla diveni
+la karakterojn. De la plej junecaj jaroj li vidis la hipokritecon kaj
+ĉesis kredi al la virto. Li konfesadas tion ĉi malkaŝe kaj nur
+la personaj rilatoj ŝirmis lin kontraŭ la publika mallaŭdo, kiu
+ĉiun alian certe ne estus evitinta. Suten opiniis, ke ĉiun homon
+oni povas aĉeti; li mem ja aĉetadis ĉion: rilatojn, amikecon,
+fidelecon, eĉ amon profundan. Kajafas ne neis tion principe, sed
+ŝajnis al li, ke troviĝas esceptoj, ke iafoje en junaj homoj
+ekaperas malŝatado de la riĉeco kaj eĉ de la estreco kaj influoj.
+Kaj rabbi estis ankoraŭ juna. Sed koncerne la jarojn li estis
+preskaŭ samaĝa kun Suten kaj por la samaĝuloj facile estas
+interkonsenti. Sed duaflanke dividas ilin ree la deveno kaj la mondo,
+en kiu ili edukiĝadis. Multo, granda multo da duboj venis en la
+kapon de Kajafas.
+
+Suten aŭskultante liajn admonojn, kurbigis la vizaĝon mokride.
+Kiam Kajafas komencis paroli pri la nobleco, li alrigardis tiel
+atente liajn okulojn, ke tiu enmetis la fingron en la buŝon, kaj
+komencis eltiradi el inter la dentoj la restojn de l' manĝaĵoj,
+rigardante la murojn. Suten sciis, kion li intencis. En fundo de l'
+animo li havis jam la tutan planon preta, la planon pli larĝan kaj
+pli profunden celantan, ol la plano de Kajafas. En tiu plano rabbi
+devis esti pordo, tra kiu oni eniras la konstruaĵon. Sed ne Kajafas
+estis enironta tra tiu ĉi pordo.
+
+En la nunaj rilatoj pli sufoke estis al Suten, ol eĉ al Kajafas,
+ol al ĉiuj kune. Suten sentis en si forton por komenci la militon
+kontraŭ granda parto de l' mondo; mankis nur al li ilo milita. Tiu
+ilo estis fariĝonta la rabbi; Kajafas -- povis en ekstrema okazo tiun
+ilon beni, se li volus... Li estis jam homo pasinta!
+
+Ili ĉiuj estis laŭ Suten pasintaj. La tuta Sinhedriono, la tuta
+pastraro, tuta aristokrataro, eĉ la scienculoj!
+
+Suten sciis, ke parto de tiu ĉi malbeno pezas ankaŭ sur li. Li sola
+havis ĉi tiun konscion. Ĉiuj ceteraj estis blindaj.
+
+Sed tiujn sentojn li ne eligis el la profundo de l' koro sur la
+vizaĝon, kiu post mallonga rideto estis ree malvarma kaj senesprima,
+kiel nesurskribita pergameno. Kajafas ripetis kun akcento ĉiun
+admonon kaj fine komencis karesi Suten-on sur la vangoj kaj diris:
+
+-- Memoru pripensi ĉiun paŝon, antaŭ ol decidi. Memoru prefere
+prokrasti ol agi. Memoru prefere silenti ol paroli; prefere nenion
+fari ol fari malbone...
+
+Suten komencis jam malpacienciĝi. Sed Kajafas ankoraŭ lin ne
+ellasis:
+
+-- Ekkonu lin. Esploru, kion li volas. Trapenetru lin, kio lin flatas.
+Trarigardu lin, antaŭ ol kun li paroli...
+
+Subite li interrompis, alrigardis lin kaj ame ĉirkaŭprenis:
+
+-- Vi estos iam la ĉefpastro!
+
+Suten en liaj brakoj deturnis la vizaĝon, ne povante deteni
+mokrideton. La dupinta ĉapo ŝajnis al li efektive inda por la kapo
+de Kajafas. Li komencis jam revi pri la ĉapo kun oraj sagoj.
+
+Kajafas, parolanta pri la dupinta ĉapo, ŝajnis al li esti homo
+blinda kaj tute pasinta.
+
+Sed li disiĝis de li, kiel de la plej granda saĝulo kaj ĉefo de
+sia nacio. Li iris hejmen kaj post unu horo estis jam ekster la
+pordegoj de l' urbo.
+
+La saman tagon vespere Annas venis al Kajafas. Ili komencis
+interparoli pri la vojaĝo de Suten.
+
+Annas laŭdis multe la saĝon de tiu ĉi juna homo kaj skuis la kapon
+al ĉiuj flankoj. Kajafas gratis per la fingroj inter la dentoj kaj
+diris mallonge:
+
+-- Suten havas vizaĝon sur vizaĝo.
+
+Annas levis pro ekmiro la manojn kaj malfermis la buŝon. Kajafas
+ekklakis kelkfoje per la lango je la palato kaj dentoj kaj daŭrigis:
+
+-- Mi diris, ke li havas vizaĝon sur vizaĝo. La ekstera vizaĝo
+estas de ni konata; sed la suban ni ne vidis. Al mi ŝajnas, ke tiu
+suba vizaĝo estas alia.
+
+Ekregis silento, dum kiu Annas mallevis la kapon kaj gratis la
+orelon. Kaj Kajafas ekmurmuris kvazaŭ al si:
+
+-- Kiu scias, ĉu ne estas granda feliĉo por ni, ke Suten ne posedas
+la talenton de tiu rabbi!
+
+Annas ree levis la kapon kaj Kajafas aldonis:
+
+-- Ĉar se li posedus la talentojn de rabbi, tiam ne li venadus al
+niaj kunvenoj, sed ni al liaj...
+
+Annas ankoraŭ ne povis kompreni kaj rigardis per demandaj okuloj
+Kajafas-on, kiu finis:
+
+-- Li ne por ni iris interkonsenti kun ĉi tiu rabbi. Li iris paroli
+por si. Sed li trokalkulis. Ĝis kiam mi vivos, ni ne estos venantaj
+al liaj kunvenoj! Sur mia maldekstra manplato estas skribite, ke mi
+vivos pli longe ol tiuj, kun kiuj mi devas agi singardeme!
+
+Annas respondis maltrankvile:
+
+-- Do eble li prefere ne iru paroli kun rabbi?
+
+Kajafas ekridetis:
+
+-- Li parolu kaj alkonduku lin tien ĉi. Ĉar de tiam ne li sola estos
+kun li interparolanta!
+
+Ili disiĝis.
+
+      *       *       *       *       *
+
+Jordano sange brilis en la subiranta suno. Ĝiaj akvoj ruliĝis tra
+la fruktodona valo, sur kiu kreskis palmoj, figujoj kaj olivarboj.
+Tie estis kvazaŭ belega ĝardeno, lando promesita, kie eble neniam
+larmo nebuligis la okulon kaj la tera doloro neniam povis la koron
+atingi.
+
+Sur la dekstra bordo staris areto da homoj kaj rigardis
+malproksimiĝantan viron, kiu iris kun la kapo mallevita kvazaŭ en
+granda enpensiĝo. Tio estis la juna rabbi.
+
+Lia vesto blanke brilis longe inter la verdaĵo. Forirante de la
+rivero, li paŝis komence per la vojeto, kondukanta Jeriĥon-on, sed
+baldaŭ li sin direktis dekstren. La arboj fariĝis malpli densaj kaj
+la verdaĵo malpli ofta. Fine la arboj kaj la verdaĵo tute malaperis
+kaj komenciĝis la dezerto.
+
+La tero, alterne rok- kaj sabloplena, posedis la flavecon
+malheligitan. Proksime vidiĝis polvokoloraj altaĵoj. Kiam rabbi
+eniris inter la rokojn, eĥo de liaj paŝoj aŭdiĝis surde, kvazaŭ
+iu per manplato batis la montflankon. Poste la rokoj iom disiĝis,
+aperis profundaĵoj, abismoj kaj post ili dekliva pinto.
+
+Dume la suno subiris kaj la krepusko falis inter la rokojn. La
+profundaĵoj fariĝis similaj al nigraj makuloj. Nur la pinto brilis
+ankoraŭ purpure. Rabbi direktis siajn paŝojn en tiun flankon.
+
+Irante li ne unufoje levis la kapon, nur rigardis la teron. Iafoje
+el sub liaj piedoj elkuris lacerto, jen ekŝanceliĝis sur la
+flugiloj verda bazilisko, jen serpento eksiblis, jen aglo alte en la
+aero ekgrakis.
+
+La supreniro estis laciga. Ŝvito fluis de lia frunto super la vangoj
+sur la barbon. Li spiris rapide, ne haltante. La ruĝo foriris el la
+roko, kaj la pinto ekdronis en krepusko. Rabbi komencis paŝi pli
+malrapide, ĉar la akraj ŝtonoj povis en la mallumo vundi liajn
+piedojn.
+
+Fine li haltis sur la supro kaj sidiĝis. Tiam li ĉirkaŭrigardis la
+teron kaj la ĉielon.
+
+La tero ekdronis jam tute en la noktaj krepuskoj; sur la ĉielo
+brilis kaj flagris la steloj. Rabbi rigardis tiujn stelojn, lia
+brusto ŝveliĝis kaj li sentis strangan ekscitiĝon de l' spirito.
+
+Ŝajnis al li, ke la vasta tero estas ŝipo kaj la monteto la plej
+supra loko sur tiu ŝipo, de kiu la estro donas la ordonojn al la
+remistoj kaj al la direktilisto, kien ili devas naĝi. Li sentis,
+ke li sola en tiu momento, maldormante sur tiu ŝipo, pripensas la
+vojon, sur kiu la ŝipo estos naĝanta tra la akvoj de l' mondo, kaj
+ke lia voĉo, kiam ĝi aŭdiĝos, estos obeata de ĉiuj remistoj kaj
+direktilistoj. Lia voĉo ĉerpis la forton el tiu briletanta ĉielo,
+el tiuj steloj flagrantaj kaj el ĉio ĉi, kio estis supre kaj sube.
+Kaj kvankam regis la nokto, kvankam la suna heleco estingiĝis, li
+vidis per siaj okuloj malproksimen, vidis malproksimajn okazaĵojn
+kaj komprenis ilian signifon.
+
+Li rigardis ree teren, kaj en rigardo lia estis granda amo kaj
+profunda sento de kompato. Tra la densa nokta krepusko li vidis
+ĉion, kio dum la sensuna tempo okazadis. Li vidis do la dormantajn
+en la domoj amasojn kaj dormantajn sur la herbejoj paŝtistojn. Li
+vidis plue la senhejmulojn kaj la vivantojn en soleco pro la nigraj
+makuloj kaj pro la ulceroj epidemiaj.
+
+Kaj li rigardis pli profunden: li direktis la okulojn en la korojn
+kaj en la spiritojn de l' dormantaj amasoj. Rigardante li ne ektremis
+pro tio, kion li vidis. Kaj kvankam larmoj brilis en liaj okuloj,
+tamen li konsoliĝis.
+
+La koroj de tiuj amasoj estis simplaj kaj la spiritoj nedeziremaj;
+sed la manoj tremis pro peno kaj la malsato tordis iliajn intestojn.
+
+Do li ne volis ilin juĝi, sed deziris porti al ili plifaciligon,
+konsolon, forviŝon de la larmoj, plifortigon de la spiritoj...
+
+      *       *       *       *       *
+
+Subite ekŝajnis al li, ke iu post li haltis. Li ĉirkaŭrigardis.
+
+En la nokta krepusko sur la montpinto tuj apud li vidiĝis malprecize
+viro kun malhela vizaĝo kaj brilantaj okuloj. Li observis rabbi-n
+kaj silentis.
+
+Viron tiun li vidis jam kelkfoje. Depost ia tempo li sekvis la
+amasojn, kiuj akompanis rabbi-n de urbo al urbo. Ĉiu deziris ektuŝi
+la vestojn de l' instruisto; li neniam alproksimiĝis. Ĉiu petis
+konsilojn aŭ malkovris siajn vundojn; li silentis kaj tenis sin en
+malproksimo.
+
+Rabbi ne alvokis lin. Li tamen sekvis. Sekvis tra urboj, tra
+lagbordoj, tra la valo de Jordano, tra lando dezerta kaj supreniris
+post li la monton.
+
+Li alproksimiĝis nur dum la soleco.
+
+Longe li observis rabbi-n, fine sidiĝis apud li kaj ekparolis. Rabbi
+aŭskultis liajn vortojn ne interrompante lin. Kaj li rakontis pri
+la tero, vastiĝanta sube, pri la amasoj dormantaj kaj ilia mizero.
+Poste li konfesis, ke li estas homo multpova, sed la riĉeco ne
+ĝojigis lin. Li lasis siajn havojn malproksime kaj poste sekvis
+rabbi-n, por ekkoni, kion li pensas kaj faras.
+
+Kaj li ekvidis, ke rabbi plenumas agojn eksterordinarajn, kiuj
+mirigas la simplulojn. Sed li ne miras. Ĉar rabbi faris multe, ne
+tuŝis tamen la plej gravan aferon.
+
+Li forigas la doloron. Sed tiu doloro revenos. Li forviŝas larmojn;
+sed la aliaj aperos en la okuloj kaj fluos sur la vizaĝon. Li levas
+la falantojn; sed ili falos ree sub la pezo de l' premo.
+
+Li vidis, kiel siatempe rabbi alrigardis la figujon, kiu sub tiu ĉi
+ardanta rigardo sekiĝis. Li kredas, ke se rabbi rigardus sur tiun
+ĉi senfruktan rokon, tiam elkreskus sur ĝi cedro. Sed rabbi ne
+deziras uzadi sian forton por la surtera bono de la popolo...
+
+Kaj la popolo suferas kaj atendas. Rabbi estas paŝtisto: kial li
+sian aron ne satigos? Rabbi estas gardisto: kial li enlasas tra la
+pordo malsaton, mizeron kaj -- Romanojn?
+
+Satigu la buŝon, kaj la manoj ne estos avidantaj la fremdan bonon.
+Trankviligu la intestojn, kaj la lipoj ne estos ofendantaj la
+ordonojn de profetoj kaj saĝuloj. Forta vi estas, direktu la pupilon
+al la senfrukta tero, por ke ĉiu ŝtono ŝanĝiĝu en panon kaj ĉiu
+terbulo en noblan metalon; kaj al tiu pano kaj al tiu metalo etendu
+la manon nur via popolo!...
+
+Dirinte tion li etendis la brakojn al la valoj.
+
+Rabbi kaŝis en la manplatoj la vizaĝon kaj aŭskultis, kiel li
+daŭriĝis plue kun ĉiam pli kaj pli granda fajro, kvankam lia okulo
+estis malvarma. Rabbi-n ekregis malagrabla sento kaj li diris:
+
+-- Vi turmentas min. Foriru!
+
+Sur la horizonto aperis ruĝa lunkorno. La ĉirkaŭaĵo fariĝis
+ankoraŭ pli malgaja.
+
+La brilo falis sur la vizaĝon de rabbi kaj sur la vizaĝon de tiu
+viro, kiu eksilentis, sed ne foriris.
+
+Rabbi konstante kaŝis la vizaĝon en la manoj kaj liaj pensoj
+forkuris malproksimen de la montsupro, sur kiu li sidis, kaj de la
+viro, kiu ne deturnis de li la okulojn.
+
+Li pensis, kaj en lia enpensiĝo komencis lin ĉirkaŭpreni granda
+malĝojo pro la mizero de tiu ĉi mondo. Tiam tiu viro ekmurmuris
+denove:
+
+-- Vi kompatas per la koro, sed ne per la saĝo. Ĝis certa tempo vi
+estos nutranta per grandiozaj vortoj.
+
+Tiam rabbi ekkoleris, turnis la brulantajn okulojn al tiu viro, kiu
+kaŝis la kapon en la brakoj, leviĝis, foriris de la monto kaj
+malaperis en mallumoj.
+
+      *       *       *       *       *
+
+Rabbi ekspiris. Ŝajnis al li, ke kun tiu viro forfluis ia nubo, kiu
+kovris la teron. La luno iris supren kaj iom heligis la dezerton.
+La nokta birdaro komencis rondflugi super la montoj. Tie kaj ie
+aŭdiĝis grakado. Rabbi-n ĉirkaŭis maltrankvileco.
+
+La griza lunkorno ekpendis sur la ĉielo kaj poste komencis ree
+malleviĝi al la tero. Ĝi ruĝetiĝis, fine ekbrulis kiel flamo
+de torĉo. La dezerto fariĝis ĉiam pli malgaja. Rabbi leviĝis,
+malsupreniris de la pinto kaj komencis rondiri inter la rokoj.
+
+La maltrankvileco kreskis en li konstante. Li vidis antaŭ si kvazaŭ
+vojon pendantan en la aero. Ĝi estis dekliva, dornoplena, surŝutita
+per gruzoj de akraj ŝtonoj. Ŝajnis al li, ke li vidas malantaŭ si
+en la ombroformoj multenombrajn homamasojn, ke li montras al ili tiun
+teruran vojon, mem iras antaŭen, ke la amasoj kun timo foriĝas, ke
+neniu lin sekvas...
+
+Jen ree ŝajnis al li, ke ia maro superakvigas la dezerton, kaj li
+kun la ombraj amasoj staras sur la bordo. Li starigas la piedojn sur
+la ondoj, paŝas sur la akvoturnoj; la ombroj kun etenditaj manoj
+ĵetas sin post li. Sed sub iliaj piedoj disiĝas la moviĝemaj
+akvoj, la amasoj enfalas, dronas...
+
+Blanka tagiĝo fortimigis la viziojn. Rabbi ĉirkaŭrigardis, kaj
+poste, erarigante la disciplojn pri la vojo, komencis trairadi la
+landon, kie li ankoraŭ ne estis konata, urbojn, kie li ankoraŭ
+ne predikis, nek sanigadis. Li observis atente la homojn kaj ilian
+vivon. Jam krepuskiĝis, kiam li haltis antaŭ Jeruŝalaim.
+
+Li preterpaŝis la gardistojn ĉe la pordego kaj eniris la
+stratetojn. La amasoj vagadis ĉie; li observis ilin kaj penis
+memorfiksi ĉion, kion li vidis. Poste li preterpaŝis la palacojn de
+riĉuloj kaj denombris grandan kvanton da ili. Poste li preterpaŝis
+la domegon, en kiu staris parto de l' soldataro, destinita por la
+gardado de l' urbo. Fine li ekvidis sesdek turojn de la fortikaĵoj
+kaj la vagantajn sur la muroj postenojn. Li ekvidis potencon kaj
+riĉecon, tiujn ĉi fortojn mondregantajn kaj diktantajn la leĝojn,
+laŭ kiuj la homa gento estis vivonta. Poste li trapaŝis la palacon
+de la Landestro, reprezentanto de l' Roma potenco. Tiam tiu ĉefurba
+bruego, tiuj belegaj domoj de la riĉuloj, tiuj militistaroj, tiuj
+fortikaĵaj turoj, ĉio ĉi ekŝajnis al li ia monto, kiu kuŝiĝis
+sur lia vojo, monto, kiun li antaŭe ne vidis, pri kiu li neniam
+pensis apud la lagbordoj, predikante al la simplula amaso, sanigante
+la malsanulojn kaj fortigante la falintojn. Ekregis lin granda
+malĝojo; li direktis siajn paŝojn al la templo, eniris sur ĝian
+tegmenton kaj tie ekploris. Kaj jam la nokto kovris la urbon.
+
+Sur la ĉielo ne brilis steloj. Malhelaj nuboj kovris la bluaĵon.
+Ĉirkaŭe estis malgaje, terure. La surda templo faris impreson
+premegantan. Rabbi mallevis la vizaĝon al la muro kaj liaj larmoj
+fluis sur ĝi.
+
+Tiam aŭdiĝis malantaŭ li flustrado.
+
+-- Vi ne obeis min... Ne kredis al miaj vortoj... Vi trairis la landon
+de la dezerto ĝis la muroj de l' templo kaj la larmoj ekfluis el
+viaj okuloj... Sed alie vi ankoraŭ ploros!
+
+Ree staris malantaŭ li tiu viro. Rabbi ekkonis lian voĉon, sed ne
+turnis la kapon al li. Kaj tiu daŭrigis plue:
+
+-- Malforta vi estas... Pli malforta, ol vi pensis... Dubo mordas
+vian animon... Ĉu vi vidis la gvardion kaj la palacon de la
+Landestro?... Ĉu vi vidis niajn loĝejojn!... Kion vi signifas kaj
+kion fari vi povos?!...
+
+Rabbi komencis tremi. La flustrado kreskis en la mallumoj.
+
+-- Ankoraŭ dek mil mizereguloj sekvos vin... Ankoraŭ dua dekmilo da
+kripluloj etendos al vi la malsanajn brakojn... Kaj kio poste? Kio
+plue?!...
+
+-- En la sagujo de bonintencoj viaj mankas sagoj... Eble malgraŭ
+tio la almozulaj amasoj ne dorsturnos sin de vi... Sed vi mem -- kion
+vi faros plue?... Tio estas por malsanuloj kaj blinduloj, tio por
+mizeruloj... Sed por homoj sanaj, komprenantaj la vivon kaj ne
+povantaj morti?... Kaj se vi anoncas la regnon ne de tiu ĉi mondo,
+kial vi venis?... Ĉu komprenos vin la vivantoj kaj sekvos vin?...
+Revemulo vi estas! Rigardu malsupren el la altaĵoj de tiu ĉi
+templo! En malespero ĵetu vin per kranio kontraŭ la rokoj, kaj se
+Adojnoj' destinis vin kaj kiel ilon vin elektis, tiam tie profunde
+atendos vin la brakoj anĝelaj, kiuj vin prenos kaj delikate starigos
+sur la tero, ho revemulo!...
+
+Rabbi turnis sin en tiun flankon, de kie fluis la murmuro, kaj
+ekrigardis. En la krepusko vidiĝis malprecize la figuro kun
+brilantaj okuloj. Ĝi penis per rigardo kontraŭstari al rabbi, sed
+post momento mallevinte tiujn brilantajn okulojn ĝi turnis sin al la
+ŝtuparo kaj malaperis en krepusko.
+
+      *       *       *       *       *
+
+Rabbi forkuris el la urbo.
+
+La nokto renkontis lin ree en la dezerto, en kiu li rondiris pro
+la distriĝo de l' pensoj. Pasis matenoj kaj vesperoj kaj li, ne
+tuŝante manĝaĵojn, vagis inter la rokfendoj, apogis iafoje la
+frunton kontraŭ la rokŝtonoj kaj dronis en enpensiĝo.
+
+Sed dum unu nokto li suriris ree tiun deklivan supron. En la sama
+momento tiu viro aperis ĉe lia flanko.
+
+La luno malkovris tutan sian ŝildon. Ĝia brilo superverŝis la
+dezerton ĝis la randoj de l' horizonto, sur kiu nigris palma arbaro.
+
+Tiam la viro turnis la brilantajn okulojn al rabbi kaj, etendinte
+ambaŭ manojn al malproksimo, diris per forta voĉo:
+
+-- Mi alparolis vin dufoje, sed vi ne obeis min... Vi observis
+propraokule la landon vastiĝantan inter la dezerto kaj la muroj de
+l' Sankta Kastelo... Eble jam nune vi komprenis, kio estas la mondo
+kaj kio devas esti tiuj, kiuj volas ĝin regi... Observu ankoraŭ kaj
+pripensu!
+
+Rabbi rigardis la malproksimon. Kaj la viro daŭrigis:
+
+-- Vidu tiujn valojn, urbojn, fortikaĵojn, gardistojn... Vidu tiujn
+amasojn nudajn kaj vestitajn, mizerajn kaj riĉajn... Vidu tiujn
+tendojn, palacojn kaj kastelojn... Ĉio ĉi kuŝiĝos ĉe viaj
+piedoj, ĉio obeados vin, se vi min sekvos!
+
+Rabbi sulkigis la frunton.
+
+-- Mi donos al vi la estrecon super ĉio ĉi, ĉu vi aŭdas? Mi donos
+la regadon super tiuj teroj kaj super tiuj gentoj!... Kliniĝu al mi!
+Faru, kion mi ordonos! Obeadu min!
+
+Sed rabbi jam ektuŝis lin per sia rigardo kaj, levinte fiere la
+kapon, ektondris:
+
+-- For, tentisto! Estro vi estas de malsato kaj soifo, vipi vi povas
+mizeron, sed la homan animon vi ne jungos! For!
+
+Kaj li restis sola sur la monta supro.
+
+      *       *       *       *       *
+
+Post monato Kajafas sidis dum bela posttagmezo en la ĝardeno kaj al
+la malplej juna filo diktis leteron al iu komercisto en Romo, kiam
+oni sciigis lin, ke venis Suten kaj deziras lin vidi.
+
+Kajafas interrompis tuj la laboron, la filon forsendis kaj ordonis
+konduki Suten-on en la loĝejon, kien li baldaŭ mem venis.
+
+Suten estis en malbona humoro kaj silentema. Sur lia vizaĝo vidiĝis
+laciĝo. Kajafas ĉirkaŭprenis lin; Suten respondis per malvarma
+ĉirkaŭpremo de liaj brakoj.
+
+Kajafas ekmaltrankviliĝis.
+
+-- Vi fariĝis malĝoja, filo -- li diris, sidigante lin apud si kaj
+proksimigante la vizaĝon al la lia, por lin pli bone alrigardi.
+
+Suten silentis.
+
+-- Kio do okazas kun tiu sorĉisto, kun tiu saniganto, amato de l'
+amasaĉo, stelo matena de l' kripluloj? -- ekdemandis Kajafas kun iom
+moka rideto.
+
+Suten ne respondis. Kajafas atente lin observis kaj parolis ĉiam pli
+moke:
+
+-- Ĉu ne ekvidos lin mia okulo? Kiam do aperos la estro de estontaj
+armeoj niaj? Kiam li kolektos legionojn, forskuos la regadon de
+l' Romanoj, la landon savos kaj la reĝan sceptron metos en niajn
+manojn?
+
+La vortojn „reĝan“ kaj „en niajn manojn“ li prononcis kun aparta
+akcento. Suten kuntiris la brovojn, silentis kelkan tempon, fine
+diris seke:
+
+-- Mi eraris. Tio estas homo malgranda.
+
+-- Do eble eĉ pli bone -- ekridis Kajafas, fermetante la okulojn. -- Sed
+vi, Suten, iel ne tre feliĉe kulturas la politikon... Vi persekutas
+sur dezerto iun sorĉistaĉon, kiam ni tie ĉi okupiĝas pri epokaj
+aferoj.
+
+Suten svingis la brakojn. Kajafas komencis grati per la fingro inter
+la dentoj kaj poste diris:
+
+-- Ĉu vi ne intencus vojaĝi Romon?
+
+-- En kia celo? -- murmuris Suten.
+
+-- Veturas maljuna Haleus, intencas veturi Ŝemil kaj Joĥaja. Mi
+instigas ankaŭ Annas-on. Sole grizaj kaj la plej estimataj kapoj!
+
+Suten ne povis kompreni, kio tute Kajafas-on ne mirigis, ĉar dum
+lia foresto okazis en la situacio gravaj ŝanĝoj. Li do komencis al
+Suten klarigi.
+
+-- Ni ricevis el Romo nerefuteblajn pruvojn je tio, ke la nuna amatino
+de l' Roma Cezaro estas hebreino. Ŝi devas esti certe treege nobla
+virino. Cezaro ekkonis ŝin dum festeno ĉe sia plejamato Sejan, kie
+ŝi ludis en la ĥoro. Alia amato, nomata Makro, plifaciligis la
+alproksimiĝon kaj hodiaŭ ŝi estas unua virino en la ĉefurbo de l'
+mondo.
+
+Suten fariĝis malpacienca.
+
+-- Kiel do tio ĉi nin koncernus? -- li ekkriis incitite.
+
+-- Kiel tio nin koncernus, Suten? Vi sovaĝiĝis en tiu barbara lando
+inter la sorĉistoj kaj mizeruloj! Kiel tio nin koncernus?... Veturas
+delegitaro, por interkonsenti kun ŝi. Ŝi influas Cezaron kaj povas
+pro tio multajn servojn al ni fari. Kio kun vi okazis, Suten? Mi vin
+ne rekonas!
+
+Kaj eltirinte la fingron el la buŝo, li komencis kapskui. Suten
+kuntiris moke la vizaĝon kaj parolis, akcentante ĉiun vorton:
+
+-- Nu, nu, grizaj kapoj de la popolo, seriozaj maljunuloj, pastroj kaj
+ĉefpastroj veturas serĉi protekton ĉe malĉastulino... Ankoraŭ ni
+ne havis ion similan!
+
+Kajafas kaptis lian manon.
+
+-- Tfi! -- ekkraĉis Suten, forigis malestime la brakon de l' maljunulo
+kaj eliris.
+
+Kajafas turnis sin al li en la seĝo, rigardis la pordon, kapskuis.
+
+-- Jen frenezulo! -- li murmuris, ne provante ekregi sian miron. -- Kaj
+tia homo volas okupiĝi pri politiko.
+
+Li ekridetis kaj skuis la kapon.
+
+-- Kion li deziras de ni? -- li murmuris kaj ankoraŭ unufoje komencis
+pripensi la aferon de l' delegitaro.
+
+-- Kion li deziras de la grizaj haroj de Ŝemil, Joĥaja, Haleus kaj
+Annas?... Kion li deziras de tiu ĉi bona hebreino, kiu sin donis al
+Cezaro?...
+
+-- Li estas danĝera frenezulo! -- li decidis fine.
+
+En tiu momento haltis ĉe la sojlo la servisto kaj anoncis, ke venis
+la templestro, kiu estis nomata Simon.
+
+Kajafas ordonis lin enkonduki. Simon estis tre pala, liaj manoj kaj
+lipoj tremis. Li profunde kliniĝis, kaj Kajafas demandis pri la
+kaŭzo de la alveno.
+
+Simon sciigis per indignigita voĉo, ke la popolo kaptis antaŭ
+la templo malĉastulinon, ĉirkaŭis ŝin kaj volis ŝtonmortigi.
+Sed malhelpis la gvardio de la Landestro, defendante la virinon.
+Okazis do interbatiĝo, al kiu venis multego da homoj. Dume aperis
+la dekuriono kaj, por trankviligi la popolon, sciigis, ke li ordonos
+al la gvardio forlasi la virinon, se la pastroj ŝin kondamnos. Oni
+devas rapide decidi, ĉar povas okazi batalo inter la popolo kaj la
+gvardio.
+
+Li finis kaj atendis la respondon. Kajafas komencis plej trankvile
+grati inter la dentoj per la fingro, poste li ekklakis per la lango
+kaj demandis:
+
+-- Kiel sonas la sesa ordono?
+
+Simon recitis la tekston.
+
+-- Kaj kion parolas Moseo en la Skribo? -- demandis ree Kajafas.
+
+Simon ripetis tri tekstojn. Tiam Kajafas leviĝis, etendis la
+dekstran manon ĝis la alteco de l' frunto kaj diris serioze:
+
+
+
+
+MAJLAĤ
+
+
+Apud la bordo de l' Tiberiada maro vivis ermite mizeregulo, nomata
+Majlaĥ, viro iam tre saĝa, eminenta kaj posedinta multajn
+ŝafarojn. Sed kiam la ulceroj malfermiĝis sur lia korpo, kiam la
+naŭza malsano faris lin abomeninda kaj infektema, la amikoj kaj
+flatuloj foriĝis de li, senigante lin de signifo, la paŝtistoj
+kaj ekonomoj forŝtelis liajn arojn kaj lia saĝo dum la malsano
+kaj malriĉeco perdis ĉiun viglecon. En tiu saĝo restis apenaŭ
+tiom, por kompreni la tutan vantecon kaj pereemon de homaj klopodoj,
+senfundan malbonecon de l' mondo kaj neesploreblan mokon de l' sorto.
+
+Malsana Majlaĥ sidis dum la tutaj tagoj apud la bordo de l'
+Tiberiada maro, rigardante la sulkiĝintajn vastaĵojn. Ondo post
+ondo alkuradis, ŝvelis, ŝprucis kaj malaperadis. Kaj vidante tiun
+dissaltadon de la ondoj Majlaĥ ridis maldolĉe kaj lia malfermita
+buŝo flustris:
+
+-- Jen la homo!
+
+Kaj ree:
+
+-- Jen sortoj liaj!
+
+Kaj ankoraŭ:
+
+-- Jen penado homa kaj celo atingita!
+
+Tiujn ĉi vortojn li ripetadis dum la dissaltado de ĉiu ondo kaj
+ridis maldolĉe, kapskuante. Nur kiam la malsato komencis lin
+turmenti, li rampis laŭlonge de l' bordo, kolektante kaj englutante,
+kion la maro el sia profundo elĵetis sur la sablojn.
+
+La noktojn li pasigadis en tendo, kovrita per sekaj folioj. Li kuŝis
+sur arbara musko kaj ĝemis, kaj la dormo kutime nur por mallonga
+tempo fermadis liajn palpebrojn, forigante la memoron pri la suferoj.
+
+Ofte la sonĝo pli multe lin turmentis, ol la maldormo. Ĉar ofte
+ŝajnis al li dum la dormado, ke li kolektas konkojn sur la bordo,
+disgratas siajn vundojn, por ke ili estu pli multaj.
+
+Jen ree ŝajnis al li, ke li per tremantaj manoj ĉerpas la salan
+marakvon kaj verŝas sur siajn vundojn, por ke ili pli forte doloru.
+
+Kaj ankaŭ ŝajnis al li, ke li promenas en vasta lando, per la puso
+de siaj vundoj ŝmiras ĉiun pordon, por ke la tuta homaro suferu kaj
+vantecon sian rimarku.
+
+Tiel pasis varmegaj someroj, belaj aŭtunoj, pluvecaj vintroj kaj
+florantaj printempoj. Forgesis Majlaĥ, ke li estis iam riĉa, ke li
+ĝuis estimon kaj posedis alian pensmanieron. Ŝajnis al li, ke li
+naskiĝis kun la ulceroj, ke li naskiĝis en mizero kaj soleco kaj ke
+liaj nunaj pensoj faris kun li vojaĝon de lulilo tra la longa vojo
+de l' vivo ĝis la bordo de Tiberiada maro.
+
+De tempo al tempo, kiam li sidis sur la bordo, rigardante la
+dissaltantajn ondojn, rigardo lia falis sur la rondnaĝantajn boatojn
+fiŝistajn. La homoj sidantaj en ili enprofundigadis tagmeze la
+retojn kaj eltiradis ilin el la maro vespere.
+
+Majlaĥ observis ilian metion, kaj kiam kun la proksimiĝanta
+krepusko ili malaperis, ŝajnis al li, ke ia ondo dissaltis sen
+postesigno. Kaj maldolĉe li ridis pro penoj kaj klopodoj de tiu ĉi
+ondo homa; li deziris ŝpruci sur ĝin sian puson el la gutetantaj
+ulceroj, por ke ĝi suferu kaj vantecon sian komprenu.
+
+Tamen foje unu boato albordiĝis, kaj en ĝi sidis fiŝkaptisto,
+nomata Petro. Okupita per riparado de l' reto, li ne tuj rimarkis la
+ulcerkovritan homon. Nur kiam tiu ĉi komencis maldolĉe ridi, li
+turnis al li siajn simplulajn okulojn kaj, elirinte sur la bordon,
+komencis lin kompati.
+
+Majlaĥ respondis al liaj kompatemaj vortoj per moko. Tamen la
+fiŝisto ne ekindignis, sed sidiĝis sur la sablo apud li.
+
+Tiam Majlaĥ komencis paroli kaj montris al li tiun ĉi dissaltadon
+de la ondoj kaj poste ridis maldolĉe, kapskuante. Poste li montris
+la blindecon homan, trempis la fingron en sia sekrecio kaj ŝmiris
+per la puso la vizaĝon de l' fiŝisto.
+
+Poste li eksilentis kaj observis atente.
+
+Sed la fiŝisto respondis, ke ne ĉio en la mondo estas vanta,
+ekzemple la boneco. Poste li rakontis, ke li ne timas infektiĝon,
+nek tiujn ulcerojn, ĉar li konas viron, kiu, ektuŝinte per siaj
+manoj, cikatrigas la vundojn gutantajn kaj forigas ĉiujn ulcerojn.
+
+Majlaĥ kapskuis kaj ridis respondante:
+
+-- Post paso de semajno vi alnaĝos en tiu ĉi boato al mi kun la
+peto, ke mi fordonu al vi duonon de la tendo.
+
+Sed la fiŝisto respondis:
+
+-- Venos tempo, kiam el buŝo via malaperos ne nur ulceroj, sed eĉ
+tiu maldolĉa rido.
+
+Dirinte tion li leviĝis por fornaĝi. Sed Majlaĥ alrampis al li kaj
+ŝmiris per la puso liajn piedojn. Post tio la fiŝisto permesis al
+li ŝmiri ankaŭ la ambaŭ manojn. Majlaĥ ŝmiris ilin, poste li
+ŝmiris liajn palpebrojn, buŝon kaj orelojn.
+
+Poste li alrampis sian tendon kaj la fiŝisto fornaĝis.
+
+Nokte leviĝis granda fulmotondro kaj ĵetis sin sur la akvojn de l'
+Tiberiada maro. La ondoj kreskis kaj kun granda bruo disverŝiĝis
+sur la bordo, ŝprucante blankajn ŝaŭmojn sur la altaĵojn kaj
+troviĝantajn tie arbojn. La maro ekmoviĝis ĝis la fundo. La nuboj
+volviĝis tiel malalte, ke la ondoj preskaŭ ilin atingis. La ventego
+ĵetadis sur la maron kaj dronigis la rondflugantajn birdojn. La
+akvoj elĵetis sur la bordon grandan kvanton da malvivaj fiŝoj
+kaj diafanaj moluskoj. Dum tio la tondroj kaj fulmoj dissemis tian
+teruron en la naturo, ke la bestoj arbaraj komencis muĝi timeme
+kaj la vulturoj ne kuraĝis bekmanĝi la fiŝojn, kovrantajn la
+malsekigitajn sablojn.
+
+Majlaĥ pensis, ke la ondiĝintaj akvoj ensorbis la boaton de l'
+fiŝisto kaj lin dronigis. Kiam alvenis la matena brilo kaj la
+fulmotondro kvietiĝis, li alrampis sur la bordon kaj observis la
+ondojn, ĉu ili sur la teron ne elĵetos restaĵojn de l' boato kaj
+la kadavron de l' homo.
+
+Ĉirkaŭ la tagmezo montriĝis en malproksimo boatoj kaj la sidantaj
+en ili fiŝistoj enprofundigis la retojn en la maron. Vespere unu
+boato albordiĝis. Majlaĥ ekvidis en ĝi la konatan fiŝiston.
+
+Do li demandis lin, kie li pasigis la nokton.
+
+La fiŝisto respondis, ke sur la maro, ĉar dum la tago li riparis la
+reton, kaj nokte la akiro estis mirinde abunda.
+
+Majlaĥ respondis je tio, ke li mensogas, ĉar nokte ondegis la akvoj
+kaj estis granda fulmotondro.
+
+La fiŝisto rediris, ke efektive la ondoj komencis esti iom
+malkvietaj; sed tiu viro, pri kiu li jam rememoris, eliris el la
+boato sur la akvojn kaj ilin trankviligis.
+
+Tiam Majlaĥ komencis ridi moke kaj alrampinte al la fiŝisto ŝmiris
+ree per la sekrecio de siaj ulceroj lian frunton, palpebrojn,
+vizaĝon, buŝon, bruston, manojn kaj piedojn.
+
+Poste li sidis longe sur la bordo, ĝis la boato kun la fiŝisto
+malaperis en malproksimo kaj la nokta mallumo kovris per la krepusko
+la maron kaj teron.
+
+Ĉiutage sidadis Majlaĥ sur la bordo de l' Tiberiada maro,
+observante la ondojn. Sed la boato ne aperis kaj la fiŝisto Petro ne
+albordiĝis en la golfo. Tiam Majlaĥ komencis ridi ankoraŭ pli moke
+kaj ĝoji maldolĉe, ke almenaŭ unu lia sonĝo estas plenumita, ke
+almenaŭ unu homon li infektis per la puso de siaj ulceroj kaj tiel
+montris al li la veron de l' homa ekzistado.
+
+Pasis kvin tagoj, poste ses kaj sep tagoj. Tamen fine la okan tagon
+vespere la boato aperis sur la akva horizonto, proksimiĝis rapide
+kaj direktis ĝin unu homo.
+
+Majlaĥ komencis ridi.
+
+Ŝajnis al li, ke li vidas ŝvelintan kaj ruĝiĝintan vizaĝon,
+okulojn plenajn je timego kaj ke tra la malproksimo atingas lin jam
+la varma spiro. Li observis avide kaj ridis.
+
+Kaj jam li vidis apud si sur la sabloj de l' bordo kliniĝintan
+mizerulon kun malfermitaj vundoj, rigardantan kolere la dissaltantajn
+ondojn kaj ripetantan liajn vortojn. Li vidis jam tion kaj ridis.
+
+La boato glitis sur la akvoj kiel birdo, kiam ĝi, etendinte en la
+aero la flugilojn, flugas al la tero. Staris en ĝi la fiŝisto Petro
+kaj serĉis per la okuloj du ŝtonojn, inter kiujn li povus enkonduki
+sian ŝipeton.
+
+Kaj haltiginte ĝin, kiel li intencis, li suriris la bordon,
+proksimiĝis al Majlaĥ kaj anoncis, ke morgaŭ kunvenos tie ĉi
+multaj fiŝkaptistoj kun siaj familioj kaj ankaŭ homoj de aliaj
+metioj. Li aliĝu al ili kaj aŭskultu la vortojn, kiuj al tiu
+kunveno estos diritaj.
+
+Li ne finis ankoraŭ paroli, kiam Majlaĥ alrampinte komencis tuŝi
+liajn piedojn, manojn, vizaĝon, vangojn, palpebrojn kaj orelojn.
+Diligente li esploris kaj rigardis kaj observis kaj al siaj okuloj ne
+volis kredi.
+
+Tiam la fiŝisto diris:
+
+-- Sekrecio de viaj ulceroj ne infektos min kaj baldaŭ infektos jam
+neniun, kvankam tien ĉi multaj alvenos kaj pri via tendo ili aŭdis.
+Ekkredu nur al tiu, kiu estas simpla kiel mi kaj kiu alie instruas ol
+vi.
+
+Dirinte tion li fornaĝis kaj Majlaĥ enrampis sian tendon. La nokto
+venis per mallumaj paŝoj, sed li ne povis ekdormi. Doloro terura lin
+turmentis, sed li ne ekĝemis. Li aŭdis la bruan dissaltadon de l'
+ondoj sur la bordo, sed jam li ne ridis.
+
+Ia dubo vagis en lia kapo kaj erarigis ĉiujn liajn pensojn. Li
+ekmiris, ke la fiŝisto ne infektiĝis kaj ke li alkondukas amasojn
+al la bordo, kiun ĉiu evitis.
+
+Poste li fermis la palpebrojn kaj ŝajnis al li, ke tiu stranga
+fiŝisto vizitis lin kaj sidiĝis ĉe la eniro en la tendon.
+
+Li do komencis demandi:
+
+-- De kie vi havas, fiŝisto, tiun kvieton de l' animo?
+
+Sed la fiŝisto nur ridetis. Kaj demandis lin Majlaĥ plue:
+
+-- De kie vi havas, fiŝisto, tiun indiferentecon kontraŭ la vundoj
+kaj ulceroj?
+
+Sed la fiŝisto ridetis konstante. Kaj demandis lin Majlaĥ ankoraŭ:
+
+-- De kie vi havas, fiŝisto, tiun saĝecon, kiu antaŭdiras aferojn
+eksterordinarajn kaj ĝisatendas ilian plenumon?
+
+La fiŝisto ekridetis lastafoje kaj malaperis.
+
+Majlaĥ vekiĝis kaj pripensis tion, kio ŝajnis al li en la sonĝo;
+poste li ekdormis denove.
+
+Kaj en tiu dua endormiĝo ŝajnis al li, ke li sidas apud la marbordo
+kaj observas la dissaltantajn ondojn. Ĉiu guteto de l' akvo estas
+homa kapo. Ondoj da tiuj kapoj alkuradas, disverŝiĝas sur la bordo
+kaj de la sablo leviĝas amasoj da fiŝkaptistoj, kiuj rapidas
+profunden en la landon. Kaj la akvosupraĵo ne malgrandiĝas, ne
+malaltiĝas, nur naskas novajn ondojn senfine kaj seninterrompe.
+
+Majlaĥ vekiĝis kaj pensis longe pri sia dua sonĝo, kian al ĝi
+doni klarigon. Tiam li ekdormis la trian fojon.
+
+Kaj en tiu tria sonĝo ŝajnis al li, ke li staras apud la bordo
+kaj observas la elirantajn el la maro fiŝkaptistojn. Subite li
+rememoris, ke kiam li ne havis tiujn ulcerojn, li estis tre simila
+al kelkaj el tiuj homoj. Tio pripensigis lin kaj li komencis kun pli
+granda atento observi la elirantajn el la marakvoj fiŝkaptistojn.
+Tiam ekregis lin granda miro, ĉar ju pli multe da homoj eliradis,
+des pli granda fariĝis la simileco. Fine ŝajnis al li, ke estas li,
+kiu en senfina nombro da figuroj eliras el la marabismo kaj rapidas
+en la profundon de l' lando. Tiam li vekiĝis kaj ne povis kompreni,
+kion tiuj ĉi tri sonĝoj povus signifi kaj kia estus ilia klarigo.
+
+La sekvintan tagon li frumatene alrampis la bordon kaj rigardis ĝis
+la tagmezo la akvohorizonton. La vundoj brulis; interne li sentis
+febron. Li ekploris.
+
+Salplenaj larmoj, fluante sur la ulcerkovritaj vangoj, pligrandigis
+liajn dolorojn. Sed jam li ne rezonis mokride, jam la moko forlasis
+lian animon. Restis nur tie malĝojo deziranta kvietiĝon. Li ploris
+konstante.
+
+La maro kuŝiĝis kvazaŭ glata lazuro ĉiela. La suno etendis sian
+oran bruladon super la mondo. La folioj pendis senmove sur la arboj.
+La arbaraj birdoj ekdormis sur la branĉoj, dezirante dormeti dum la
+tagmeza varmego.
+
+Kaj li ploris senĉese.
+
+Vespere eksvarmis en malproksimo la boatoj kaj samtempe sur la bordo
+komencis aperadi aretoj da virinoj, maljunuloj kaj infanoj. Ili
+sidiĝadis sur la sablo, sur ŝtonoj, sur kuŝantaj trunkoj de l'
+renversitaj arboj. Miris Majlaĥ pro tio, ke neniu lin evitis, sed
+ĉiu per rideto kvazaŭ ion antaŭdiris.
+
+La boatoj alnaĝis; la fiŝistoj miksiĝis kun la virinoj, maljunuloj
+kaj infanoj. Poste la maljunuloj kaj virinoj sidiĝis en la boatoj
+kaj la viroj ekokupis la bordon. Kaj oni vidis kapon apud kapo ĉe la
+terlimo de l' marakvoj, kvazaŭ la ĝiboforma tero konsistis nur el
+kapoj. Tiutempe unu boato foriris iom de la bordo kaj en ĝi sidis du
+homoj. La unua estis Petro la fiŝisto, kaj la dua -- viro nekonata.
+
+La vizaĝo de tiu viro estis mirinde kvieta kaj la okuloj turniĝis
+tiel, kvazaŭ li ĉiun per ili tuŝetis. Krom tio estis en ili granda
+heleco kaj saĝo kaj komprenemo de la aferoj. Majlaĥ ne povis
+deturni la rigardon de tiu vizaĝo. Kaj tiu viro sidis en la boato,
+apoginte la barbon sur la mano, kaj observis la homojn kunvenintajn
+sur la bordo. Tiam Petro la fiŝkaptisto eltiris la remilo el la
+akvo, sidiĝis ankaŭ en la boato kaj mallevis la kapon sur la
+bruston.
+
+Ekregis silento, interrompata nur per delikata plaŭdado de l' akvoj
+kontraŭ la boatrandoj.
+
+Post momento eksonis de tie voĉo; Majlaĥ haltigis la spiron. La
+vortoj fluis tra la aero kaj disiris inter la homoj kunvenintaj sur
+la bordo.
+
+Tiu stranga viro predikis alegorion pri homo prudenta kaj pri homo
+bona. Homo bona estis sinjoro kaj homo prudenta lia servisto.
+Sed baldaŭ homo prudenta rimarkis, ke, se li malzorgas sian
+servodevon, tiam homo bona faras anstataŭ li tion, kion li ne
+plenumis. Rimarkinte tion, li komencis ĉiam pli multe mallabori kaj
+fine tute ĉesis fari, kion li devis. Kaj li rimarkis ankaŭ, ke
+dank' al tio la rilatoj inter sinjoro kaj servisto plene ŝanĝiĝis.
+Kaj tio, kion li rimarkis, estis vera. Homo prudenta fariĝis
+sinjoro kaj homo bona servisto. Dume okazis milito. Proklamis ĝin
+homo prudenta, ĉar li precize kalkulis, ke li posedas sepoble
+pli multe da militistaro kaj pli bonajn armilojn, do ke li povas
+sendanĝere ataki la malamikon kaj rabi lian bienon. Vane homo
+bona al li tion malkonsilis. Vi estas homo bona, diris tiu, do vi
+abomenas la sangoverŝon; sed mi estas prudenta kaj vidas, ke la
+pligrandiĝo de la fortoj estas necesa. La milito eksplodis. Sed en
+la unua batalo homo prudenta ricevis gravan vundon en la kapo, falis
+de sia ĉevalo, kaj la militistaro, piedpremante lin, iris kontraŭ
+la malamiko. Kuŝis do tiu homo prudenta sur la kampo en sufero kaj
+soleco kaj dume la estro, kontenta pro tiu ĉi okazo, ke la sinjoro
+sur la kampo mortos, el nenie havante helpon, venkis la malamikon,
+forprenis liajn trezorojn kaj proklamis sin reĝo de ambaŭ popoloj.
+La militistaroj ĵuris al li fidelecon kaj oni trumpetanoncis la
+pacon. Ĉiuj revenis al siaj okupoj. Post ia tempo aperis sur la
+sojlo de bona homo mizerulo peteganta, ke li helpu lin kaj akceptu
+kiel serviston eĉ por la plej malaltaj servoj, ke li nur donu al li
+tegmenton super la kapo kaj pecon da pano por nutriĝi. Kompatiĝis
+homo bona, enkondukis lin en sian domon kaj lavis kaj bandaĝis liajn
+vundojn kaj poste dividis kun li la panon. Tiam homo prudenta, kiu
+estis fariĝinta mizerulo, tre miris kaj parolis al homo bona: mi
+estis via servisto kaj ne obeis vin; mi ekposedis la regadon super
+vi kaj prenis de vi, kio estis via; kial vi ne forpuŝas min ekster
+la sojlon de via domo, sed vi donas al mi panon kaj bandaĝas miajn
+vundojn? Kaj homo bona respondis je tio: ĉar vi estas mizera kaj
+suferas, ĉar vi venis al mi, kiel vi estis devinta ne foriri, ĉar
+vi devas servi al mi, por ke vi ne suferu; kaj obeu min, por ke vi
+kune kun mi plenumu la ordonojn.
+
+Rakontinte tiun alegorion, li observis ian tempon la amasojn, kaj
+en liaj okuloj tremis heleco, kiu radiis al la kunvenintoj sur la
+salplena bordo. Poste li deprenis la manon de la barbo, levis la
+kapon kaj komencis paroli:
+
+-- Estu kiel tiu homo bona, kaj la prudentaj venos al via sojlo kun
+siaj vundoj. Forigu de aliaj ĉiun doloron, kaj kiam ĝi mem al vi
+venos, salutu ĝin kiel amikon, kiu ne suferigas. Kaj mirigitaj
+estos pro vi la homoj kaj ili rakontados, ke vi la ordon de la mondo
+ŝanĝis. Kaj vere vi ŝanĝos ĝin. Homo prudenta fordonos sian
+glavon en viajn manojn, kaj vi tiun glavon disrompos kaj ĵetos en
+la fajron. Homo prudenta alportos al vi, kion li prenis de aliaj,
+kaj vi tiun profiton disdonos inter ĉiuj kaj ne estos malpaco. Homo
+prudenta alportos al vi sian saĝon, kaj vi tiun saĝon ŝanĝos
+en aljungan beston, por ke ĝi estu utila, sed ne malutila. Vere
+mi diras al vi, tio fariĝos, kiel fariĝis lumo kaj ĉielo kaj
+maroj kaj tero. Homo bona cikatrigos viajn vundojn, viŝos larmojn,
+forigos suferojn, nutros malsatulojn, trinkigos soifantojn kaj levos
+falintojn. Homo bona faros vin blindaj je tio, kio forpasas, kaj
+malfermos viajn okulojn je tio, kio estas eterna. Vere mi diras al
+vi, ke tio fariĝos, kvankam antaŭe tiun homon bonan prudentuloj
+estos turmentantaj, surdigos per moko liajn vortojn kaj alkroĉos lin
+al ligno, por ke li ne povu agi laŭ boneco sia.
+
+En la amaso aŭdiĝis mallaŭta ploro, kaj poste abruptaj voĉoj:
+
+-- Vi estas tiu homo bona!
+
+Kaj ree:
+
+-- Vi estas tiu, kiun vi anoncas!
+
+Kaj ankoraŭ:
+
+-- Vi estas, kiu cikatrigas la vundojn, viŝas larmojn kaj levas
+falintojn!
+
+Petro la fiŝisto enmetis la remilon en la akvon kaj la boaton
+direktis al la bordo. Kaj kiam ĝi apogis sin kontraŭ la sablon,
+amasiĝis ĉirkaŭ ĝi la patrinoj kaj alkondukis la infanojn al tiu
+viro, por ke li benu ilin. Poste proksimiĝis diversaj suferantoj,
+kaj li metis la manon sur ĉies kapo, rigardis ĉielen kaj murmuris
+iajn mallaŭtajn, neaŭdeblajn vortojn.
+
+Silento eksterordinara regis en la naturo. Ŝajnis al ĉiuj, ke la
+ĉielo klinas sian lazuron al la tero kaj la aeron plenigis odoro
+de diversaj aromoj. La plaŭdado de la akvoj kontraŭ la boato
+silentiĝis kaj la maro fariĝis muta, kvazaŭ ĝi aŭskultis la
+parolon kaj agojn de tiu, kiu kortuŝis, sanigis kaj kredigis.
+
+Majlaĥ kuŝis sur la bordo, vidante la tutan amason kaj tiun
+viron kun la fiŝisto Petro en la boato. Li observis longe kun
+kreskanta miro kaj aŭskultis. La vortoj de tiu homo falis sur
+lin, kiel sunradioj, trapenetris lin kaj heligis lian koron. Poste
+ili ekposedis lin tute. Kaj kiam tiu viro eksilentis, fininte la
+alegorion, Majlaĥ-on ekregis malĝojo kaj sopiro. Mankis al li tiuj
+vortoj. Li alrampis pli proksimen. La homoj disiĝis kaj permesis al
+li vidi la maron. Kiam el la boato ree aŭdiĝis la voĉo, Majlaĥ
+komencis tremi per la tuta korpo, kapskui, kaj larmoj ekfluis el liaj
+okuloj. La boato dume albordiĝis. La patrinoj komencis alkonduki la
+infanojn, al aliaj amasiĝis kaj etendadis la manojn. Tiam Majlaĥ,
+tremante per la tuta korpo kaj blinda pro la larmoj en la okuloj,
+komencis rampi al la plej granda amaso. Jam li ne vidis, kio ĉirkaŭ
+la boato okazadis. Super li etendiĝis brakoj, aŭdiĝis plej
+dorlotaj vortoj; ondo da amaso proksimiĝis al la bordo, kaj li en
+ĝia fundo rampis sur la sablo, spiregante kaj plorante. Tiamaniere
+li proksimiĝis al la bordo kaj trovinte sin ĉe la rando de la boato
+levis la okulojn. La homoj eliris jam el la ŝipeto, kaj la rigardo
+de tiu stranga homo falis sur lin.
+
+Majlaĥ transrampis la boatorandon, rampis sur la bretoj kaj levis la
+vizaĝon kovritan per vundopuso kaj larmoj; lia ulcerkovrita buŝo
+moviĝis petege.
+
+Kaj tiu stranga homo etendis la manon al li kaj metis la manplaton
+sur lian kapon, kiun neniu kuraĝis ektuŝi.
+
+Majlaĥ ekĝemis:
+
+-- Kompatu je mi, Sinjoro.
+
+Tiam li aŭdis super si:
+
+-- Forigita estu de vi la doloro...
+
+Kaj Majlaĥ ĉesis suferi.
+
+-- Forigita estu de vi la malbeleco...
+
+Kaj fermiĝis la vundoj de Majlaĥ.
+
+-- Forigita estu de vi via malkredemo...
+
+Kaj Majlaĥ sanigita kaj forta falis singultante vizaĝen.
+
+Petro la fiŝisto enmetis la remilon en la akvon, la boato
+malproksimiĝis de la bordo kaj de la amasoj, ekbruis la marondo, kaj
+Majlaĥ konstante ploris.
+
+Tiam li eksentis ree la manon sur sia kapo kaj ĝeme demandis:
+
+-- Kion vi deziras, Sinjoro, de mi?
+
+Eksonis super lia kapo:
+
+-- Kredu al la boneco kaj faru al aliaj, kiel mi al vi faris.
+
+
+
+
+ADMONO
+
+
+Li estis grandioza figuro. Giganta kresko, forta nuko kaj potencaj
+brakoj rememorigis tion, kion la tradicio rakontis pri la formoj
+de Samson. Grandega vizaĝo kun grandaj, brunaj okuloj, agla
+nazo, longaj lipharoj kaj iom griza, preskaŭ la zonon atinganta
+barbo faris majestan impreson. Liaj vestoj estis multekostaj kaj
+diverskoloraj, la kapon kovris turbano el la plej valora teksaĵo.
+Li paŝis ĉiam tre malrapide, kaj trairante la urbon al neniu
+respondadis je la salutoj. Fiero kaj konscio pri la supereco
+antaŭiris lin, dispelante la popolamason.
+
+Li estis nomata Joel. En Sinhedriono oni uzis lin precipe por la
+celoj de l' reprezentado. Li proklamadis la verdiktojn, antaŭlegadis
+la decidojn kaj donadis la admonojn.
+
+Stariĝinte en la templo sur la estrado, li aspektis grandioze. Lia
+profunda voĉo similis la sonon de l' bronza trumpeto, kiun skuis la
+spiro de la plej kapabla artisto. La enhavo de liaj paroloj estis
+antaŭe precize formulita. Joel nenion bezonis aldoni, nenion forigi.
+Tiujn parolojn verkis homoj lertaj en la juro kaj mirinde konantaj
+la lingvon. Joel antaŭlegis iliajn vortojn per sia belega voĉo,
+aldonante al ili seriozon per la figuro. Do, kiam li ekparolis, la
+amasoj silentiĝis kaj aŭskultis, kaj ĉiu silabo faladis profunde
+en ilian animon. Ĉiujn do verdiktojn, anoncojn, admonojn kaj
+alvokojn, elirantajn de Sinhedriono, la popolo ĉiam kunigis kun la
+figuro de Joel, supozante, ke li havas la plej grandan signifon inter
+la sepdek anoj de l' Alta Konsilantaro. Joel post la tempo komencis
+havi ankaŭ tiun opinion, kio estis des pli facila, ke en tiaj
+momentoj, kiam li parolis al la popolo, la aliaj anoj asistis kun
+la plej granda estimo, prezentis la pergamenon kaj servis lin, por
+tiamaniere aldoni al tio, kion li parolis, pli grandan gravecon.
+
+Ekkredis do Joel al sia granda saĝeco kaj al escepta sia signifo. Li
+ekkredis kaj sentis sin senmezure feliĉa. Nenio konfuzis la fonton
+de liaj pensoj. Fama lia riĉeco multobliĝis ĉiutage. Liaj infanoj
+estis sanaj, riĉaj, estimataj kaj ankaŭ feliĉaj. Kaj ŝajnis al
+Joel, ke, kiun Sinjoro elektis, al tiu li donis bienojn terajn, por
+ke li povu volon Lian plenumi.
+
+Kaj ŝajnis al li ankaŭ, ke la malriĉuloj estas viktimoj de propraj
+pekoj aŭ de la antaŭulaj kulpoj. Sen kulpo kaj peko neniu povus
+esti, laŭ lia opinio, malriĉa. Li sentis en si nenian kulpon
+kaj estis riĉa, kaj el inter tiu mizera simplularo ĉiumomente
+oni iun kondukis al la juĝo kaj punis. La juĝisto Joel sciis,
+kiom estis da ŝteloj, kiom da kalumnioj, kiom da adultoj, kiom da
+senbezona alvokado de l' nomo Sinjora. Li sciis, kiom okazis da
+trompoj kaj malpiaĵoj, kiom da atencoj kontraŭ la fremda edzino kaj
+naskiĝoj neleĝaj, kiom da procentego kaj falsa atestado. Kial la
+kulpuloj devenis nur el la mizerularo? Kial nek unu devenis el inter
+Peruŝim? La ideo de l' amaso kuniĝis en lia kapo kun la ideo de l'
+maljusteco. Li malestimis tial tiun amason, same kiel li malestimis
+la pekon.
+
+Specialan tamen malŝaton li sentis kontraŭ la impostistoj, kiuj
+estis famaj pro la malhonesteco. Sed li malŝatis ilin ankaŭ tial,
+ĉar neniam li sukcesis elturniĝi de la imposto, kiun li senlime
+malŝatis pagi.
+
+En la templo li aperadis kvarfoje dum la semajno kaj preĝis per tiaj
+vortoj:
+
+„Mi dankas vin, Sinjoro, ke vi kreis min Joel, filo de Azdraŝ riĉa
+homo, filo de Haskiel riĉa homo, filo de Jakob riĉa homo...
+
+Kaj ankaŭ mi dankas vin, Sinjoro, ke vi donis al mi kreskon grandan,
+figuron belegan, kiu elvokas estimon de l' popolo. Ke vi donis al mi
+viglan prudenton, koron noblan kaj belan voĉon...
+
+Ke vi permesis al mi esti justa, ne mensoganto, ne trompisto, ne
+kalumniulo, ne adultulo, ne blasfemanto aŭ nekredemulo...
+
+Kaj ankaŭ mi dankas vin, Sinjoro, ke vi elektis min al Sinhedriono,
+ke vi faris min juĝisto, kiu juĝas aliajn, mem ne estante juĝata...
+
+Kaj ankoraŭ mi dankas vin, Sinjoro, ke vi ne faris min homo el la
+amaso, malriĉa, malbona, stulta, nehonesta...
+
+Ke vi min faris nek paŝtisto, nek ĉarpentisto, nek barelisto, nek
+azenkondukanto, nek buĉisto, nek marĉandisto de la oferbestoj,
+nek servisto, nek impostisto, kiel estas tiu, kiu tie post mi
+brustofrapas kaj devas paroli: Sinjoro, kompatu min pekulon...
+
+Kaj kiam mi enrigardas min, ĝojas animo mia kaj admiras vin, ho
+Sinjoro, pro via saĝeco, pro via perfekteco, pro via dispono kaj
+divido de unuj homoj de la aliaj...
+
+Do, ĉar vi tiel kun mi agis, mi vidas vian favoron kaj observos vian
+ordonon kaj estos punanta ĉiujn, kiuj antaŭ mian juĝistan vizaĝon
+estos alkondukitaj.
+
+Gloro al vi, Sinjoro en altaĵoj! Vi estas, kiu min kreis kaj al la
+homoj donis kiel ekzemplon! Do la nomo via ne pereos en la popolo,
+ĉar la filoj de filoj miaj dankados vin pro mi kaj sur la altaroj
+bruligos la oferojn, kiujn la popolo alportos...“
+
+Poste li forlasis la templon kaj revenis tra la urbo hejmen. Ĉiuj
+faris al li la vojon, kaj li paŝis ĉirkaŭita per sia gloro kaj
+perfekteco, fiera, trankvila, neŝancelebla.
+
+Okazis, ke mortis lia maljuna patro, Azdraŝ, preskaŭ centjara,
+loĝanta en Jeriĥono, kie li posedis multajn bienojn. Joel nun
+devis vojaĝi tien, por lin entombigi, fari la ordonitan penton kaj
+ekposedi la heredaĵon.
+
+Plaĉis al li tiu urbo, kuŝanta apud unu el la flankriveroj de
+Jordano. La ĉirkaŭaĵo estis ravanta. Joel restis tie pli longe,
+ol li antaŭe intencis, kaj ofte dum la vesperoj entreprenis sola
+promenojn en la arbaroj kaj valoj. Lia famo eĉ tien penetris.
+Kaj ĉar la loĝantoj konis la vastecon de liaj bienoj kaj la
+nekalkuleblajn riĉaĵojn en la ŝafaroj, do gasto tia estis objekto
+de senĉesa respektado.
+
+Joel-on lacigis iom la ovacioj, des pli, ke la morto de l' patro
+profunde lin impresis. Malofte li pensis pri la momento, kiam li
+adiaŭos la mondon. Nune li ekvidis subite, ke en la ŝtuparo de l'
+generacioj tuj antaŭ la ŝtupo de Joel putriĝis kaj rompiĝis la
+ŝtupo de Azdraŝ. Ĉirkaŭblovis do lin kvazaŭ morta malvarmo.
+Li volis forgesi tion, kaj serĉi aliajn pensojn meze de palmoj,
+figujoj kaj arbaretoj. Li komencis eĉ enprofundiĝadi en la
+landon ĝis Jordano, kaj tiam li rajdis sur azeno kaj kunprenis la
+azenkondukanton.
+
+Dum unu el tiaj ekskursoj li forlasis la kondukanton kaj la azenon en
+la arbaro kaj mem iris ĝis apud Jordano, por ĝui banon. Sed ĉar li
+forte ŝvitiĝis, tial sidiĝinte sur la bordo, li sin ventumis.
+
+Tiam li rimarkis proksime paŝtiston, kiu ripoze kuŝis, kaj la
+ŝafaro proksimiĝadis al la loko, kie sidis Joel.
+
+Do li ekkriis al la paŝtisto, ke li forpelu la ŝafaron kaj mem
+foriru. La paŝtisto tamen ne ekmoviĝis pro lia kriado.
+
+Joel leviĝis kaj komencis alvoki la serviston. Sed tiu videble ne
+aŭdis, ĉar li ne aperis.
+
+Tiam Joel aliris la paŝtiston kaj ankoraŭ unufoje ordonis al li,
+forpeli la aron kaj kun ĝi foriri, ĉar li intencas sin bani en tiu
+ĉi loko.
+
+La paŝtisto, kuŝante, respondis, ke li tion ne faros, ĉar ĝuste
+en tiu loko li enpelos baldaŭ la aron en la riveron, por ĝin
+trinkigi kaj lavi.
+
+Joel demandis la paŝtiston, ĉu li konas lin? Tiu respondis, ke
+li tute ne scias, kiu li estas. Do Joel diris al li sian nomon. La
+paŝtisto eĉ ne ektremis.
+
+Joel komencis lin insulti, kio tamen eĉ plej malmulte ne influis
+la paŝtiston. Do li demandis, en kies servo li estas. La paŝtisto
+respondis, ke en la Azdraŝa. Je tio Joel ekkriis, ke tiaokaze li
+servas ĉe li, ĉar Azdraŝ mortis, kaj li estas la heredinto. Li do
+ordonis al la paŝtisto, plenumi tuj lian volon, minacante forpeli
+lin el la servado. Sed la paŝtisto respondis, ke li ne konas lin,
+sed nur konas la ŝafaron, do kiel longe la ŝafaro estos donita al
+lia gardado, tiel longe li estos faranta tion, kio estas bona por
+ĝi, sed ne tion, kio estus agrabla por Joel.
+
+Joel ekmiregis. Similan malobeemon li renkontis neniam. La plej
+potencaj homoj en la ĉefurbo klinis antaŭ li la kapojn, la popolo
+aŭskultis kun estimo liajn vortojn, la pastroj prezentis al li
+la pergamenojn -- kaj jen subite ia paŝtisto el apudo de Jordano
+kontraŭstaras al li, kaj krom tio ankoraŭ lia servanto, mizerulo,
+simplulo, kiun li povis ĉiumomente laŭvole forpeli!
+
+La kolero ekregis lin kiel flamo. Li demetis la supran veston, kaj,
+estante forta, li decidis senprokraste puni la kuraĝulon.
+
+Li proksimiĝis do al li kaj jam estis etendonta la manon al la
+kuŝanto, kiam subite alsaltis vilhara hundo de l' paŝtisto, ĵetis
+sin al liaj piedoj kaj komencis tiel boji kaj dentgrinci, ke Joel
+estis devigita reiri kaj forpeli ĝin.
+
+Li postulis de la paŝtisto, ke li la hundon alvoku, kriis, ke li
+akuzos lin pro la havado de hundo, kiu estis ĝenerale malŝatata.
+Sed la paŝtisto, ne turnante eĉ la plej malgrandan atenton je li,
+komencis plendavoĉe kanti:
+
+„Iras al popolo sia, iras blanka, brilanta kaj pura. --
+
+Iras malriĉa kaj sen sceptro kaj sen krono kaj sen skarlato...
+
+Sed en liaj okuloj forto, kaj en la voĉo potenco, kaj sur la frunto
+vero, kaj en la koro amo al la popolo...
+
+Iras jam, iras savonto, iras antaŭdirita, iras Meŝjaĥ!“
+
+Joel dume forkuris tiom, ke lin la hundo ne plu persekutis, sed,
+reveninte al sia sinjoro, kuŝiĝis ĉe lia kapo. La voĉo de l'
+paŝtisto aŭdiĝis sur la valo inter la palmoj, inter la kanoj
+riveraj kaj kuris sur la akvo. Joel komencis aŭskulti, kaj la vortoj
+de l' paŝtista kanto lin pripensigis.
+
+En tiu momento li aŭdis bruon de voĉoj. Li turnis la kapon kaj
+ekvidis sur la proksima monteto amason da homoj, kiu ariĝis kaj
+sidiĝis. Sur la supro de l' monteto kreskis alta kverko. Sub tiu
+kverko sidis ia viro mezaĝa. Li estis turnita al Joel dekstraflanke
+kaj estis videbla sur la fono de l' suno, kiu jam kliniĝis al
+subiro.
+
+La paŝtisto lasis la hundon gardi kaj mem iris al la monteto kaj
+miksiĝis kun la amaso. Ĉio ĉi mirigis multe la loĝanton de l'
+ĉefurbo. Do li survestinte ree la supran veston, komencis iri al la
+monteto. Kaj kiam li proksimiĝis al la amaso, venis renkonte al li
+du viroj kaj, ekvidinte liajn riĉajn vestojn kaj belegan turbanon,
+demandis, kion li tie ĉi deziras?
+
+Li respondis, ke pli ĝuste li devus ilin demandi, kion ili faras en
+liaj bienoj kaj paŝtejoj?
+
+Je tio rediris unu el tiuj viroj, ke ili ne scias, al kiu apartenas
+tiuj paŝtejoj, ke neniel tio ilin interesas, ĉar ili faras nenian
+malutilon, sed kolektiĝas, por aŭskulti la Dian vorton.
+
+Joel diris al ili sian nomon. Sed ili respondis, ke tiu nomo havas
+por ili nenian signifon. Do li rakontis pri sia rango en la ĉefurbo
+kaj en Sinhedriono. Ili rediris, ke li revenu tien, kaj tiam certe
+ĉiu donos al li la konvenan respekton. Sed tie ĉi ĉiuj estas
+egalaj antaŭ Dio, kaj ne ekzistas homo, kiu estus pli alta ol la
+aliaj. Pli alta estas nur tiu, kiu al ili parolas, ilia instruisto.
+
+Joel ordonis senprokraste alkonduki al li tiun instruiston. Sed ili
+respondis, ke ili tion ne povas fari, ĉar la instruisto parolas al
+la popolo, kaj oni ne devas lin malhelpi.
+
+Do komencis Joel ilin ankaŭ insulti kaj estus eĉ levinta kontraŭ
+ili la manon; tamen li timis la amason, kiu estus ilin verŝajne
+defendinta kaj al li farinta malbonon. Li kontentiĝis nur per tiu
+insultado, ne ŝparante malestimajn vortojn, je kio ili ne respondis,
+sed kunmetinte la manojn sur la brustoj, kliniĝis antaŭ li kun
+respekto.
+
+Vidante, ke tiamaniere li ne sukcesas, li enmetis la manon sub la
+supran veston kaj eltiris el la saketo du monerojn, por doni al ĉiu
+po unu. Sed ili retiris, levante la manojn supren kaj sciigante, ke
+la donacon ili ne akceptos.
+
+Tiam Joel diris, ke li prenos ilin en sian servadon kaj donos bonegan
+salajron. Ili respondis, ke ili ne povas konsenti, servante al sia
+instruisto.
+
+Do Joel demandis, ĉu tiu instruisto estas riĉa, kiajn li havas
+bienojn kaj kiom da ŝafaroj? Ili respondis, ke li posedas nenion kaj
+estas tiel malriĉa kiel ili.
+
+Joel alrigardis jen unu, jen la alian, ne komprenante.
+
+-- Do tiu instruisto via havas neniajn bienojn, kaj vi al li
+servas? -- li demandis.
+
+-- Ni servas lin -- ili respondis.
+
+-- Kial? Por kio li povas vin bezoni? Kiel li pagas, nenion havante?
+
+-- Li pagas nenion al ni kaj ni nenion postulas; ĉar kvankam ni nomas
+nin liaj servistoj, tamen ne ni al li, sed li al ni faras servon.
+
+-- Neniel mi komprenas vian parolon!
+
+-- Ni ne miras, ĉar ankoraŭ viaj okuloj ne estas malfermitaj kaj la
+oreloj ne malŝtopitaj.
+
+-- Eble vi estos ilin al mi malfermantaj? -- ekkriis malestime Joel.
+
+-- Ne ni, sed li, kiam venos la horo kaj estos lia volo.
+
+-- Kiam estos lia volo, ne mia?
+
+-- Jes, sinjoro.
+
+-- Kiu do al li donis tian estrecon, ke li povas tiamaniere agi?
+
+-- Tiu, kiu loĝas en la ĉielo kaj estas sinjoro de ni ĉiuj, de ni
+kaj vi! -- respondis ili, klinante respektplene la kapojn.
+
+Joel pripensis momenton kaj poste turnis sin al ili kaj komencis
+minaci per la mano:
+
+-- Via instruisto estas mensogulo, ribelanto, malobeanta al
+Sinhedriono!
+
+-- Li obeas Dion! -- konfirmis ambaŭ viroj, kliniĝante.
+
+Joel incitiĝis.
+
+-- Mi vin akuzos, starigos antaŭ la konsilantaron, vi estos punataj
+sur la korpo!
+
+-- Nenion vi, sinjoro, povos fari al ni sen lia volo -- diris unu el la
+viroj kaj montris sur la monteto la instruiston.
+
+-- Mi ordonos ligi tiun ĉi vian instruiston, konduki en la urbon,
+sendi al Jeruŝalaim, mi ordonos lin juĝi, skurĝi, ordonos lin...
+
+-- Nenion vi, sinjoro, faros al li, se li je tio ne konsentos.
+
+Joel eksilentis. Li estis efektive senforta. Rigardinte do unufoje
+ankoraŭ unu kaj la alian, li ekkraĉis kaj revenis al la rivero.
+
+Li decidis tamen, reveninte urbon, esplori tiun ĉi aferon. Dume
+li serĉis la azenkondukanton kaj alvokis lin en la arbaro. Li
+ekrigardis la sunon; ĝi jam kaŝis sin trans la monteto. Li vidis,
+kiel la amasoj disiĝis kaj malaperis. El la monteto deiris la
+paŝtisto, enpelis la ŝafaron en la riveron, banis ĝin, kaj poste
+kun ĝi malproksimiĝis. Mallumo kovris la valon Jordanan. Joel
+komencis timi. Li volis malbeni la malobeeman kondukanton, volis fine
+reveni piede Jeriĥon-on, sed ne konante la vojon povis facile erari.
+Krom tio li rememoris, ke en la arbaroj kaŝiĝas lupoj. Ekregis lin
+timo ĉiam pli granda; li sidiĝis apud la rivero kaj tremis.
+
+Tiam aŭdiĝis subite la vokado de l' kondukisto, pelanta la azenon.
+Joel iris renkonte al li.
+
+La servisto prenis la bridon de l' azeno kaj volis helpi la sinjoron
+sidiĝi. Sed tiu elŝiris el lia mano la vipon kaj komencis bati lin
+sur la ŝultrojn. La kondukanto ekgenuis, submetis la ŝultrojn kaj
+post ĉiu ekbato ĝemis mallaŭte, suferante pacience la punon.
+
+Joel laciĝinte, ordonis al li stariĝi kaj haltigi la beston.
+
+Ili eniris la arbaron.
+
+Nokta mallumo, soleco arbara kaj la timo neniigis baldaŭ la koleron
+de Joel. Li turnis sin do al la kondukanto, kaj lia voĉo estis
+milda:
+
+-- Ĉu en tiu ĉi arbaro estas rabistoj?
+
+-- Povas esti, sinjoro.
+
+-- Kaj ĉu ili povas nin ataki?
+
+-- Povas, sinjoro.
+
+-- Kion ili povos al ni fari?
+
+-- Nenion ili, sinjoro, al ni faros.
+
+-- Kial ili povas ataki kaj povas nenion fari?
+
+-- Ĉar Dio gardas siajn servantojn, sinjoro.
+
+-- Do min. Sed ĉu li gardos cin?
+
+-- Ne, sinjoro, li min gardos. Pli malbone estos kun vi.
+
+-- Fierulo ci estas. Morgaŭ mi ordonos cin vipi.
+
+-- Vi faros, sinjoro, kion vi volos.
+
+Joel eksilentis. Li ne estis tamen kontenta pro la rezultato de la
+interparolo. Li silentis ankoraŭ momenton, poste diris per voĉo tre
+milda:
+
+-- Mi pardonos al ci la kulpon, ĉar ci min servas kaj dum la nokto
+kondukas.
+
+-- Mi dankas vin, sinjoro.
+
+-- Ĉu en ĉi tiu arbaro estas sovaĝaj bestoj?
+
+-- Estas, sinjoro.
+
+-- Ĉu ili povas nin ataki?
+
+-- Povas, sinjoro.
+
+-- Kaj ili povas al ni fari ian fatalaĵon?
+
+-- Nenion al ni, sinjoro, ili faros.
+
+-- Ree ci parolas tiel, ke ci estas nekomprenebla.
+
+-- Dio gardas siajn servantojn, sinjoro.
+
+-- Kiel do ci lin servas, stultulo?
+
+-- Per la tuta vivo, sinjoro.
+
+-- Cia vivo ofendas Dion.
+
+-- La vivo de mizeruloj ne ofendas Dion, sinjoro.
+
+-- Do kies vivo ofendas Dion?
+
+-- La vivo de riĉuloj, sinjoro.
+
+-- De riĉuloj? Mi ordonos morgaŭ vipi cin dufoje, matene kaj
+vespere!
+
+-- Via volo, sinjoro...
+
+Joel ree eksilentis, sed ĉiam pli estis malkontenta pro la
+interparolo. Ree do li tre mildiĝis kaj diris:
+
+-- Mi pripensis kaj pardonos al ci vortojn ciajn, ĉar ci mem estos
+defendanta kontraŭ la rabistoj kaj sovaĝaj bestoj. Sed diru, kiu
+instruis al ci tian parolon?
+
+-- Tiu instruisto, sinjoro.
+
+-- Kia instruisto?
+
+La servisto eksilentis timante. Joel komencis lin demandi trudeme:
+
+-- Eble tie sur la monteto? Tiu ĉirkaŭita per la amasoj? Tiel? Ci
+forlasis min kaj iris lin aŭskulti? Mi ordonos vipi cin trifoje,
+matene, tagmeze kaj vespere!
+
+-- Via volo, sinjoro...
+
+-- Kiel do, hipokritulo, mia volo! Mi al ci ordonis servi al mi, kaj
+ci forkuras kun la azeno, por aŭskulti la parolojn de ia vagulo!
+
+-- De instruisto, sinjoro...
+
+-- De vagulo, mi diras, kiu cin ribeligas kaj estos starigita antaŭ
+la juĝo. Kial ci aŭskultas la parolojn de tiu homo?
+
+-- Ĉar mi volas esti savota kaj eniri Regnon ĉielan.
+
+-- Kaj mi ne eniros Regnon ĉielan?
+
+-- Ne, sinjoro, se vi ne sekvos liajn postesignojn...
+
+-- Silentu, stultulo, kaj pelu la azenon, ĉar ĝi haltis kaj
+pinĉoŝiras la herbon!
+
+La kondukanto ekkriis al la azeno; tiu komencis paŝi pli vigle.
+La vojo fariĝis pli dekliva, la mallumo densiĝis tiel, ke oni
+tute nenion povis vidi. Nur supre montriĝis malgranda ĉielspaco,
+surŝutita per la steloj. En la arbaro regis silento. Joel ektremis;
+komencis esti malvarme. Li kunmetis la manojn sur la brusto kaj
+klinis la kapon antaŭen, esplorante la mallumojn. Kaj li miris,
+kiamaniere la kondukanto ne eraras, sed kun tia certeco la beston
+pelas antaŭ si. En la profundo de l' arbaro aŭdiĝis la vokado de
+ia birdo aŭ besto, ĉar malfacile Joel povis diveni, preskaŭ neniam
+komunikiĝante kun la naturo. Ree komencis lin turmenti timo. Li
+deziris do, kiel eble plej favorigi por si la kondukanton, por ke tiu
+pli volonte lin gardu kaj en okaza bezono defendu. Tial li alparolis
+lin:
+
+-- Por ke ci ekkonu mian eksterordinaran bonecon, mi eĉ tiufoje
+pardonas al ci la kulpon. Sed diru, kiamaniere ci trafas, kiamaniere
+ci ne eraras, kiamaniere ci ne timas dum tia terura mallumo kaj en
+tia senhomejo iri, servi al mi, kaj havas ankoraŭ tiel liberan
+animon?
+
+-- La instruisto ordonis al mi timi nenion kaj neniun.
+
+-- Kiel, li ordonis timi neniun?
+
+-- Jes, sinjoro, neniun.
+
+-- Nek siajn sinjorojn?
+
+-- Jes, sinjoro, nek la sinjorojn.
+
+-- Do ci ne timas min?
+
+-- Ne, sinjoro.
+
+-- Ci malamas min?
+
+-- Mi amas vin, sinjoro.
+
+-- Kial ci min amas?
+
+-- Ĉar la instruisto ordonis ami ĉiujn, eĉ tiujn, kiuj faras al ni
+maljustaĵon. Li ordonis pagi per bono al ili por la malbono...
+
+Joel ekpensis pri la lastaj vortoj de l' kondukanto kaj venis al
+la konkludo, ke tiufoje li aŭdis aferon por si oportunan. Do la
+instruisto ne ordonis venĝi. Kaj la okazo por tio estis la plej
+ĝusta.
+
+-- Ne ordonis la instruisto levi la manon kontraŭ siaj sinjoroj?
+
+-- Li ne parolis, ke kontraŭ la sinjoroj; nur instruis, ke ne estas
+permesite venĝi.
+
+-- Do ci amas min?
+
+-- Mi amas vin, sinjoro.
+
+-- Tio estas tre bela. Se ordonis tion al ci tiu instruisto, mi
+laŭdas lin pro tio.
+
+-- La instruisto demandis pri vi, sinjoro.
+
+-- Jes? demandis pri mi?
+
+-- Kaj li riproĉis al tiuj du lernantoj, ke ili ne alkondukis vin
+antaŭ lian vizaĝon.
+
+-- Kiel? Min konduki antaŭ lian vizaĝon! Li ja devas al mi veni! Ci
+estas krudulo!
+
+-- Do ankaŭ la instruisto diris, ke li iros al vi, sinjoro.
+
+-- Nu, ci vidas, ke mi cin prave riproĉis!
+
+-- Li volas doni al vi admonon...
+
+-- Stulta ci estas! Li ne povis tion diri, ĉar li estas eble tro
+prudenta por tion fari.
+
+-- Li diris, sinjoro! Ĉiuj Peruŝim ricevos admonon, kaj ankaŭ
+Sinhedriono...
+
+-- Kio? kian admonon?
+
+Joel ekkaptis la bridon kaj haltigis la azenon. Mirego forprenis de
+li la parolon.
+
+Li ne povis kompreni tian malrespekton. Sed ĉar ĉirkaŭe vastiĝis
+arbara senhomejo, malgajeco kaj de tempo al tempo aŭdiĝis la kriado
+de rabobirdoj, li diris nenion, nur kuntiriĝis sur la dorso de l'
+besto kaj ĉesigis ĉiun interparolon.
+
+La azeno ekfaletis unu- kaj duafoje. La kondukanto haltigis ĝin kaj
+diris:
+
+-- Malsupreniru, sinjoro, de la dorso.
+
+Joel ne obeis. La kondukanto ripetis:
+
+-- Malsupreniru, sinjoro, kaj sekvu min piede, ĉar la besto povas
+fali kaj faros al vi ian domaĝon, kiam vi falos sur la vojeto dum la
+mallumo.
+
+Joel malsupreniris de la dorso de l' azeno.
+
+-- Paŝu post mi, sinjoro, tenante vin proksime de mi. La besto sekvos
+vin kaj ne restos malantaŭe, timante la sovaĝajn bestojn.
+
+Ili do komencis piede migri, irante la deklivan vojeton.
+
+Joel faletis sur la ŝtonoj kaj cedroradikoj, la arbustoj gratis
+liajn manojn, li spiris laŭte, ŝvitis kaj sentis sin senmezure
+malfeliĉa. Li malbenis interne la emon ekskursadi apud Jordano kun
+servisto neelprovita; li malbenis tiun serviston, ke li, anstataŭ
+ĝustatempe veni, aŭskultis parolon de ia frenezulo, malbenis ankaŭ
+tiun frenezulon, kiu lin elmetis al tiom da suferoj. Li ne ĝuis la
+banon, ĉiun ĝojon forprenis de li la aroganteco de l' paŝtisto
+kaj la malrespektemo de tiuj du viroj. Tiu ĉi perforta piedirado
+tra la arbaro estis nesuferebla kaj senmezure malagrabla por homo,
+kiu promenadis nur en la ĉefurbo meze de la amasoj disiĝantaj
+antaŭ li. Li ne povis kompreni, ke jen li, ano de Sinhedriono, kiu
+paroladis en la templo al la popolo kaj estis plej ŝatata, ke jen li
+nune tra la malluma arbaro paŝas, gratita, laca, lasita al protekto
+de necerta servisto, kiu en la interparolo altiĝas super li. Do li
+ŝmacis per la lango, faletis, insultis mallaŭte -- sed iris.
+
+La kondukanto subite haltis.
+
+-- Mi ne vidas, sinjoro, la trabon super la torento. Atendu min ĉi
+tie kaj mi iros supren kontraŭ la riverfluo kaj, retrovinte la
+trairejon, revenos al vi.
+
+Joel ektimis. Ekfulmis en lia kapo la penso, ke la kondukanto volas
+lin perfidi, ke li volas foriĝi, por ke dume ataku la rabistoj, kun
+kiuj li estas en interkonsento. Sed li timis, aperigi tiaspecan
+suspekton. Li stariĝis sub la arbo.
+
+La azeno sekvis la kondukanton, pinĉmanĝante per la dentoj la
+arbustofoliojn.
+
+La kondukanto dronis en la mallumo. Oni aŭdis nur liajn paŝojn
+inter la arbustoj. Sed baldaŭ eĉ tio silentiĝis.
+
+La ŝvito fluis per densaj gutoj de la frunto de Joel. Li spiris
+profunde kaj la tempioj pulsobatis malkviete. Fine li komencis klaki
+per la dentoj.
+
+Li ekkriis kelkfoje al la kondukanto. Sed tiu ne respondis.
+
+Tiel strange sonis en la arbaro la voĉo de Joel, ke li ĉesis voki.
+Ĉiumomente li sentis sin pli terurita en la soleco. En tiu ĉi timo
+li komencis preĝi kaj murmuri tiajn vortojn:
+
+„Dio, kiu elkondukis vian popolon el la dezerto, kompatu vian plej
+bonan servanton kaj helpu lin...
+
+„La plej bonan servanton, kiu ne pruntedonas procentege, kaj se li
+blasfemas, tiam nur tre malofte...
+
+„Kiu ne estas impostisto, nek krimulo, nek avidema, nek blasfemanto,
+nek azenkondukanto, nek paŝtisto, nek apartenas al la popolaĉo...
+
+„Kiu estas ano de Sinhedriono, parolas al la popolo, juĝas ĝin kaj
+punas laŭ ordono via...
+
+„Kiu estas certe al vi agrabla kaj tamen vi lin elmetas al
+provadoj...
+
+„Kiu donas al vi oferon, kaj nome unu kolombon...
+
+„Sinjoro... du kolombojn... tri, kvar...
+
+„Sinjoro... kapridon mi ordonos por vi buĉi kaj oferbruligi...
+
+„Du kapridojn... kaj ŝafidon... ĉu ne sufiĉos, Sinjoro?...
+
+„Ŝafinon kaj ŝafoviron, nur elaŭskultu kaj heligu la mallumojn...
+
+„Sinjoro, bovon mi oferos, propran bovon, propran, ne trompe prenitan
+de la popolo, el mia propra aro... Sinjoro -- pli multe mi ne povas!“
+
+Li balanciĝis, preĝis kaj petegis, sed la timo ĉiam pli granda
+trapenetris lin per tremego.
+
+Subite ekblovis vento kaj movis la arbaron. Aŭdiĝis terura,
+misterplena bruo. Ŝajnis al Joel, ke en tiu bruo sonas iaj krioj,
+iaj murmuroj, sonoro de glavoj kaj tintado de diversaj armiloj
+rabistaj.
+
+Li falis genuen, kaŝis la frunton en la manoj.
+
+La vento ĉirkaŭkuris la tutan arbaron kaj komencis jam sube movi la
+arbustojn. Samtempe la ĉielo mallumiĝis supre, kaj Joel ne vidis
+eĉ la trunkon, antaŭ kiu li genuis.
+
+Li ektimis pli multe kaj opiniis, ke venis jam la lasta horo. Tial li
+komencis preĝi ree, sed jam tiamaniere:
+
+„Sinjoro, vermo mi estas kompare kun via potenco...
+
+„Vermo, kiun ne nur via piedo povas dispremi, sed eĉ formanĝi
+ĉiu besto, renversi ĉiu trunko kaj dronigi ĉiu torento, kaj ĉiu
+rabisto trapiki per la ponardo kaj senigi de la vivo...
+
+„Mi estas pekulo, arogantulo, mensoganto kaj nomas min tio, kio mi
+estas...
+
+„Mi bruligas la oferojn, kiujn la popolo alportas...
+
+„Mi laŭdas min antaŭ vi en la preĝo, sed ne humiliĝas...
+
+„Impostisto pli ĝuste preĝas...
+
+„Sed se vi estas Dio, se vi estas Tiu, kiu estas, kompatu min kaj
+defendu...
+
+„Mi pliboniĝos, Sinjoro... En la templo mi estos faranta la
+penton... Malkaŝe, Sinjoro... Mi ŝutos polvon sur la kapon kaj
+estos faranta laŭte la konfeson de l' pekoj...
+
+„Sinjoro, ĉu mi povas fari ion pli grandan?“
+
+La vento kreskis, pligrandiĝis, skuis la arbaron. Potencaj
+branĉegoj ŝanceliĝis, kaŭzante grandan bruon.
+
+Konstante kreskis la timo de Joel kaj fine trapasis la lastajn
+limojn. Post ĝi sekvis malespero. Tiumomente ia birdo ekridis supre
+kaj en malproksimo aŭdiĝis longedaŭra muĝo de besto.
+
+Joel komencis pro malespero blasfemi:
+
+„Vi ne enrigardis min, Sinjoro, kaj ne elaŭskultis mian preĝon...
+
+„Vi Dio?... Vi Sinjoro?...
+
+„Viajn servantojn vi forlasas en malluma arbaro kaj inter sovaĝaj
+bestoj...
+
+„Sed vere! Kvardek jarojn vi kondukis tra la dezerto Moseon kun la
+tuta popolo! Kvardek jarojn!
+
+„Kia vi estas Dio?... Ne, vi ne estas tiu, kiu estas!“...
+
+Kaj li kraĉis la teron, sur kiu li genuis, kraĉis la arbotrunkon,
+kiu staris antaŭ li, kraĉis la aeron, kiun li spiris, kraĉis la
+ĉielon, en kiu kaŝis sin Adojnaj'... Ne Adojnoj', sed pli ĝuste
+Suten!...
+
+En tiu momento li eksentis manplaton sur sia brako. Li salte leviĝis
+de la tero por sin defendi. Sed en la krepusko aperis la kapo de l'
+azeno. La kondukanto tenis la bridon de l' besto. Joel sidiĝis kaj
+ili ekiris.
+
+Subite la vento trankviliĝis kaj el inter la nuboj elfluis la luno
+kaj disverŝis bluetan helecon en la arbaro. Fariĝis tre lume.
+
+Joel tuj kvietiĝis, sed silentis. La besto paŝis mirinde vigle.
+Ili eliris el la arbustoj. Joel aŭdis la murmuron de l' torento.
+Baldaŭ la arbustoj disiĝis, aperis profundaĵo, sur kies fundo
+bruis la akvo. Super ĝi troviĝis trabo, heligata per la lunbrilo.
+La besto suriris ĝin per paŝo certa kaj post momento transiris
+la duan flankon. La arbaro maldensiĝis; ili eniris larĝan vojon.
+Baldaŭ aperis la muroj de Jeriĥono.
+
+Joel dum la tuta vojo ne diris eĉ unu vorton. En la urbo ĉiuj
+dormis ankoraŭ. Antaŭ la domo de l' riĉulo estis senhome. Neniu el
+la servistoj venis al li renkonte.
+
+Do li malsupreniris rapidege de la dorso de l' besto, suriris la
+ŝtuparon; la pordo ne estis ŝlosita. Li trapasis la koridoron kaj
+eniris la dormejon. Rapide deĵetinte la vestojn li kuŝiĝis sur la
+liton.
+
+Li ekspiris. Finiĝis ĉiuj maltrankviliĝoj. Baldaŭ pro granda
+laciĝo li fermis la palpebrojn kaj ekdormis. Li dormis tiel
+profunde, ke nenia sonĝa revaĵo movis lian penson.
+
+Vekiĝinte sufiĉe malfrue, li sidiĝis sur la lito kaj komencis
+pripensadi.
+
+Li rememoris, kie li estas kaj kie estis. Li migris apud Jordano,
+eraris en la arbaro kaj sentis grandan timon. Kaj ĉio ĉi pro tiu
+malhonesta servisto. Trifoje li promesis al li vipadon kaj trifoje al
+li tion pardonis. Sed li ne pardonis ankoraŭ tiun longan serĉadon
+de l' trairejo super la torento. Kaj tio estis plej puninda, ĉar
+Joel pro la timo blasfemis. Kiu estas kulpa pro la blasfemado, se ne
+tiu malpia kondukanto? Ĉu li ne kondukis lin en la tenton? Ĉu Joel
+iam ajn en la vivo blasfemis?
+
+Neniam abomena blasfemo makulis lian buŝon. Kaj nune?
+
+Kolero komencis boli en li.
+
+Li rememorigis al si vorton post vorto, kion la malhonesta kondukanto
+kuraĝis paroli pri tiu instruisto kaj pri la dia protekto.
+
+Li ja altiĝis super lin, super Joel, super la anon de Sinhedriono.
+
+Ne, tio estas obstineco, tio estas malobeemo, krimo! Kian punon li
+devas elpensi pro tio?
+
+Li frapvokis la servistojn kaj atendis. Sed neniu aperis. Do li
+ekfrapis la duan kaj trian fojon, kaj poste mem eliris en la
+antaŭĉambron.
+
+Tie li renkontis unu serviston; sed tiu faris pro miro grandajn
+okulojn.
+
+-- Kiel, sinjoro, do vi estas? Kaj ni timis...
+
+-- Vi estas stultulo, mi dormis la tutan nokton, nur vi nenion scias
+pri tio. Mi vin ĉiujn forĵetos, dispelos, ordonos vipi...
+
+-- Volo via, sinjoro -- respondis la paliĝanta servisto.
+
+-- Alvoku al mi tuj la kondukanton -- ekkriis Joel.
+
+La servisto ne moviĝis de la loko; li nur rigardis per ĉiam pli
+mirigitaj okuloj la sinjoron.
+
+-- Moviĝu do, kanajlo! -- ekkriegis Joel kaj levis la manon.
+
+La servisto deturnis sin kaj forkuris.
+
+Pasis momento post momento. Joel malpacienciĝis. Fine li iris el la
+koridoro sur la korton.
+
+Tie li ekvidis tiun serviston konsiliĝantan kun la aliaj.
+
+-- Kie estas la kondukanto? -- ektondris Joel.
+
+La servisto ekbalbutis, kliniĝante profunde:
+
+-- Sinjoro... li ne estas...
+
+-- Kiel, li forkuris?
+
+-- Sinjoro... ankaŭ la besto mankas... Vi eble piede revenis...
+
+Sango alfluis en la kapon de Joel. Per teruraj okuloj li fulmofrapis
+la tremantajn servistojn, kiam subite aperis en la pordego la besto
+kaj post ĝi la kondukanto.
+
+Tiu, ekvidinte la sinjoron, alkuris, ĵetis sin al liaj piedoj kaj
+komencis voki:
+
+-- Pardonu, sinjoro, mi ekeraris en la arbaro, ne povis vin retrovi...
+Mi kriis!... Mi ĉirkaŭkuris frumatene la tutan arbaron kaj fine
+pensis, ke vi piede revenis...
+
+Joel kuntiris la pugnon super lia kapo kaj ekkriis:
+
+-- Ci mensogas! Ci kun mi revenis nokte!
+
+La kondukanto saltleviĝis. Li fariĝis tre pala, la okuloj estis
+teruritaj. Metinte la fingron sur la buŝon li parolis kun granda
+certeco:
+
+-- Ne, sinjoro, tio ne mi... tio ne mi... Tio estas certe la ago de
+nia instruisto...
+
+Joel malfermis larĝe la okulojn, ekrigardis la servistojn. Ĉiuj
+krucigis la manojn kaj komencis movi la lipojn. Kaj la kondukisto
+parolis:
+
+-- Vi, sinjoro, certe alvokis en la mizero lian helpon... Ne?... Eble
+vi preĝis... Aŭ eble vi blasfemis... Li donis al vi admonon!
+
+Joel komencis froti per la manplato la frunton, ekrigardis la azenon,
+kiu estis tre lacigita, havis enfalintan ventron kaj ĉiumomente
+oscedis. Li ekrigardis la kondukanton, sur kiu la nokto kaj lacegoj
+gravuris neforigeblajn signojn, ekrigardis la tremantan servistaron,
+la domon, la arbojn.
+
+Subite li turnis sin kaj foriris en la dormejon.
+
+Sidiĝinte sur la liton, li frotis la frunton, ĉirkaŭrigardis la
+murojn, la plankon kaj plafonon.
+
+-- Kio ĝi estas? -- li murmuris. -- Kio ĝi estas? Kio ĝi estas?...
+
+Li pripensis tiamaniere la tutan tagon.
+
+Vane la servistoj eniradis demandante, ĉu li ne postulas manĝon.
+
+Joel sidis sur la lito tiamaniere ĝis la vespero.
+
+Nur vespere li ordonis alvoki la kondukanton, enfermis sin kun li kaj
+longe ili pri io interparolis.
+
+La servistoj atendis ĉe la pordo, sed povis aŭdi nenian vorton.
+
+Kaj tiuj interparolis ĝis la noktomezo, ĝis la tagiĝo, ĝis la
+sunleviĝo...
+
+
+
+
+DU DISCIPLOJ
+
+
+El Betsajdo al Kafarnaum dum malfrua vespero iris du homoj. Unu el
+ili estis viro maljuna, sed vigla; la dua -- junulo, eble dekkvinjara.
+Ili akcelis la paŝojn, por antaŭ la noktiĝo preteriri la krudajn
+montdeklivojn kaj aliri Jordanon, kie inter la kanoj estis kaŝita
+boato, en kiu plue sur la rivero kaj la lago ili estis veturontaj.
+
+La aero estis vaporplena, saturita per odoro de diversaj floroj, kiuj
+kvazaŭ per neĝeroj kovris la arbojn. La ĉielo en la okcidento ne
+mallumiĝis ankoraŭ, nur estis kvazaŭ lazura kurteno, malantaŭ kiu
+koloriĝis la heleco. Supre tamen aperis profunda bluo kaj tie kaj ie
+jam brilis la steloj, kies nombro ĉiumomente pligrandiĝadis.
+
+En la aero rondflugis noktobirdoj, per silenta kuro glitante super la
+kapoj de l' vojaĝantoj.
+
+La densaĵo kreskis antaŭ ili, sed ili jam aŭdis la bruon de
+ruliĝantaj Jordanakvoj. Ili do troviĝis proksime de la rivero.
+Ĉirkaŭis ilin ĉiam pli granda mallumo. La steloj sur la ĉielo
+brilis hele, kvazaŭ aro da oleaj lampetoj, sed inter la arbustoj
+malmulton povis diveni la okulo. La vojo kurbiĝis maldekstren; ili
+tamen turnis sin tra la densaĵo rekte al la rivero. Ili iris tra
+mallarĝa vojeto. La maljuna vojaĝanto iris antaŭe, preparante
+la trairon por la junulo, kiu videble ne konis la vojon. La rivera
+murmuro fariĝis pli laŭta. Fine ili atingis la bordon kaj ekvidis
+la nigrajn akvojn, sur kiuj aperadis rondoj de akvoturnoj kaj
+ŝaŭmoj. La bruo de l' fluantaj ondoj plenigadis la senhomejon.
+
+La maljuna vojaĝanto lasis la junulon sur la bordo kaj mem iris iom
+supren kontraŭ la fluo, kie nigris la kanoj. Post iom da tempo
+aŭdiĝis la plaŭdado de l' remilo kaj el la ombroj elŝoviĝis
+boato. Kiam la ŝipeto ektuŝis la bordon, ensaltis la junulo, kaj
+la griza viro forpuŝis per la remilo la boaton kaj lasis ĝin naĝi
+kun la akvofluo. Li mem ankaŭ sidiĝis, atentante nur, ke la boato
+troviĝu meze de la rivero.
+
+Ĵus en la orienta parto de l' ĉielo montriĝis inter la montetoj
+ruĝa luno. Pliheliĝis iom. La rivero murmuris, portante sur sia
+ŝanceliĝanta, moviĝema dorso facile la boaton. La luno rapide
+ŝanĝis la koloron kaj baldaŭ fariĝis griza. La akvoj bruis ĉiam
+pli laŭte, ĉar jam ili proksimiĝadis al la enfluejo. La rivero
+en sia tuta larĝo enverŝiĝadis en la lagon, kiu en tiu ĉi loko
+diverskoloriĝis en la lunbrilo, kvazaŭ sur la akvoglato flagrus
+miloj da steloj. La lago, bordoj kaj montetoj kovris sin per lumo
+dubeblua, mistera, inspiranta al revoj.
+
+La junulo sidis sur la antaŭo de l' boato, apogis la kapon sur la
+manplato kaj rigardis la akvojn. La grizulo de tempo al tempo ekmovis
+la remilon, kaj tiel ili naĝis kviete kaj silente sur la ĉiam pli
+larĝaj akvoj, sur kiuj portis ilin la Jordana fluo.
+
+Subite la infano ekĝemetis kaj diris al la griza viro:
+
+-- Kiel trankvila kaj bela nokto! La steloj rigardas nin kaj
+palpebrumas... Longe mi volus tiel naĝi... La mondo estas efektive
+bela!
+
+La maljunulo silentis momenton kaj respondis:
+
+-- La mondo estas bela, sed oni ne devas tro ĝin ami. Bela ĝi estas
+por juna okulo kaj por animo nelacigita. Sed por maljunulo, kiam li
+fermos la okulojn, videbla fariĝas mondo alia, multe pli bela. Vi
+tamen ne konas ankoraŭ tiun mondon.
+
+La junulo pripensadis longe kaj diris:
+
+-- Diru al mi, kie estas tiu mondo, pri kiu vi parolas?
+
+La maljunulo ektuŝis per la mano antaŭe la bruston kaj diris „tie
+ĉi“, poste levis la fingron al la ĉielo kaj ekmurmuris „tie“. Poste
+li eksilentis.
+
+Post momento la junulo interrompis la silenton, parolante:
+
+-- Mi tamen amas la mondon, kiun mi vidas!
+
+La maljuna viro kapskuis kaj respondis:
+
+-- Tio estas vantaĵo. Amu la ĉielon kaj sopiru al ĝi.
+
+-- Mi sopiras, ĉar tiel parolis la instruisto. Sed li ne asertas, ke
+tiu ĉi mondo estas vantaĵo.
+
+-- Li diris: mia regno ne estas de tiu ĉi mondo.
+
+-- Vere. Mi forgesis... Sed li tamen venis sur la teron!
+
+-- Venis, por varbi por si servistojn al sia regno, kiu estas supre.
+
+-- Ĉu ni lin sekvos tien?
+
+-- Jes.
+
+-- Kaj ni disiĝos de tiu ĉi nia patrujo?
+
+-- Ni disiĝos de ĝi.
+
+-- Kaj ni ne bedaŭros ĝin?
+
+-- Ne bedaŭros.
+
+-- Kaj ĉu en tiu ĉiela regno floros tiel la migdalujoj kaj
+granatarboj?
+
+-- Tie floros arboj pli belaj.
+
+-- Kaj kiel ili estas nomataj?
+
+-- Arboj paradizaj.
+
+-- Kian frukton ili havas?
+
+-- Tre diversan. Kaj dolĉan kaj acidetan.
+
+-- Ĉu kreskas tie la vinbero?
+
+-- Kreskas kaj maturiĝas sepfoje dum la jaro.
+
+-- Ĉu sur montoj similaj al tiuj ĉi?
+
+-- Sur montoj multe pli belaj.
+
+-- Ĉu estas tie lagoj?
+
+-- Estas ĉiela maro.
+
+-- Ĉu oni povas naĝi sur ĝi?
+
+-- Se Sinjoro donos la ordonon.
+
+-- Kaj la akvoj ĉu ondegas iafoje?
+
+-- Ne, regas sur ili eterna kvieto kaj ne malhelpas al la fiŝistoj
+laboradi.
+
+-- Do ankaŭ tie oni devas labori?
+
+-- Ĉie oni devas labori.
+
+-- Eĉ en la ĉielo?
+
+-- Eĉ en la ĉielo.
+
+-- Nur dum sabato estas ripozo?
+
+-- Dum sabato kaj dum ĉiuj festoj.
+
+-- Sed eble nur la pekuloj laboras, kaj la savitoj ripozas?
+
+-- La pekuloj tute ne iras ĉielen, nur en la inferon, kie ili brulas
+en fajro eterna.
+
+La junulo ekĝemetis, murmuris „vere“ kaj ili naĝis plue en
+trankvileco kaj silento. Iafoje ekplaŭdis fiŝo kaj la movitaj akvoj
+ekbrilis en la lunlumo.
+
+Sed la juna penso ne povis longe ripozi kaj post momento ree turnis
+sin al la grizulo per sekvantaj vortoj:
+
+-- Ĉu iufoje permesas Dio rigardi de la ĉielo sur la teron?
+
+-- Ne, ne permesas.
+
+-- Kial li ne permesas?
+
+-- Por ke la savitoj ne ĉagreniĝu.
+
+-- Sed kiam mi rigardas per la okuloj tiun ĉi mondon, neniam venas al
+mi ĉagreno.
+
+-- En la ĉielo ĝi venus.
+
+-- Kial ĝi tie venus kaj tie ĉi ne?
+
+-- Ĉar tie vi havos la tutkomprenon.
+
+-- Kio estas tutkompreno?
+
+-- Tio signifas, ke vi vidos la tutan vantecon de l' mondo.
+
+-- Kiel do povas ĉi tiu mondo esti vanta, se ja ĝin Sinjoro kreis
+kaj nia instruisto tion certigas?
+
+-- Sinjoro kreis la mondon, sed la homoj estas sur ĝi.
+
+-- La homoj estas ankaŭ kreitaj de Sinjoro.
+
+-- Sed ili obeis la inspiron de malbona spirito kaj la vivon sur ĉi
+tiu mondo difektis.
+
+-- Kial la malbona spirito tion al ili inspiris?
+
+-- Ĉar li volis Sinjoron turmenti.
+
+-- Ĉu en la infero estas tia lago.
+
+-- Ne estas. Tie estas maro da fajro.
+
+-- Kaj mankas tiaj montoj? Kaj tiaj floroj? Kaj tia lunbrilo?
+
+-- Nenio simila troviĝas.
+
+-- Do tie estas tre malĝoje?
+
+-- Malĝoje kaj malgaje.
+
+-- Ĉu la satano neniam vidis la ĉielon kaj la teron?
+
+-- Li vidis, sed, ĉar li estis malbona, Sinjoro lin forpelis de si.
+Kaj teren li venadas por tenti la homojn.
+
+-- Eble li sopiras al la ĉielo kaj al la tero?
+
+-- Ne sopiras.
+
+-- Do li estas efektive malbona!
+
+-- Kaj terura.
+
+Ree ekregis silento. La grizulo nune leviĝis, por elkonduki la
+boaton el la Jordana fluo kaj direkti ĝin dekstren, kie en granda
+malproksimo vidiĝis la dometoj de Kafarnaum.
+
+La junulo revis, pripensante la vortojn de l' grizulo. Tiu remis
+kelkan tempon, poste komencis esplori la akvon, eltiris la reton
+kaj ĝin subakvigis. La junulo helpis lin, kaj kiam ili finis sian
+agadon, ili sidiĝis ree sur siaj lokoj. La maljunulo malrapide movis
+la remilon, direktante la boaton al Kafarnaum. Heleco luna kuŝiĝis
+sur la akvoj kaj fariĝis ĉiam pli bele sur la tero kaj sur la
+ĉielo.
+
+Tiam ekmoviĝis ree la junula animo kaj li komencis la grizulon
+demandadi:
+
+-- Ĉu nia instruisto estas forta?
+
+-- Estas forta kaj nevenkebla.
+
+-- Do kial lin ne ĉiuj obeas?
+
+-- Ĉar la homoj estas obstinaj.
+
+-- Ĉu nia instruisto faras miraklojn?
+
+-- Jes, li faras ilin.
+
+-- Do se li volus, li povus dispecigi la rokojn?
+
+-- Li povus tion fari per unu rigardo.
+
+-- Kial do li ne dispecigos tiujn obstinajn homojn?
+
+-- Ĉar li kompatas ilin.
+
+-- Kaj kial li ne ŝanĝos iliajn korojn?
+
+-- Ĉar li lasas al ili liberan volon.
+
+-- Ĉu nia instruisto estos reĝo?
+
+-- Li ja diris, ke lia regno ne estas de tiu ĉi mondo.
+
+-- Estus pli bone, se li volus esti reĝo. Li povus pli facile
+proklami sin reĝo kaj rakonti Evangelion.
+
+-- Li volas montri, ke oni ne bezonas esti reĝo kaj povas fari la
+samon.
+
+-- Do li efektive estas potenca?
+
+-- La reĝoj estas malfortaj kompare kun li.
+
+-- Kaj ĉu la reĝoj povus lin kapti?
+
+-- Ili ne farus tion.
+
+-- Kaj se postulus tion de ili malbonaj homoj?
+
+-- Ili ne kuraĝas tuŝi lin.
+
+-- Tamen ili mortigadis la profetojn.
+
+La grizulo eksilentis kaj meditis, eltirinte la remilon el la akvo.
+La junulo diris post momento:
+
+-- Kial vi ne respondas al mi?
+
+La maljuna homo diris per mallaŭta voĉo:
+
+-- Mi malĝojas...
+
+-- Kial vi malĝojas?
+
+-- Ĉar mi vidas, ke ili povus lin kapti. Sed tiam ni defendus lin kaj
+liberigus.
+
+-- Pro kio? Li ja povus fari miraklon kaj mortigi ilin ĉiujn?
+
+La maljunulo mallevis la kapon kaj malgranda rideto ekvagis sur
+liaj lipoj. Baldaŭ tamen la rideto malaperis senrevene kaj la
+frunto faldiĝis per miloblaj sulkoj. Zorgo ia sidis sur ĝi kaj
+nubigis la vizaĝon. Dubo speguliĝis en la okuloj, kiuj rigardis la
+akvojn. Kaj ŝajnis al la maljunulo, ke en sia mizero li forgesis
+pri la aranĝoj de tiu ĉi mondo, pri ĝiaj potenculoj skribantaj
+la leĝojn. Stariĝis antaŭ lia memoro diversaj momentoj el la
+lasta jaro kaj tiu instruisto ekŝajnis al li esti estaĵo malforta,
+kiu intencas batalon senvenkan, kiu levas la manon kontraŭ fortoj
+nedetrueblaj, kaj kiu povas konduki ilin al pereo. Ili pereos kun
+li, ĉar ili lin amas kaj al li kredas. Sed kio el ĝi rezultos?
+Ĉu tio ŝanĝos la mondon? Li, maljunulo, vivis ja pli longe ol
+la instruisto; kaj kvankam li ne estis tiel lerta en la sciencoj
+kiel tiu, tamen li konis la vivon, ĉar ĝi sur lia frunto skribis
+instruon, kiu estas maldolĉa, sed vera. La juna instruisto ne konis
+la montrilojn de tia instruo, vagis de urbo al urbo kaj predikis. Sed
+ĉu la instruisto vivis tiom, kiom li, kaj ĉu spertis tiom, kiom li
+spertis!
+
+Kaj la timo plenigis la simplulan koron de l' maljuna homo. Jes, li
+timis tion, kio okazadis kaj kio estis okazonta. Kvankam ĉiam pli
+multenombraj amasoj sekvis la instruiston kaj adoris lin. Sed lia
+parolo estis nesingardema, provokanta. Li riproĉis la potenculojn
+kaj estrantojn, kaj ili ĉiam pli kontraŭ li ekscitiĝis. Kial li
+ne bridas sian incitemon? Kial li provokas la potenculojn? La mondo
+estas mondo. Kiom jam estis da maljustaĵoj! Kiu havas armilon,
+uzas ĝin. Kaj tiu buĉo de senkulpaj infanoj, aranĝita de la
+tetrarko? Kaj tiu masmortigo de galileoj, farita de la Landestro?
+Kaj tiuj justuloj ŝtonmortigitaj de la incitita popolo? Kiom da
+profetoj falis pro la kolero de la doktoroj de l' Skribo? Kiom da
+ili, kvazaŭ lumojn, estingis la ĉefurbaj riĉuloj, kiam por ili tiu
+lumo fariĝis neoportuna? Kaj la instruisto estas malriĉa, simpla
+kaj migranta. Kaj la popolamasoj pro ia ajn kaŭzo diskuros kaj
+forlasos lin. Kiu li estas, ke li tian verkegon entreprenas kaj ĝian
+finon ne vidas!
+
+Tiel pensis la maljunulo, kaj la infano pripensis alimaniere.
+Li sonĝis en sia animo senkulpa, ke la instruisto komprenos la
+bezonon fariĝi reĝo, ke li kolektos armeon, konkeros la landon
+kaj sian regadon enkondukos. Li enrajdos al Jeruŝalaim sur blanka
+ĉevalo, ordonos treni la malbonulojn en malliberejon kaj tie estos
+ilin instruanta, ĝis ili ekkredos, kaj tiam li mem distranĉos la
+ligilojn kaj alpremos ilin al sia koro kaj pardonos ilian obstinecon.
+Poste li komencos militon kontraŭ la reĝoj de l' tuta mondo, venkos
+ilin kaj katenitajn venigos kaj tiel longe al ili predikos, ĝis ili
+ekkredos al li, kaj tiam li ankaŭ distranĉos iliajn katenojn kaj
+alpremos al si. Tio estos bela tago! La popolo estos promenanta tra
+la lando kun palmoj kaj lilioj, kantante je lia gloro...
+
+Sed la imago infana, flugante kiel birdo en la vastaĵoj de l' penso,
+renkontis la vortojn de l' maljunulo, kiu diris, ke la instruisto
+ne volas esti reĝo. Li eĉ akcentis tion, kiam li certigis, ke la
+instruisto farante tion, kion li faras ne estante reĝo, estas multe
+pli potenca. Tio ne povis tamen akordiĝi en la kapo junula kun la
+antaŭaj bildoj. Ŝajnis al li, ke la instruisto ne vidas fortojn,
+kondukantajn al la celo. Li fariĝis malĝoja, ke tiel prudenta
+instruisto tamen ne komprenas tiel simplajn aferojn. Li ne imagis
+tiun ordon sur la mondo, kiun oni antaŭdiradis. Kio do estas la
+instruisto kompare kun la potencaj riĉuloj, kompare kun la tetrarko,
+Landestro, reĝoj, ha, kompare kun la imperiestro de l' Romanoj!
+
+Li ĉesis kompreni sian majstron!
+
+Kaj tiam la infana penso kaj la penso de l' maljunulo renkontis
+sin ĉe la muro de unu kaj la sama problemo -- ideo de la forto. Ili
+ambaŭ ne povis kompreni la majstron, kvankam ĉiu pro tute diversaj
+kaŭzoj. Elirinte el du diversaj ekstremoj de l' penso, ili kunvenis
+dumvoje: ili ne komprenis, de kio povas dependi la potenco, pri kiu
+oni konstante aŭdis kaj parolis, kaj al kiu oni kredis, sed kiu
+ne estis elprovita. Li kuracis, sanigis -- tion saman faras ankaŭ
+la sorĉistoj kaj aŭguristoj. Li faris tion pli bone ol ili, pli
+rapide, tio estas vera! Sed kiel de tio veni al la venko de la
+reĝoj, riĉuloj kaj farizeoj! Se li etendos kontraŭ ili la manojn,
+ĉu ili ne starigus militistaron kun hirtiĝintaj lancoj?... Kaj kio
+plue? Kio plue?... Kie forto lia? Kie la antaŭdiritaj forto kaj
+triumfo?
+
+Tiel ili revis sur la akvoj de l' lago, kiu estis kovrita per luna
+heleco kaj briletis kvazaŭ malproksimo ensorĉita.
+
+Subite la junulo komencis diligente rigardi antaŭ si kaj timtremi.
+Li turnis sin unu- kaj duafoje al la grizulo, ĝis kiam tiu
+ekdemandis:
+
+-- Kio al vi estas, infano?
+
+La junulo tremis, etendis la manon kaj ekmurmuris per paliĝintaj
+lipoj:
+
+-- Ŝajnas al mi, ke ia aperaĵo portas sin super la akvoj.
+
+Ili ambaŭ komencis rigardi en la montrita direkto. La junulo
+ekmurmuris post momento:
+
+-- Kvazaŭ ia hela kaj granda figuro proksimiĝas sur la akvoj...
+
+Kaj li ektremis, ĉar li komencis vidi pli klare.
+
+En longa, blanka vesto, kun la kapo mallevita al la brusto, iris
+viro, simila al fantomo kaj la lunbrilo lumigis liajn harojn. La
+dekstran manon li tenis sur la brusto, kaj per la piedoj li tuŝetis
+la akvojn, glatigitajn kaj arĝentumitajn per la koloriĝanta brilo.
+
+La maljunulo almetis la manplaton al la frunto, malfermis la
+mirigitan buŝon kaj rigardis. Sur lia vizaĝo vidiĝis necerteco.
+Subite ekregis lin timo. Li saltis el sia loko, ekplaŭdis per la
+manoj kaj eligis mallongan ekkrion. La junulo turnis al li sian
+timigitan vizaĝon kaj ekflustris:
+
+-- Ĉu tiu stranga figuro ne estas simila al nia instruisto?
+
+Kaj en tiu momento ekbrilis en lia kapo la penso, ke tie eble
+efektive tiu instruisto paŝas sur la akvoj. Kiel li tion faras,
+ke la ondoj sub li ne disiĝas kaj ne englutas lin? Kian forton li
+posedas, ke li tiel iras trankvile sur la moviĝema akvosupraĵo?
+
+La infano turnis sin unufoje ankoraŭ al la maljunulo kaj demandis
+lin per timigitaj okuloj. Sed en tiu momento la maljunulo falis
+genuen sur la tabuloj de l' boato kaj el lia buŝo eliĝis murmuro de
+l' vizia ekscitiĝo:
+
+-- Instruisto! Majstro!
+
+La infano turnis sin unufoje ankoraŭ al la boatorando kaj kliniĝis
+antaŭen. Li rigardis kun timo kaj mirego la lagon kovritan per la
+lumo.
+
+Kaj tiu figuro pasis ankoraŭ momenton sur la ondoj, ĝis kiam fine
+ĝi disfluis en malproksimo meze de la luna heleco.
+
+
+
+
+ESPERANTO-LITERATURO
+
+
+_H. A. LUYKEN, F. B. E. A._
+
+Stranga Heredaĵo
+
+Romano originale verkita
+
+1922. 320 paĝoj. Broŝurita kaj bindita
+
+La romano estas plena de okazintaĵoj, allogaĵoj, plena de sensaciaĵoj!
+
+Ĝia enhavo kondukas la leganton tra la tuta Eŭropo kaj Ameriko,
+pritraktas religiajn kaj socialajn demandojn, pacifismon, naciismon;
+komercistajn, teknikajn kaj artistajn demandojn, okultismon kaj
+spiritismon. La tuton ĉirkaŭas ĉarma amo-rakonto; ĝin trafluas
+glorigo de la Esperanto-movado kun multaj aludoj al ĝia eminentularo.
+La heroo de la romano estas juna anglo, naturdotita per sugestiaj
+fortoj, li estas perfekta parolanto, konvinkita kaj eminenta
+Esperantisto kaj -- finfine -- naskita detektivo kun ĉiuj talentoj
+de iu Sherlock Holmes.
+
+Nenio, neniu kontraŭstaras lin, ĉion li majstras per la forto de
+sia homamo. La romano entuziasmigas la leganton per majstre pentritaj
+vojaĝrakontoj, per aventuraj kaj detektivaj okazintaĵoj; ĝi
+prezentas krom tio multvalorajn kaj instigajn pensojn. Entute: Vera
+esperantista tendencromano, valora libro por ĉiuj gesamideanoj, kiu
+altiras specialan intereson pro sia modela kaj flua stilo.
+
+
+_JEAN FORGE_
+
+ABISMOJ
+
+Romano originale verkita
+
+1923. 150 paĝoj. Broŝurita kaj bindita
+
+Ĉefaj personoj de la romano:
+
+  _Ernesto Muŝko_, bienposedanto en Karlovo
+  _Halino Borki_, filino de najbara bienposedanto en Nivi
+  _Mateo Ardo_, artpentristo
+  _Zonjo Biringo_, lia fianĉino
+
+La romano „Abismoj“ estas unika en la ĝisnuna Esperanto-literaturo.
+Ĝi estas la unua provo sekvi la modernan direkton de la hodiaŭa
+nacilingva romano. Ne nur la enhavo, sed ankaŭ la stilo konformiĝas
+al la nova direkto kaj altiros jam per tio ĉies atenton.
+
+La supraj personoj mem rakontas la romanon ĉapitron post ĉapitro
+alternante en harmonia sinsekvo kaj tiamaniere karakterizas sin mem.
+
+La nepre internacia enhavo, kiun vivigas interalie stranga kaj
+ekscitita pensmaniero de ebriulo, ravaj sonĝoj de gloravida
+pentristo kaj amsoifa knabino kaj laŭnovela vivoskizo, fariĝas
+interesega per la interna batalo inter malnova amo kaj alia
+ekflamanta en la koro de brava viro. Dum ĉi tiu batalo, kiu pasie
+akriĝas kaj katastrofe finiĝas, la leganto mem estas kunŝirata en
+la plej profundajn abismojn de homaj animoj.
+
+
+_D-ro EDMOND PRIVAT:_
+
+VIVO DE ZAMENHOF
+
+kun portreto de D-ro L. L. Zamenhof.
+
+1923. 109 paĝoj. Kartonita kaj bindita.
+
+Speciala eldono por mez- kaj malbonvalutaj landoj.
+
+ENHAVO:
+
+  Ĉapitro I: La gentoj en Litva lando.
+    "    II: Infano en Bjalistok.
+    "   III: Gimnaziano en Varsovio.
+    "    IV: Studentaj jaroj.
+    "     V: Doktoro Esperanto.
+    "    VI: Idealista profeto.
+    "   VII: Homarano.
+    "  VIII: Kongresaj paroladoj.
+    "    IX: Lingvisto.
+    "     X: Verkisto.
+    "    XI: Etika pensulo.
+    "   XII: Homo ĉe morto.
+
+„... Jen klasiko, kiun nepre devas posedi ĉiu Esperantisto.“ Por
+ebligi al la gesamideanaro de mez- kaj malbonvalutaj landoj la akiron
+de ĉi tiu, por ĉiu Esperantisto nepre necesa libro, ni aranĝis
+laŭ permeso de la Kuratoroj de la Memoriga Kaso Bolingbroke-Mudie
+tiun eldonon. Ĝia literatura enhavo estas laŭvorte tute la sama
+kiel tiu de la ilustrita eldono.
+
+      *       *       *       *       *
+
+Historio de la lingvo Esperanto
+
+Deveno kaj komenco 1887-1900.
+
+1923. 2a eldono. 14 paĝoj. Kartonita.
+
+ENHAVO:
+
+  Ĉapitro I: Esperanto kaj indo-eŭropaj lingvoj.
+    "    II: La esperanta vortaro.
+    "   III: Zamenhof. Deveno de Esperanto.
+    "    IV: Apero de la „Unua Libro“.
+    "     V: Unua jaro. „La Dua Libro.“
+    "    VI: Amerika Filozofia Societo kaj „Aldono al la Dua Libro“.
+    "   VII: Nürnberg. Einstein. „La Esperantisto.“
+    "  VIII: La Ligo. Reforma agitado.
+    "    IX: „Lingvo Internacia“ en Upsala.
+    "     X: Franca Societo. „L'Espérantiste.“
+    "    XI: La influo de L. de Beaufront.
+    "   XII: Esperanto en Ruslando. Interna Ideo. La spirito de la lingvo.
+
+„... Prave oni postulas en Esperantaj ekzamenoj konon pri la historio
+de la lingvo. Plej utila ĝi estas al ĉiuj, kiuj devas gvidi kursojn
+aŭ fari paroladojn ... nenio pli bone instruas ol historio.“
+
+
+Internacia Mondliteraturo
+
+La kolekto estas submetita al la gvidado de Prof. D-ro Joh.
+Dietterle, direktoro de la Esperanto-Instituto por la Germana
+Respubliko.
+
+Ĝi enhavas nur la plej famajn verkojn el ĉiuj naciaj literaturoj.
+Ĝis nun aperis:
+
+Volumo 1:
+
+Goethe, J. W. von: Hermano kaj Doroteo. Eposo idilia. El la germana
+originalo trad. B. Küster. 2a, korektita eldono. Kun antaŭparolo de
+Prof. D-ro Joh. Dietterle. 1922. 77 paĝoj. Kartonita.
+
+Volumo 2:
+
+Niemojewski, A.: Legendoj. El la pola originalo trad. B. Kuhl.
+Kun antaŭparolo de Antoni Grabowski. 2a, korektita eldono. 1923.
+74 paĝoj. Kartonita.
+
+Volumo 3:
+
+Turgenev, Ivan S.: Elektitaj noveloj. El la rusa originalo trad.
+A. Mexin. 1923. 81 paĝoj. Kartonita.
+
+Volumo 4:
+
+Raabe, Wilhelm: La nigra galero. Historia rakonto. El la germana
+originalo trad. Prof. D-ro Fritz Wicke. 2a, korektita eldono.
+1922. 64 paĝoj. Kartonita.
+
+Volumo 5:
+
+Hildebrand: El la „Camera Obscura“. El la holanda originalo
+trad. H. C. Mees. 1923. 64 paĝoj. Kartonita.
+
+Volumo 6:
+
+Irving, Washington: El la skizlibro. El la angla originalo trad.
+H. L. Elvin. 1923. 64 paĝoj. Kartonita.
+
+Volumo 7:
+
+Chamisso, A. de: La mirinda historio de Petro Schlemihl. El la germana
+originalo trad. Eug. Wüster. 1922. 84 paĝoj. Kartonita.
+
+Volumo 8:
+
+Stamatov, G. P.: Nuntempaj rakontoj. El la bulgara originalo trad.
+Iv. H. Krestanoff. 1922. 80 paĝoj. Kartonita.
+
+Volumo 9:
+
+Ŝalom-Aleĥem. Perec.: Hebreaj rakontoj. El la hebreaj originaloj
+trad. Is. Muĉnik. 1923. 78 paĝoj. Kartonita.
+
+Volumo 10:
+
+Puŝkin, A. S.: Tri noveloj. El la rusa originalo trad. D-ro A. Fiŝer.
+1923. 67 paĝoj. Kartonita.
+
+      *       *       *       *       *
+
+  FERDINAND HIRT & SOHN -- LEIPZIG
+  ESPERANTO-FAKO
+
+
+
+
+Noto de transskribinto:
+
+Mi registris malmultajn ŝanĝojn kontraŭ la originalo per html-aj
+komentoj. Ankaŭ originalajn paĝkomencojn mi simile registris. Kelkaj
+malkutimaj vortoj, kiel _rabbi_ kaj _disciploj_ restas kiel
+literumita de la tradukinto.
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Legendoj, by Andrzej Niemojewski
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LEGENDOJ ***
+
+***** This file should be named 62118-0.txt or 62118-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/2/1/1/62118/
+
+Produced by Andrew Sly, Miroslav Malovec and the Online
+Distributed Proofreading Team at https://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

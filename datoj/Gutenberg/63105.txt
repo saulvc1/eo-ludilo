@@ -1,0 +1,2468 @@
+﻿The Project Gutenberg EBook of Tri Noveloj, by Aleksandr Sergeevich Pushkin
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Tri Noveloj
+
+Author: Aleksandr Sergeevich Pushkin
+
+Translator: Andreo Fiser
+
+Release Date: September 2, 2020 [EBook #63105]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK TRI NOVELOJ ***
+
+
+
+
+Produced by Andrew Sly, Miroslav Malovec and the Online
+Distributed Proofreading Team at https://www.pgdp.net
+
+
+
+
+
+
+
+A. S. PUŜKIN
+
+TRI NOVELOJ
+
+  El la rusa originalo tradukis
+  D-ro Andreo Fiŝer
+  Membro de la Esperantista Lingva Komitato
+
+Rekomendita de E. L. A.
+
+
+FERDINAND HIRT & SOHN EN LEIPZIG / 1923
+ESPERANTO-FAKO
+
+
+
+
+ĈIUJ RAJTOJ ESTAS REZERVATAJ
+
+PRESEJO BREITKOPF & HÄRTEL, LEIPZIG
+
+
+
+
+TABELO DE ENHAVO
+
+            Paĝo
+  Antaŭparolo  7
+  Pikreĝino    9
+  Neĝblovado  39
+  La pafo     53
+
+
+
+
+ANTAŬPAROLO
+
+
+_A. S. Puŝkin_ naskiĝis en Moskvo 26. V. 1799. Li devenis el
+antikva nobela familio, kies anoj estas plurfoje menciataj en la
+historio de Ruslando. Ĝuinte brilan instruadon, li jam en sia
+junaĝo, estinte ankoraŭ lernanto de la imperiestra Aleksander-liceo,
+komencis verki versaĵojn, kiuj vidigis neordinaran talenton kaj
+trovis grandan sukceson. Tamen monduma vivmaniero malhelpis plenan
+disvolviĝon de lia talento. Spite tio Puŝkin apartenas al la nombro
+de plej famaj rusaj poetoj de la komenco de la XIXa jarcento,
+kaj oni povas plenrajte egalvalorigi lin kun korifeoj de la
+mondliteraturo _Schiller_, _Byron_, _V. Hugo_ k. a.
+
+Puŝkin postlasis pli ol 500 verkojn de plej diversa enhavo kaj
+amplekso: lirikajn versaĵojn, epigramojn, gazetartikolojn, grandajn
+romanojn-poemojn (Ruslan kaj Ludmila, Eŭgenio Onegin), historiajn
+dramojn en versoj (Boris Godunov), prozajn romanojn kaj rakontojn
+(kies specimenojn ni donas en tiu ĉi volumeto), historiajn verkojn
+(Historio de la Pugaĉov-a ribelo) ktp.
+
+Puŝkin estas unu el la plej meritoplenaj kreintoj de nuntempa rusa
+literatura lingvo. Li forlasis la pseŭdoklasikan manieron, kiu
+superregadis en tiutempa rusa literaturo, kaj sin turnis al temoj de
+reala vivo.
+
+Kelkaj el liaj verkoj kaŭzis al li cenzurajn malagrablaĵojn kaj eĉ
+ekzilon el Peterburgo: li estis devigata dum kelke da jaroj loĝi en
+suda Ruslando kaj poste en sia bieno en Pskov-a gubernio.
+
+Puŝkin mortis 38jara (29. I. 1837) en la plej brila disvolviĝo
+de sia talento, estinte mortvundita en duelo kun oficiro G.
+Hekkern-Dantes. En Moskvo staras lia monumento, solene inaŭgurita en
+la 1880a jaro.
+
+A. F.
+
+
+
+
+PIKREĜINO
+
+
+I.
+
+Foje oni ludis kartojn ĉe la rajdgvardiano Narumov. Longa vintra
+nokto forpasis nerimarkite; oni sidiĝis por vespermanĝi post la
+kvara matene. La gajnintoj manĝis kun granda apetito; la aliaj sidis
+distrite antaŭ malplenaj teleroj. Tamen, kiam aperis ĉampanvino, --
+la interparolado ekvigliĝis, kaj ĉiuj ĝin partoprenis.
+
+-- Kion ci estas farinta, Surin? -- demandis la domomastro.
+
+-- Mi malgajnis, kiel kutime. Mi devas konfesi, ke malbonŝanco
+min persekutas: mi ludas singarde kaj neniam ardiĝas, nenio min
+konfuzigas, -- tamen mi ĉiam malgajnas.
+
+-- Rigardu Herman-on! -- diris unu el la gastoj, montrante junan
+inĝenieroficiron: -- dum sia tuta vivo li ne eĉ unu fojon prenis
+kartojn en la manojn, tamen ĝis la kvina matene li sidas kun ni,
+observante nian ludon.
+
+-- Ludo min tre interesas, -- rediris Hermano: -- sed mi ne povas
+riski la neceson pro espero akiri superfluon.
+
+-- Hermano estas germandevena: do li estas prikalkulema, jen -- la
+kaŭzo! -- rimarkis Tomski. -- Sed mian avinon, la grafinon Anna
+Fedotovna, mi tute ne komprenas.
+
+-- Kio? kial? -- aŭdiĝis voĉoj.
+
+-- Mi ne povas koncepti, -- daŭrigis Tomski: -- kial mia avino ne
+ludas kartojn.
+
+-- Tute ne estas mirinde, -- diris Narumov: -- ke okdekjara
+maljunulino ne kartludas.
+
+-- Do vi nenion scias pri ŝi?
+
+-- Ne, vere, nenion.
+
+-- Aŭskultu do! Oni devas scii, ke mia avino, antaŭ ĉirkaŭ
+sesdek jaroj, veturis Paris-on kaj estis tie en granda modo. La
+homoj amase sekvis ŝin, por vidi „la Moskvan Venuson“; Richelieu
+ŝin amindumis, kaj mia avino asertas, ke li apenaŭ ne mortpafis
+sin pro ŝia senkoreco. Tiutempe la sinjorinoj ludis „faraonon“.
+Foje ĉe la reĝa kortego ŝi malgajnis al la duko de Orléans je
+honorvorto iun grandan sumon. Reveninte hejmen, dum senvestiĝado
+ŝi deklaris al mia avo pri sia malgajno kaj ordonis pagi ĝin. La
+mortinta avo, kiel mi memoras, estis kvazaŭ ŝia domadministranto.
+Li timis ŝin kiel fajron; tamen, aŭdinte pri tioma malgajno, li
+perdis la paciencon, ekkoleris, prenis kalkulilon, pruvis al ŝi, ke
+dum duonjaro ili elspezis duonmilionon, ke ili havas en Paris nek
+sian apudmoskvan, nek la saratovan bienon, kaj kategorie rifuzis pagi
+la monon. La avino lin vangofrapis kaj enlitiĝis sola, kiel signo de
+sia malfavoro. La morgaŭon ŝi venigis la edzon, esperante, ke la
+dirita hejma puno efikis, -- tamen ŝi trovis lin neŝancelebla. La
+unuan fojon dum sia vivo ŝi malfieriĝis kaj finvenis al rezonadoj
+kaj klarigoj; ŝi esperis konsciencigi lin, pruvante, ke estas
+diferenco inter princo kaj veturigisto. Nenio farebla! La avo
+ribelis. Ne, ne, kaj nenion plu. La avino ne sciis, kion fari.
+Ŝi bone konis rimarkindan homon. Vi certe aŭdis pri la grafo de
+Saint-Germain, pri kiu oni rakontas multon miraklan. Vi scias, ke
+li afektis esti la „vaganta judo“, eltrovinto de viveliksiro kaj de
+filozofŝtono. Oni lin mokridis kiel ĉarlatanon, kaj Kazanova en
+siaj memorskriboj diras, ke li estis spiono; cetere Saint-Germain,
+malgraŭ sia mistereco, havis tre respektindan eksteraĵon kaj estis
+societema kaj kompleza homo. Mia avino ĝis nun ŝatas lin ĝis
+memforgeso kaj koleras, se oni parolas pri li senrespekte. La avino
+sciis, ke Saint-Germain povas disponi pri grandaj monsumoj. Ŝi
+decidis sin turni al li, sendis al li skribaĵeton kaj petis viziti
+ŝin senprokraste. La maljuna strangulo venis tuj kaj trovis ŝin
+en terura ĉagreno. Ŝi pripentris al li per plej nigraj koloroj la
+barbarecon de sia edzo kaj fine diris, ke sian tutan esperon ŝi
+fidas al lia amikeco kaj komplezemo. Saint-Germain enpensiĝis. „Mi
+povas servi al vi per tia sumo,“ li diris: „sed mi scias, ke vi ne
+estos trankvila, ĝis kiam vi ne elpagos vian ŝuldon, kaj mi ne
+volas kaŭzi al vi novajn klopodojn. Ekzistas alia rimedo, -- vi
+povas regajni.“ -- „Sed, kara grafo,“ respondis la avino: „mi diras
+ja al vi, ke mi tute ne havas monon.“ -- „Mono ne estas bezona,“
+rediris Saint-Germain: „bonvolu min aŭskulti.“ Kaj li malkovris al
+ŝi iun sekreton, pro kiu ĉiu el ni konsentus pagi tre kare...
+
+La junaj kartoludantoj ekstreĉis la atenton. Tomski ekbruligis
+pipon, enspiris la tabakfumon kaj daŭrigis:
+
+-- Samvespere mia avino partoprenis „le jeu de la reine“[1] en
+Versailles. La duko de Orléans estis la kartbankisto; mia avino
+faciltone senkulpigis sin, ke ŝi ne alportis la ŝuldatan monon,
+pretekstinte iun elpensitan rakonteton, kaj komencis ludi. Ŝi
+elektis tri kartojn, -- ĉiuj tri gajnis unu post la alia, kaj mia
+avino tute liberiĝis de sia ŝuldo.
+
+-- Bontrafa okazaĵo! -- diris unu el la gastoj.
+
+-- Fabelo! -- rimarkis Hermano.
+
+-- Eble falsitaj kartoj! -- diris tria.
+
+-- Mi ne opinias tion, -- respondis gravtone Tomski.
+
+-- Kiel! -- ekkriis Narumov: -- ci havas avinon, kiu divenas
+tri sinsekvajn gajnontajn kartojn, kaj ci ne profitas ŝian
+kabalistikon?!...
+
+-- He, je diablo! -- respondis Tomski: -- ŝi havis kvar filojn,
+inter ili mian patron, ĉiuj kvar -- pasiaj kartludantoj, kaj al
+neniu ŝi malkovris sian sekreton, kvankam ĝi estus tre enspeziga
+por ili -- kaj ankaŭ por mi. Tamen jen, kion rakontis al mi mia
+onklo, la grafo Ivan Iljiĉ, kaj kion li certigis per sia honoro.
+La mortinta Ĉaplicki, tiu sama, kiu mortis en plena mizero,
+malŝpareginte milionojn, foje en sia juneco malgajnis -- se mi
+ne eraras, al Zoriĉ -- ĉirkaŭ tricent mil rublojn. Li estis
+senesperega. Mia avino, kiu ĉiam estis severa al petolaĵoj de junaj
+homoj, ial ekkompatis Ĉaplicki-n. Ŝi konigis al li tri kartojn, por
+ke li ludu ilin unu post la alia, kaj igis lin ĵuri je sia honoro,
+ke li neniam plu kartludos. Ĉaplicki iris ĉe sian venkinton, kaj
+ili komencis ludi. Ĉaplicki metis sur la unuan karton kvindek
+mil kaj gajnis; li ludis „paroli“, „paroli-pe“[2], -- regajnis la
+perditon kaj eĉ iom pli...
+
+-- Tamen, estas tempo por iri dormi: estas jam kvarono antaŭ la
+sesa.
+
+Efektive, jam mateniĝis. La junuloj fintrinkis siajn glasojn kaj
+disiris.
+
+
+II.
+
+La maljuna grafino N. sidis en sia tualetejo antaŭ spegulo. Tri
+junulinoj ĉirkaŭis ŝin. Unu tenis poteton kun ruĝigilo, la dua
+skatoleton kun harpingloj, la tria kufon kun fajrokoloraj rubandoj.
+La grafino tute ne pretendis je beleco, jam delonge velkinta, tamen
+ŝi konservis ĉiujn kutimaĵojn de sia junaĝo, severe sekvis la
+modojn de la sepdekaj jaroj[3] kaj vestadis sin same longe, same
+zorge, kiel antaŭ sesdek jaroj. Apud fenestro, antaŭ brodstablo,
+sidis fraŭlino, ŝia edukatino.
+
+-- Mi vin salutas, grand’maman! -- diris enirinta juna oficiro. --
+Bonjour, mademoiselle Lise. Grand’maman, mi havas peton al vi.
+
+-- Kio estas, Paul?
+
+-- Permesu, ke mi povu prezenti al vi unu el miaj amikoj kaj venigi
+lin vendrede al via balo.
+
+-- Venigu lin simple al la balo kaj tiam ci prezentos lin al mi. Ĉu
+ci estis hieraŭ ĉe X.?
+
+-- Ho, jes! estis tre gaje; oni dancis ĝis la kvina matene. Kiom
+bela estis sinjorino Jelecki!
+
+-- He, mia kara! Kion belan ci trovas en ŝi? Ĉu tia estis ŝia
+avino, la princino Darja Petrovna!... Sed mi supozas, ke ŝi jam tre
+maljuniĝis, la princino Darja Petrovna?
+
+-- Kiel -- maljuniĝis? -- rediris distrite Tomski: -- ŝi jam antaŭ
+sep jaroj mortis.
+
+La fraŭlino levis la kapon kaj faris signon al la juna homo. Li
+ekmemoris, ke oni kaŝadis antaŭ la maljuna grafino la morton de
+ŝiaj samaĝulinoj, kaj ekmordis sian lipon. Sed la grafino akceptis
+la novan por ŝi sciigon kun granda indiferenteco.
+
+-- Ŝi mortis! -- ŝi diris: -- kaj mi ne sciis tion! Ni ricevis
+samtempe la oficon de kortegaj fraŭlinoj, kaj kiam ni estis
+prezentataj al la imperiestrino...
+
+Kaj la grafino je la centa fojo rakontis al la nepo sian anekdoton.
+
+-- Nu, Paul, -- ŝi diris poste: -- helpu al mi leviĝi el la seĝo.
+Lizanjo, kie estas mia flartabakujo?
+
+La grafino kun siaj servistinoj iris post la kurtenŝirmilon por fini
+sian tualeton. Tomski restis kun la fraŭlino.
+
+-- Kiun vi intencas prezenti al la grafino? -- mallaŭtvoĉe demandis
+Lizaveta Ivanovna.
+
+-- Narumov-on. Ĉu vi konas lin?
+
+-- Ne. Ĉu li estas oficiro aŭ civilulo?
+
+-- Oficiro.
+
+-- Inĝeniero?
+
+-- Ne, -- kavaleriano. Kial vi supozis, ke li estas inĝeniero?
+
+La fraŭlino ekridetis kaj respondis nenion.
+
+-- Paul! -- ekkriis la grafino malantaŭ la ŝirmilo: -- sendu al mi
+iun novan romanon, sed ne el la modernaj, mi petas.
+
+-- Kion vi volas diri per tio, grand’maman?
+
+-- Tio signifas, romanon, en kiu la heroo ne premsufokas sian patron
+aŭ patrinon, kaj en kiu malestas dronintaj kadavroj. Mi terure timas
+dronintojn.
+
+-- Tiaspecaj romanoj ne ekzistas nuntempe. Eble vi deziras havi rusan
+romanon?
+
+-- Ĉu do ekzistas rusaj romanoj?... Sendu tian, karulo, sendu nepre,
+mi tre petas!
+
+-- Pardonu, grand’maman, -- mi devas rapidi... Ĝis revido, Lizaveta
+Ivanovna! Kial vi pensis, ke Narumov estas inĝeniero?
+
+Kaj Tomski eliris el la tualetejo.
+
+Lizaveta Ivanovna restis sola; ŝi forlasis sian laboron kaj rigardis
+tra la fenestro. Baldaŭ ĉe la kontraŭa stratangulo aperis juna
+oficiro. Ruĝo kovris ŝian vizaĝon; ŝi denove sin turnis al la
+laboro kaj klinis la kapon super la kanvaso. Tiumomente eniris la
+grafino, tute vestita.
+
+-- Ordonu, Lizanjo, ke oni jungu kaleŝon, -- ni veturos promeni.
+
+Lizanjo forlasis la brodstablon kaj komencis ordigi sian laboraĵon.
+
+-- Ĉu, mia kara, vi estas surda? -- ekkriis la grafino: -- tuj
+jungigu la kaleŝon.
+
+-- Jes! -- respondis nelaŭte la fraŭlino kaj ekkuris en la
+antaŭĉambron.
+
+Eniris servisto kaj prezentis la librojn, senditajn de la princo
+Pavel Aleksandroviĉ[4].
+
+-- Bone! Oni danku, -- diris la grafino. -- Lizanjo, Lizanjo, kien do
+vi kuras?!...
+
+-- Min vesti.
+
+-- Vi havas ankoraŭ tempon. Sidiĝu tie ĉi. Malfermu la unuan
+volumon, legu laŭte...
+
+La fraŭlino prenis la libron kaj tralegis kelke da linioj.
+
+-- Pli laŭte! Kio estas al vi? Ĉu vi perdis la voĉon?... Atendu...
+Alŝovu al mi piedbenketon... pli proksime... nu!...
+
+Lizaveta Ivanovna tralegis ankoraŭ du paĝojn. La grafino ekoscedis.
+
+-- Forĵetu la libron, -- ŝi diris: -- kia sensencaĵo! Resendu ĝin
+al princo Pavel kaj diru, ke oni danku... Kaj la kaleŝo?
+
+-- La kaleŝo estas preta, -- respondis Lizaveta Ivanovna, rigardinte
+en la straton.
+
+-- Kial do vi ne estas vestita? -- rediris la grafino: -- mi ĉiam
+devas vin atendi. Tio estas netolerebla!...
+
+Lizanjo forkuris en sian ĉambron. Apenaŭ forpasis du minutoj, la
+grafino eksonorigis per ĉiuj fortoj. Tri servistinoj alkuris tra unu
+pordo kaj lakeo tra alia.
+
+-- Estas ja neeble venigi vin, kiam bezone! -- diris al ili la
+grafino. -- Diru al Lizaveta Ivanovna, ke mi atendas ŝin.
+
+Lizaveta Ivanovna eniris en ĉapelo kaj mantelo.
+
+-- Fine, mia kara!... Kia belvestiĝo! Pro kio?... kiun vi volas
+ĉarmi?... Kia estas la vetero? videble ventas.
+
+-- Ne, via grafina moŝto! Estas tre milde, -- respondis la lakeo.
+
+-- Vi ĉiam parolas trafe-maltrafe! Malfermu la fenestran pordeton.
+Jen ĝi estas, -- malvarmega vento!... Maljungu la kaleŝon! Lizanjo,
+ni ne veturos: estis tute senbezone vin belvesti.
+
+„Jen kia estas mia vivo!“ -- ekmeditis Lizaveta Ivanovna.
+
+Efektive, Lizaveta Ivanovna estis tre malfeliĉa estulino. „Fremda
+pano estas maldolĉa,“ diris Dante, „kaj malfacilaj estas la ŝtupoj
+de fremda perono.“ Sed kiu kapablas pli forte senti la maldolĉon de
+dependeco ol malriĉa edukatino de altranga maljunulino? La grafino
+N., certe, ne havis malbonan koron, tamen ŝi estis kaprica, kiel
+dorlotita mondumulino, avara kaj enprofundiĝinta en malvarman
+egoismon, kiel ĉiuj gemaljunuloj, ŝatantaj sian tempon kaj
+fremdaj al la nuna. Ŝi daŭrigis partopreni ĉiujn vantaĵojn
+de la grandmondo; ŝi vizitadis balojn, kie ŝi sidis en angulo,
+kun ruĝigilo sur la vangoj kaj vestita laŭ antikva modo, kiel
+naŭzaspekta, sed neevitebla ornamaĵo de la balsalonego. La venantaj
+gastoj aliradis ŝin kun profundaj salutoj, kvazaŭ plenumante iun
+riton, kaj poste neniu sin okupis pri ŝi. Ĉe si mem ŝi akceptadis
+la tutan urbon, observante plej severan etiketon kaj rekonante
+nenies vizaĝojn. Ŝia multenombra geservistaro, grasiĝinta kaj
+griziĝinta en ŝia antaŭĉambro kaj servistejo, agadis laŭ sia
+plaĉo, senhonte priŝtelante la mortpretan maljunulinon. Lizaveta
+Ivanovna estis hejma martirino. Ŝi verŝadis la teon kaj aŭskultis
+riproĉojn pro superflue uzita sukero; ŝi laŭtlegis romanojn -- kaj
+estis kulpa pri ĉiuj mankoj de la aŭtoro; ŝi akompanis la grafinon
+dum ŝiaj promenadoj kaj estis responda pri la vetero kaj pri
+stratpavimo. Al ŝi estis fiksita ia salajro, kiun oni neniam pagis
+al ŝi plene; tamen oni postulis, ke ŝi estu vestita kiel ĉiuj,
+tio estas, kiel tre malmultaj. En la mondumo ŝi ludis plej mizeran
+rolon. Ĉiuj konis ŝin, kaj neniu ŝin rimarkis; dum baloj ŝi
+dancis nur, kiam mankis kontraŭdancantoj; la sinjorinoj prenis ŝin
+je la brako ĉiufoje, kiam ili bezonis iri en tualetejon por ordigi
+ion ajn en sia vestaĵo. Ŝi estis fiera, akre sentis sian situacion
+kaj atente rigardis ĉirkaŭ si, malpacience atendante liberigonton;
+sed la junaj homoj, prikalkulemaj kaj vante ambiciaj, ne indigis ŝin
+je sia atento, kvankam Lizaveta Ivanovna estis centfoje pli aminda
+ol la arogantaj kaj malvarmsangaj dotulinoj, kiujn ili amindumadis.
+Kiomfoje, forlasinte nerimarkite la enuigan kaj luksan salonon, ŝi
+foriradis plori en sia malriĉa ĉambreto, kie staris papertapetita
+ŝirmilo, komodo, speguleto kaj ligna lito, kaj kie mallume brulis
+seba kandelo en kupra kandelingo.
+
+Foje -- tio okazis du tagojn post la vespero, priskribita en la
+komenco de nia rakonto, kaj unu semajnon antaŭ la sceno, ĉe kiu
+ni haltis, -- foje Lizaveta Ivanovna, sidante apud fenestro ĉe
+brodstablo, senintence ekrigardis en la straton kaj ekvidis junan
+inĝenieroficiron, starantan senmove kaj direktintan la okulojn al
+ŝia fenestro. Ŝi mallevis la kapon kaj daŭrigis sian laboradon;
+post kvin minutoj ŝi ree ekrigardis, -- la juna oficiro staris
+samloke. Ne havante la kutimon koketi kun preterpasantaj oficiroj,
+ŝi ne plu rigardis tra la fenestro kaj dum ĉirkaŭ du horoj
+brodis, ne levante la kapon. Venis la tempo de tagmanĝo. Ŝi
+leviĝis, komencis ordigi la brodstablon kaj, senintence rigardinte
+en la straton, denove ekvidis la oficiron. Tio ŝajnis al ŝi iom
+stranga. Post la tagmanĝo ŝi proksimiĝis al la fenestro kun iom
+maltrankvila sento, sed la oficiro forestis, kaj ŝi forgesis pri li...
+
+Post kelke da tagoj, elirante kun la grafino por enkaleŝiĝi, ŝi
+denove ekvidis lin. Li staris ĉe la perono mem, kaŝinte la vizaĝon
+per la kastorfela kolumo de sia mantelo; liaj nigraj okuloj brilis el
+sub la trikorna ĉapelo. Lizaveta Ivanovna ektimis, ne sciante kion,
+kaj eksidis en la kaleŝon kun neklarigebla korpremo.
+
+Reveninte hejmen, ŝi proksimiĝis al la fenestro, -- la oficiro
+staris samloke, fikse ŝin rigardante; ŝi foriris, turmentata de
+scivolo kaj emociita de sento tute nova por ŝi.
+
+De tiam forpasis ne eĉ unu tago sen tio, ke la juna homo, je
+difinita horo, aperis sub la fenestroj de ilia domo. Inter li kaj ŝi
+fariĝis neinterkonsentitaj interrilatoj. Sidante sur sia kutima loko
+kaj laborante, ŝi sentis lian proksimiĝon, levis la kapon, rigardis
+lin en ĉiu plua tago pli kaj pli longe. La juna homo, laŭŝajne,
+estis danka al ŝi pro tio: ŝi vidis, per la akra rigardo de juneco,
+ke rapida ruĝo kovris liajn palajn vangojn ĉiufoje, kiam iliaj
+rigardoj renkontiĝadis. Post unu semajno ŝi ekridetis al li...
+
+Kiam Tomski petis la permeson prezenti al la grafino sian amikon,
+la koro de la junulino ekbatis. Sed eksciinte, ke Narumov estas
+ne inĝeniero, sed rajdgvardiano, ŝi ekbedaŭris, ke per sia
+maldiskreta demando ŝi malkovris sian sekreton al la ventanima
+Tomski.
+
+   *  *  *  *  *
+
+Hermano estis filo de rusiĝinta germano, kiu postlasis al li
+malgrandan kapitalon. Firme konvinkita pri neceso firmigi sian
+sendependecon, Hermano ne tuŝadis eĉ la procentojn, vivis sole per
+sia salajro, permesis al si nenian elspezigan kapricon. Cetere, li
+estis kaŝema kaj ambicia, kaj liaj kamaradoj havis malofte okazon
+mokridi lian troan ŝparemon. Li havis fortajn pasiojn kaj flaman
+imagkapablon; tamen lia solida karaktero savis lin kontraŭ kutimaj
+eraroj de juneco. Jen ekzemplo: estante fundanime pasia kartludanto,
+li neniam prenis kartojn en la manojn, ĉar li konjektis, ke lia
+monhavo ne permesas al li (kiel li diradis) „riski la neceson por
+akiri superfluon“, -- tamen li pasigis tutajn noktojn apud kartludaj
+tabloj kaj kun febra kortremo sekvis la diversajn peripetiojn de la
+ludado.
+
+La anekdoto pri la tri kartoj forte impresis lian imagon kaj dum
+la tuta nokto ne forlasis lian kapon. „Ho, se la maljuna grafino,
+-- li meditis la morgaŭan vesperon, vagante tra la peterburgaj
+stratoj, -- malkaŝus al mi sian sekreton kaj konigus al mi la tri
+certajn kartojn! Kial ne ekprovi sian bonŝancon?... Min prezenti
+al ŝi, atingi ŝian favoron... eĉ fariĝi ŝia amanto... Sed ĉi
+ĉio postulas longan tempon, kaj ŝi estas okdeksepjara: ŝi povas
+morti post unu semajno, post du tagoj!... Kaj la anekdoto mem, --
+ĉu estas eble ĝin fidi?... Ne!... Kalkulemo, moderemo kaj laboremo
+-- jen estas miaj tri certaj kartoj, jen kio triobligos, sepobligos
+mian kapitalon kaj donos al mi animkvieton kaj sendependecon!“
+Rezonante tiamaniere, li ektroviĝis en unu el la ĉefaj stratoj de
+Peterburgo, antaŭ domo de antikva arĥitekturo. La strato estis
+plenplena je veturiloj; kovritaj kaleŝoj unu post alia rulis al la
+lumigita perono. El la kaleŝoj ĉiuminute montriĝis jen gracia
+piedeto de juna belulino, jen sprontintanta boto, jen silka ŝtrumpo
+kaj diplomata ŝuo. Peltoj kaj manteloj sinsekve aperadis antaŭ
+gravaspekta pordisto. Hermano haltis.
+
+-- Kies domo ĝi estas? -- li demandis apudan policanon.
+
+-- De la grafino N., -- respondis la policano.
+
+Hermano ektremis. La mirinda anekdoto reaperis antaŭ lia imago.
+Li komencis paŝadi apud la domo, pensante pri ĝia mastrino kaj
+pri ŝia mirakla kapablo. Nur malfrue li revenis al sia modesta
+hejmanguleto; dumlonge li ne povis ekdormi, kaj post kiam la dormo
+fine lin ekposedis, li sonĝis pri kartoj, kovrita per verda
+tuko tablo, amasoj da bankbiletoj kaj ormoneroj; li ludis karton
+post karto, gajnis senintermanke, alŝovadis al si la oron kaj
+enpoŝigadis la biletojn. Vekiĝinte jam malfrue, li eksopiris pri
+perdo de siaj fantaziaj riĉaĵoj, denove iris vagadi tra la urbo
+kaj denove ektroviĝis antaŭ la domo de grafino N. Ŝajnis, kvazaŭ
+iu nekonata forto lin altirus tien. Li haltis kaj ekis rigardi la
+fenestrojn. En unu el ili li ekvidis nigraharan kapeton, klinitan,
+verŝajne, super libro aŭ manlaboro. La kapeto leviĝis. Hermano
+ekvidis freŝan vizaĝon kaj nigrajn okulojn. Tiu ĉi minuto decidis
+pri lia destino.
+
+
+III.
+
+Apenaŭ Lizaveta Ivanovna havis tempon por demeti la mantelon kaj
+ĉapelon, la grafino ree venigis ŝin kaj ordonis, ke oni alperonigu
+la kaleŝon. Ili iris sidiĝi en la veturilon. Sammomente, kiam du
+lakeoj enŝovis la maljunulinon tra la kaleŝpordeto, Lizaveta
+Ivanovna ekvidis apud la rado mem sian inĝenieron; li ekkaptis
+ŝian manon; ŝi povis apenaŭ rekonsciiĝi pro timo, la juna homo
+malaperis, -- kaj en ŝia mano restis letero. Ŝi kaŝis ĝin en
+sia ganto kaj dum la tuta vojiro ŝi nenion vidis nek aŭdis. La
+grafino kutimis en la kaleŝo ĉiuminute fari demandojn: kiun ni ĵus
+renkontis? kiel estas nomata ĉi tiu ponto? kio estas skribita sur
+tiu elpendaĵo? Ĉi-foje Lizaveta Ivanovna respondadis trafe-maltrafe
+kaj tute malĝuste; la grafino ekkoleris.
+
+-- Kio fariĝis al vi, mia kara? Ĉu eble tetano vin ekposedis?
+Ĉu vi min ne aŭdas aŭ ne komprenas? Tamen, dank’ al Dio, mi nek
+kartavas, nek perdis ankoraŭ la saĝon?
+
+Lizaveta Ivanovna ne aŭskultis ŝin. Reveninte hejmen, ŝi kuris
+en sian ĉambron, elprenis el sub la ganto la leteron, -- ĝi ne
+estis sigelita. Lizaveta Ivanovna ĝin tralegis. La letero entenis
+amkonfeson; ĝi estis karesplena, samtempe respekta kaj ... laŭvorte
+ĉerpita el sentimentala germanlingva romano; bonŝance Lizaveta
+Ivanovna ne sciis la germanan lingvon kaj restis kontenta.
+
+Tamen ŝia akcepto de la letero treege ŝin maltrankviligadis. Estis
+la unua fojo, ke ŝi eniris en kaŝitajn, intimajn rilatojn kun
+juna viro. Lia aroganteco terurigis ŝin. Ŝi riproĉis sin mem pro
+nesingarda konduto kaj ne sciis, kion fari: ĉu ĉesi la sidadon
+apud la fenestro kaj per sia malatento malardigi la junan oficiron
+en liaj pluaj persekutadoj? ĉu respondi malvarme kaj decide? Ŝi
+havis neniun, de kiu ŝi povus peti konsilon: nek amikinon, nek
+instruantinon. Lizaveta Ivanovna decidis respondi.
+
+Ŝi sidiĝis antaŭ skribotablo, prenis plumon, paperon -- kaj
+enpensiĝis. Multfoje ŝi komencis sian leteron -- kaj ŝiris ĝin:
+la vortoj ŝajnis al ŝi aŭ tro malseveraj, aŭ tro kruelaj. Fine
+ŝi sukcesis skribi kelkajn liniojn, kiuj ŝin kontentigis. „Mi estas
+certa, -- ŝi skribis, -- ke vi havas honestajn intencojn, ke vi ne
+volas ofendi min per senpripensa ago, sed nia konatiĝo ne devus esti
+komencata tiamaniere. Mi resendas al vi vian leteron kaj esperas, ke
+estonte mi ne havos kaŭzon por plendi pro nemeritita malrespekto.“
+
+La morgaŭon, ekvidinte Hermanon iranta en la strato, Lizaveta
+Ivanovna leviĝis de sia brodstablo, iris en la salonon, malfermis
+fenestran pordeton kaj ĵetis sian skribaĵeton en la straton,
+fidante rapidmovecon de la juna oficiro. Hermano alkuris, eklevis
+ĝin kaj eniris en apudan sukeraĵejon. Rompinte la sigelon, li
+trovis sian leteron kaj la respondon de Lizaveta Ivanovna. Li atendis
+tion kaj revenis hejmen tre kontenta.
+
+Post tri tagoj juneta, rapidokula komizino el moda magazeno
+alportis al Lizaveta Ivanovna skribaĵeton. Ŝi malfermis ĝin kun
+maltrankvila sento, supozante monpostulon, sed subite rekonis la
+skribmanieron de Hermano.
+
+-- Vi eraris, mia kara, -- ŝi diris: -- la letero ne estas por mi.
+
+-- Ne, certe por vi! -- rediris la sentima knabino, ne kaŝante
+malican rideton: -- bonvolu legi.
+
+Lizaveta Ivanovna trakuris la skribaĵon: Hermano postulis rendevuon.
+
+-- Estas ne eble, -- ŝi diris, ektiminte la trorapidecon de la
+postulo kaj la uzitan farmanieron: -- ĝi estas certe skribita ne por
+mi. -- Kaj ŝi disŝiris la leteron en pecojn.
+
+-- Se la letero ne estas por vi, kial vi ĝin disŝiris? -- respondis
+la knabino: -- mi estus redononta ĝin al la sendinto.
+
+-- Mi petas vin, karulino, -- diris Lizaveta Ivanovna, ekruĝiĝinte
+pro ŝia rimarko: -- neniam plu alportu al mi tiajn leterojn kaj diru
+al la sendinto, ke li devus honti.
+
+Tamen Hermano ne ĉesis. Lizaveta Ivanovna ĉiutage ricevadis
+de li leterojn jen per tiu maniero, jen per alia. Ili jam ne
+estis tradukitaj el germana lingvo. Hermano skribis ilin en sia
+propra esprimmaniero, inspirite de pasio: ili entenis samtempe
+sindekliniĝon de liaj deziroj kaj malordon de senbrida imagemo.
+Lizaveta Ivanovna jam ne pensis resendi ilin: ŝi ĝuegis ilin kaj
+komencis respondi, -- kaj ŝiaj leteroj de tago al tago fariĝis pli
+kaj pli longaj kaj amoplenaj. Fine ŝi ĵetis al li tra la fenestro
+jenan leteron: „Hodiaŭ okazos balo ĉe la ***a ambasadoro. La
+grafino ĉeestos ĝin, kaj ni restos tie ĝis la dua. Jen okazo por
+vi vidi min sen ĉeestantoj. Post kiam la grafino forveturos al la
+balo, la servistaro, kredeble, disiros; en la vestiblo restos sole
+la pordisto, kaj eĉ li kutime foriras en sian ĉambreton. Venu je
+duono post la dekunua. Supreniru la ŝtuparon. Se vi trovos iun ajn
+en la antaŭĉambro, vi demandos, ĉu la grafino estas hejme; oni
+diros al vi, ke ne, kaj -- nenio farebla! -- vi devos foriri. Sed,
+verŝajne, vi renkontos neniun. La servistinoj sidas ĉe si, ĉiuj en
+unu ĉambro. El la antaŭĉambro iru maldekstren, ĉiam rekte ĝis
+la grafina dormoĉambro; tie, malantaŭ kurtenŝirmilo, vi vidos du
+pordetojn: dekstre -- en kabineton, kiun la grafino neniam eniras;
+maldekstre -- en koridoron, el kie mallarĝa spiralforma ŝtuparo
+kondukas en mian ĉambron.“
+
+Hermano tremegis kiel tigro, atendante la fiksitan horon. Je la deka
+vespere li jam staris antaŭ la domo de la grafino. La vetero estis
+terura: muĝis ventego, malseka neĝo falis floke; la stratlanternoj
+lumis malhele; la stratoj estis senhomaj; nur de tempo al tempo
+preterpasis veturigisto kun sia malgrasa ĉevalaĉo, rigardesplorante
+eblan malfruiĝintan pasaĝeron. Hermano staris vestita sole per
+surtuto, sentante nek venton, nek neĝon. Fine oni alperonigis la
+kovritan grafinan kaleŝon. Hermano vidis, ke du lakeoj elportis
+la kurbiĝintan maljunulinon, envolvitan en zibelpelto, kaj post
+ŝi facilmove eniris la kaleŝon ŝia edukatino en malpeza mantelo,
+kun la kapo ornamita per freŝaj floroj. La pordeto fermiĝis, kaj
+la kaleŝo peze ekruliĝis sur la malkompakta neĝo. La pordisto
+fermis la dompordon. Hermano komencis paŝadi antaŭ la domo. Li
+proksimiĝis al stratlanterno, rigardis sian poŝhorloĝon: ĝi
+montris dudek minutojn post la dekunua. Li restis sub la lanterno,
+okulfiksante la horloĝmontrilon kaj atendante la interkonsentitan
+templimon. Precize je duono post la dekunua Hermano eniris la hele
+lumigitan vestiblon. La pordisto forestis. Hermano suprenkuris la
+ŝtuparon, malfermis la pordon de la antaŭĉambro kaj ekvidis
+serviston, dormantan sub lampo en antikva eluzita apogseĝo. Per
+facilmovaj kaj firmaj paŝoj Hermano preterpasis lin. La salonego
+kaj gastoĉambro estis mallumaj. Nur la antaŭĉambra lampo iom
+lumigis ilin. Hermano eniris la dormoĉambron. Antaŭ ikonarujo,
+plena je antikvaj sanktobildoj, flagretis ora lucerno. Kolorperdintaj
+silkoŝtoftegitaj seĝegoj kaj kanapoj kun lanugaj kusenoj, kun
+foriĝinta orumaĵo, staris en malgaja simetrio laŭ la muroj,
+tegitaj per ĥinaj tapetoj. Sur unu el la muroj pendis du portretoj,
+pentritaj en Paris de sinjorino Lebrun; sur unu de ili vidiĝis viro
+ĉirkaŭ kvardekjara, rozvanga kaj korpulenta, en helverda uniformo
+kaj kun ordenstelo sur la brusto; sur la alia -- juna belulino kun
+agla nazo, kun alte kombitaj, pudritaj kaj ornamitaj per rozo
+haroj. En ĉiuj anguloj de la ĉambro sin trudis al la rigardo
+porcelanaj paŝtistinoj, surtabla horloĝo farita de la fama Leroy,
+skatoletoj, ventumiloj kaj diversaj sinjorinaj ludiloj, elpensitaj en
+la fino de la pasinta jarcento, kune kun la Montgolfier-a aerostato
+kaj Mesmer-a animala magnetismo. Hermano sin direktis post la
+kurtenŝirmilon. Tie staris malgranda ferlito; dekstre sin trovis
+pordo, kondukanta en kabineton; maldekstre -- alia, en koridoron;
+Hermano malfermis ĝin, ekvidis mallarĝan spiralforman ŝtuparon,
+kiu kondukis en la ĉambron de la edukatino. Sed li revenis kaj
+eniris la malluman kabineton. La tempo pasadis malrapide. Ĉio
+estis senlaŭta. En la gastoĉambro eksonoris la dekdua; en ĉiuj
+ĉambroj la horloĝoj faris la samon, -- kaj ĉio ree eksilentis.
+Hermano staris sin apogante al malvarma kameno. Li estis kvieta;
+lia koro batis egalmezure, kiel ĉe homo, decidinta ion danĝeran,
+sed necesan. La horloĝoj eksonigis la unuan kaj poste la duan
+matene, -- li ekaŭdis malproksiman bruon de kaleŝo. Nevola emocio
+ekposedis lin. La kaleŝo alveturis kaj haltis. En la domo oni
+ekmoviĝis. La servistoj kuris, aŭdiĝis voĉoj, la domo eklumiĝis.
+La dormoĉambron enkuris tri maljunaj ĉambristinoj, kaj la grafino,
+apenaŭ viva, eniris kaj sidiĝis en seĝegon. Hermano rigardis tra
+fendeto en la pordo. Lizaveta Ivanovna preterpasis lin. Hermano
+aŭdis ŝiajn rapidajn paŝojn laŭlonge de la ŝtuparo. En lia koro
+resonis io simila al konsciencriproĉo kaj ree eksilentis. Li kvazaŭ
+ŝtoniĝis.
+
+La grafino komencis senvestiĝi antaŭ spegulo. Oni senpinglis
+ŝian rozornamitan kufon, demetis la pudritan perukon de ŝia griza
+kaj tondita kapo. Pingloj pluve ŝutiĝis ĉirkaŭ ŝi. Flava,
+arĝentbrodita robo falis ĉe ŝiajn ŝvelintajn piedojn. Hermano
+estis atestanto de naŭzaj misteroj de ŝia tualeto; fine la grafino
+restis en dormokamizolo kaj noktokufo; en tia vestaĵo, pli konvena
+al ŝia maljuneco, ŝi ŝajnis malpli teruriga, malpli malbela.
+Kiel ĉiuj maljunuloj ĝenerale, la grafino suferis pro sendormeco.
+Senvestiĝinte, ŝi sidiĝis apud fenestro en apogseĝo kaj forsendis
+la ĉambristinojn. Oni forportis la kandelojn; la ĉambro denove
+restis lumigata nur per lucerno. La grafino sidis tute flava,
+movetante la lipojn, balanciĝante jen dekstren, jen maldekstren.
+En ŝiaj malserenaj okuloj pentriĝis kompleta foresto de ia ajn
+penso; rigardante ŝin, oni povis opinii, ke la balanciĝado de la
+teruraspekta maljunulino devenis ne de ŝia volo, sed pro efiko de
+kaŝita galvanismo.
+
+Subite tiu ĉi mortaspekta vizaĝo ŝanĝiĝis neklarigeble. La
+lipoj ĉesis moviĝi, la okuloj vigliĝis: antaŭ la grafino staris
+nekonata viro.
+
+-- Timu nenion, mi petas, ne alarmiĝu! -- li diris per klaraŭdebla,
+sed ne laŭta voĉo: -- mi neniel intencas malutili al vi; mi venis
+por petegi vin pri iu favoro.
+
+La maljunulino silente lin rigardis kaj, laŭŝajne, ne aŭdis lin.
+Hermano ekimagis, ke ŝi estas surda, kaj kliniĝinte al ŝia orelo
+mem, li ripetis la samon. La grafino silentis kiel antaŭe.
+
+-- Vi povas, -- daŭrigis Hermano, -- estigi la feliĉon de mia tuta
+vivo, kaj ĝi kostos al vi neniom: mi scias, ke vi povas diveni tri
+sinsekvajn kartojn...
+
+Hermano haltis. La grafino, videble, komprenis, kion li volis de ŝi;
+ŝajnis, kvazaŭ ŝi serĉus vortojn por sia respondo.
+
+-- Tio estis ŝerco, -- ŝi diris fine: -- mi ĵuras al vi, ke tio
+estis ŝerco!
+
+-- Tio ne estas ŝercinda, -- rediris kolere Hermano: -- rememoru
+Ĉaplicki-n, al kiu vi estis helpinta regajni.
+
+La grafino okulvideble konfuziĝis. Ŝia mieno vidigis fortan
+emocion; sed tuj poste ŝi enprofundiĝis en antaŭan sensentecon.
+
+-- Ĉu vi povas, -- daŭrigis Hermano, -- difini al mi tri certe
+gajnontajn kartojn?
+
+La grafino silentis. Hermano daŭrigis:
+
+-- Por kiu vi konservas vian sekreton? Ĉu por viaj nepoj? Ili estas
+riĉaj; ili eĉ ne konas la valoron de mono. Al malŝparemulo ne
+helpos viaj tri kartoj. Kiu ne scipovas gardi patran heredaĵon,
+tiu mortos en mizero spite ĉiaj demonecaj penadoj. Mi ne estas
+malŝparemulo; mi konas la valoron de mono. Viaj tri kartoj ne
+perdiĝos por mi. Nu?!...
+
+Li haltis kaj kortreme atendis ŝian respondon. Ŝi silentis. Hermano
+ekstaris surgenue.
+
+-- Se iam ajn, -- li diris, -- via koro konis amsenton, se vi
+memoras ĝiajn ravojn, se vi eĉ nur unufoje ekridetis al ploro de
+novenaskita filo, se io homa batiĝis iam ajn en via brusto, -- mi
+petegas vin per sentoj de edzino, de amatino, de patrino, per ĉio
+plej sankta en la vivo, ne rifuzu mian peton, malkaŝu al mi vian
+sekreton, ĝi ja neniom valoras al vi!... Eble ĝi estas ligita
+kun terura peko, kun perdo de poreterna feliĉego, kun diabla
+kontrakto... Pripensu: vi estas maljuna, al vi restas malmultaj
+vivojaroj, -- mi estas preta preni sur min vian pekon. Malkovru al mi
+vian sekreton!... Pripensu, ke feliĉo de homo sin trovas inter viaj
+manoj, ke ne sole mi, sed miaj infanoj, nepoj kaj pranepoj benos vian
+memoron kaj honoros ĝin kiel sanktaĵon...
+
+La maljunulino respondis ne eĉ unu vorton.
+
+Hermano leviĝis.
+
+-- Maljuna sorĉistino! -- li diris, kunpreminte la lipojn: -- do mi
+devigos vin respondi al mi!...
+
+Sammomente li elpoŝigis pistolon. Ekvidinte ĝin, la grafino duafoje
+elmontris fortan emocion: ŝi ekbalancis la kapon kaj levis la manon,
+kvazaŭ ŝirmante sin kontraŭ pafo; poste ŝi ekruliĝis surdorsen ...
+kaj restis senmova.
+
+-- Ĉesu viajn infanaĵojn, -- diris Hermano, prenante ŝian manon:
+-- mi vin demandas lastfoje, -- ĉu vi volas komuniki al mi viajn tri
+kartojn? jes aŭ ne?
+
+La grafino ne respondis. Hermano konvinkiĝis, ke ŝi estis morta.
+
+
+IV.
+
+Lizaveta Ivanovna sidis en sia ĉambro, ankoraŭ ne demetinte la
+balkostumon, enprofundiĝinta en meditadojn. Reveninte hejmen, ŝi
+rapidis forpermesi la duondorman servistinon, proponantan al ŝi
+siajn servojn, diris, ke ŝi mem sin senvestis, kaj kortreme eniris
+sian ĉambron, atendante trovi tie Herman-on kaj dezirante ne trovi
+lin. Unuarigarde ŝi certiĝis pri lia foresto kaj dankis la sorton
+pro la malhelpo, malebliginta ilian rendevuon. Ŝi sidiĝis kaj, ne
+senvestante sin, ekis rememoradi ĉiujn cirkonstancojn, kiuj forlogis
+ŝin dum tiom mallonga tempo tiom malproksimen. Apenaŭ pasis tri
+semajnoj de la tago, kiam ŝi unuafoje ekvidis tra fenestro la junan
+oficiron, -- kaj ŝi jam korespondas kun li, kaj li sukcesis igi ŝin
+difini al li noktan rendevuon. Ŝi sciis lian nomon nur tial, ke
+kelkaj el liaj leteroj estis subskribitaj de li; ŝi neniam parolis
+kun li, neniam aŭdis lian voĉon, nenion aŭdis pri li ... ĝis la
+hodiaŭa vespero. Stranga afero! tiun ĉi vesperon, dum la balo,
+Tomski, ofendita de la juna princidino Paŭlino Y., kiu kontraŭ
+sia kutimo koketis ne kun li, intencis sin venĝi, montrante al ŝi
+sian indiferentecon: li invitis Lizaveta Ivanovna-n kaj dancis kun
+ŝi senfinan mazurkon; dumdance li ŝercadis pri ŝia inklino al
+inĝenieroficiroj, certigis, ke li scias pli, ol ŝi povus supozi,
+kaj kelkaj el liaj ŝercoj estis tiom celtrafaj, ke Lizaveta Ivanovna
+kelkfoje pensis, ke li scias ŝian sekreton.
+
+-- De kiu vi scias ĉion ĉi? -- ŝi demandis ridante.
+
+-- De iu amiko de via konatulo, -- respondis Tomski: -- tre
+rimarkinda homo.
+
+-- Kiu do estas la rimarkinda homo?
+
+-- Lia nomo estas Hermano.
+
+Lizaveta Ivanovna respondis nenion, sed ŝiaj manoj kaj piedoj
+glaciiĝis...
+
+-- Hermano estas, -- daŭrigis Tomski, -- vere romaneca persono; li
+havas profilon de Napoleono kaj animon de Mefistofelo. Mi supozas, ke
+sur lia konscienco pezas almenaŭ tri krimoj. Kiel, vi paliĝas?
+
+-- Mi havas kapdoloron... Kion do diris al vi Hermano ... aŭ ... kia
+estas lia nomo?...
+
+-- Hermano estas malkontentega pri sia amiko: li diras, ke
+lialoke li agus tute alimaniere... Mi eĉ opinias, ke Hermano mem
+interesiĝas pri vi; almenaŭ li aŭskultas tre neindiferente la
+amajn interjekciojn de sia amiko.
+
+-- Kie do li vidis min?
+
+-- Eble en preĝejo, dum via promeno!... Dio ĝin scias! Eble en via
+ĉambro, dum via dormo, -- li ĉion kapablas...
+
+Proksimiĝintaj al ili tri sinjorinoj kun kotiljona demando: „oubli
+ou regret?“[5] interrompis la konversacion, kiu fariĝis por Lizaveta
+Ivanovna turmente scivoliga.
+
+La dancantino, elektita de Tomski, estis la princidino Paŭlino
+mem. Ŝi sukcesis sin pravigi antaŭ li, dancante plian rondon
+kaj turniĝante plifoje antaŭ sia seĝo. Tomski, reveninte al sia
+sidloko, ne pensis plu pri Hermano, nek pri Lizaveta Ivanovna. Ŝi
+volis nepre daŭrigi la interrompitan interparoladon; tamen la
+mazurko estis finita, kaj baldaŭ poste la grafino forveturis.
+
+La diroj de Tomski estis nenio alia ol dummazurka babilado; sed ili
+profunde eniĝis en la animon de la juna revemulino. La portreto,
+skizita de Tomski, similis la bildon, kunmetitan de ŝi mem; dank’
+al samtempaj romanoj tiu banala personaĵo timigis kaj ĉarmis
+ŝian imagon. Ŝi sidis, kruciginte la nudajn brakojn, klininte sur
+la nekovritan bruston sian florornamitan kapon... Subite la pordo
+malfermiĝis, kaj eniris Hermano. Ŝi ektremis...
+
+-- Kie vi estis? -- ŝi demandis timoflustre.
+
+-- En la dormoĉambro de la maljuna grafino, -- respondis Hermano: --
+mi ĵus venas de tie. La grafino mortis.
+
+-- Dio mia!... kion vi diras?!...
+
+-- Kaj kredeble, -- daŭrigis Hermano, -- mi estas kaŭzo de ŝia
+morto.
+
+Lizaveta Ivanovna ekrigardis lin, kaj en ŝia animo resonis la vortoj
+de Tomski: „sur la konscienco de tiu homo pezas almenaŭ tri krimoj!“
+Hermano sidiĝis sur fenestrobreto apud ŝi kaj rakontis ĉion.
+
+Lizaveta Ivanovna aŭskultis lin kun teruro. Sekve la pasiaj leteroj,
+la flamaj postuloj, la aroga, persista persekutado -- ĉio ĉi ne
+estis amo!... Mono, -- jen pri kio soifis lia animo!... Ne ŝi estus
+povonta kontentigi liajn dezirojn kaj lin feliĉigi!... La malriĉa
+edukatino estis sole blinda helpantino de rabisto, de mortiginto
+de ŝia maljuna bonfarantino!... Ŝi ekploris maldolĉe en sia tro
+malfrua, doloriga ekpento. Hermano rigardis ŝin senvorte; lia koro
+ankaŭ suferis. Tamen ne la larmoj de la kompatinda junulino, ne
+la mirinda ĉarmo de ŝia malĝojego emociigis lian senindulgan
+animon. Li ne sentis konsciencriproĉojn, pensante pri la mortinta
+maljunulino. Lin terurigis nur senrevena perdo de la sekreto, de kiu
+li atendis sian riĉegiĝon.
+
+-- Vi estas monstro! -- diris fine Lizaveta Ivanovna.
+
+-- Mi ne intencis ŝian morton, -- rediris Hermano, -- mia pistolo ne
+estas ŝargita.
+
+Ili ambaŭ eksilentis.
+
+Jam mateniĝis. Lizaveta Ivanovna estingis la finbrulontan kandelon.
+Pala lumo ekheligis ŝian ĉambron. Ŝi viŝis siajn plorruĝajn
+okulojn kaj eklevis ilin al Hermano; li sidadis sur fenestrobreto,
+kunmetinte la manojn kaj minace sulkiginte la frunton. En tia pozo li
+mirige rememorigis portreton de Napoleono. Tia simileco impresis eĉ
+Lizaveta Ivanovna-n.
+
+-- Kiamaniere elirigi vin el la domo? -- diris fine Lizaveta
+Ivanovna: -- mi projektis konduki vin tra flanka elirejo, -- sed
+estus necese preterpasi la dormoĉambron, kaj mi timas tion.
+
+-- Diru al mi, kiamaniere mi povos trovi la flankan elirejon; mi
+foriros sola.
+
+La junulino ekstaris, prenis el komodo ŝlosilon, donis ĝin
+al Hermano kun detala instrukcio. Li premis ŝian malvarman,
+senrespondan manon, kisis ŝian klinitan kapon kaj eliris.
+
+Li malsupreniris la spiralforman ŝtuparon kaj reeniris la grafinan
+dormoĉambron. La mortinta maljunulino sidis ŝtoniĝinta; ŝia
+vizaĝo esprimis profundan kvieton. Hermano haltis antaŭ ŝi,
+dumlonge ŝin rigardis, kvazaŭ volante certiĝi pri la terura vero;
+fine li eniris la kabineton, ekpalpis post la tapetoj la pordon kaj
+malsupreniris malluman ŝtuparon, emociita per strangaj sentoj.
+„Laŭ tiu ĉi sama ŝtuparo, -- li meditis, -- eble antaŭ sesdek
+jaroj, en tiun saman dormoĉambron, je sama horo, en orbrodita vesto,
+premante al la brusto sian trikornan ĉapelon, laŭmode frizita,
+ŝteliris juna feliĉulo, nun jam de longe putriĝinta en sia tombo,
+-- kaj hodiaŭ la koro de lia iama amatino ĉesis bati...“
+
+Malsupre de la ŝtuparo Hermano ekvidis pordon, malfermis ĝin per la
+donita al li ŝlosilo, sin trovis en trapasa koridoro kaj eliris en
+la straton.
+
+
+V.
+
+Tri tagojn post la fatala nokto, je la naŭa matene, Hermano iris
+al la ***a monaĥinejo, kie estis okazonta la funebra diservo kaj
+enterigo de la mortinta grafino. Ne sentante penton, li ne povis
+tamen tute mallaŭtigi la voĉon de sia konscienco, ripetadanta al
+li: „ci mortigis la maljunulinon!“ Havante malfortan kredon, li havis
+multe da superstiĉoj. Li kredis, ke la morta grafino povis malfavore
+influi lian vivon, kaj decidis ĉeesti la enterigon por elpeti ŝian
+pardonon.
+
+La preĝejo estis plena. Hermano nur pene sukcesis antaŭeniĝi
+tra la homamaso. La ĉerko staris sur pompa katafalko sub velura
+baldakeno. La mortintino kuŝis kun surbruste krucigitaj brakoj, en
+punta kufo kaj blanka atlasa robo. Ĉirkaŭe staris ŝiaj hejmanoj:
+servistoj en nigraj kaftanoj kun blazonrubandoj surŝultre kaj
+kandeloj enmane; parencoj en profunde funebraj kostumoj -- infanoj,
+nepoj kaj pranepoj. Neniu ploris; larmoj estus afektado. La grafino
+estis tiom maljuna, ke ŝia morto neniun povis surprizi, kaj ŝiaj
+parencoj jam de longe atendis ĝin. Juna episkopo diris funebran
+paroladon. Per simplaj kaj kortuŝaj vortoj li priskribis la pacan
+transiron en alian mondon de virtulino, kies longaj vivojaroj
+estis trankvila pretiĝo al kristana morto. „La mortanĝelo trovis
+ŝin, -- diris la oratoro, -- sendorma kaj meditanta pri baldaŭa
+alveno de noktomeza fianĉo.“ La diservo pasis en deca malĝojo. La
+parencoj adiaŭis la unuaj la mortintinon; post ili proksimiĝis la
+multenombraj gekonatuloj, venintaj saluti lastfoje virinon, kiu dum
+longaj jaroj partoprenis iliajn vantajn amuzojn. Poste venis ĉiuj
+domanoj; finfine proksimiĝis maljunega vartistino, samaĝulino de
+la mortintino; du junaj knabinoj subtenis ŝin je la brakoj; ŝi
+estis tro kaduka por fari ĝisteran klinsaluton, -- ĝi elverŝis
+kelkajn larmojn, kisante la malvarman manon de sia sinjorino. Post
+ŝi Hermano ekkuraĝis proksimiĝi al la ĉerko. Li klinis sin
+ĝisteren kaj dum kelke da minutoj restis kuŝanta sur la malvarma
+planko, kovrita per abibranĉoj; fine li leviĝis, same pala kiel
+la mortintino, supreniris la katafalkoŝtupojn kaj kliniĝis ...
+ĉi-momente al li ekŝajnis, ke la mortintino moke lin rigardas,
+duonmalferminte unu okulon. Hermano rapidmove malantaŭeniĝis, faris
+eraran paŝon kaj ekfalegis surdorsen. Oni eklevis lin. Samtempe
+oni forportis la svenintan Lizaveta Ivanovna-n en la preĝejan
+vestiblon. Tia epizodo difektis por kelka tempo la solenon de la
+funebra ceremonio. Meze de la ĉeestantoj aŭdiĝis obtuza murmuro;
+malgrasa ĉambelano, parenco de la mortinta grafino, flustris en
+la orelon de anglo staranta apud li, ke la juna oficiro estas ŝia
+eksteredzeca filo, al kio la anglo respondis malvarmtone: „Ho?“
+
+La tutan tagon Hermano estis tre malbonhumora. Tagmanĝante en
+modesta restoracio, li kontraŭkutime tre multe trinkis por tiurimede
+mildigi sian internan agitiĝon. Tamen la vino ankoraŭ pli ardigis
+lian imagon. Reveninte hejmen, li sin ĵetis tute vestita sur la
+liton kaj profunde ekdormis.
+
+Li vekiĝis nokte; la luno heligis lian ĉambron. Li rigardis la
+horloĝon: estis kvarono antaŭ la tria. Lia dormemo forpasis. Li
+eksidis sur la lito kaj meditis pri la grafina enterigo.
+
+Tiumomente iu ekrigardis el la strato en lian fenestron kaj tuj
+foriris. Hermano neniel atentis tion. Post minuto li ekaŭdis, ke
+oni malfermas la antaŭĉambran pordon. Hermano pensis, ke lia
+servosoldato, ebria kiel kutime, revenis el nokta promenado. Sed
+li ekaŭdis fremdan paŝmanieron: iu marŝis, delikate ŝovante
+pantoflojn. La pordo malfermiĝis, -- eniris virino blanke vestita.
+Hermano opiniis ŝin sia maljuna mamnutristino kaj miris, kiakaŭze
+ŝi venas tiel malfrue. Sed la blanka virino, glitinte, sin trovis
+subite antaŭ li, -- li rekonis la grafinon.
+
+-- Mi venis al ci kontraŭ mia volo, -- ŝi diris firmavoĉe: --
+estas ordonite, ke mi plenumu cian peton. Trio, sepo kaj aso gajnigos
+cin laŭvice, tamen kondiĉe, ke ci ne ludu ĉiutage pli ol unu
+karton, kaj ke ci ludu neniam plu en cia vivo. Mi pardonas al ci mian
+morton, sed ci devas edziĝi kun mia edukatino, Lizaveta Ivanovna...
+
+Ŝi returnis sin malrapide, iris al la pordo, ŝovante siajn
+pantoflojn kaj malaperis. Hermano aŭdis frapfermon de la vestibla
+pordo kaj vidis, ke iu ree ekrigardis en lian fenestron.
+
+Hermano dumlonge ne kapablis rekonsciiĝi. Li eliris en apudan
+ĉambron; lia servosoldato dormis profunde, kaj Hermano apenaŭ
+sukcesis lin veki. Li estis ebria laŭkutime kaj povis klarigi
+nenion. La ekstera pordo estis ŝlosita. Hermano revenis en sian
+ĉambron, ekbruligis kandelon kaj priskribis sur papero sian vizion.
+
+
+VI.
+
+Du fiksaj ideoj ne povas kune ekzisti en psiĥa naturo, same kiel du
+korpoj en la fizika mondo ne povas okupi unu saman lokon. Trio, sepo
+kaj aso baldaŭ anstataŭis en la imago de Hermano la figuron de la
+mortinta maljunulino. Trio, sepo, aso ne forlasadis lian cerbon kaj
+ĉiam movetiĝis sur liaj lipoj. Renkontinte junulinon, li diradis:
+„Ŝi estas gracitalia kiel vera kertrio.“ Se oni demandis lin:
+„Kioma horo estas?“ li respondis: „Kvin minutoj antaŭ sepo!“ Ĉiu
+korpulenta homo rememorigis lin pri aso. Trio-sepo-aso persekutis
+lin en sonĝo, alprenante ĉiujn eblajn aspektojn: la trio floris
+antaŭ li en formo de luksa rozo, la sepo ŝajniĝis kvazaŭ gotika
+pordego, la aso -- kiel monstra araneo. Ĉiuj liaj pensoj kunfluis en
+unu -- utiligi la sekreton, kiu tiom multe al li kostis. Li komencis
+pripensadi sian eksiĝon el militservo kaj pri vojaĝo. Li projektis
+en publikaj ludejoj de Paris devigi la ensorĉitan fortunon cedi al
+li trezoron. Okaza cirkonstanco liberigis lin de superfluaj klopodoj.
+
+En Moskvo organiziĝis societo de riĉaj kartludantoj sub prezido
+de la fama Ĉekalinski, pasiginta sian tutan vivon kun kartoj
+kaj akirinta iam milionojn, gajnante kambiojn kaj malgajnante
+kontantan monon. Multjara sperteco meritigis al li la konfidon de
+liaj kamaradoj, kaj larĝe malfermitaj pordoj de lia domo, bonega
+kuiristo, afableco kaj gajemo akiris la estimon de la publiko. Li
+venis Peterburgon. La junularo alfluegis ĉe lin, forgesante balojn
+pro kartoj kaj preferante la tentojn de ludado al la ĉarmoj de
+amindumado. Narumov enkondukis ĉe lin Hermanon.
+
+Ili trapasis vicon da luksaj salonoj, kie staris bonmanieraj
+servistoj. Ĉiuj ĉambroj estis homplenaj. Kelke da generaloj kaj
+sekretaj konsilanoj ludis viston; junaj homoj sidis en senĝenaj
+pozoj sur ortegitaj kanapoj, manĝis glaciaĵojn kaj fumis pipojn.
+En la ĉefa salono, apud longa tablo, ĉirkaŭ kiu premiĝis
+dudek-kelkaj ludantoj, sidis la domomastro kiel ludbankisto. Li
+estis ĉirkaŭ sesdekjara homo de plej respektinda eksteraĵo; lia
+kapo estis kovrita de arĝentkoloraj haroj; la diketa freŝa vizaĝo
+esprimis bonkorecon; la okuloj brilis kaj estis vivigataj de ĉiama
+rideto. Narumov prezentis al li Hermanon. Ĉekalinski amike premis
+lian manon, petis, ke li estu sen ceremonioj, kaj daŭrigis ludi.
+
+Post kiam la komencita ludo estis finita, kaj Ĉekalinski intencis
+rekomenci, Hermano proksimiĝis al la ludotablo.
+
+-- Permesu, ke mi metu karton, -- li diris, etendante sian manon el
+post iu korpulenta ludanto.
+
+Ĉekalinski ekridetis kaj senvorte kapjesis, kiel signo de kvazaŭ
+rezignacia konsento. Narumov ridante gratulis Hermanon pri absolvo de
+lia longedaŭra ludfasto kaj deziris al li bonŝancon.
+
+-- Jen estas! -- diris Hermano, skribante la ludotan monsumon sub sia
+karto.
+
+-- Kiom? -- demandis Ĉekalinski, miope duonfermetante la okulojn: --
+pardonu, mi ne bone vidas.
+
+-- Kvardek sep mil, -- respondis Hermano.
+
+Sammomente ĉiuj kapoj turniĝis, kaj la okuloj sin direktis al
+Hermano. „Li freneziĝis!“ ekpensis Narumov.
+
+-- Permesu atentigi vin, -- diris Ĉekalinski kun sia ĉiama rideto,
+-- ke via ludo estas iom forta: neniu ĉi tie metis sur simplan
+karton pli ol ducent sepdek kvin rublojn.
+
+-- Kio do? -- rediris Hermano: -- ĉu vi akceptas aŭ ne?
+
+Ĉekalinski kapklinis kun ŝajno de sama obeema konsento.
+
+-- Mi volis nur diri al vi, -- li daŭrigis, -- ke, ĝuante la
+konfidon de miaj amikoj, mi povas ludi nur kontantmone. Miaflanke,
+mi nepre estas certa, ke sufiĉas via vorto, tamen, por ne malordigi
+la ludon kaj la kalkulojn, mi petas, ke vi metu la monon sur la
+karton.
+
+Hermano elpoŝigis bankbileton kaj prezentis ĝin al Ĉekalinski,
+kiu, malatente ĝin rigardinte, metis ĝin sur la karton de Hermano
+kaj komencis ĵeti la kartojn. Dekstren falis naŭo, maldekstren --
+trio.
+
+-- Mi gajnis! -- diris Hermano, montrante sian karton, trion.
+
+Meze de ludantoj aŭdiĝis flustrado. Ĉekalinski sulkigis la
+frunton, sed tuj poste rideto reaperis sur lia vizaĝo.
+
+-- Ĉu vi volas havi la monon? -- li demandis Hermanon.
+
+-- Jes, mi petas.
+
+Ĉekalinski elpoŝigis kelke da bankbiletoj kaj tuj kvietiĝis.
+Hermano prenis la monon kaj foriris de la tablo. Narumov ne povis
+rekonsciiĝi. Hermano trinkis glason da limonado kaj foriris hejmen.
+
+La morgaŭan vesperon li revenis al Ĉekalinski. La domomastro denove
+estis ludbankisto. Hermano proksimiĝis al la tablo; la ludantoj tuj
+cedis lokon al li. Ĉekalinski afable lin salutis. Hermano metis sur
+elektitan karton novajn kvardek sep milojn kune kun sia hieraŭa
+gajnaĵo. Ĉekalinski ĵetis la kartojn. Dekstren falis valeto,
+maldekstren -- sepo.
+
+Hermano malkovris sepon.
+
+Ĉiuj ekkrietis: „ha!...“ Ĉekalinski videble konfuziĝis. Li
+transdonis al Hermano naŭdek kvar mil rublojn. Hermano prenis ilin
+indiferentmiene kaj tuj foriris.
+
+La sekvintan vesperon Hermano denove aperis apud la ludotablo.
+Ĉiuj atendis lin; la generaloj kaj sekretaj konsilanoj forlasis
+sian viston, por vidi tian eksterordinaran ludon. La junaj oficiroj
+leviĝis de la kanapoj; ĉiuj servistoj kolektiĝis en la salono.
+Oni are ĉirkaŭis Hermanon. La ceteraj ludantoj interrompis sian
+ludon, senpacience atendante la rezulton. Hermano staris apud
+la tablo, pretiĝante ludi sola kontraŭ la pala, sed ridetanta
+Ĉekalinski. Hermano surkovris sian karton per pako da bankbiletoj.
+Tio similis duelon. Profunda silento regis ĉirkaŭe.
+
+Ĉekalinski komencis ĵeti la kartojn; liaj manoj tremis. Dekstren
+falis kartreĝino, maldekstren -- aso.
+
+-- Mia aso gajnis! -- diris Hermano, malkovrante sian karton.
+
+-- Via reĝino malgajnis, -- rediris kompleze Ĉekalinski.
+
+Hermano ektremis: efektive, anstataŭ aso antaŭ li kuŝis reĝino.
+Li ne kredis siajn okulojn, ne komprenante, kiamaniere li povis erari
+en la elekto de sia karto.
+
+Ĉi-momente al li ekŝajnis, ke la pikreĝino duonfermetis la okulojn
+kaj moke ekridetis. Mirinda simileco lin konsternis...
+
+-- La maljunulino! -- li ekkriis terurigita.
+
+Ĉekalinski proksimigis al si la malgajnitan de Hermano monon.
+Hermano staris senmove. Kiam li forlasis la tablon, komenciĝis
+laŭtvoĉa interparolado.
+
+-- Rimarkinda ludo! -- parolis la ludantoj.
+
+Ĉekalinski denove ekmiksis la kartojn, kaj la ludado estis
+daŭrigata.
+
+
+EPILOGO
+
+Hermano freneziĝis. Li sin trovas en la Obuĥova malsanulejo[6],
+en ĉambro n-ro 17, respondas neniujn demandojn kaj murmuretas tre
+rapide: „trio-sepo-aso! trio-sepo-reĝino!...“
+
+Lizaveta Ivanovna edziniĝis kun tre afabla juna homo; li havas
+ian oficon kaj posedas sufiĉan monhavon: li estas filo de iama
+bienadministranto de la maljuna grafino. Lizaveta Ivanovna edukas
+malriĉan parencinon.
+
+Tomski estas promociita kapitano kaj edziĝis kun princidino
+Paŭlino.
+
+
+
+
+NEĜBLOVADO
+
+
+Fine de la 1811a jaro, dum memorinda por ni epoko, loĝis en sia
+bieno „Nenaradovo“ la bonkora Gavrilo Gavriloviĉ R***. Li estis fama
+en la ĉirkaŭaĵo pro sia gastameco kaj afableco; la najbaroj tre
+ofte vizitadis lin por manĝi, trinki, ludi bostonon je kvin kopekoj
+kun lia edzino Praskovja Petrovna, kaj kelkaj -- por vidi ilian
+filinon Maria Gavrilovna-n, gracitalian, palvizaĝan deksepjaran
+fraŭlinon. Oni sciis ŝin riĉa fianĉino, kaj multaj homoj esperis
+edziĝi kun ŝi aŭ edzigi siajn filojn.
+
+Maria Gavrilovna estis edukita pere de francaj romanoj kaj,
+sekve, estis enamiĝinta. Ŝia elektitulo estis neriĉa armea
+subleŭtenanto, sin trovanta forpermese en sia apuda bieneto.
+Memkompreneble, la juna homo ardis per sama pasio; sed la gepatroj de
+lia amatino, rimarkinte ilian reciprokan inklinon, malpermesis al sia
+filino eĉ pensi pri li, kaj oni akceptadis lin pli malafable ol la
+eksigitan asesoron.
+
+Niaj geamantoj interkorespondadis kaj ĉiutage renkontiĝis sen
+ĉeestantoj en betularbareto aŭ apud malnova kapelo. Tie ili ĵuris
+unu al alia eternan amon, plendis kontraŭ la sorto kaj faris
+diversajn projektojn. Korespondante kaj interparoladante tiamaniere,
+ili alvenis (kio estas tute natura) al jena rezonado: se ni ne
+povas vivi unu sen la alia, sed la volo de la senkompataj gepatroj
+kontraŭstaras nian feliĉon, ĉu ni ne povus agi memstare? Certe,
+la bontrafa ideo venis unue en la kapon de la juna homo, sed ĝi tre
+plaĉis al la romaneca imagemo de Maria Gavrilovna.
+
+Vintro ĉesigis iliajn intervidiĝojn, sed la korespondado fariĝis
+des pli vigla. La oficiro, Vladimir Nikolajeviĉ, petegis en ĉiu
+letero, ke ŝi konsentu geedziĝi sekrete, dum kelka tempo sin kaŝi,
+poste sin ĵeti al la piedoj de la gepatroj, kiuj certe estos fine
+kortuŝitaj per la heroa konstanteco kaj kompatindeco de la geamantoj
+kaj nepre diros al ili: „Infanoj niaj, venu, por ke ni ĉirkaŭbraku
+vin!“
+
+Maria Gavrilovna dumlonge hezitis; multego da forkurplanoj estis
+rifuzitaj. Fine ŝi konsentis: la fiksitan tagon ŝi devos ne
+partopreni vespermanĝon kaj foriri en sian ĉambron, pretekstante
+kapdoloron; ŝia servistino partoprenis la komploton; ili ambaŭ
+estis elirontaj en la ĝardenon per malantaŭa dompordo; post la
+ĝardeno ili trovos pretan glitveturilon, sidiĝos en ĝin kaj
+veturos kvin verstojn[7] de Nenaradovo en vilaĝon Ĵadrino, rekte en
+preĝejon, kie Vladimir Nikolajeviĉ ilin atendos.
+
+Antaŭnokte de la decidiga tago Maria Gavrilovna tute ne dormis:
+ŝi enpakadis tolaĵon kaj vestojn, skribis longan leteron al
+sentimentala fraŭlino, sia amikino, alian -- al siaj gepatroj. Ŝi
+adiaŭis ilin per plej kortuŝaj esprimoj, senkulpigis sian agon
+per nevenkebla forto de pasio kaj fine aldonis, ke la plej feliĉa
+minuto de sia vivo estos, kiam estos permesite al ŝi sin ĵeti ĉe
+la piedojn de siaj karaj gepatroj. Sigelinte ambaŭ leterojn per
+fabrikita en Tula[8] sigelileto, sur kiu vidiĝis du flamantaj koroj
+kun konvena surskribo, ŝi enlitiĝis je mateniĝo kaj ekdormetis;
+tamen terurigaj sonĝoj ĉiuminute vekis ŝin. Jen ŝajnis al ŝi, ke
+en la momento, kiam ŝi sidiĝis en glitveturilon por rapidi al la
+geedziĝceremonio, la patro haltigis ŝin, kun suferiga rapideco ŝin
+trenis sur la neĝo kaj ĵetis en malluman, senfundan subteraĵon ...
+kaj ŝi flugrapide falis kun neesprimebla korpremo. Jen ŝi vidis
+Vladimir-on kuŝanta tere, pala, sangekovrita; mortante li petegis
+per akrelaŭta voĉo, ke ŝi rapidu al li por geedziĝi... Aliaj
+abomenaj, sensencaj vizioj aperadis antaŭ ŝi unu post alia. Fine
+ŝi ellitiĝis, pli pala ol kutime kaj kun ne ŝajnigita kapdoloro.
+La patro kaj patrino rimarkis ŝian ekscitiĝon; ilia amoplena
+zorgemo kaj senĉesaj demandoj: „Kio estas al ci, Manjo? Ĉu eble ci
+malsanas, Manjo?“ rompis ŝian koron. Ŝi penis trankviligi ilin,
+ŝajni gaja, sed ne sukcesis.
+
+Vesperiĝis. La penso, ke ŝi pasigas la lastan tagon meze de sia
+familio, premis ŝian koron. Ŝi estis apenaŭ viva; fundanime
+ŝi adiaŭis ĉiujn personojn, ĉiujn aĵojn ŝin ĉirkaŭantajn.
+Oni pretigis la vespermanĝon. Ŝia koro forte ekbatis. Ŝi
+diris tremvoĉe, ke ŝi ne volas manĝi, kaj adiaŭis sin de la
+gepatroj. Ili kisis kaj laŭkutime krucesignis ŝin: ŝi apenaŭ ne
+ekploris. Veninte en sian ĉambron, ŝi ĵetis sin en apogseĝon
+kaj ekploregis. La servistino admonpetis, ke ŝi kvietiĝu kaj estu
+kuraĝa. Ĉio estis preta. Post duonhoro Manjo estis forlasonta por
+ĉiam la gepatran domon, sian ĉambron, kvietan virgulinan vivadon...
+
+Ekstere blovis neĝvento; ĝi muĝis, la fenestrokovriloj skuiĝis
+kaj bruis. Ĉio ŝajnis al ŝi minacoplena kaj malĝoja antaŭsigno.
+Baldaŭ en la domo ĉio mallaŭtiĝis kaj ekdormis. Manjo envolvis
+sin per ŝalo, survestis varman mantelon, prenis en la manojn sian
+skatoleton kaj eliris tra la malantaŭa dompordo. La servistino
+portis post ŝi du pakaĵojn. Ili eniris la ĝardenon. La neĝblovo
+ne kvietiĝis; la vento blovegis renkonte, kvazaŭ penante haltigi
+la junan krimulinon. Apenaŭ ili sukcesis atingi la finon de la
+ĝardeno. Sur la vojo ilin atendis glitveturilo. La malvarmiĝintaj
+ĉevaloj ne volis stari surloke; la veturigisto de Vladimir paŝadis
+antaŭ la timonstangoj, retenante la malpaciencajn. Li helpis la
+fraŭlinon kaj ŝian servistinon oportune sidiĝi kaj lokigi la
+pakaĵojn kun la skatoleto, manprenis la kondukilojn, kaj la ĉevaloj
+ekgalopis. Lasante la junulinon al la zorgoj de la sorto kaj al la
+lerteco de la veturigisto Terenĉjo, nin ni turnu al la juna amanto.
+
+La tutan tagon Vladimir pasigis veturante tien kaj ĉi tien. Matene
+li vizitis la pastron kaj apenaŭ sukcesis interkonsentiĝi kun
+li. Poste li serĉadis la necesajn atestontojn meze de najbaraj
+bienhavantoj. La unua, al kiu li sin turnis, kvardekjara iama
+kavaleria subleŭtenanto Dravin, tre volonte konsentis. Tia
+aventuro -- li diris -- remorigis lin pri pasinta tempo kaj husaraj
+petolaĵoj. Li konsentigis Vladimir-on resti ĉe li por tagmanĝo kaj
+certigis lin, ke la du ceteraj atestontoj ne mankos. Efektive, tuj
+post la tagmanĝo alvenis la termezuristo Schmidt[9], kun lipharoj
+kaj spronoj, kaj filo de la distrikta policestro, deksesjara knabo,
+ĵus fariĝinta ulano. Ili ne nur akceptis la proponon de Vladimir,
+sed eĉ ĵuris, ke ili estas pretaj oferi al li sian vivon. Vladimir
+ĉirkaŭbrakis ilin kun ravo kaj forveturis hejmen por prepari ĉion
+bezonan.
+
+Jam de longe vesperiĝis. Li forsendis sian fidindan Terenĉjon
+en Nenaradovo-n kun ĉevaltrio kaj detala kaj zorge pripensita
+instrukcio; por si mem li jungigis glitveturileton kun unu ĉevalo
+kaj sola, sen veturigisto, veturis Ĵadrino-n, kien post du horoj
+estis alvenonta Maria Gavrilovna. La vojon li bone konis, -- ĝi
+postulis ne pli ol dudek minutojn.
+
+Sed apenaŭ Vladimir forlasis sian vilaĝon kaj troviĝis meze de
+kampoj, forte ekventis kaj fariĝis tia neĝblovo, ke li nenion povis
+vidi. Post unu minuto la vojo estis superŝutita de neĝo kaj ne
+plu rekonebla; la ĉirkaŭaĵo malaperis en ia nebuleca, flavnuanca
+mallumo, tra kiu flirtis blankaj neĝflokoj; la ĉielo kaj la tero
+kunfluiĝis. Baldaŭ Vladimir perdis la vojon kaj vane klopodis
+ĝin retrovi. La ĉevalo paŝis trafe-maltrafe kaj ĉiuminute jen
+surrampis neĝmonteton, jen falruliĝis en kavon; la glitveturilo
+ĉiuminute renversiĝadis. Vladimir precipe zorgis ne perdi la
+ĝustan direkton. Tamen al li ŝajnis, ke forpasis pli ol duonhoro,
+sed li ne atingis ankoraŭ la Ĵadrin-an arbareton. Pasis pluaj
+dek-kelkaj minutoj, -- la arbareto ne vidiĝis. Vladimir veturis
+tra iu kampo kun multaj profundaj krutkavegoj. La neĝblovado ne
+kvietiĝis, la ĉielo ne sereniĝis. La ĉevalo komencis laciĝi, kaj
+li mem estis ŝvitkovrita, malgraŭ ke li ĉiuminute estis devigata
+ĝiszone enneĝiĝi.
+
+Fine li konvinkiĝis, ke li veturas ne laŭ ĝusta direkto. Li
+haltis, ekis pripensadi, rememoradi, konjekti kaj decidis, ke li
+devas veturi dekstren. Li faris tion. Lia ĉevalo apenaŭ marŝis.
+Pasis jam pli ol unu horo, de kiam li forlasis sian hejmon. Ĵadrino
+nepre devis esti proksima. Tamen li veturis, veturadis, sed la
+kampo ne havis finon. Ĉie -- neĝamasoj kaj kavoj; ĉiuminute la
+glitveturilo renversiĝis, ĉiuminute li ĝin restarigis. La tempo
+pasadis. Vladimir komencis maltrankviliĝi.
+
+Fine io eknigriĝis flanke. Vladimir direktis la ĉevalon tien.
+Proksimiĝinte, li ekvidis arbareton. „Dank’ al Dio,“ -- li meditis,
+-- „nun estas proksime.“ Li ekveturis laŭ la arbaretrando, esperante
+tuj trafi la konatan vojon aŭ ĉirkaŭveturi la arbareton: Ĵadrino
+sin trovis tuj post ĝi. Baldaŭ li trovis la vojon kaj enveturis
+mezen de arbaro, vintre senfoliigita. La vento ne povis furiozi tie,
+la vojo estis ebena, la ĉevalo ekvigliĝis, kaj Vladimir ĉesis
+agitiĝi.
+
+Tamen li veturis, veturadis, sed Ĵadrino ne estis videbla, -- la
+arbareto ne havis finon. Vladimir kun teruro ekvidis, ke li venis
+en tute nekonatan arbaron. Malespero lin ekposedis. Li ekfrapis la
+ĉevalon; la kompatinda besto komence ektrotis, sed baldaŭ ĝi
+laciĝis kaj post kvaronhoro marŝis malrapidpaŝe, spite ĉiuj
+klopodoj de la malfeliĉa Vladimir.
+
+Iom post iom la arboj komencis maldensiĝi. Vladimir elveturis el
+la arbaro, -- Ĵadrino ne estis vidata. Kredeble estis ĉirkaŭ
+noktomezo. Larmoj elspruĉis el liaj okuloj; li ekveturis divenprove.
+La vetero mildiĝis, la nuboj disiĝis. Antaŭ li kuŝis ebenaĵo,
+kovrita per blanka ondeca tapiŝo. La nokto estis sufiĉe serena. Li
+ekvidis proksime vilaĝeton, konsistantan el kvar -- kvin kabanoj.
+Vladimir sin direktis tien. Apud la unua dometo li elsaltis el sia
+glitveturilo, alkuris fenestron kaj komencis frapi. Post kelke da
+minutoj leviĝis ligna fenestrokovrilo, kaj maljunulo aperigis sian
+grizan barbon. -- „Kion vi bezonas?“ -- „Ĉu Ĵadrino troviĝas
+proksime?“ -- „Ĵadrino?“ -- „Jes, jes, -- ĉu ĝi estas proksime?“
+-- „Jes, proksime, -- je dek-kelke da verstoj.“ -- Aŭdinte tian
+respondon, Vladimir ekkaptis senespere siajn harojn kaj restis
+senmova, kiel homo, kondamnita al morto.
+
+-- „El kie vi venas?“ -- daŭrigis la maljunulo. Vladimir ne
+respondis la demandon. -- „Ĉu vi povas, maljunulo, -- li diris,
+-- provizi min per ĉevaloj ĝis Ĵadrino?“ -- „Ne, mi ne havas
+ĉevalojn,“ -- respondis la vilaĝano. -- „Ĉu mi povas havi almenaŭ
+gvidiston? Mi pagos, kiom li volos.“ -- „Atendu, -- respondis la
+maljunulo, mallevante la fenestrokovrilon: -- mi sendos al vi mian
+filon, li vin akompanos.“ Vladimir komencis atendi. Apenaŭ forpasis
+unu minuto, li ree ekfrapis. La fenestrokovrilo leviĝis, aperis la
+barbo. -- „Kion vi bezonas?“ -- „Kie do estas via filo?“ -- „Li tuj
+eliros, li piedvestas sin. Ĉu vi frostiĝis? Eniru kaj varmigu vin.“
+-- „Dankon, rapidigu vian filon.“
+
+La pordego ekknaris. Eliris juna vilaĝano kun bastonego kaj iris
+antaŭen, jen montrante, jen serĉante la vojon, surŝutitan de
+neĝamasoj. -- „Kioma horo estas?“ -- demandis lin Vladimir. --
+„Baldaŭ mateniĝos,“ -- respondis la vilaĝano. Vladimir diris ne
+eĉ unu vorton plu.
+
+Kantis kokoj kaj estis jam hele, kiam ili atingis Ĵadrinon. La
+preĝejo estis fermita. Vladimir pagis la gvidiston kaj sin direktis
+al la pastra domo. En la korto lia ĉevaltrio forestis. Kia sciigo
+atendis lin?!...
+
+Sed ni revenu al la bonkoraj Nenaradov-aj bienuloj kaj rigardu, kio
+okazas ĉe ili.
+
+Nenio.
+
+La gemaljunuloj vekiĝis kaj eliris en la salonon, Gavrilo
+Gavriloviĉ en noktoĉapo kaj varma jako, Praskovja Petrovna
+en vatita nokta negliĝo. Oni alportis samovaron, kaj Gavrilo
+Gavriloviĉ sendis knabinon ekscii, kiel fartas Maria Gavrilovna
+kaj kiel ŝi pasigis la nokton. La knabino revenis, dirante, ke la
+fraŭlino dormis malbone, sed nun ŝi sentas sin pli bone kaj tuj
+venos en la salonon. Efektive, la pordo malfermiĝis, kaj Maria
+Gavrilovna eniris kaj salutis paĉjon kaj panjon.
+
+-- Kiel fartas cia kapo, Manjo? -- demandis Gavrilo Gavriloviĉ. --
+„Pli bone, paĉjo,“ -- respondis Manjo. -- „Ci certe haladzomalsaniĝis,“
+-- diris Praskovja Petrovna. -- „Estas eble, panjo,“ -- respondis
+Manjo.
+
+La tago pasis bone, sed nokte Manjo grave malsaniĝis. Oni venigis
+urban kuraciston. Li alvenis vespere kaj trovis Manjon en deliro:
+fariĝis arda febro, kaj la kompatinda malsanulino dum du semajnoj
+sin trovis ĉe tomba sojlo.
+
+Neniu en la domo sciis pri la intencita forkuro. La skribitajn
+antaŭtage leterojn Manjo bruligis; la servistino al neniu diris
+ion, timante la koleron de la maljunaj gesinjoroj. La pastro, la
+iama kavaleria subleŭtenanto, la lipharhava termezuristo kaj la
+juna ulano estis diskretaj -- kaj ne senkaŭze... La veturigisto
+Terenĉjo neniam, eĉ ebria, diradis ion superfluan. Tiamaniere la
+sekreto estis gardita de pli ol duondekduo da komplotintoj. Sed Maria
+Gavrilovna mem, dum konstanta deliro, malkaŝadis sian sekreton.
+Tamen ŝiaj diroj estis tiom malkonformaj je ĉio, ke la patrino,
+ne forlasanta ŝian liton, povis sole kompreni, ke la junulino
+estis ĝismorte enamiĝinta je Vladimir Nikolajeviĉ, kaj ke tiu
+amo estas la verŝajna kaŭzo de ŝia malsano. Ŝi interkonsiliĝis
+kun la edzo, kun kelkaj genajbaroj, kaj fine oni decidis unuvoĉe,
+ke, videble, tiu estas la fatalo de Maria Gavrilovna, ke la sorte
+destinitan fianĉon oni ne sukcesos eviti, ke malriĉeco ne estas
+krimo, ke oni ja vivos ne kun mono, sed kun homo, kaj ĉion similan.
+Moralaj sentencoj estas foje tre utilaj en okazoj, kiam oni ne
+sukcesas elpensi ion alian por sia praviĝo.
+
+Dume la fraŭlino komencis resaniĝi. Jam de longe oni ne vidis
+Vladimir-on en la domo. Do oni decidis lin venigi por anonci al li
+neatenditan feliĉon -- konsenton je geedziĝo. Tamen kiom granda
+estis la mirego de la Nenaradov-aj bienuloj, kiam responde al ilia
+invito ili ricevis de li duonfrenezan leteron! Li sciigis ilin, ke
+lia piedo neniam transpaŝos la sojlon de ilia domo, kaj petis,
+ke oni forgesu pri malfeliĉulo, por kiu la morto restas lia sola
+konsolo. Post kelke da tagoj ili eksciis, ke Vladimir forveturis en
+la armeon. Estis la 1812a jaro!
+
+Dum longa tempo oni ne kuraĝis sciigi la resaniĝantan Manjon pri
+tio. Ŝi mem neniam citis la nomon de Vladimir. Kelkajn monatojn
+poste, trovinte lian nomon en la listo de distingiĝintoj kaj grave
+vunditoj en la batalo de Borodino, ŝi svenis, kaj oni timis, ke la
+febrego revenos. Tamen, glor’ al Dio, la sveno ne havis sekvojn.
+
+Alia malĝojego ŝin afliktis! Gavrilo Gavriloviĉ mortis, herede
+lasinte al ŝi sian tutan posedaĵon. Sed la heredaĵo ne konsolis
+ŝin: tutkore ŝi partoprenis la malĝojon de la kompatinda Praskovja
+Petrovna kaj ĵuris, ke ŝi neniam ŝin forlasos. Tamen ili
+forveturis el Nenaradovo, loko de malĝojigaj rememoroj, kaj ekloĝis
+en alia ilia bieno.
+
+Tie ankaŭ fianĉoj ĉirkaŭis la amindan kaj riĉan junulinon;
+sed neniun ŝi esperigis. La patrino kelkfoje admonis ŝin fari
+elekton, -- Maria Gavrilovna nee skuis la kapon kaj enpensiĝadis.
+Vladimir ne plu ekzistis: li mortis en Moskvo ĵus antaŭ la enveno
+de la francoj. La memoro pri li ŝajnis sankta al Manjo; almenaŭ
+ŝi konservadis ĉion, kio povis rememorigi pri li: la iam legitajn
+de li librojn, liajn desegnaĵojn, muziknotojn kaj kopiitajn por
+ŝi versaĵojn. La najbaroj, sciiĝinte pri tio, admiris ŝian
+konstantecon kaj scivole atendis la heroon, triumfontan fine super
+la ĉagrenoplena fideleco de tiu virga Artemiso[10].
+
+Intertempe la milito estis glore finita. Niaj regimentoj revenadis
+el fremdlando. La popolo kuris por renkonti ilin. La muzikistaroj
+ludis la militajn kantojn „Vive Henri-Quatre“, tirolajn valsojn
+kaj ariojn „Ĵokondo“. Oficiroj, foririntaj militi preskaŭ kiel
+knaboj, revenis maturiĝintaj kaj viriĝintaj en batalatmosfero,
+ornamitaj per ordenkrucoj. Soldatoj gaje parolis inter si, ĉiuminute
+miksante germanajn kaj francajn vortojn. Neforgesebla epoko! Epoko
+de gloro kaj entuziasmo! Kiom forte batis rusaj koroj ĉe la vorto
+„patrolando“! Kiom dolĉaj estis la larmoj de revidiĝo! Kiel
+unuanime ni kunigadis la sentojn de nacia fiereco kaj amo al la caro!
+Kaj por li -- kia minuto!...
+
+La virinoj, la rusaj virinoj estis tiutempe senkomparaj. Ilia kutima
+senemociemo malaperis. Ilia ekstazo estis vere ebriiga, kiam,
+salutante la venkintojn, ili kriis „hura!“.
+
+Kiu el tiamaj oficiroj ne konfesos, ke al rusa virino li ŝuldas sian
+plej valoran rekompencon?...
+
+Dum tiu brila tempo Maria Gavrilovna loĝis kun sia patrino en la
+***a gubernio kaj ne vidis, kiel ambaŭ ĉefurboj solenis la revenon
+de la militistaroj. Sed en provincaj distriktoj kaj vilaĝoj la
+ĝenerala entuziasmo, eble, estis ankoraŭ pli forta. Apero de
+oficiro en tiaj lokoj estis por li vera triumfo, kaj frake vestita
+amanto ne povis konkuri kun li.
+
+Ni diris jam, ke malgraŭ sia indiferenteco Maria Gavrilovna kiel
+antaŭe estis ĉirkaŭata de aspirantoj. Sed ĉiuj estis devigitaj
+cedi lokon, kiam en ŝia kastelo aperis vundita husara kolonelo
+Burmin, kun kruco de St. Georgo sur la brusto kaj kun „interesa
+paleco“, kiel kutimis diri la tieaj fraŭlinoj. Maria Gavrilovna
+rimarkeble lin distingis. Dum lia ĉeesto ŝia kutima enpensiĝo
+vigliĝadis. Oni ne rajtis diri, ke ŝi koketus kun li; tamen poeto,
+rimarkinte ŝian konduton, dirus:
+
+_Se amor non è, che dunque?_...[11]
+
+Burmin vere estis tre aminda juna homo. Li havis ĝuste tiun saĝon,
+kiu plaĉas al virinoj: saĝon de konveneco kaj observemo, sen iaj
+pretendoj kaj sprite mokeman. Lia sintenado kontraŭ Maria Gavrilovna
+estis simpla kaj malrigida; sed, kion ajn ŝi diris aŭ faris, lia
+animo kaj rigardo ĉiam sekvis ŝin. Li ŝajnis diskreta kaj modesta,
+sed laŭ onidiroj li estis iam terura ventanimulo; tamen tio ĉi
+ne malutilis al li en la opinio de Maria Gavrilovna, kiu (same
+kiel ĉiuj junaj virinoj) kun plezuro senkulpigadis petolaĵojn,
+vidigantajn kuraĝan kaj flaman karakteron.
+
+Sed pli ol ĉio ajn alia (pli ol lia amemo, pli ol agrabla
+konversacio, pli ol „interesa paleco“, pli ol bandaĝita brako), la
+silento de la juna husaro pleje instigis ŝian scivolan imagemon.
+Ŝi ne povis ne konscii, ke ŝi tre plaĉis al li; li siavice, kun
+sia saĝo kaj vivosperto, povis ankaŭ rimarki, ke ŝi distingis lin
+inter la aliaj. Kial do ĝis nun ŝi ne vidis lin ĉe siaj piedoj kaj
+ne aŭdis lian amkonfeson? Kio retenis lin? Ĉu timemo ne disigebla
+de vera amo, ĉu fiereco kaj koketemo de ruza amindumulo? Ĝi estis
+por ŝi enigmo. Multe pripensinte, ŝi decidis, ke timemo estis la
+sola kaŭzo, kaj intencis plikuraĝigi lin per plia atento kaj, laŭ
+cirkonstancoj, eĉ dorlotemo. Ŝi pretigadis malplej atendatan
+findisvolvon kaj senpacience antaŭvidis la momenton de la romaneca
+interparolo. Sekreto, kia ajn ĝi estu, ĉiam pezas sur virina koro.
+Ŝiaj ruzaj manovroj sukcesis: almenaŭ Burmin fariĝis tiel enpensa,
+liaj okuloj tiel flame haltis sur Maria Gavrilovna, ke la decidiga
+minuto ŝajnis jam proksima. La najbaroj parolis pri geedziĝo
+kvazaŭ pri demando senrevene solvita, kaj la bonkora Praskovja
+Petrovna ĝojis, ke ŝia filino trovis fine indan fianĉon.
+
+La maljunulino sidis foje sola en salono, dismetante paciencludon,
+kiam Burmin eniris la ĉambron kaj tuj demandis pri Maria Gavrilovna.
+„Ŝi estas en la ĝardeno: iru al ŝi, kaj mi atendos vin tie ĉi.“
+Burmin eliris. La maljunulino faris krucosignon kaj ekmeditis: „Eble
+la afero hodiaŭ decidiĝos!“
+
+Burmin trovis Manjon apud lageto, sub saliko, kun libro en la manoj,
+en blanka robo, -- kiel veran romanheroinon. Post la unuaj demandoj
+ŝi intence ĉesis daŭrigi tiamanieran konversacion, pliigante
+reciprokan embarason, el kiu oni povus eliri nur per subita kaj
+decidiga interparolo. Tiel okazis. Burmin, sentante la konfuzigan
+embarason de sia situacio, diris, ke li jam de longe serĉas okazon
+por malkovri al ŝi siajn korsentojn, kaj petis unu minuton de
+atento. Maria Gavrilovna fermis la libron kaj mallevis la okulojn,
+kiel signo de konsento.
+
+-- Mi amas vin, -- diris Burmin: -- mi amas vin pasie... (Manjo
+ruĝiĝis kaj ankoraŭ plie klinis la kapon). Mi agis nesingarde,
+fordonante min al la agrabla kutimiĝo vidi kaj aŭdi vin ĉiutage.
+Nun estas jam tro malfrue por kontraŭstari mian sorton. La rememoro
+pri vi, via ĉarma, alloga bildo estos de nun la turmento kaj
+samtempe la konsolo de mia vivo. Sed mi devas ankoraŭ plenumi
+malfacilan ŝuldodevon, malkaŝi al vi teruran sekreton kaj starigi
+inter ni nevenkeblan baron...
+
+-- Ĝi ĉiam ekzistis, -- vivece interrompis lin Maria Gavrilovna: --
+mi neniam povus fariĝi via edzino...
+
+-- Mi scias, -- li rediris mallaŭtvoĉe: -- mi scias, ke iam vi
+estis aminta, sed morto kaj tri jaroj da ĉagrenbedaŭroj... Kara,
+amata Maria Gavrilovna, ne penu senigi min je mia lasta konsolo: la
+penso, ke vi konsentus estigi mian feliĉon, se...
+
+-- Silentu, pro Dio, silentu. Vi turmentas min!
+
+-- Jes, mi scias, mi sentas, ke vi fariĝus la mia, sed mi estas la
+plej malfeliĉa homo: mi estas edzigita!...
+
+Maria Gavrilovna kun miro ekrigardis lin.
+
+-- Mi estas edzigita de kvar jaroj, -- daŭrigis Burmin: -- kaj mi
+eĉ ne scias, kiu estas mia edzino, kie ŝi nun sin trovas, kaj ĉu
+mi iam revidos ŝin!...
+
+-- Kion vi diras?! -- ekkriis Maria Gavrilovna. -- Kiom stranga ĝi
+estas! Daŭrigu ... mi rakontos al vi poste ... daŭrigu, mi petas.
+
+-- Komence de la 1812a jaro, -- diris Burmin: -- mi rapidis Vilnon,
+kie troviĝis nia regimento. Veninte malfruvespere al iu stacio, mi
+diris, ke oni rapidu jungi freŝajn ĉevalojn; sed fariĝis terura
+neĝblovo; la staciestro kaj la veturigistoj konsilis al mi atendi.
+Mi obeis; tamen nekomprenebla emocio ekposedis min; al mi ŝajnis,
+kvazaŭ iu puŝis kaj puŝis min. Dume la neĝblovado ne ĉesis.
+Mi perdis la paciencon, denove ordonis, ke oni jungu la ĉevalojn,
+kaj forveturis dum plej forta neĝventego. Al la veturigisto
+venis la ideo veturi sur glaciiĝinta rivero por malplilongigi la
+vojon je tri verstoj. La riverbordoj estis tute neĝekovritaj; la
+veturigisto preterpasis nerimarkinte la lokon, kie ni devus ree
+trafi la poŝtan vojon, kaj tiamaniere ni troviĝis en nekonata
+loko. La ventego ne kvietiĝis. Mi ekvidis iun lumeton kaj ordonis
+veturi en tiun direkton. Ni venis en vilaĝon; ligna preĝejo estis
+lumigita kaj malfermita; interne de la ĉirkaŭbarilo staris kelke da
+glitveturiloj; en la preĝejvestiblo paŝadis homoj. -- „Tien ĉi,
+tien ĉi!“ -- ekkriis voĉoj. Ni alveturis. -- „Pro Dio, kial vi
+malfruiĝis? -- diris al mi iu: -- la fianĉino estas sveninta, la
+pastro ne scias kion fari; ni estis jam pretaj reveni hejmen. Eliru
+do rapide.“ Mi senvorte elsaltis el mia glitveturilo kaj eniris la
+preĝejon, apenaŭ lumigatan per du aŭ tri kandeloj. Junulino sidis
+sur benko en malluma angulo, alia frotis ŝiajn tempiojn. „Dank’
+al Dio, -- diris la dua, -- fine vi venis; vi preskaŭ mortigis
+la fraŭlinon.“ Maljuna pastro proksimiĝis al mi kun demando:
+„Ĉu ni komencu?“ -- „Jes, komencu, via pastra moŝto,“ -- mi
+respondis distrite. Oni igis la fraŭlinon leviĝi. Ŝi ŝajnis al
+mi beleta... Nekomprenebla, nepardonebla ventanimeco ... mi ekstaris
+apud ŝi antaŭ la katedro; la pastro rapidis; tri viroj kaj la
+servistino subtenadis la fianĉinon kaj atentis nur ŝin... Ni estis
+geedzigitaj!... -- „Kisu vin,“ -- oni diris al ni. Mia edzino turnis
+al mi sian palan vizaĝon. Mi estis preta ŝin kisi... Ŝi ekkriis:
+-- „Ha, ne estas li! ne estas li!“ kaj svenis. La atestantoj direktis
+al mi siajn timigitajn rigardojn. Mi min returnis, eliris el la
+preĝejo sen ia malhelpo, ĵetis min en la glitveturilon kaj ekkriis:
+„Rapidu!“ --
+
+-- Dio mia! -- ekkriis Maria Gavrilovna: -- kaj vi tute ne scias, kio
+fariĝis al via kompatinda edzino?
+
+-- Mi nenion scias, -- respondis Burmin: -- mi ne scias la nomon
+de la vilaĝo, kie mi edziĝis; mi ne memoras, el kiu stacio mi
+forveturis. Tiutempe mi opiniis mian kriman petolaĵon tiom
+malgrava, ke, forlasinte la vilaĝon, mi ekdormis kaj vekiĝis nur
+sekvintmatene ĉe tria stacio. La servisto, kiu akompanis min tiam,
+mortis dum la milito, -- do mi havas neniun esperon retrovi la
+virinon, al kiu mi estis farinta tiel kruelan ŝercon, kaj kiu nun
+estas venĝita same kruele!...
+
+-- Dio mia, Dio mia! -- diris Maria Gavrilovna, kaptante lian manon:
+-- do tio estas vi! Kaj vi ne rekonas min?
+
+Burmin paliĝis... kaj falis ĉe ŝiajn piedojn...
+
+
+
+
+LA PAFO
+
+
+I.
+
+Ni estis dislokitaj garnizone en urbeto X. La vivmaniero de armea
+oficiro estas konata. Matene -- ekzercoj, rajdejo; tagmanĝo -- ĉe
+la regimentestro aŭ en hebrea restoracio; vespere -- punĉo kaj
+kartludo. En X. estas neniu gastigema familio, nek eĉ unu fianĉaĝa
+fraŭlino; ni kunvenadis unu ĉe alia, kie ni vidis nenion krom niaj
+uniformoj.
+
+Nur unu persono el nia societo ne estis oficiro. Li estis proksimume
+tridekkvinjara, kaj tial ni estimis lin kiel maljunulon. Sperteco
+donis al li multajn prerogativojn kontraŭ ni; krome, lia kutima
+malafableco, malmola karaktero kaj malica parolmaniero havis fortan
+influon sur niaj junaj mensoj. Ia mistero ĉirkaŭis lian sorton;
+laŭŝajne li estis ruso, tamen li havis fremdlandan nomon. Iam li
+estis husaro kaj eĉ servis sukcese; neniu sciis la kaŭzon, kiu
+estis instiginta lin eksiĝi kaj ekloĝi en mizera urbeto, kie li
+vivis malriĉe kaj samtempe malŝpareme; li ĉiam iris piede, portis
+eluzitan nigran redingoton, sed havis ĉiam pretan manĝotablon
+por la oficiroj de nia regimento. Verdire, lia tagmanĝo konsistis
+el du ĝis tri manĝoj, preparitaj de ekssoldato, sed ĉampanvino
+fluis rivere. Neniu konis lian havon, nek liajn enspezojn, kaj
+neniu kuraĝis lin demandi pri tio. Ĉe li estis troveblaj libroj,
+plejparte militartaj kaj romanoj. Li volonte ilin donadis por
+legi, neniam postulante la redonon; sed same neniam li redonis
+prunteprenitajn librojn. Lia ĉefa ekzerco estis pistolpafado. La
+muroj de lia ĉambro estis ĉiuj truetitaj per kugloj, kvazaŭ
+abelĉelaro. Riĉa kolekto da pistoloj estis la sola luksaĵo en la
+modesta dometo, kie li loĝis. La lerteco, kiun li atingis, estis
+nekredebla; se li proponus forpafi piron de ies ĉapo, neniu el nia
+regimento hezitus submeti al li sian kapon.
+
+Nia konversacio ofte koncernis duelojn; Silvio (mi nomu lin tiel)
+neniam sin enmiksis en ĝin. Demandite, ĉu li iam duelis, li jesis
+sektone, tamen diris nenion pri detaloj, -- kaj estis videble, ke
+tiaj demandoj estis al li malagrablaj. Ni konjektis, ke sur lia
+konscienco peze kuŝis iu malfeliĉa viktimo de lia terura lerteco.
+Cetere, neniel ni povis suspekti lin pri malkuraĝo. Estas homoj,
+kies nura eksteraĵo forigas tiajn suspektojn. Jena okazintaĵo
+ekmirigis nin ĉiujn.
+
+Foje dekkelko da niaj oficiroj tagmanĝis ĉe Silvio. Oni drinkis
+kiel kutime, tio estas -- sufiĉege; post la tagmanĝo ni insiste
+petis la mastron, ke li aranĝu por ni bankludon. Dumlonge li
+rifuzis, ĉar li ludis preskaŭ neniam; fine li ordonis doni kartojn,
+elŝutis sur la tablon duoncenton da ormoneroj kaj eksidis kiel
+banktenanto. Ni lin ĉirkaŭis kaj komencis la ludon. Silvio dum
+kartludo kutime silentis, neniam disputis, nek diskutis. Se iu
+ludanto faris kalkuleraron, li tuj pagis la mankon aŭ enskribis
+la superfluon. Ni tion jam sciis kaj ne malhelpis lin mastri
+laŭ sia maniero. Sed meze de ni sin trovis oficiro, antaŭ ne
+longe veninta al nia regimento. Ludante, li pro distreco fleksis
+superfluan kartangulon. Silvio prenis kreton kaj egaligis la kalkulon
+laŭ sia kutimo. La oficiro, opiniante, ke li eraris, komencis
+klarigojn. Silvio silente daŭrigis ĵeti la kartojn. La oficiro,
+senpacienciĝinte, prenis broseton kaj forviŝis tion, kio al li
+ŝajnis malĝuste skribita. Silvio prenis kreton kaj enskribis
+denove. La oficiro, ekscitita per vino, kartludo kaj rido de la
+kamaradoj, opiniis sin grave ofendita kaj, furioziĝinte, ekkaptis
+de la tablo kupran kandelingon kaj ĵetis ĝin kontraŭ Silvion, kiu
+apenaŭ havis tempon por forklini sin de la frapo. Ni konfuzegiĝis.
+Silvio ekstaris, tute pala pro kolero, kaj kun flamantaj okuloj
+diris: „Sinjoro, bonvolu foriri kaj danku Dion, ke ĝi okazis en mia
+hejmo.“
+
+Ni ne dubis pri la sekvoj kaj opiniis nian kamaradon jam morta. La
+oficiro foriris, dirinte, ke li estas preta respondi pri la ofendo,
+kiamaniere plaĉos al sinjoro banktenanto. La ludado daŭris ankoraŭ
+iom da minutoj; sed, sentante, ke la ludo ne estas laŭhumora por la
+mastro, ni unu post alia forlasis la kartojn kaj disiris en niajn
+loĝejojn, parolante pri la vakonta oficira loko.
+
+La morgaŭan tagon, en la rajdejo, kiam ni demandadis, ĉu vivas
+ankoraŭ la malfeliĉa leŭtenanto, li mem aperis inter ni, kaj ni
+faris al li la saman demandon. Li respondis, ke li havis ankoraŭ
+neniun sciigon de Silvio. Tio nin ekmirigis. Ni iris al Silvio kaj en
+la korto trovis lin, eniganta kuglon post kuglo en ason, algluitan
+al la pordego. Li akceptis nin kutimmaniere, dirante nenion pri la
+hieraŭa okazintaĵo.
+
+Pasis tri tagoj, -- la leŭtenanto estis ankoraŭ viva. Ni demandadis
+kun mirego: „Ĉu efektive Silvio ne duelos?“ Silvio ne duelis. Lin
+kontentigis tre supraĵa interklarigo, kaj li paciĝis.
+
+Komence tio tre malutilis al li en la opinio de la junularo.
+Kuraĝmanko malpli ol io ajn estas pardonata de junaj homoj, kiuj en
+maltimeco kutimas vidi plejsupron de homaj kvalitoj kaj senkulpigon
+de ĉiuj eblaj malvirtoj. Tamen, iom post iom ĉio estis forgesata,
+kaj Silvio reakiris sian antaŭan influon.
+
+Mi sola ne povis plu proksimiĝi al li. Havante ennaskitan romantikan
+imagemon, mi estis ĝis tiam plejforte sindonema al la homo, kies
+vivo estis enigmo, kaj kiu ŝajnis al mi heroo de iu misterplena
+novelo. Li ŝatis min; almenaŭ kun mi sola li ne uzis sian kutiman
+malĝentilan kaj malican parolmanieron kaj konversaciis pri diversaj
+temoj simplanime kaj kun eksterordinara afableco. Sed post la
+malfeliĉa vespero, la penso, ke lia honoro estis makulita kaj ne
+lavita pro lia mema volo, -- ĉi tiu penso ne forlasadis min kaj
+malhelpis, ke mi kondutis kontraŭ li antaŭmaniere, -- mi hontis
+lin rigardi. Silvio estis tro prudenta kaj sperta, por ne rimarki
+tion kaj ne diveni la kialon. Videble ĉi tio lin ĉagrenis; almenaŭ
+mi rimarkis kelkfoje lian deziron klarigi al mi la aferon, sed mi
+evitadis tion, kaj Silvio min forlasis. De tiu tempo mi vidis lin
+nur en ĉeesto de kolegoj, kaj niaj antaŭaj sinceraj interparoladoj
+ĉesis.
+
+Distriĝemaj loĝantoj de ĉefurbo ne prezentas al si multajn
+impresojn, tiom konatajn al loĝantoj de vilaĝoj kaj urbetoj,
+ekzemple -- atendado de poŝta tago; ĉiumarde kaj ĉiuvendrede
+nia regimenta oficejo estis plena de oficiroj; iu atendis monon,
+iu -- leteron, iu -- gazetojn. Kutime la kovertojn oni malfermis
+en la oficejo mem, oni interparoladis pri novaĵoj, kaj la
+oficejo prezentis plej vivoplenan aspekton. Silvio ricevadis sian
+korespondaĵon adresitan al nia regimento kaj ordinare ankaŭ sin
+trovis ĉi tie. Foje oni liveris al li paketon, de kiu li forŝiris
+la sigelon kun vidigo de plej granda malpacienco. Trakurante la
+skribaĵon, liaj okuloj brilegis. La oficiroj, okupitaj pri siaj
+leteroj, rimarkis nenion.
+
+-- Sinjoroj, -- diris al ili Silvio, -- cirkonstancoj postulas mian
+foriron, mi do forveturas hodiaŭ je noktiĝo; mi esperas, ke vi ne
+rifuzos tagmanĝi ĉe mi lastafoje. Mi vin atendas, -- li daŭrigis,
+sin turnante al mi -- mi atendas nepre.
+
+Post ĉi tiuj vortoj li eliris; kaj ni, interkonsentinte kunveni ĉe
+Silvio, disiris ĉiu al sia flanko.
+
+Mi venis al Silvio je la fiksita horo kaj trovis ĉe li preskaŭ la
+tutan regimenton. Lia tuta havaĵo estis jam enpakita, -- restis nur
+la nudaj, trapafitaj muroj. Ni altabliĝis; nia gastiganto estis tre
+bonhumora, kaj baldaŭ la gajeco fariĝis ĝenerala; korkoj klakis
+ĉiuminute, la glasoj ŝaŭmis kaj siblis senintermanke, kaj ni kun
+plej ebla fervoro deziris al la forveturonto feliĉan vojaĝon kaj
+ĉiujn bonaĵojn. Ni forlasis la tablon jam malfruvespere. En la
+momento de disiĝo, Silvio, adiaŭante ĉiujn, prenis min ĉe la mano
+kaj haltigis min en la momento mem, kiam mi intencis eliri.
+
+-- Mi bezonas interparoli kun vi, -- li diris mallaŭte. Mi restis.
+
+La gastoj estis foririntaj; ni restis duope, sidiĝis unu kontraŭ
+alia kaj senparole ekfumis pipojn. Silvio ŝajnis priokupita; jam
+restis neniaj postsignoj de lia konvulsia gajeco. Malĝoja paleco,
+brilantaj okuloj kaj elbuŝiĝanta, densa fumo donis al li aspekton
+de vera diablo. Pasis kelke da minutoj, -- Silvio interrompis la
+silenton.
+
+-- Estas eble, ke ni neniam revidos unu la alian, -- li diris al mi:
+-- antaŭ la disiĝo mi volis interparoli kun vi. Vi povis rimarki,
+ke mi nur malmulte estimas aliulan opinion, -- sed mi vin ŝatas
+kaj sentas, ke al mi estus malagrable lasi en via menso maljustan
+impreson.
+
+Li haltis kaj replenigis per tabako sian pipon; mi silentis,
+mallevinte la okulojn.
+
+-- Al vi ŝajnis strange, -- li daŭrigis, -- ke mi ne postulis
+kontentigon de tiu ebria frenezulo, sinjoro R. Vi konsentos tamen,
+ke, ĉar mi havis elektorajton pri armiloj, lia vivo estis en miaj
+manoj, kaj la mia -- preskaŭ eksterdanĝera; mi povus atribui mian
+moderemon sole al mia grandanimeco, -- sed mi ne volas mensogi. Se mi
+estus povinta puni sinjoron R., tute ne submetante al danĝero mian
+propran vivon, mi neniel estus pardoninta lin.
+
+Mi rigardis Silvion kun mirego. Tia konfeso tute min konfuzis. Silvio
+daŭrigis:
+
+-- Certe, jes, -- mi ne rajtas submeti min al mortdanĝero; antaŭ
+ses monatoj mi ricevis vangofrapon, kaj mia malamiko ankoraŭ vivas.
+
+Mia scivolo estis forte ekscitita.
+
+-- Ĉu vi ne duelis kun li? -- mi demandis. -- Certe iuj cirkonstancoj
+vin disigis, ĉu ne?
+
+-- Mi duelis kun li, -- respondis Silvio, -- kaj jen memorsigno pri
+nia interbatalo.
+
+Silvio ekstaris kaj eligis el kartona ujo ĉapon kun ora kvasto kaj
+galono (kion la francoj nomas „polica ĉapo“); li ĝin surmetis; ĝi
+estis trapafita unu verŝokon[12] super la frunto.
+
+-- Vi scias, -- daŭrigis Silvio, -- ke mi servis en *** husara
+regimento. Mian karakteron vi konas; mi kutimiĝis ĉefi, sed
+en mia junaĝo ĝi estis mia pasio. Niatempe diboĉado estis
+moda; mi estis la unua diboĉulo en la armeo. Ni fanfaronis pri
+drinkado; mi superdrinkis la faman Burcov-on, prikantitan de Deniso
+Davidov. Dueloj en nia regimento okazis ĉiumomente; en ĉiuj mi
+estis atestanto aŭ aganto. La kamaradoj min adoradis, kaj la
+regimentestroj, tre ofte deŝanĝataj, opiniis min neforigebla
+malbono... Mi kviete (aŭ malkviete) ĝuis mian gloron, kiam nian
+regimenton eniris junulo el riĉa, eminenta familio (mi ne volas
+lin nomi). De mia naskiĝo mi ne renkontis tiom brilan feliĉulon!
+Imagu al vi junecon, spritecon, belecon, plej frenezan gajecon, plej
+senzorgan kuraĝon, faman nomon, nekalkuleblan monon, kiu neniam
+al li mankis, -- kaj prezentu al vi, kiamaniere li devis efiki sur
+min. Mia superregado ekŝanceliĝis. Ĉarmita de mia gloro, komence
+li penis akiri mian amikecon; sed mi akceptis lin malvarme, kaj
+sen ia bedaŭro li forlasis min. Mi lin ekmalamis. Liaj sukcesoj
+en la regimento kaj meze de virinoj min tute malesperigis. Mi
+komencis serĉi malpaciĝon kun li; al miaj epigramoj li respondadis
+per epigramoj, kiuj ĉiam ŝajnis al mi pli neatenditaj kaj pli
+spritaj ol la miaj, kaj kiuj certe estis senkompare pli gajhumoraj;
+li ŝercis, kaj mi furiozis. Fine, iun tagon, dum balo ĉe pola
+bienhavanto, vidante lin atentobjekto de ĉiuj sinjorinoj kaj precipe
+de la dommastrino, kiu estis amligita kun mi, mi diris al li en la
+orelon iun malspritan insultaĵon. Li ekflamis kaj min frapis sur la
+vangon. Ni nin ĵetis al la sabroj; la sinjorinoj svenis; oni nin
+disigis, kaj samnokte ni veturis pro duelo. Estis je tagiĝo. Mi
+staris sur difinita loko kun miaj tri sekundantoj. Kun neesprimebla
+malpacienco mi atendis mian kontraŭulon. La printempa suno leviĝis,
+kaj jam sentiĝis varmo. Mi lin ekvidis el-malproksime. Li piediris,
+kun uniformo sur la sabro, akompanata de unu sekundanto. Ni ekiris
+al lia renkonto. Li proksimiĝis, tenante ĉapon, plenan je merizoj.
+La sekundantoj mezuris inter ni dek du paŝojn. Mi devis pafi la
+unua; sed mia kolerekscitiĝo estis tiel forta, ke mi ekdubis pri
+celtrafeco de mia mano kaj, por doni al mi tempon por kvietiĝo, mi
+cedis al li la unuan pafon; mia kontraŭulo ne akceptis. Oni decidis
+loti; la unuan numeron gajnis li, la ĉiama favorato de la sorto. Li
+ekcelis kaj trapafis mian ĉapon. Nun estis mia vico. Fine lia vivo
+estis en miaj manoj; mi rigardis lin avide, penante rimarki almenaŭ
+iun ombron de maltrankvilo. Li staris sub mia pistolo, elektante
+el sia ĉapo maturajn merizojn kaj elbuŝigante kernojn, kiuj
+alflugis ĝis mi. Lia indiferenteco min frenezigis. „Kion utilos,
+-- mi pensis, -- lin senigi je vivo, kiam li ne multe ĝin ŝatas?“
+Malica konjekto ekaperetis en mia menso. Mi ekdirektis la pistolon
+malsupren. -- „Ŝajne ĉi-momente vi ne tro atentas la morton, --
+mi diris: -- vi bonvolas matenmanĝi; mi ne volus vin malhelpi.“ --
+„Vi neniel min malhelpas, -- li rediris: -- bonvolu pafi; tamen, agu
+laŭ via plaĉo; via pafo restas al vi, kaj mi estas ĉiam preta al
+viaj servoj.“ -- Mi min turnis al la sekundantoj, deklarante, ke
+hodiaŭ mi ne intencas pafi, -- kaj per tio la duelo estis finita...
+Mi eksiĝis el la regimento kaj foriĝis en ĉi tiun urbeton. De tiam
+pasis ne eĉ unu tago, dum kiu mi ne estus meditinta pri venĝo. Nun
+mia horo alvenis...
+
+Silvio eltiris el sia poŝo la matene ricevitan leteron kaj ĝin
+donis al mi por tralegi. Iu (ŝajne lia aferkomisiito) skribis al li
+el Moskvo, ke _certa persono_ baldaŭ edziĝos kun juna kaj bela
+fraŭlino.
+
+-- Vi divenas, -- diris Silvio, -- kiu estas tiu _certa persono_.
+Mi veturas Moskvon. Nun ni rigardu, ĉu same indiferente li
+akceptos la morton ĵus antaŭ sia edziĝo, kiel iam li ĝin atendis
+kun merizoj!
+
+Ĉe tiuj vortoj Silvio ekstaris, ĵetis sian ĉapon planken kaj ekis
+paŝadi tien kaj reen tra la ĉambro, kvazaŭ tigro en sia kaĝo. Mi
+lin aŭskultis senmove; strangaj, kontraŭdiraj sentoj emociadis min.
+
+Servisto eniris kaj sciigis, ke la ĉevaloj estas pretaj. Silvio
+forte ekpremis mian manon; ni interkisis. Li sidiĝis en veturilon,
+kie kuŝis du valizoj, unu kun pistoloj, dua kun lia havaĵo. Ni
+adiaŭis ankoraŭ unu fojon, kaj la ĉevaloj forrapidis.
+
+
+II.
+
+Pasis kelke da jaroj. Hejmaj aferoj devigis min ekloĝi en malgranda
+vilaĝeto de N***a distrikto. Min okupante pri mastrumado, mi ne ĉesis
+sekrete sopiri pri mia antaŭa brua kaj senzorga vivo. Plej malfacile
+estis por mi kutimiĝi al plena soleco dum aŭtunaj kaj vintraj
+vesperoj. Ĝis la tagmanĝo mi ankoraŭ iel pasigis la tempon,
+interparolante kun la vilaĝestro, inspektante la laborojn aŭ
+vizitante novajn entreprenetojn; sed tuj kiam komencis krepuskiĝi,
+mi tute ne sciis, kien min meti. Malgranda libraro, trovita de mi
+en la ŝrankoj kaj en la provizejo, estis parkere elstudita de mi.
+Ĉiuj fabeloj, kiujn ajn povis rememori la domistino Kirilovna,
+estis rerakontitaj al mi; virinaj kantoj min tede sopirigadis.
+Mi eĉ komencis trinki sensukeran brandolikvoron, sed post ĝi mi
+havis kapdoloron, kaj, malkaŝdire, mi ektimis fariĝi _drinkulo
+pro malĝojo_, t. e. plej _malĝojiga_ drinkulo, kies multegajn
+ekzemplerojn mi vidis en nia distrikto.
+
+Proksimaj najbaroj mankis apud mi, krom du aŭ tri „malĝojigaj“,
+kies parolado plejparte konsistis el singultoj kaj ekspiregoj. Soleco
+estis pli tolerebla. Fine mi decidis enlitiĝi kiel eble plej frue
+kaj tagmanĝi kiel eble plej malfrue; tiamaniere mi mallongigis la
+vesperojn kaj plilongigis la tagojn, kaj trovis, ke tio estas bona.
+
+Kvar verstojn[13] de mi troviĝis riĉa bieno, apartenanta al
+grafino B.; sed tie loĝis nur bienadministranto, kaj la grafino
+estis vizitinta sian posedaĵon nur unu fojon, en la unua jaro post
+sia edziniĝo, loĝinte tie ne pli ol unu monaton. Tamen la duan
+printempon de mia ermiteco disvastiĝis onidiroj, ke la grafino kun
+sia edzo venos en la kamparon por pasigi la someron. Efektive ili
+alvenis en komenco de junio.
+
+Alveno de riĉa najbaro estas grava epoko por kamparloĝanto.
+Bienhavantoj kaj ilia servistaro priparoladas tion dum du monatoj
+antaŭe kaj dum tri jaroj poste. Kio koncernas min, mi konfesas, ke
+la alveno de juna kaj bela najbarino forte sur min efikis; mi brulis
+pro senpacieno ŝin vidi; tial la unuan dimanĉon post ŝia alveno,
+mi veturis posttagmeze al *** por min rekomendi al iliaj gegrafaj
+moŝtoj, kiel plej apuda najbaro kaj humila servanto.
+
+Lakeo enirigis min en la grafan kabineton kaj eliris por min anonci.
+La vasta kabineto estis meblita kun ĉiu ebla lukso; ĉe la muroj
+staris libroŝrankoj, kaj sur ĉiu bronza busto; super la marmora
+kameno troviĝis larĝa spegulo; la planko estis tapetita per verda
+drapo kaj kovrita per tapiŝoj. Malkutimiĝinte de lukso en mia
+mizera angulo kaj jam de longe ne vidinte eĉ malpropran riĉecon,
+mi ektimetis kaj atendis la grafon kun iu animtremeto, kiel petanto
+el provinco atendas eliron de ministro. La pordo malfermiĝis, kaj
+eniris viro ĉirkaŭ tridekdujara de bela eksteraĵo. La grafo aliris
+min kun malkaŝema kaj aminda mieno: mi penis vigliĝi kaj ekis min
+rekomendi, sed li antaŭvenis min. Ni sidiĝis. Lia konversacio,
+libera kaj afabla, baldaŭ forigis mian sovaĝan ĝenemon; mi jam
+komencis akiri mian kutiman spiritstaton, kiam subite eniris la
+grafino, kaj konfuzo ekposedis min pli ol antaŭe. Efektive ŝi estis
+belulino. La grafo min prezentis; mi volis ŝajni senĝenata, sed ju
+pli mi zorgis pri tia ŝajno, des pli mi min sentis mallerta. Por
+doni al mi tempon por vigliĝi kaj kutimiĝi al la nova konatiĝo,
+ili komencis paroli inter si, agante kun mi, kiel kun bona najbaro,
+senceremonie. Dume mi marŝadis tien kaj reen, rigardante librojn kaj
+pentraĵojn. Mi ne estas kompetenta pri pentraĵoj, sed unu altiris
+al si mian atenton. Ĝi prezentis iun vidaĵon en Svisujo; tamen min
+atentigis ne la pentraĵo mem, sed ke ĝi estis trapafita per du
+kugloj, eniĝintaj unu en alian.
+
+-- Jen bonega pafo! -- mi diris, min turnante al la grafo.
+
+-- Jes, -- li respondis: -- la pafo estas vere rimarkinda. Ĉu vi
+bone pafas? -- li daŭrigis.
+
+-- Sufiĉe bone, -- mi rediris, plezuriĝinte, ke la interparolo fine
+ektuŝis temon al mi proksiman: -- je tridek paŝoj mi ne maltrafos
+ludkarton, -- kompreneble, el konata de mi pistolo.
+
+-- Ĉu vere? -- diris la grafino kun vidigo de ega atentemo: -- kaj
+vi, mia amiko, ĉu vi trafos karton je tridek paŝoj?
+
+-- Iam, -- respondis la grafo, -- ni faros provon. Siatempe mi pafis
+ne malbone; sed de kvar jaroj mi ne prenis pistolon en la manojn.
+
+-- Ho, -- mi rediris, -- tiuokaze mi vetas, ke via grafa moŝto ne
+celtrafos karton eĉ je dudek paŝoj; la pistolo postulas ĉiutagan
+ekzercadon. Mi tion scias laŭ sperto. En nia regimento mi estis
+opiniata unu el plej lertaj pafistoj. Foje al mi okazis dum tuta
+monato ne tuŝi pistolon, la miaj sin trovis en riparado. Kion do vi
+pensas, via moŝto? La unuan fojon, kiam mi post tio komencis pafi,
+mi faris kvar sinsekvajn maltrafojn al botelo je dudek paŝoj. Ĉe
+ni estis kapitano, spritulo kaj amuzulo, -- li estis apude kaj diris
+al mi: „Certe, fratulo, cia mano ne sin levas kontraŭ botelo.“ Ne,
+via grafa moŝto, oni ne devas malzorgi tiun ĉi ekzercadon, alie
+oni nepre malkutimiĝas. La plej lerta pafisto, kiun mi renkontis,
+pafadis ĉiutage, almenaŭ tri fojojn, antaŭ la tagmanĝo. Ĝi estis
+ĉe li kutima aranĝo, kiel antaŭmanĝa glaseto da brando.
+
+La gegrafoj estis kontentaj, ke mi konversaciiĝis.
+
+-- Ĉu li bone pafis? -- min demandis la grafo.
+
+-- Jen kiel: multfoje, ekvidinte muŝon sidantan sur muro... Vi
+ridas, grafino? Je Dio, estas vero... Ekvidinte muŝon, li kutimis
+krii: „Kozĉjo, pistolon!“ Kozĉjo alportas ŝargitan pistolon, --
+paf! kaj la muŝo estas enpremita en la muron!
+
+-- Estas mirinde! -- diris la grafo: -- kaj lia nomo?
+
+-- Silvio.
+
+-- Silvio! -- ekkriis la grafo, forsaltante el sia seĝo: -- ĉu vi
+konis Silvion?
+
+-- Kiamaniere mi lin ne konus, ni estis ja amikoj; en nia regimento
+li estis akceptata kiel kamarado; sed jen, de kvinkelke da jaroj mi
+havas neniun sciigon pri li. Ĉu via grafa moŝto ankaŭ lin konis?
+
+-- Ho, jes, mi lin bone konis. Ĉu li ne rakontis al vi pri iu
+strangega okazintaĵo?
+
+-- Ĉu ne vangofrapo, kiun li ricevis dum balo de iu diboĉulo?
+
+-- Ĉu li ne diris al vi la nomon de tiu diboĉulo?
+
+-- Ne, sinjoro... Ha, via grafa moŝto! -- mi daŭrigis, divenante la
+veron, -- pardonu ... mi ne sciis ... ĉu eble vi?...
+
+-- Mi mem, -- respondis la grafo kun ekstrema emocio; -- kaj la
+trapafita pentraĵo estas rememoraĵo pri nia lasta renkonto.
+
+-- Ho, mia kara, -- diris la grafino: -- pro Dio, ne rakontu; al mi
+estos terure tion aŭskulti.
+
+-- Ne, -- rediris la grafo, -- mi rakontos ĉion; sinjoro scias,
+kiel mi estis ofendinta lian amikon, -- li ankaŭ eksciu, kiamaniere
+Silvio sin venĝis kontraŭ mi.
+
+La grafo alŝovis apogseĝon por mi, kaj kun plej viva scivolo mi
+ekaŭdis jenan rakonton.
+
+-- Antaŭ kvin jaroj mi edziĝis. La unuan monaton, „mielmonaton“,
+mi pasigis ĉi tie, en tiu ĉi kamparo. Al ĉi tiu domo mi ŝuldas
+la plej bonajn minutojn de mia vivo kaj unu el la plej premigaj
+rememoroj. Iun vesperon ni kune rajdis; la ĉevalo de mia edzino
+ial ekobstiniĝis; ŝi ektimis, transdonis al mi la kondukilojn
+kaj iris domen piede. Mi ekrajdis sola antaŭen. En la korto mi
+ekvidis vojaĝveturilon; oni diris al mi, ke en mia kabineto sidas
+sinjoro, ne volinta diri sian nomon, sed simple deklarinta, ke li
+havas aferon al mi. Mi eniris la kabineton kaj ekvidis en mallumo
+viron polvekovritan kaj kun nerazita barbo; li staris ĉi tie apud
+la kameno. Mi lin aliris, penante rememori liajn trajtojn. -- „Ci
+ne rekonas min, grafo?“ li diris tremvoĉe. -- „Silvio!“ mi ekkriis
+kaj, malkaŝdire, mi sentis, ke miaj haroj starleviĝas. -- „Jes,
+certe,“ li daŭrigis, „al mi apartenas ankoraŭ la pafo, kaj mi venis
+por malŝargi mian pistolon kontraŭ ci; ĉu ci estas preta?“ -- La
+pistolo vidiĝadis el lia flankpoŝo. Mi ekmezuris dek du paŝojn
+kaj stariĝis en tiu angulo, petante, ke li pafu plej rapide, antaŭ
+la reveno de mia edzino. Li ne rapidis; li petis, ke oni donu lumon.
+Oni alportis kandelojn. Mi fermis la pordon, ordonis, ke neniu eniru,
+kaj ree petis, ke li pafu. Li prenis la pistolon kaj ekcelis... Mi
+kalkulis minutojn... Mi pensis pri ŝi... Pasis terura minuto! Silvio
+mallevis la brakon. -- „Mi bedaŭras, ke la pistolo estas ŝargita
+ne per merizkernoj ... kuglo estas multepeza. Al mi nepre ŝajnas,
+ke inter ni fariĝas ne duelo, sed mortigo; mi ne kutimiĝis celi
+nearmiton. Ni rekomencu; ni lotu, kiu estas pafonta la unua.“ -- Mia
+kapo turniĝis... Ŝajnas, ke komence mi ne konsentis... Fine ni
+ŝargis ankoraŭ unu pistolon kaj kunvolvis du numeritajn biletojn;
+li metis ilin en la ĉapon, iam de mi trapafitan; mi ree eltiris la
+unuan numeron. -- „Ci, grafo, estas diable ŝanca“, li diris kun
+firideto, kiun mi neniam forgesos. Mi ne scias, kio al mi fariĝis,
+kaj kiamaniere li estis sukcesinta min instigi al tio ... tamen mi
+ekpafis kaj trafis jen tiun ĉi pentraĵon.
+
+La grafo fingremontris la trapafitan pentraĵon; lia vizaĝo ardis
+flame; la grafino estis pli pala ol ŝia poŝtuko; mi ne povis min
+deteni de ekkrio.
+
+-- Mi ekpafis, -- daŭrigis la grafo, -- kaj, dank’ al Dio,
+maltrafis; tiam Silvio, tiumomente li estis vere terura, komencis min
+celi. Subite la pordo malfermiĝas. Manjo enkuras kaj kun kriego sin
+ĵetas al mia kolo. Ŝia ĉeesto redonis al mi mian tutan viglecon.
+-- „Mia kara,“ mi diris al ŝi, „ĉu vi ne vidas, ke ni ŝercas?
+Kial vi timegiĝis? Iru, trinku glason da akvo kaj revenu ĉe nin;
+mi prezentos al vi mian malnovan amikon kaj kamaradon.“ Manjo tamen
+ne fidis min. -- „Diru, ĉu mia edzo diras la veron?“ ŝi sin turnis
+al la terura Silvio: „ĉu estas vere, ke vi ambaŭ ŝercas?“ --
+„Li ĉiam ŝercas, grafino,“ respondis Silvio: „iam li ŝerce min
+vangofrapis, ŝerce trapafis sur mi jen ĉi tiun ĉapon, ŝerce ĵus
+min maltrafis; nun al mi venis la deziro ankaŭ iom ŝerci...“ Kun
+tiuj vortoj li intencis min ekceli ... je ŝia ĉeesto! Manjo sin
+ĵetis al liaj piedoj. -- „Leviĝu, Manjo, -- hontu!“ mi ekkriis
+furioze: „kaj vi, sinjoro, ĉu vi ĉesos mokturmenti malfeliĉan
+virinon? ĉu vi ekpafos fine, aŭ ne?“ -- „Ne,“ respondis Silvio, „mi
+estas kontentigita; mi vidis cian konsternon, cian timon, -- mi igis
+cin ekpafi kontraŭ min; al mi estas sufiĉe, -- ci min memorados! Mi
+cin oferdonas al cia konscienco.“ -- Tiumomente li estis forironta,
+sed haltis ĉe la pordo, rerigardis la trapafitan de mi pentraĵon,
+ekpafis kontraŭ ĝin, preskaŭ ne celante, kaj foriris. Mia edzino
+kuŝis sveninta; la servistoj ne kuraĝis lin haltigi kaj rigardis
+lin kun teruro; li eliris sur la peronon, vokis la veturigiston kaj
+forveturis, antaŭ ol mi retrovis mian konscion.
+
+La grafo eksilentis. Tiamaniere mi sciiĝis pri la fino de novelo,
+kies komenco iam estis tiom konsterninta min. Ĝian heroon mi ne
+renkontis plu. Onidire Silvio dum la ribelo de Aleksandro Ypsilanti
+estris taĉmenton da heteristoj[14] kaj estis mortigita en la batalo
+ĉe Skulani.
+
+
+
+
+Piednotoj
+
+[1] (France.) „Kartludo de la reĝino“.
+
+[2] Specialaj bankludaj terminoj.
+
+[3] De la dekoka jarcento.
+
+[4] Tomski.
+
+[5] (France.) „Forgeso aŭ bedaŭro?“
+
+[6] La plej granda peterburga malsanulejo.
+
+[7] Versto = 1,07 kilometro.
+
+[8] Metalindustria urbo de meza Ruslando.
+
+[9] Elparolu: Ŝmidt.
+
+[10] Artemiso, virga filino de Zeŭso, diino de la ĉaso.
+
+[11] „Se ĝi ne estas amo, kio do ĝi estas?“
+
+[12] 1 verŝoko (1/16ono de arŝino) = 4,4 centimetroj.
+
+[13] 1 versto = 1,07 kilometroj.
+
+[14] Nomo de tiutempaj grekaj ribeluloj.
+
+
+
+
+Noto de transskribinto:
+
+La noveloj havas malmultajn „kovritajn nomojn“ de personoj kaj
+lokoj. Mi samigis ilin kaj uzis tri asteriskoj (***) por la kaŝitaj
+literoj. Mi forigis la noton „Rim. de la trad.“ ĉe la piednotoj. Mi
+registris aliajn ŝanĝojn kontraŭ la originalo per html-aj komentoj.
+Ankaŭ originalajn paĝkomencojn mi simile registris.
+
+
+
+
+
+
+End of Project Gutenberg's Tri Noveloj, by Aleksandr Sergeevich Pushkin
+
+*** END OF THIS PROJECT GUTENBERG EBOOK TRI NOVELOJ ***
+
+***** This file should be named 63105-0.txt or 63105-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/3/1/0/63105/
+
+Produced by Andrew Sly, Miroslav Malovec and the Online
+Distributed Proofreading Team at https://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

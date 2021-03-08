@@ -1,0 +1,2767 @@
+﻿The Project Gutenberg EBook of Ses noveloj el "Rakontoj de mistero kaj
+imago", by Edgar Allen Poe
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Ses noveloj el "Rakontoj de mistero kaj imago"
+
+Author: Edgar Allen Poe
+
+Translator: Albert Frank Milward
+
+Release Date: June 28, 2020 [EBook #62511]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SES NOVELOJ EL "RAKONTOJ DE ***
+
+
+
+
+Produced by Andrew Sly
+
+
+
+
+
+  INTERNACIA
+  MONDLITERATURO
+
+  Kolekto de la plej famaj verkoj
+  el ĉiuj naciaj literaturoj
+
+[Devizo: Ni fosu nian sulkon]
+
+  FERDINAND HIRT & SOHN EN LEIPZIG / 1924
+  ESPERANTO-FAKO
+
+
+
+
+EDGAR ALLEN POE
+
+  SES NOVELOJ
+  el
+  „Rakontoj de Mistero kaj Imago“
+
+  El la angla originalo tradukis
+  A. Frank Milward
+
+FERDINAND HIRT & SOHN EN LEIPZIG / 1924
+
+ESPERANTO-FAKO
+
+
+
+
+TABELO DE ENHAVO
+                               Paĝo
+  Antaŭparolo                     7
+  Liĝeja                          9
+  La ovala portreto              29
+  La barelo de amontilado        34
+  Kelkaj vortoj kun mumio        43
+  La homo, kiu troviĝis eluzita  63
+  La silento -- Fabelo           76
+
+
+
+
+ANTAŬPAROLO
+
+
+La stranga genio de la amerika poeto kaj verkisto Edgar Allen Poe
+estas kvazaŭ enigmo por kritikistoj. Lia kapablo, trovi por sia
+artismo esprimon aŭ per profunda melankolio, aŭ per skeptika rido,
+foje per gaja sprito, kaj eĉ per klera scienco, faras el li figuron
+gravan tute malproporcie kun la kvanto da verkaĵo de li lasita. Li
+naskiĝis en 1809 ĉe Boston (Mass. Usono) kaj devenis de familio
+anglo-irlanda. La melankolio en lia naturo multe profundiĝis pro la
+frua morto de liaj gepatroj kaj la freneziĝo de lia fratino.
+
+Unue li fariĝis soldato, tiam poeto (lia plej fama poemo „_La korvo_“
+estas konata vastege), kaj poste gazetisto, kritikisto kaj aŭtoro
+samtempe. Lia edziĝo kun lia kuzino, kiam ŝi nur estis dekkvarjara,
+malgraŭ kontraŭaj profetoj, daŭris tre feliĉe; sed ŝia frua morto
+enigis lin en eĉ pli profundan malĝojon, el kiu li neniam plu eliĝis;
+kaj li mem mortis jam dum sia kvardeka jaro, post longa malsano,
+parte kaŭzita de liaj penoj akiri forgeson per alkoholo.
+
+La eksterordinaraj ecoj de liaj verkaĵoj kaŭzis kontraŭ li atakojn
+ĉiuspecajn; liaj kontraŭuloj ne hezitis akuzi lin eĉ pri frenezeco,
+kaj ne haltis post lia morto, ĉar lia bopatrino devis batali longe
+kaj akre poste, por defendi lian karakteron. La forta kaj atakema
+naturo de liaj recenzoj ankaŭ havigis al li multajn malamikojn, sed
+la servoj faritaj al vera literaturo per tiu kritiko estis tre grandaj.
+
+La ses noveloj elektitaj por tiu ĉi libro donos bonan ideon minimume
+pri du flankoj de lia verko. La tri mistikaj rakontoj bone montros
+la pezajn amasojn da mallumaj koloroj, kiujn li amis enmeti en siajn
+verkojn. Aliflanke la aldonitaj du komikaĵoj (kiujn aliaj eble nomus
+skeptikaĵoj) same montros lian fonton da preta sprito kaj plenan
+bonhumoron. Sed pri ĉio ĉi la leganto mem juĝu.
+
+  _A. Frank Milward._
+
+  Birmingham, Anglujo
+  Aprilo 1923.
+
+NB. La pluraj neologismoj, elĉerpitaj kaj klarigitaj laŭ la
+_Vortaro Fulĉer kaj Long_, estas signitaj per „F. L.“
+
+
+
+
+LIĜEJA
+
+„Kaj tie enkuŝas la Volo, kiu ne mortas. Kiu scias la misterojn
+de la Volo, kun ĝia vigleco? Ĉar Dio nur estas granda Volo,
+enpenetranta ĉion, pro la naturo de sia intenseco. La homo ne sin
+submetus al la anĝeloj, nek al la morto absolute, se ne pro la
+malfortikeco de sia malvigla volo.“
+
+_Jozefo Glanvil._
+
+
+Mi ne povas, por mia animo, memori kiel, kiam aŭ eĉ precize kie mi
+unue konatiĝis kun la Lady Liĝeja[1]. Longaj jaroj de tiam estas
+forpasintaj, kaj mia cerbo estas malforta pro intensa suferado. Aŭ
+eble, mi _nun_ ne povas rememori tiujn punktojn pro tio, ke reale
+la karaktero de mia amatino, ŝia neordinara klereco, ŝia stranga
+sed serena speco de beleco, kaj la travibriga kaj ravega elokventeco
+de ŝia mallaŭta, muzika voĉo, eniris en mian koron per paŝoj
+tiel firme kaj enŝteleme progresaj, ke ili estis nerimarkataj kaj
+nekonataj. Tamen, mi kredas, ke mi renkontis ŝin unue kaj plej
+ofte en iu granda, malnova, ruiniĝanta urbo apud la Rhejno. Pri
+ŝia familio -- preskaŭ certe mi aŭdis ŝin paroli! Tio, ke ĝi
+estis treege malnova, estas senduba. Liĝeja! Liĝeja! Absorbite
+en studaĵoj tianaturaj, ke pli ol io alia ili taŭgas por nuligi
+impresojn el la ekstera mondo, sole per tiu ĉi dolĉa vorto -- per
+Liĝeja -- mi povas venigi antaŭ la okulojn de mia imago la formon
+de ŝi, kiu ne plu ekzistas. Kaj nun, dum mi skribas, rememoro
+eklumas en mi, ke mi _neniam konis_ la patran nomon de ŝi, kiu estis
+mia amikino kaj fianĉino, kaj kiu iĝis la partoprenanto de mia
+studado kaj mia amata edzino. Ĉu tio estis ludema postulo, parte
+de mia Liĝeja? aŭ ĉu ĝi estis provo pri la forto de mia amo,
+ke mi ĉi tiupunkte ne faru demandojn? aŭ, plivole, ĉu ĝi estis
+mia propra kaprico, -- freneze romantika oferaĵo sur la altaro
+de la plej pasia sindono? Mi nur malprecize rememoras la fakton
+mem -- ne estas mirinde, ke mi plene forgesis la okazojn, kiuj
+ĝin iniciatis kaj akompanis. Kaj vere, se iam tiu fantomo, kiun
+oni titolas Romaneco -- se iam ŝi, la pala kaj la nebuleflugila
+Astofeto de idolserva Egipto prezidas, kiel oni diras, ĉe edziĝoj
+malbonsignitaj, tiam tre certe ŝi prezidis ĉe la mia.
+
+Ekzistas tamen unu kara temo, pri kiu ne nebuliĝas mia memoro. Tio
+estas la persona aspekto de Liĝeja. Stature ŝi estis altkreska,
+gracila, kaj, dum siaj lastaj tagoj, eĉ marasma. Estus vane, se mi
+penus priskribi la majestecon, la kvietan serenecon de ŝia sinteno,
+aŭ la nekompreneblan senpezecon kaj elastecon de ŝiaj piedpaŝoj.
+Ŝi venis kaj iris kvazaŭ ombro. Neniam mi eksciis pri ŝia eniro
+en mia fermita studejo, krom per la kara muziko de ŝia mallaŭta
+dolĉa voĉo, dum ŝi metis la marmorecan manon sur mian ŝultron.
+Je vizaĝa beleco neniam virgulino ŝin egalis. Ĝi estis la brilo
+de opiosonĝo -- aera kaj animlevanta vizio pli rave dia ol la
+fantaziaĵoj, kiuj flirtis ĉirkaŭ la dormantaj animoj de la filinoj
+de Deloso. Sed, tamen, ŝiaj trajtoj ne estis laŭ tiu regula formo,
+kiun ni false estas instruitaj adori en la klasikaj laboroj de la
+idolanoj. „Ne ekzistas ia ravega beleco“, diras Bakon, Lordo Verulam,
+parolante prave pri ĉiuj specoj kaj genroj de beleco, „ne havanta
+ian strangecon de proporcio“. Sed kvankam mi vidis, ke la trajtoj de
+Liĝeja ne estas laŭ klasika reguleco -- kvankam mi rimarkis, ke
+ŝia beleco estas ja „ravega“; kaj sentis, ke estas enestanta en ĝi
+multe da „strangeco“, mi senfrukte penis trovi la „neregulecon“, kaj
+sekvi ĝisfine mian propran percepton de la „strango“. Mi ekzamenis
+la konturon de la alta kaj pala frunto -- ĝi estis perfekta -- kiel
+malvarma tiu vorto, kiam ĝi rilatas al tiu dia majesteco! -- la
+karnon, kiu egalis la plej puran eburon; la rimarkindan larĝecon kaj
+serenecon, la molan malkavecon de la partoj super la tempioj, kaj
+poste, la korvonigrajn, la brilajn, la abundajn kaj nature buklajn
+harojn, kiuj malkaŝis la plenan potencon de la Homera epiteto
+„hiacinta“! Mi rigardis la delikatajn konturojn de ŝia nazo --
+kaj nenie, krom en la graciaj medalionoj de la Hebreoj, mi estas
+vidinta similan perfektecon. Tie troviĝis la sama belega surfaca
+glateco, la sama, apenaŭ perceptebla inklino al kurbiĝo, la samaj,
+harmonie kurbaj naztruoj, montrantaj la liberan spiriton. Mi rigardis
+la dolĉan buŝon. Jen vere estis la triumfo de ĉio ĉiela -- la
+belega kurbo de la suprolipo malalta -- la mola, sentameta dormo de
+la malsupra -- la kavetoj, kiuj ludis, kaj la koloro, kiu parolis;
+la dentoj rebrilantaj, per preskaŭ timiga brilo, ĉiun radion de
+la sankta lumo, kiu falis sur ilin dum ŝiaj serenaj kaj pacaj, sed
+plej ĝoje radiaj el ĉiuj ridetoj. Mi primeditis la formon de la
+mentono, kaj ankaŭ tie ĉi mi trovis la mildan larĝecon, la molecon
+kaj majeston, plenkurbecon kaj spiriton de la Grekoj -- la konturon,
+kiun la dio Apolo malkaŝis nur en sonĝo al Kleomeno la filo de la
+Atenano. Kaj tiam mi ekrigardis en la grandajn okulojn de Liĝeja.
+
+Ni ne posedas modelojn por okuloj en la treege antikvaj restaĵoj.
+Verŝajne, ankaŭ la sekreto, kiun aludis Lordo Verulam, kuŝis
+en la okuloj de mia amatino. Ili estis, mi devas kredi, multe pli
+grandaj ol la ordinaraj okuloj de nia raso. Ili estis eĉ pli grandaj
+ol la plej grandaj el tiuj de la gento en la valo de Nurjahad. Sed
+nur malofte, je momentoj de intensa ekscitiĝo, tiu ĉi kuriozeco
+iĝis pli ol iomete rimarkinda en Liĝeja. Je tiaj momentoj iĝis
+ŝia beleco -- eble pro mia pasia imago ĝi tiel nur ŝajnis -- la
+beleco de estaĵoj aŭ superaj aŭ apartaj de la tero, la beleco de
+la fabelaj hurioj[2] de la Turkoj. La nuanco de la okuloj estis la
+plej brilanta nigro, kaj super ili pendis gagate nigraj okulharoj
+tre longaj. La brovoj iomete neregulaj konture, estis samkoloraj.
+La „strangeco“, tamen, kiun mi trovis en la okuloj, estis laŭ
+naturo distingebla kaj de la formo, la brilo, kaj de la koloro de la
+trajtoj, kaj devas malgraŭ ĉio esti rilatigata al la _esprimo_. Ha,
+vorto sen signifo, malantaŭ kies granda latitudo el nura sono ni
+kaŝas multe da nia nescio pri tiom da spiritaj aferoj! La esprimo
+en la okuloj de Liĝeja! Kiel dum longaj horoj mi pripensis ĝin!
+Kiel mi, tra tuta someromeza nokto, baraktis por sondi ĝin! Kio
+estis tio, tiu _io_ pli profunda ol la puto de Demokrito, kiu kuŝis
+profunde en la pupiloj de mia amatino? Kio ĝi _estis_? Firmtenis min
+la fervoro sciiĝi. Tiuj okuloj, tiuj larĝaj, tiuj brilaj, tiuj diaj
+sferoj? Ili fariĝis por mi la ĝemelaj steloj de Ledo, kaj mi por ili
+la plej pia el la astrologoj.
+
+Ne estas iu punkto, inter la multaj nekompreneblaj anomalioj de
+la mensoscienco, pli travibre ekscitiga ol la fakto -- neniam, mi
+kredas, rimarkita de la skoloj -- ke, dum niaj penoj memori ion longe
+forgesitan, ofte ni troviĝas sur la ekstrema rando de rememoro, ne
+povante, fine, memori. Kaj tiel, plej ofte, intense rigardante la
+okulojn de Liĝeja, mi sentis alproksimiĝi la plenan scion pri la
+esprimo -- sentis ĝin alproksimiĝi -- sed ne plene esti mia -- kaj,
+tiel, fine tute foriĝi! Kaj (stranga, ho plej stranga mistero el
+ĉiuj!) mi malkaŝis, en la plej ordinaraj objektoj de la universo,
+cirklon da analogioj por tiu esprimo. Mi volas diri, ke post kiam
+la beleco de Liĝeja eniris mian animon, por loĝi tie kvazaŭ en
+sanktejo, mi elĉerpis, de multaj ekzistaĵoj en la materia mondo,
+sentimenton tian, kian mi ĉiam sentis vekata en mi de ŝiaj grandaj
+lumaj okuloj. Tamen, mi ne povis plie difini tiun ĉi sentimenton,
+aŭ analizi aŭ eĉ fikse rigardadi ĝin. Mi ĝin rekonis, mi ripetu,
+iafoje dum observado de rapide kreskanta vinberujo -- dum medito pri
+nokta aŭ taga papilio, krisalido, aŭ rivereto el fluanta akvo.
+Mi sentis ĝin pro la oceano, pro la defalo de aerolito. Mi sentis
+ĝin en la ekrigardoj de neordinare maljunaj personoj. Kaj troviĝis
+unu aŭ du steloj en la firmamento (speciale unu, stelo de la sesa
+grandeco, duobla kaj varia, trovebla apud la granda stelo en Liro),
+kies aspekto dum lornega observado sentigis al mi la emocion. Mi
+estis plenigita per ĝi de certaj sonoj el kordinstrumentoj, kaj ne
+malofte de pecoj el libroj. Inter nenombreblaj aliaj ekzemploj, mi
+bone memoras ion el volumo de Jozefo Glanvil, kiu (eble nur pro sia
+kuriozeco -- kiu povas scii?) neniam malsukcesis inspiri al mi la
+sentimenton:
+
+„Kaj tie enkuŝas la Volo, kiu ne mortas. Kiu scias la misterojn
+de la Volo, kun ĝia vigleco. Ĉar Dio nur estas granda Volo
+enpenetrante ĉion pro la naturo de sia intenseco. La homo ne sin
+submetus al la anĝeloj, nek al la morto absolute, se ne pro la
+malfortikeco de sia malvigla volo.“
+
+La daŭro de jaroj kaj posta pripenso povigis min ektrovi ian
+malproksiman rilaton inter tiu ĉi libropeco el la angla moralisto,
+kaj io el la karaktero de Liĝeja. _Intenseco_ de penso, ago aŭ
+parolo eble estis ĉe ŝi rezulto, aŭ almenaŭ montrilo de tiu
+grandega volo, kiu, dum nia longa interrilato, ne sukcese donis alian
+kaj pli proksiman ateston pri sia ekzisto. El ĉiuj virinoj, kiujn
+mi iam konis, ŝi, la ŝajne trankvila, la ĉiame serena Liĝeja,
+estis la plej terura viktimo por la tumultaj vulturoj de malmilda
+pasio. Kaj tian pasion mi ne kapablus taksi, se ne per la mirakla
+pligrandiĝo de tiuj okuloj, kiuj samtempe tiom ĝojigis kaj teruris
+min -- per la preskaŭ magia melodio, modulado, distingebleco kaj
+kvieteco de ŝia tre mallaŭta voĉo -- kaj per la sovaĝa energio de
+la vortoj, kiujn ŝi kutime parolis; kiuj estis duoble efektaj pro
+kontrasto kun ŝia parolmaniero.
+
+Mi estas parolinta pri la klereco de Liĝeja; ĝi estis grandega --
+tia, kian mi neniam alie konis ĉe virino. Pri la klasikaj lingvoj
+ŝi estis profunde instruita, kaj ĝis tiom, kiom etendiĝis mia
+propra scio pri la modernaj idiomoj de Eŭropo, mi neniam trovis
+ŝin eraranta. Plie, pri iu temo el la plej admirataj, kiuj estas
+nure la plej profundaj el la prifanfaronata temaro de la akademio,
+ĉu ŝi iam troviĝis malsukcesa? Kiel strange, kiel travibrige
+tiu ĉi unu trajto en la naturo de mia edzino perforte altrudas
+sin al mi nur je ĉi tiu malfrua tempo! Mi diris, ke ŝia scio
+estis tia, kian mi neniam trovis ĉe virino -- sed kie spiras la
+_viro_, kiu trapasis, kaj sukcesplene, _ĉiujn_ vastajn areojn
+de morala, fizika kaj matematika sciencoj? Tiam mi ne komprenis
+tion, kion nun mi klare perceptas, ke la akiraĵoj de Liĝeja estis
+gigantaj, estis miregindaj; kvankam mi sufiĉe sciis ŝian senliman
+superecon kaj submetiĝis kun infaneca fido al ŝia gvido tra la
+ĥaosa mondo de metafizika esplorado, pro kiu mi estis tre peneme
+okupita dum la fruaj jaroj post nia geedziĝo. Kun kiel granda
+triumfo -- kiel viva ĝojo -- kiom da ĉio, kio estas etera en la
+espero -- mi sentis, kiam ŝi kliniĝis super mi dum studoj ne
+multe serĉitaj -- sed malpli konitaj -- tiun ravan perspektivon
+disetendiĝantan malrapidagrade antaŭ mi, laŭ kies longa, grandioza
+kaj tute nesurpaŝita vojo mi povis fine antaŭeniri al la celo de
+saĝo tro die grandvalora ne esti malpermesita!
+
+Kiel dolorega, do, devis esti mia malĝojo, kiam, post kelkaj
+jaroj, mi vidis prenantaj al si flugilojn kaj forflugantaj miajn
+fortebazitajn esperojn! Sen Liĝeja mi estis kvazaŭ infano
+serĉpalpanta en la nokto. Ŝia ĉeesto kaj nura legado forte lumigis
+la multajn misterojn de la transcendismo, en kiun ni ambaŭ estis nin
+mergintaj. Pro manko de la radia brilo de ŝiaj okuloj la literoj
+lumaj kaj oraj fariĝis pli malhelaj ol Saturna plumbo. Kaj nun tiuj
+okuloj heligis malpli kaj malpli ofte la paĝojn, super kiuj mi
+kliniĝis. Liĝeja malsaniĝis. La ekstazaj okuloj flamis per tro
+-- tro glora lumo; la palaj fingroj alprenis la travideblan vaksan
+koloron de la tombo, kaj la bluaj vejnoj sur la alta frunto ŝvelis
+kaj malŝvelis impulse pro la tajdo eĉ de la plej milda emocio.
+
+Mi vidis, ke ŝi devas morti -- kaj en spirito mi luktis malespere
+kun la drakona Azraelo. Kaj la baraktado de la pasia edzino estis,
+miasurprize, eĉ pli energia ol la mia. Troviĝis antaŭe en ŝia
+serioza naturo multo, kio impresis sur min la kredon, ke por ŝi la
+morto venos sen sia teruro; sed tiel ne estis. Vortoj estas senpovaj
+komprenigi ian pravan ideon pri la furioza kontraŭstaro en ŝia
+luktado kun la ombro. Mi angoroĝemis je la kompatinda vido. Mi
+estus konsolinta -- mi estus rezoninta; sed pro la intenseco de ŝia
+fortega deziro por vivo -- por vivo -- nur por vivo -- la konsolado
+kaj rezonado same estus la plej grandaj malsaĝoj. Tamen, ne antaŭ
+la lasta momento, meze de la plej konvulsiaj tordiĝoj de ŝia
+furioza spirito, iel foriĝis la ekstera trankvileco de ŝia mieno.
+Ŝia voĉo plimoliĝis, plimallaŭtiĝis -- sed mi ne ŝatas pripensi
+la frenezan signifon de la kviete dirataj vortoj. Mia cerbo turniĝis
+kiam, ravate, mi aŭskultis melodion superhoman -- konjektojn kaj
+aspirojn, kiujn la mortemularo neniam antaŭe konis.
+
+Ke ŝi min amas, mi ne estis dubinta; kaj mi povis facile scii, ke
+en sino kiel la ŝia la amo ne reĝus kiel ordinara pasio. Sed nur
+je ŝia morto mem mi estis plene impresata pri la potenco de ŝia
+afekcio. Dum longaj horoj, tenante mian manon, ŝi elverŝis antaŭ
+mi la superfluon de koro, kies pli ol pasia amego ensume atingis al
+idolservado. Kiel mi estis meritinta tiel beniĝi per tiaj konfesoj?
+-- Kiel meritinta tiel malbeniĝi per la foriro de mia amatino je
+la horo, kiam ŝi faris ilin? Sed pritrakti tiun ĉi temon mi ne
+povas elporti. Mi diru sole, ke en ŝia pli ol virina sinfordono al
+amo (bedaŭrinde tute nemeritita, tute al malindo donita), mi fine
+rekonis la principon, kial ŝi deziregis, per tiel furioze serioza
+avideco, la vivon, kiu nun tiel rapide estis forfluganta. Estas
+tiu ĉi dezirego -- estas tiu ĉi avida forteco de deziro por vivo
+-- _nur_ por vivo -- kiun mi ne havas la povon pentri, nek parolon
+esprimi ĝin.
+
+Je la ĝusta mezo de la nokto en kiu ŝi foriĝis, mansigninte min
+al si, ŝi postulis, ke mi ripetu certajn stancojn verkitajn de ŝi
+antaŭ ne multaj tagoj. Ili estis jenaj:
+
+  Jen! estas nokto karnavala
+    Dum la solecaj postaj jaroj;
+  Anĝelamas’, flugila kaj vuala,
+    Dronante nun en larmaj maroj,
+  Kunsidas en teatro por elstudi
+    Dramon el timoj kaj esperoj;
+  Dum la orkestro halte daŭras ludi
+    Muzikon de la sferoj.
+
+  Sub form’ de alta Di’, murmure
+    Flustraĉas mimikistaj aroj;
+  Tien kaj reen flugas ili nure,
+    Pupetoj, kies pensoj, faroj
+  Venas laŭ vol’ de vastaj senformaĵoj,
+    Kiuj la scenon movas fatan,
+  Kaj svingas de kondoraj flugilaĵoj
+    Malĝojon nevidatan.
+
+  Miksaĉa dramo! -- ho, ja fidu,
+    Ke ne ĝi estos forgesata!
+  Fantomon ĝian nun ĉasata vidu,
+    De homamas’, sed ne kaptata;
+  Rondkuras ili, kaj la vojostreko
+    Sampunkten venos ĝis eterno,
+  Tra multe da Frenezo, pli da Peko,
+    Kaj Timo, ja la kerno!
+
+  Sed vidu! en la ludistaron
+    Formaĉo trudas sin rampante!
+  Sangruĝa aĵo lasas la scenaron
+    El la soleco sin tordante!
+  Ĝi rampas -- rampas! ĝiaj por manĝegoj
+    Mortas la mimikistoj blekaj;
+  Dum la serafoj ĝemas je dentegoj
+    Per homa sang’ malsekaj.
+
+  For -- for! la lumoj iĝas for!
+    Kaj antaŭ ĉiu form’ tremanta
+  Kurteno (la funebra, lasta hor’)
+    Defalas tra venteg’ blovanta;
+  L’ anĝeloj, palaj, pri la epitomo,
+    Bedaŭras ĝin de Viv’ la ĝermo,
+  Ĉar estas ĝi la tragedio _homo_,
+    Kaj la Venkint’ -- _la vermo_.
+
+„Ho, Dio!“, duone ŝirkriis Liĝeja, salte stariĝante kaj etendante
+supren per konvulsia movo la brakojn, kiam mi finis tiujn ĉi
+versojn, „ho, Dio! ho, dia Patro! ĉu tiuj ĉi aferoj estos
+neŝanĝeble tiaj? Ĉu tiu ĉi venkinto ne unufoje kuŝos venkita?
+Ĉu ni ne estas partoj kaj membroj de Vi? Kiu -- kiu scias la
+misterojn de la Volo, kun ĝia vigleco? La Homo ne sin submetus al la
+anĝeloj, _nek al la morto absolute_, se ne pro la malfortikeco de
+sia malvigla volo.“
+
+Kaj nun, kvazaŭ eluzita pro emocio ŝi lasis defali la blankajn
+brakojn, kaj reiris solene al sia morta lito. Kaj, kiam ŝi spiris
+siajn lastajn sopirojn, venis miksita kun ili mallaŭta murmuro de
+ŝiaj lipoj. Mi kliniĝis al ili, kaj distingis denove la finajn
+vortojn de la peco el Glanvil. „_La Homo ne sin submetus al la
+anĝeloj, nek al la morto absolute, se ne pro la malfortikeco de sia
+malvigla volo_.“
+
+Ŝi mortis, kaj mi, premegita ĝis la terpolvo pro malĝojo, ne plu
+povis toleri la solecan malplenecon de mia domego en la malhela
+kaj kaduka urbo apud la Rhejno. Ne mankis al mi tio, kion la mondo
+nomas riĉo. Liĝeja alhavigis al mi multe pli, tre multe pli, ol
+ordinare fariĝas la sorto de mortemuloj. Post nemultaj monatoj,
+do, lacege kaj sencele vagadinte, mi aĉetis kaj iome riparigis
+abatejon, kiun mi ne intencas nomi, en unu el la plej sovaĝaj kaj
+malplej vizitataj partoj de bela Anglujo. La senluma kaj malgaja
+grandiozeco de la konstruaĵo, la preskaŭ sovaĝa aspekto de la
+bieno, la multaj longedaŭraj kaj melankoliaj memoroj ĉirkaŭ
+ambaŭ, multon posedis harmonian kun la sentoj de tuta forlasiteco,
+kiuj min estis pelintaj en tiun malproksiman kaj nesocietan regionon
+de la lando. Sed kvankam la ekstera abatejo, kun sia verda masko
+pendanta ĉirkaŭe, suferis pro nur malmulte da aliigo, mi al mi
+permesis, pro infana kontraŭemo, kaj eble pro iometa espero disigi
+miajn malĝojojn, pompon pli ol reĝe grandiozan interne. Por tiaj
+malsaĝaĵoj jam dum mia infaneco mi akiris guston, kaj nun ili
+revenis al mi, kvazaŭ dum kadukeco pro malĝojo. Mi sentas, ke multe
+eĉ da ĝermanta frenezo povus esti trovita en la grandiozaj kaj
+fantaziaj drapiraĵoj, en la solenaj skulptaĵoj el Egiptujo, en la
+sovaĝaj kornicoj kaj meblaro, en la Bedlamaj[3] desegnaĵoj sur la
+tapiŝoj el tufa oro. Mi estis sklavo ligita en la katenoj de opio --
+kaj miaj laboroj kaj ordonoj koloriĝis de miaj sonĝoj. Sed tiujn
+ĉi absurdaĵojn mi ne pritraktu pli detale. Mi parolu nur pri tiu
+unu ĉambro, por ĉiam malbenita, kien, dum momento de cerba foresto,
+mi kondukis de la altaro, kiel mia novedzino -- kiel la postvenanto
+de la neforgesota Liĝeja -- la blondharan kaj bluokulan Lady Rovena
+Trevanjon el Tremajno.
+
+Estis neniu aparta peco el la arkitekturo kaj dekoracio de tiu
+novedziĝa ĉambro, kiu ne estas nun videbla antaŭ mi. Kie estis
+la animoj de la fierega familio de la novedzino, kiam, pro avideco
+je oro, ili permesis transiri la sojlon de ĉambro _tiel_ ornamita
+fraŭlinon tiom amatan? Mi diras, ke mi ĝisfunde memoras la detalojn
+de la ĉambro, sed mi estas bedaŭrinde forgesema pri temoj profunde
+gravaj, kaj tie ĉi troviĝis nenia sistemo, nenia agordo en la
+fantazia pompo, por ekteni la memoron. La ĉambro staris en alta
+tureto de la kastelforma abatejo; ĝi estis kvinangula forme, kaj
+grandege ampleksa. Okupis la tutan sudan lateron de la kvinangulo
+la sola fenestro -- grandega plato da senkadra vitro el Venezio
+-- unu sola peco kolorigita ĝis la nuanco de plumbo, tiel, ke la
+radioj, aŭ de la suno aŭ la luno, pasinte tra ĝin, kuŝiĝis kun
+mortpala lumo sur la objektojn interne. Ekster la supra parto de tiu
+ĉi grandega fenestro etendiĝis la retaĵo de grandaĝa vinberujo,
+kiu suprengrimpis la masivajn murojn de la tureto. La plafono, el
+malgajaspekta kverkoligno, estis troe alta, arkaĵa, kaj ellaboreme
+skulptita kun tre sovaĝaj kaj groteskaj specimenoj de duone gotikaj,
+duone druidaj desegnaĵoj. El interne de la plej centra niĉo de
+tiu ĉi malĝojiga arkaĵo dependis, per unu ora ĉeno el longaj
+ĉeneroj, grandega incensilo el la sama metalo, de saracena modo, kaj
+kun multaj boraĵoj tiel faritaj, ke tordiĝis en kaj el ili, kvazaŭ
+enhavanta serpentan vivecon, konstanta intersekvo da plurkoloraj
+flamoj.
+
+Kelkaj sofoj kaj oraj kandelabroj laŭ orienta desegno estis dise
+starigitaj; kaj staris tie ankaŭ la lito -- la edziĝa lito --
+laŭ hinda modelo, malalta, kaj skulptita el solida ebono, kun
+supre baldakeno kiel ĉerkomantelo. En ĉiu angulo de la ĉambro
+vertikale staris giganta sarkofago el nigra granito, de la Tomboj
+de la Reĝoj kontraŭ Luksoro, kun siaj antikvaj kovriloj plenaj je
+belegaj skulptaĵoj. Sed en la drapiraĵo de la ĉambro troviĝis la
+ĉefa fantazio el ĉiuj. La muroj, grandege altaj -- eĉ malproporcie
+tiel -- estis drapiritaj de supro ĝis fundo, kun grandaj faldoj,
+per peza kaj dikaspekta tapeto -- tapeto el ŝtofo, kiu troviĝis
+sammaniere kiel planka tapiŝo, kiel la tegaĵoj de la sofoj kaj
+la ebona lito, kiel baldakeno por la lito, kaj kiel la grandiozaj
+spiraloj de la kurtenoj, kiuj duone ŝirmis la fenestron. La
+ŝtofo estis la plej riĉa orodrapo. Ĝi estis tute surmakulita,
+je variaj distancoj, per arabeskaj figuroj diametraj je unu futo,
+kaj teksitaj sur la drapo laŭ desegnaĵoj el tre gagata nigro.
+Sed tiuj figuroj posedis la veran karakteron de la arabesko, nur
+rigardataj de unu sola vidpunkto. Per metodo nun bone konata, kaj
+fakte trovebla posten ĝis tre malproksima antikveco, ili fariĝis
+variemaj aspekte. Por personoj envenantaj la ĉambron ili aspektis
+kiel simplaj monstraĵoj, sed, ĉe plua antaŭeniro, tiu ĉi aspekto
+grade foriĝis, kaj, paŝo post paŝo, dum la vizitanto movis sian
+starlokon en la ĉambro, li trovis sin ĉirkaŭita de senlima
+intersekvo de la teruraj figuroj, kiuj apartenas al la superstiĉo
+de la Normano, aŭ leviĝas dum la kulpa dormo de la monaĥo. La
+fantazmagora efekto multe pligrandiĝis pro la artaĵa konduko de
+forta, senĉesa fluo da vento malantaŭ la tapetoj, -- kiu donis
+malpacan kaj abomenan vivecon al la luto.
+
+En ĉambroj tiuspecaj -- en tiuspeca edziĝa ĉambro -- mi pasigis,
+kune kun la Lady el Tremajno, la malsanktajn horojn de la unua monato
+post nia geedziĝo -- pasigis ilin kun nemulte da maltrankvileco.
+Ke mia edzino timegas la sovaĝan necertecon de mia kolero -- ke
+ŝi evitas min kaj ne multe amas min -- mi ne povis ne percepti;
+sed tio al mi donis plivole plezuron ol ion alian. Mi abomenis ŝin
+per malamo taŭga pli por demono ol homo. Mia memoro postenflugis
+(ho, kun kiel intensa bedaŭro!) al Liĝeja la amata, la statueca,
+la bela, la enlombigita. Mi ĝojis je memoroj pri ŝia virteco, pri
+ŝia saĝo, pri ŝia altpensa, ŝia spirita naturo, pri ŝia pasia,
+ŝia idolserva amo. Nun, tamen, mia animo plene kaj libere brulis pro
+pli ol la fajroj de la ŝia. En la ekscitiĝo de miaj opiaj sonĝoj
+(ĉar mi estis kutime katenata en la ĉenoj de la drogo) mi kriis
+laŭte ŝian nomon, dum la nokta silento, aŭ inter la ŝirmataj
+lokoj de la valetoj dum la tago, kvazaŭ, per la sovaĝa avideco, la
+solena pasio, kaj la brula ardo de mia dezirego por la foririnto, mi
+povis ŝin revenigi al la vojo, kiun ŝi estis forlasinta -- ho, ĉu
+_povis_ esti por ĉiam? -- ree sur la teron.
+
+Ĉirkaŭ la komenciĝo de la dua monato post mia edziĝo la Lady
+Rovena estis atakata de subita malsano, el kiu estis malrapida ŝia
+resaniĝo. La febro, kiu bruligis ŝin, maltrankviligis ŝiajn
+noktojn; kaj, dum ŝia malkvieta duondorma stato, ŝi parolis pri
+sonoj kaj movoj en kaj ĉirkaŭ la ĉambro en la tureto, kiuj,
+miakonjekte, ne posedis alian originon krom ŝia malsana imago, aŭ,
+eble, la fantasmagoraj influoj de la ĉambro mem. Post kelke da
+tempo ŝi estis resaniĝanta, kaj fine plene sana. Sed nur mallonga
+tempo pasis antaŭ ol dua kaj pli fortega malsano denove deĵetis
+ŝin sur la liton de suferado; kaj el tiu ĉi atako ŝia korpo,
+ĉiam malforta, neniam plene resaniĝis. Ŝiaj atakoj estis, post
+tiu ĉi tempo, tre timigaj, kaj, pro sia eĉ pli timiga reokazado,
+kontraŭstaris same la instruitecon kaj la grandajn penojn de ŝiaj
+kuracistoj. Kune kun la kresko de la kronika malsano, kiu ŝajne,
+estis tiel ekpreninta ŝian organaron tro forte por foriĝi pro homaj
+rimedoj, mi ne povis ne rimarki similan kreskon de la nerva agaciĝo
+de ŝia temperamento, kaj de ŝia ekscitiĝo pro trivialaj kaŭzoj
+por timo. Ŝi denove parolis, kaj nun pli ofte kaj persisteme, pri la
+sonoj -- la iometaj sonoj -- kaj pri la neordinaraj movoj inter la
+murtapetoj, kiujn ŝi jam antaŭe aludis.
+
+Unu nokton, proksime de la fermiĝo de Septembro, ŝi obstinis
+tiun ĉi embarasan temon per pli ol kutima emfazo. Ŝi ĵus estis
+vekiĝinta el netrankvila dormo, kaj mi rigardis ŝin, kun sentoj
+duone doloraj, duone nebule timemaj, la movadon de ŝia malgrasega
+vizaĝo. Mi sidis apud ŝia ebona lito, sur unu el la hindaj sofoj.
+Ŝi duone leviĝis kaj parolis, per serioza mallaŭta flustro pri
+sonoj, kiujn ŝi _tiam_ aŭdis, sed kiujn mi ne povis aŭdi -- pri
+movoj, kiujn ŝi _tiam_ vidis, sed kiujn mi ne povis percepti. La
+vento rapide fluis malantaŭ la tapetoj, kaj mi volis pruvi al ŝi
+tion (kion, mi konfesu, mi mem ne povis tute kredi), ke tiuj preskaŭ
+neaŭdeblaj spiroj, kaj tiuj tre kvietaj ŝanĝiĝoj de la figuroj
+sur la muro, nur estas la naturaj efektoj de tiu kutima rapidado de
+la vento. Sed mortaspekta paleco, blankigante ŝian vizaĝon, pruvis
+al mi, ke miaj penoj recertigi ŝin estos senfruktaj. Ŝi ŝajne
+svenis, kaj neniu flegistino estis sufiĉe proksima esti vokata. Mi
+memoris kie estis metita karafo da malforta vino, kiun ordonis por
+ŝi ŝiaj kuracistoj, kaj pasis trans la ĉambron por havigi ĝin
+al mi. Sed, kiam mi paŝis sub la lumo de la incensilo, du timigaj
+cirkonstancoj altiris mian atenton. Mi estis sentinta, ke iu palpebla
+sed ne videbla objekto pasas senpeze preter mi, kaj mi vidis, ke
+kuŝas sur la ora tapiŝo, ĝuste meze de la riĉa lumo deĵetita
+de la incensilo, ombro -- tian ombron, kian oni povas imagi kiel la
+ombro de fantomo. Sed mi estis sovaĝa pro ekscitiĝo, post malmodera
+dozo da opio, kaj nemulte atentis tiujn aferojn, nek parolis pri
+ili al Rovena. Trovinte la vinon, mi ree transiris la ĉambron, kaj
+elverŝis plentason da ĝi, kiun mi metis al la lipoj de la svenanta
+Lady. Ŝi nun parte estis refortiĝinta, kaj mem prenis la pokalon,
+dum mi sidfalis sur sofon apude, kvankam miaj okuloj rigardis ŝin
+senĉese. Estis tiam, ke mi klare rimarkis molan piedpaŝon sur la
+tapiŝo kaj apud la lito; kaj, post sekundo, kiam Rovena levis la
+vinon al siaj lipoj, mi vidis, aŭ eble revis, ke mi vidas, falanta
+en la pokalon, kvazaŭ de ia nevidebla fonto en la atmosfero de
+la ĉambro, tri aŭ kvar grandajn gutojn da brila kaj rubenkolora
+fluidaĵo. Dum mi ĉi tion vidis, Rovena ne tion faris. Ŝi glutis la
+vinon senhezite, kaj mi min detenis de parolo pri okazo, kiu devas,
+malgraŭ ĉio, mi opiniis, esti nur la sugesto de troviva imago
+iĝinta fantazie agema pro la teruro de la Lady, pro la opio kaj la
+horo.
+
+Tamen, mi ne povas kaŝi al mi tion, ke tuj post la falo de
+la rubenecaj gutoj, rapida plimalboniĝo okazis je la sano de
+mia edzino, tiel ke, je la tria nokto poste, la manoj de ŝiaj
+servistinoj pretigis ŝin por la tombo; kaj, la kvaran, mi sidis
+sola, kune kun ŝia morttuke volvita korpo, en tiu fantazia ĉambro,
+kiu ŝin estis ricevinta kiel mian novedzinon. Fantaziaj vizioj,
+opionaskitaj, flirtis ombrece antaŭ mi. Mi rigardis per malkvieta
+okulo la sarkofagojn en la anguloj de la ĉambro, la variemajn
+figurojn de la drapiraĵo, kaj la tordiĝadon de la partkoloraj
+fajroj supre en la incensilo. Miaj rigardoj poste falis, kiam mi
+memoris la cirkonstancojn de la antaŭa nokto, al la loko sub la
+brilego de la incensilo, kie mi estis vidinta la nebulajn signojn de
+la ombro. Ĝi jam ne estis tie, tamen, kaj spirante pli libere, mi
+turnis la rigardojn al la palega kaj rigida figuro sur la lito. Tiam
+surfluis sur min mil memoraĵoj pri Liĝeja -- kaj tiam revenis en
+mian koron, per la tumulta forteco de diluvo, ĉiom da tiu nedirebla
+malĝojego, tra kiu mi estis rigardinta _ŝin_ tiel volvitan. La
+nokto ekforiĝis, kaj ankoraŭ, kun sino plena je akraj pensoj pri
+ŝi, sole kaj superege amata, mi restis rigardante la kadavron de
+Rovena.
+
+Eble estis noktmezo -- aŭ eble pli frue, aŭ malfrue, ĉar mi ne
+notis la pasadon de tempo -- kiam plorĝemo, mallaŭta, delikata, sed
+tre distingebla, ekvekis min el mia revo. Mi _sentis_, ke ĝi venas
+de la lito el ebono -- la morta lito. Mi aŭskultegis tra angoro
+da superstiĉa timo -- sed ne venis ripeto de la sono. Mi streĉis
+la vidon por distingi ian movon de la kadavro -- sed ne troviĝis
+io iomete perceptebla. Tamen, mi ne povis esti min trompinta. Mi
+ja aŭdis la bruon, kiel ajn malklare, kaj mia animo estis vekita
+interne de mi. Mi serioze kaj persiste tenis mian atenton fiksita al
+la kadavro. Multaj minutoj pasis antaŭ ol okazis iu cirkonstanco,
+kiu tendencis lumigi la misteron. Post kelke da tempo evidentiĝis ke
+iometa, tre malforta, kaj apenaŭ rimarkebla nuanco de koloro estas
+enfluanta en ŝiajn vangojn, kaj tra la kavintaj vejnetoj de ŝiaj
+palpebroj. Tra speco de nedirebla teruro kaj respektego, por kiu
+neniu lingvo de mortema homaro enhavas sufiĉe energian esprimon, mi
+sentis mian koron ĉesi bati, miajn membrojn rigidiĝi tie, kie mi
+sidas. Tamen, la ideo pri la devo fine efikis min reaplombigi. Mi ne
+plu povis dubi, ke estis tro fruaj niaj preparoj -- ke ankoraŭ vivas
+Rovena. Necesis, ke ia tuja peno estu farata, sed la tureto staris
+tute aparte de la parto de la abatejo, en kiu loĝis la servistoj
+-- ne troviĝis iu vokebla -- mi ne havis rimedon por alvoki ilin
+por helpi min, ne forlasante la ĉambron dum multaj minutoj, kaj
+tiel mi ne kuraĝis agi. Tial mi baraktis sola dum miaj penoj por
+revoki la animon, kiu ankoraŭ estis ŝancelanta. Post nelonge,
+tamen, certiĝis, ke estas okazinta denova senviviĝo; la koloro
+malaperis de palpebro kaj vango, lasante palecon eĉ pli ol marmora;
+la lipoj duoble iĝis sulkitaj kaj kuntiritaj per la kadavra aspekto
+de morto; abomena malsekeco kaj malvarmeco kovris rapide la surfacon
+de la korpo; kaj ĉiu kutima rigora rigideco tuj sekvis. Tremante mi
+ree kuŝfalis sur la sofon, de kiu mi estis tiel timige vekita, kaj
+denove mi min okupis per pasiaj, maldormaj vizioj pri Liĝeja.
+
+Horo tiel estis pasinta, kiam (ĉu povis esti eble?) mi dufoje
+sciiĝis pri ia malklara sono venanta de la apudaĵo de la lito. Mi
+aŭskultis -- en ekstrema teruro. La sono denove venis -- ĝi estis
+sopiro. Kurante al la kadavro, mi vidis -- klare vidis -- tremon sur
+la lipoj. Unu momenton poste ili malfermiĝis, malkaŝante brilan
+linion de la perlaj dentoj. Mirego nun luktis en mia sino kun la
+profunda respektego, kiu ĝis tiam estis reĝinta tie sola. Mi
+sentis, ke mia vido malheliĝas, ke mia cerbo vagas; kaj, sole per
+fortega peno, mi fine sukcesis min kuraĝigi por la tasko, kiun la
+devo tiel ankoraŭ unufoje montris. Nun estis parta rozeco sur la
+frunto, kaj sur la vangoj kaj kolo; videbla varmeco trakuris la tutan
+korpon; eĉ troviĝis iometa pulsado ĉe la koro. La Lady _vivis_;
+kaj per duobligita ardo mi komencis la taskon venigi ŝian animon.
+Mi frotis kaj malsekigis la tempiojn kaj la manojn, kaj uzis ĉiun
+rimedon, kiun sperto kaj mia ne malvasta legado kuraca povis sugesti.
+Sed senfrukte. Subite la koloro forfluis, la pulsado ĉesiĝis, la
+lipoj reprenis la aspekton de la mortintoj, kaj unu momenton poste la
+tuta korpo montris la glacian malvarmecon, la mortblankan nuancon,
+la intensan rigidecon, la kaviĝintan profilon, kaj ĉiujn abomenajn
+kuriozecojn de kadavro, kiu estas restinta multajn tagojn en la
+tombo.
+
+Kaj denove mi ekrevis, pri Liĝeja -- kaj denove (ĉu mirinde, ke
+mi tremas, skribante?) _denove_ atingis al miaj oreloj mallaŭta
+plorĝemo el la ebona lito. Sed kial detale priskribus mi la
+nedireblajn terurojn de tiu nokto? Kial mi paŭzus por rakonti
+kiel, fojon post fojo, ĝis preskaŭ la horo de la griza ektagiĝo,
+tiu abomena dramo de reekvivado sin ripetis; kiel ĉiu fortega
+resenviviĝo estis nur al pli severa, kaj ŝajne pli neforlasebla
+morto; kiel ĉiu angoro aspektis kvazaŭ batalo kontraŭ iu nevidebla
+malamiko; kaj kiel ĉiu barakto estis sekvata de, mi ne scias kia,
+strangega ŝanĝiĝo en la persona aspekto de la kadavro? Mi rapidu
+ĝis la fino.
+
+La plejparto de tiu terura nokto estis pasinta, kaj ŝi, kiu jam
+estis mortinta, ankoraŭ unu fojon moviĝis -- kaj nun pli vigle
+ol antaŭe, kvankam elveninte el mortiĝo pli konsternanta ol iu,
+pro ĝia kompleta senesperigo. Delonge mi estis ĉesinta barakti
+aŭ moviĝi, kaj sidadis rigide sur la sofo, senpova viktimo por
+kirlego da tumultaj emocioj, el kiuj, eble, treega respektotimo estis
+la malplej terura, la malplej forbruliga. La kadavro, mi ripetas,
+moviĝis, kaj nun pli vigle ol antaŭe. La vivaj koloroj enruĝiĝis
+per nekutima energio en la vizaĝo -- la membroj malrigidiĝis --
+kaj sen tio, ke la palpebroj ankoraŭ estas forte kunpremitaj,
+kaj ke la bandaĝoj kaj drapiraĵoj de la ĉerko ankoraŭ donas
+sian tomban mienon al la figuro, mi povis revi, ke Rovena ja estas
+tute formetinta de si la katenojn de la morto. Sed se tiu ideo
+ne estis, eĉ tiam, tute kredata, mi almenaŭ ne povis dubi plu,
+kiam, leviĝante de la lito, ŝanceliĝante per malfortaj paŝoj,
+kun fermitaj okuloj, kaj kun mieno de iu konfuzita per sonĝo, la
+objekto, kiu estis mortvualita, antaŭeniris kuraĝe kaj videble en
+la mezon de la ĉambro.
+
+Mi ne tremis -- mi ne moviĝis, ĉar amaso da nedireblaj fantazioj
+rilate la mienon, la staturon, la irmanieron de la figuro, fluante
+rapide tra mia cerbo, estis paralizinta -- estis frostinta min en
+ŝtonon. Mi ne moviĝis, sed rigardadis la aperaĵon. Estis freneza
+malordo en miaj pensoj -- tumulto netrankvilebla. Ĉu reale tiu ĉi
+povis esti la vivanta Rovena, kiu kontraŭis min? Ĉu ĝi povis esti
+Rovena _iel ajn_ -- la helehara kaj blueokula Lady Rovena Trevanjon
+el Tremajno? Kial, _kial_ mi dubis ĝin? La bandaĝo kuŝis peze sur
+la buŝo -- sed, do, ĉu ĝi ne eble estis la buŝo de la spiranta
+Lady el Tremajno? Kaj la vangoj -- troviĝis la rozoj en ŝiaj
+vangoj, same kiel dum ŝia tagmezo de vivo -- jes, efektive, tiuj
+ĉi povis esti la belaj vangoj de la vivanta Lady el Tremajno. Kaj
+la mentono, kun ĝiaj kavetoj, same kiel dum saneco, ĉu tiu ne
+verŝajne estis la ŝia? -- sed _ĉu ŝi estis iĝinta pli altkreska
+dum ŝia malsano?_ Kia neesprimebla frenezo min ekprenis ĉe tiu
+penso! Unu salto, kaj mi atingis al ŝiaj piedoj! Detirante sin de
+mia tuŝo, ŝi defaligis de sia kapo, malligitajn, la kadavrecajn
+tukojn, kiuj antaŭe ĝin malliberigis, kaj elfluis en la blovantan
+atmosferon de la ĉambro grandaj masegoj da longaj kaj implikitaj
+haroj -- _ili estis pli nigraj ol la korvaj flugiloj de Noktmezo_!
+Kaj nun malrapide malfermiĝis _la okuloj_ de la figuro, kiu staradis
+antaŭ mi. „Jen, do, almenaŭ“, mi kriegis laŭtvoĉe, „povas mi
+neniam, mi neniam min trompi; ĉi tiuj estas la plenaj, kaj la
+nigraj, kaj la brulantaj okuloj -- de mia perdita amatino, de la Lady
+-- _la lady liĝeja_“.
+
+
+
+
+LA OVALA PORTRETO
+
+
+La kastelo, kiun mia valeto[4] kuraĝetis perforte eniri, plivole ol
+permesi ke mi, dum mia terure vundita stato, pasigu nokton subĉiele,
+estis unu el tiaj konstruaĵoj, mikse mallumaj kaj grandiozaj, kiuj
+tiel longe estas malridantaj inter la Apeninoj, ne malpli fakte ol en
+la imago de novelistinoj. Ŝajnis, ke ĝi estas portempe kaj antaŭ
+nelonge forlasita. Ni loĝigis nin en unu el la plej malgrandaj
+kaj malplej lukse meblitaj ĉambroj. Ĝi staris en fora tureto de
+la konstruaĵo. Ĝiaj dekoracioj estis riĉaj, sed ĉifonitaj kaj
+antikvaj. La muroj estis drapiritaj per tekstapeto, kaj ornamitaj
+per multnombraj kaj multformaj blazonaj trofeoj, kune kun neordinara
+nombro da tre viglaj, modernaj pentraĵoj, en kadroj el riĉa ora
+arabesko. Pri tiuj ĉi pentraĵoj, kiuj dependis sur la muroj ne nur
+sur la ĉefaj surfacoj, sed ankaŭ en multaj niĉoj, kiujn la stranga
+arkitekturo de la kastelo necesigis -- pri tiuj ĉi pentraĵoj mia
+komenciĝa delirio, verŝajne, profunde estis interesiginta min;
+tiel ke mi ordonis al Petro, ke li fermu la pezajn kovrilojn de la
+fenestroj -- ĉar jam estis nokte -- ekbruligu la meĉojn en alta
+kandelabro, kiu staris apud la kapaĵo de mia lito, kaj dismetu
+larĝe la franĝitajn kurtenojn el nigra veluro, kiuj ĉirkaŭis
+la liton mem. Mi volis, ke li faru ĉion ĉi, por ke mi povu min
+pretigi, se ne por dormi, almenaŭ por alterne primediti la bildojn,
+kaj legi etan libron, kiun ni trovis sur la kapkuseno, kaj kiu celis
+ilin kritiki kaj priskribi.
+
+Longe -- longe mi legis -- kaj pie, adoreme mi rigardadis. Rapide
+kaj glore la horoj flugpasis, kaj la profunda noktmezo alvenis. La
+pozicio de la kandelabro malplaĉis al mi, kaj etendante malfacile
+mian manon, plivole ol ĝeni mian dormantan valeton, mi metis tiun
+tiele, ke ĝi ĵetis siajn radiojn pli plene sur la libron.
+
+Sed la ago kaŭzis efekton tute neatenditan. La radioj de la
+multnombraj kandeloj (ĉar estis multaj), nun falis en niĉon de
+la ĉambro, kiu ĝis tiam estis profunde ombrita de unu el la
+litstangoj. Mi tial vidis sub brila lumo ne antaŭe rimarkitan
+bildon. Tiu estis la portreto de junulino ĵus maturiĝanta al
+virineco. Mi ekvidis la pentraĵon rapide, kaj tiam fermis miajn
+okulojn. Kial mi faris tion, ne tuj estis komprebla eĉ por mia
+propra percepto. Sed dum miaj palpebroj restis tiel fermitaj, mi
+trameditis la kaŭzon, kial mi fermis ilin. Tio estis impulsa movo
+por gajni la tempon por pripensi -- por certigi min, ke mia vidpovo
+ne trompis min -- por trankviligi kaj subigi mian imagon, por pli
+sobra kaj certa rigardo. Post nemultaj minutoj mi denove fikse
+rigardis la pentraĵon.
+
+Ke mi nun vidas prave, mi nek povis nek volis dubi; ĉar la unua
+brilo de la kandeloj sur tiun kanvason ŝajne estis foriginta
+la revan svenon, kiu estis ŝtelanta super miajn sentojn, kaj
+eksurprizis min tuj al maldorma vivo. La portreto, mi jam estas
+dirinta, estis tio de juna knabino. Ĝin konsistigis nuraj kapo kaj
+ŝultroj, pentritaj laŭ tio, kio teknike nomiĝas la „vinjeta“
+maniero; tre laŭ la stilo de la favorataj kapoportretoj de Sully.
+La brakoj, la brusto, kaj eĉ la finoj de la haroj, fandiĝis
+nepercepteble en la malprecizan sed profundan ombron, kiu formis
+la fonon de la tuto. La kadro estis ovala, riĉe orumita, kaj
+filigranita laŭ maŭra stilo. Kiel artverkaĵo nenio povis esti pli
+admirinda ol la pentraĵo mem. Sed ne povis esti la metodo de la
+verkado, nek la nemorta beleco de la vizaĝo tio, kio tiel subite kaj
+tiel energie estis min emociinta.
+
+Malplej eble el ĉio ĝi povis esti tio, ke mia imago, vekate el
+ĝia duondormo, erare prenis la kapon por tiu de vivanta persono. Mi
+vidis tuj, ke la strangecoj de la desegno, de la vinjetado kaj de la
+kadro devis tuj forigi tian ideon -- devis malhelpi eĉ iun momentan
+kredon pri ĝi. Pripensante serioze tiujn punktojn, mi restis, eble,
+unu horon, duone sidante, duone kuŝante, kun mia rigardo fiksita al
+la portreto. Fine, kontenta pri la vera sekreto de ĝia efekto, mi
+ree kuŝiĝis en la lito. Mi estis trovinta la sorĉon de la bildo,
+ĉar tio estis la absoluta _vivsimileco_ de la esprimo, kio, unue
+surprizante min, fine min konfuzegis, subigis kaj konsternis. Per
+profunda kaj respektega soleneco, mi remetis la kandelabron en ĝian
+antaŭan lokon. La kaŭzon de mia profunda agitiĝo tiel kaŝinte al
+mia vido, mi avide serĉis en la libro, kiu priskribis la pentraĵojn
+kaj iliajn historiojn. Trovante la numeron, kiu reprezentis la ovalan
+portreton, mi legis la strangajn, malklarajn vortojn sekvantajn.
+
+„Ŝi estis virgulino ravege bela, kaj ne pli bela ol plena je gajeco.
+Kaj malbona la horo, kiam ŝi vidis, kaj ekamis, kaj edziniĝis kun
+la pentristo. Li, pasia, studiema, severa, kaj jam posedanta edzinon,
+sian arton; ŝi, virgulino ravege bela, kaj ne pli bela ol plena
+je gajeco; ĉio da ŝi lumo kaj ridetoj: kaj petolema kiel juna
+cervidino: amanta kaj prizorganta ĉion: malamanta nur la arton,
+kiu staris ŝia rivalo: timanta nur la paletron kaj penikojn, kaj
+aliajn malfeliĉajn instrumentojn, kiuj forprenis de ŝi la vizaĝon
+de ŝia amanto. Estis tial terura afero por tiu ĉi virineto aŭdi
+la pentriston parolanta pri sia deziro portreti eĉ sian junan
+novedzinon. Sed ŝi estis humila kaj obeema, kaj sidadis milde dum
+multaj semajnoj en la malluma, altloka, tureta ĉambro, kie la lumo
+tragutis sur la palan kanvason nur de supre. Sed li, la pentristo,
+trovis gloron en sia verko, kiu daŭris horon post horo, kaj tagon
+post tago. Kaj li estis pasia, kaj sovaĝa, kaj melankolia viro,
+kiu perdiĝis en revoj; tiel ke li ne _volis_ vidi ke la lumo, kiu
+falis tiel mortece en tiun solecan ĉambron, forigas la sanon kaj
+la spiriton de lia novedzino, kiu velkis videble al ĉiu, nur ne al
+li. Sed ŝi ankoraŭ ridetis kaj ankoraŭ plu, neplende, ĉar ŝi
+komprenis, ke la pentristo (kiu estis fame konata) trovas fervoran
+kaj brulantan plezuron en sia tasko, kaj laboras tage kaj nokte por
+portreti ŝin, kiu amis lin, sed kiu ĉiutage iĝis pli malvigla kaj
+malforta. Kaj vere iuj, kiuj vidis la portreton, parolis pri ĝia
+simileco per mallaŭtaj vortoj, kvazaŭ pri forta mirindaĵo, kaj
+pruvo ne malpli pri la povo de la pentristo, ol pri lia profunda amo
+al ŝi, kiun li bildigis tiel superege bone. Sed, post kelka tempo,
+kiam la verkaĵo alproksimiĝis al sia finiĝo, neniu estis enlasata
+en la tureton, ĉar la pentristo deliriiĝis pro ardo pri sia verko,
+kaj malofte forturnis siajn okulojn de la kanvaso, eĉ por rigardi
+la vizaĝon de sia edzino. Kaj li ne _volis_ vidi, ke la koloriloj,
+kiun li ŝmiris sur la kanvason estas eltirataj el la vangoj de
+ŝi, kiu sidas apud li. Kaj kiam multaj semajnoj estis forpasintaj,
+kaj nur malmulte restis farota, krom unu tuŝo sur la buŝo, kaj
+unu nuanco sur la okulo, la spirito de la virineto denove flagretis
+supren, kvazaŭ la flamo en la flamingo de lampo. Kaj tiam la tuŝo
+estis donita, kaj la nuanco surmetita, kaj unu momenton la pentristo
+staris ensorĉite antaŭ la verkaĵo, kiun li estis kreinta: sed la
+proksiman, dum li ankoraŭ rigardis, li tremis kaj tre paliĝis,
+kaj kriante laŭtvoĉe: ‚Tio ĉi estas ja la _Vivo_ mem!‘ li
+turniĝis por rigardi sian amatinon. -- _Ŝi estis mortinta_.
+
+
+
+
+LA BARELO DA AMONTILADO[5]
+
+
+La mil ofendojn de Fortunato mi estis tolerinta tiel trankvile,
+kiel mi kapablis; sed kiam li riskis min insulti, mi ĵuris min
+venĝi. Vi, kiu tiel plene scias la naturon de mia animo, ne supozos,
+tamen, ke mi ellasis minacon. Ke _fine_ mi estos venĝita, tio estis
+punkto definitive decidita -- sed la definitiveco mem, per kio ĝi
+decidiĝis, forbaris ĉian riskon. Mi ne nur devis puni, sed ankaŭ
+puni senpune. Maljustaĵo estas ne rebonigita, se puno atingos al
+la reboniganto. Ĝi estas egale ne rebonigita, kiam la punanto
+malsukcesas sentigi sin kiel tio al tiu, kiu faris la maljustaĵon.
+
+Devas esti komprenata tio, ke nek per vorto nek ago mi estis doninta
+al Fortunato kaŭzon por dubi mian bonvolon. Mi daŭris, kiel mi
+kutimis, rideti antaŭ lia vizaĝo, kaj li ne perceptis, ke la rideto
+_nun_ estas je la penso pri lia oferiĝo.
+
+Li posedis malfortan punkton -- tiu ĉi Fortunato -- kvankam alie li
+estis viro respektinda kaj eĉ timinda. Li fieris pro sia spertuleco
+pri vino. Malmultaj Italoj havas la veran virtuozan spiriton.
+Plejparte ilia entuziasmo estas alprenita por taŭgi por la tempo
+kaj oportuno -- por praktiki trompon al la britaj kaj aŭstraj
+milionuloj. Pri la pentrarto kaj gemarto Fortunato, same kiel siaj
+samlandanoj, estis ĉarlatano -- sed pri tiu afero, malnovaj vinoj,
+li estis sincera. En tio, mi ne diferencis de li esence, mi mem estis
+sperta pri la italaj vinbero-rikoltoj, kaj aĉetis grande, kiam ajn
+mi povis.
+
+Ĉirkaŭ krepusko, unu tagon dum la plej alta frenezo de la karnavala
+sezono, mi renkontis mian amikon. Li alparolis min per troa varmeco,
+ĉar li multon estis trinkinta. Li portis ŝercistan veston. Li havis
+malvastan partstrekitan vestaĵon, kaj lia kapo kovriĝis per konusa
+ĉapo kun tintiloj. Mi tiom ĝojis vidi lin, ke mi pensis, ke mi
+neniam finos premegi al li la manon.
+
+Mi diris al li: „Kara Fortunato mia, bonsanĉe mi renkontas vin. Kiel
+rimarkinde sana vi aspektas hodiaŭ! Sed mi estas ricevinta barelon
+da io, kio pretendas esti amontilado, kaj mi dubas.“
+
+„Kio?“ li diris, „amontilado? Barelon? Neeble! kaj ĝuste meze de la
+karnavalo!“
+
+„Mi mem dubas“, mi respondis, „kaj mi sufiĉe estis malsaĝa pagi la
+plenan amontiladan prezon, ne konsultinte vin pri l’ afero. Vi ne
+estis trovebla, kaj mi timis perdi bonŝancon.“
+
+„Amontilado!“ -- „Mi sentas dubojn.“
+
+„Amontilado!“ -- „Kaj mi devas kontentigi min.“
+
+„Amontilado!“
+
+„Ĉar vi estas okupita, mi iras nun al Lukesio. Se iu posedas
+kritikpovon, tiu estas li. Li diros al mi --“
+
+„Lukesio ne povas distingi amontiladon de ŝereo.“
+
+„Kaj tamen, iuj malsaĝuloj pretendas, ke lia gusto egalas al la
+via.“
+
+„Venu! Ni iru.“
+
+„Kien?“
+
+„Al viaj keloj.“
+
+„Mia amiko, ne; mi ne intencas altrudiĝi sur vian bonkorecon. Mi
+vidas, ke vi iras al rendevuo. Lukesio --“
+
+„Mi iras al neniu rendevuo; venu!“
+
+„Amiko mia, ne; ne gravis la rendevuo, sed gravas la severa
+malvarmumo, pro kio mi vidas, ke vi suferas. La keloj estas
+netolereble malsekaj. Ili estas inkrustitaj per nitro.“
+
+„Ni iru, malgraŭ tio. La malvarmumo estas nura neniaĵo. Amontilado!
+Oni estas trompinta vin. Kaj koncerne Lukesion, li ne povas distingi
+ŝereon de amontilado.“
+
+Tiel parolante, Fortunato prenis mian brakon.
+
+Surmetante maskon el nigra silko, kaj tirante preme ĉirkaŭ mia
+korpo mantelon, mi lasis lin rapidigi min al mia palaco.
+
+Estis nenia servisto hejme; ili estis forkurintaj por gajiĝi pro
+honoro de la tago. Mi estis dirinta al ili, ke mi ne revenos ĝis la
+mateno proksima, kaj ordoninta severe, ke ili ne moviĝu el la domo.
+Tiuj ĉi ordonoj sufiĉis, mi sciis, certigi la tujan malaperon de
+ĉiuj, kiam mi turnis al ili mian dorson.
+
+Mi prenis el la ingoj du torĉojn, kaj donante unu al Fortunato,
+riverencante kondukis lin tra kelkaj ĉambraroj al la arkaĵo, kiu
+enlasis nin en la kelaron. Mi pasis malsupren laŭ longa serpenta
+ŝtuparo, petante lin, ke li atentu dum li sekvas. Ni atingis fine
+la fundon de la ŝtuparo, kaj kune staris sur la malseka tero de la
+katakomboj de la Montresoroj.
+
+La irmaniero de mia amiko estis ŝancelema, kaj la tintiloj sur lia
+ĉapo tintis dum li paŝis.
+
+„La barelo?“ li diris.
+
+„Ĝi kuŝas pli malproksime“, mi diris, „sed observu la blankan
+kvazaŭ-teksaĵon, kiu brilas sur la muroj de la kavernoj.“
+
+Li turniĝis al mi, kaj rigardis min per du filmaj okuloj, kiuj
+enhavis malsekon pro ebrieco.
+
+„Ĉu nitro?“ li demandis fine.
+
+„Nitro“, mi respondis, „kiel longe vi estas suferinta pro tiu tuso?“
+
+„Uh! uh! uh! -- uh! uh! uh! -- uh! uh! uh! -- uh! uh! uh! -- uh! uh!
+uh!“
+
+Mia kompatinda amiko tute ne povis respondi dum multaj minutoj.
+
+„Ĝi estas nenio“, li diris fine.
+
+„Venu“, mi diris decideme, „ni reiru; via sano tre valoras. Vi estas
+riĉa, respektata, admirata, amata; vi estas feliĉa, kiel iam mi
+estis. Vi estas viro kies manko sentiĝus. Pri mi ne gravas. Ni
+reiru; vi certe malsaniĝos, kaj mi ne povas respondi tion. Krome,
+ekzistas Lukesio --“
+
+„Sufiĉe!“ li diris, „tiu ĉi tuso estas nura neniaĵo; ĝi ne
+mortigos min. Mi ne mortos pro tuso.“
+
+„Vere -- vere“, mi respondis, „kaj efektive mi ne intencis timigi vin
+nenecese; sed vi devus uzi ĉiun taŭgan singardon. Trinko da tiu ĉi
+medoko[6] defendos nin kontraŭ la malseko.“
+
+Tiam mi rompis la kolon al botelo, kiun mi tiris el longa vico da
+samaĵoj kuŝantaj sur la tero.
+
+„Trinku“, mi diris, prezentante al li la vinon.
+
+Li levis ĝin al siaj lipoj kun ridetaĉo. Li paŭzis kaj balancis la
+kapon al mi familiare, dum liaj tintiloj tintis.
+
+„Mi trinkas“, li diris, „al la enterigitoj, kiuj ripozas ĉirkaŭ
+ni.“
+
+„Kaj mi al via longa vivo.“
+
+Li denove prenis mian brakon, kaj ni antaŭeniris.
+
+„Tiuj keloj“, li diris, „estas vastaj!“
+
+„La Montresoroj“, mi respondis, „estis granda kaj multnombra
+familio.“ -- „Mi forgesis vian blazonon.“
+
+„Grandega homa piedo ora, en kampo lazura; la piedo subpremas
+serpenton furiozan, kies dentoj estas enfiksitaj en la kalkano.“ --
+„Kaj la moto?“
+
+„_Nemo me impune lacessit_.“ (Neniu min senpune incitas.)
+
+„Bone!“ li diris.
+
+La vino briletis en liaj okuloj, kaj la tintiloj tintis. Mia imago
+varmiĝis pro la medoko. Ni estis pasintaj inter muroj el amasigitaj
+ostoj, kun bareloj kaj barelegoj intermiksitaj, en la plej internajn
+lokojn de la katakomboj. Mi denove paŭzis, kaj tiun ĉi fojon prove
+ekprenis Fortunaton je la brako, super la kubuto.
+
+„La nitro“, mi diris, „vidu kiel ĝi pliiĝas. Ĝi pendas kiel musko
+de la keloj. Ni staras sub la riverlito. La gutoj da malseko fluetas
+sur la ostojn. Venu, ni reiru antaŭ ol tromalfruiĝas. Via tuso --“
+
+„Ĝi estas neniaĵo“, li diris, „ni antaŭeniru! Sed unue, alia
+trinko de la medoko!“
+
+Mi rompis kaj donis al li botelon da De Grâve. Li ĝin malplenigis
+dum unu spiro. Liaj okuloj ekbrilis per sovaĝa lumo. Li ridis, kaj
+ĵetis supren la botelon per gesto, kiun mi ne komprenis.
+
+Mi lin rigardis mirante. Li ripetis la movon -- groteskan movon.
+
+„Vi ne komprenas?“ li diris. -- „Mi, ne“, mi respondis.
+
+„Do, vi ne estas el la frataro?“ -- „Kiel?“
+
+„Vi ne estas el la framasonoj?“ -- „Jes, jes“, mi diris, „jes, jes.“
+
+„Vi? neeble! Framasono?“ -- „Framasono“, mi respondis.
+
+„Donu signon.“ -- „Jen ĝi“, mi respondis, eltirante trulon[7] el sub
+la faldoj de mia mantelo.
+
+„Vi ŝercas“, li ekkriis, saltante kelkajn paŝojn posten, „sed ni
+iru al la amontilado.“
+
+„Konsentite“, mi diris, remetante la ilon sub la mantelon, kaj
+ree prezentante al li mian brakon. Li apogis sin sur ĝi peze; ni
+rekomencis nian promenon por serĉi la amontiladon. Ni trapasis
+aron da malaltaj arkaĵoj, malsupreniris, pasis pluen, kaj, denove
+malsuprenirante, alvenis en profundan kripton, en kiu la malpureco de
+la aero igis niajn torĉojn plivole subbruli ol flami.
+
+Ĉe la plej malproksima fino de la kripto aperis alia, malpli vasta.
+Ĝiaj muroj estis interne kovritaj per homaj restaĵoj, amasigitaj
+ĝis la volbo super ni, laŭ la metodo en la grandaj katakomboj de
+Parizo. Tri flankoj de tiu ĉi interna kripto troviĝis ornamitaj
+tiumaniere. De la kvara la ostoj estis deĵetitaj, kaj kuŝis mikse
+sur la tero, formante ĉe unu loko amason iom grandan. Interne de
+la muro tiel malkovrita pro la delokiĝo de la ostoj, ni vidis pli
+internan alkovon, profundan je ĉirkaŭ kvar futoj, larĝan je tri,
+kaj altan je ses ĝis sep. Ĝi ŝajnis esti konstruita por neniu
+speciala utilo, sed formis nure la interspacon inter du el la kolosaj
+subteniloj de la plafono de la katakomboj, kaj estis enfermita
+malantaŭe per unu el iliaj ĉirkaŭlimigantaj muroj el solida
+granito.
+
+Senfrukte Fortunato, levante sian nebulan torĉon, penis spioni en la
+profundon de la alkovo. Ĝian finon la malvigla lumo ne ebligis al ni
+vidi.
+
+„Antaŭen“, mi diris, „tie ĉi kuŝas la amontilado. Kaj pri Lukesio --“
+
+„Li estas malklerulo“, interrompe diris mia amiko, paŝante malfirme
+antaŭen, dum mi sekvis rekte post liaj kalkanoj. Post unu momento
+li estis atinginta al la fino de la niĉo, kaj, trovante pluan
+antaŭeniron malhelpata de la roko, staradis stulte konfuzegita.
+Pluan momenton, kaj mi estis kateninta lin al la granito. En ĝia
+surfaco troviĝis du feraj najlkrampoj, malproksimaj je ĉirkaŭ du
+futoj unu de la alia, horizonte. De unu el tiuj ĉi dependis mallonga
+ĉeno, de la alia pendseruro. Ĵetante la ĉenerojn ĉirkaŭ lia
+talio, estis la laboro de nemultaj sekundoj fiksi ĝin. Li estis tro
+konsternita rezisti min. Eltirante la ŝlosilon, mi paŝis posten el
+la alkovo.
+
+„Pasigu vian manon“, mi diris, „trans la muron. Vi ne povas ne senti
+la nitron. Efektive ĝi estas _tre_ malseka. Unu fojon ankoraŭ lasu
+min _petegi_, ke ni revenu. Ne? Do, mi devas nepre forlasi vin. Sed
+unue, mi devas fari por vi ĉiun etan servon, kiun mi kapablas“.
+
+„La amontilado?“ ekdiris mia amiko, ne ankoraŭ veninte el sia
+mirego. -- „Certe“, mi respondis, „la amontilado“.
+
+Dirante tiujn vortojn, mi klopodis ĉe la amaso da ostoj, pri kiuj
+antaŭe mi parolis. Ĵetante ilin flanken, mi baldaŭ malkovris
+kvanton da konstrua ŝtono kaj mortero. Per tiuj materialoj, kaj per
+helpo de mia trulo, mi komencis vigle murenfermi la enirejon de la
+niĉo.
+
+Apenaŭ mi estis masoninta la unuan vicon de la ŝtonoj, kiam mi
+rimarkis, ke la ebrieco de Fortunato grandamezure estas foriĝinta.
+La plej fruan ideon mi ricevis pri tio per mallaŭta ĝema krio el
+la profundo de la alkovo. Ĝi _ne_ estis la krio de ebriulo. Okazis
+poste longa kaj obstina silento. Mi masonis la duan vicon, kaj la
+trian, kaj la kvaran; kaj tiam mi aŭdis furiozan vibrigadon de la
+ĉeno. La bruo daŭris kelkajn minutojn, dum kiuj, por ke mi povu
+aŭskulti ĝin kun pli da kontento, mi ĉesis labori kaj sidiĝis
+sur la ostojn. Kiam fine la tintego ĉesis, mi reprenis la trulon
+kaj finis neinterrompite la kvinan, la sesan kaj la sepan vicojn.
+La muro nun estis preskaŭ je la nivelo de mia brusto. Mi denove
+paŭzis, kaj, tenante la torĉojn trans la masonaĵon, ĵetis kelkajn
+malfortajn radiojn sur la figuron interne.
+
+Serio da laŭtaj kaj akraj kriegoj, krevante subite de la gorĝo
+de la katenita formo, ŝajnis ŝovi min malantaŭen fortege. Dum
+mallonga momento mi hezitis -- mi tremis. Elingigante mian rapiron,
+mi komencis serĉi per ĝi ĉirkaŭ la alkovo; sed pripenso dum
+minuto min recertigis. Mi metis la manon sur la solidan strukturon de
+la katakomboj, kaj min sentis kontentigita. Mi realproksimiĝis al la
+muro. Mi respondis al la ekkrioj de li, kiu bruegis. Mi resonis --
+mi helpis -- mi superis ilin kvante kaj forte. Mi faris tion, kaj la
+krianto silentiĝis.
+
+Estis nun noktmezo, kaj mia tasko estis finiĝanta. Mi estis farinta
+la okan, la naŭan kaj la dekan vicojn. Mi estis fininta parton el
+la lasta, la dekunua; restis nur unu ŝtono por esti enmetata kaj
+enmorterata. Mi baraktis kun ĝia pezo; mi metis ĝin parte en la
+deziratan pozicion. Sed nun venis el la niĉo mallaŭta rido, kiu
+rektigis la harojn sur mia kapo. Ĝi sekviĝis per malĝoja voĉo,
+kiun mi malfacile rekonis kiel tiu de la nobela Fortunato. La voĉo
+diris:
+
+„Ha! ha! ha! -- hi! hi! -- treege bona ŝerco -- treege bona. Ni
+havos multajn gajajn ridojn pri ĝi ĉe la palaco. Hi! hi! hi! -- kun
+nia vino -- hi! hi! hi!“
+
+„La amontilado!“ mi diris.
+
+„Hi! hi! hi! -- hi! hi! hi! -- jes, la amontilado. Sed ĉu ne iĝas
+malfrue? Ĉu ili ne atendos nin ĉe la palaco, la sinjorino Fortunato
+kaj la ceteroj? Ni foriru“. -- „Jes“, mi diris, „ni foriru“.
+
+„_Pro la amo de Dio, Montresoro!_“ -- „Jes“, mi diris, „pro la amo
+de Dio!“
+
+Sed mi aŭskultis senfrukte por respondo al tiuj ĉi vortoj. Mi
+senpacienciĝis. Mi vokis laŭte:
+
+„Fortunato!“ -- Nenia respondo. Mi denove vokis:
+
+„Fortunato!“ -- Ankoraŭ nenia respondo. Mi enpuŝis la torĉon tra
+la restanta truo, kaj ĝin lasis fali internen. Venis responde nur
+tinto de la tintiloj. Mia koro naŭziĝis -- pro la malsekeco de la
+katakomboj. Mi rapidis fini mian laboron. Mi perfortis la lastan
+ŝtonon en ĝian pozicion, mi enmorteris ĝin. Kontraŭ la nova
+masonaĵo mi amasigis la malnovan remparton el ostoj. Dum duona
+jarcento neniu mortemulo estas tuŝinta ilin.
+
+_In pace requiescat!_
+
+
+
+
+KELKAJ VORTOJ KUN MUMIO
+
+
+La rakontaro de la hieraŭa nokto estis estinta iom troa por miaj
+nervoj. Mi suferis teruran kapdoloron kaj estis treege dormema.
+Anstataŭ eliri, tial, por pasigi la vesperon kiel mi antaŭe
+intencis, mi opiniis, ke mi ne povas fari pli saĝan agon ol nur
+manĝi plenbuŝon da noktmanĝo, kaj iri tuj por enlitiĝi.
+
+_Malpeza_ noktmanĝo, kompreneble. Mi tre ŝatas kimran kuniklon[8].
+Pli ol unu funto samtempe, tamen, eble ne estas ĉiam konsilinda.
+Sed ne povas ekzisti ia grava kialo kontraŭ du. Kaj certe inter du
+kaj tri kuŝas simpla unuo da diferenco. Mi kuraĝetis, eble, manĝi
+kvar. Mia edzino persiste diras, ke kvin, sed evidente ŝi konfuzas
+du tre apartajn aferojn. La abstraktan nombron kvin mi volonte
+konfesos, sed konkrete ĝi rilatas botelojn da bruna staŭto[9] sen
+kiu, kiel spicaĵo, oni devas tute eviti kimran kuniklon.
+
+Tiel fininte ŝpareman manĝon kaj surmetinte mian noktĉapon, kun
+la serena espero ĝui ĝin ĝis tagmezo la proksiman tagon, mi metis
+la kapon sur la kapkusenon, kaj, per helpo de bonega konscienco, tuj
+profunde ekdormis.
+
+Sed kiam ajn estas plenumitaj la esperoj de l’ homaro? Mi certe ne
+estis ellasinta mian trian ronkon, kiam okazis furioza tintado ĉe la
+stratporda sonorileto, kaj poste, senpacienca frapado ĉe la frapilo,
+kiu min vekis tuj. Unu momenton poste, dum mi ankoraŭ frotis al mi
+la okulojn, mia edzino puŝis antaŭ mian vizaĝon letereton de mia
+malnova amiko, D-ro Prohonoro. Ĝi tekstis jene:
+
+„Venu al mi, per iu ajn rimedo, mia kara bona amiko, tuj kiam vi
+ricevas tion ĉi. Venu helpi nin ĝoji. Fine, per longa, obstina
+diplomatio, mi konsentigis la direktoraron de la urbega muzeo, ke
+mi ekzamenu la mumion -- vi konas tiun, pri kiu mi volas diri. Ili
+permesas, ke mi malvolvu ĝin, kaj ankaŭ malfermu ĝin, se necesas.
+Nur malmultaj amikoj ĉeestos -- vi, kompreneble. La mumio nun kuŝas
+en mia domo, kaj ni komencos malvolvi ĝin je la dekunua, hodiaŭ
+nokte.
+
+  Ĉiame la via
+  PROHONORO.
+
+Kiam mi atingis al la „Prohonoro“, mi ekopiniis, ke mi estas
+tiel maldorma, kiel viro bezonas. Mi saltis el la lito ekstaze,
+renversante ĉion dumvoje, vestis min je rapideco vere mirinda kaj
+survojiĝis, kiel eble plej rapidkure, al la doktoro.
+
+Alveninte, mi trovis tre avidan aron kunveninta. Ili min atendis tre
+malpacience; la mumio kuŝis sur la manĝotablo, kaj, tuj kiam mi
+eniris, la ekzameno komenciĝis.
+
+Ĝi estis unu el paro alportita, antaŭ kelkaj jaroj, de kapitano
+Arturo Sabropoŝo, kuzo de Prohonoro, el tombo apud Elejtiaso en
+la Libjaj montegoj, je sufiĉa distanco super Tebo, laŭ la Nilo.
+La grotoj ĉe tiu ĉi loko, kvankam malpli grandiozaj ol la tebaj
+tomboj, estas pli interesaj pro tio, ke ili donas pli da ilustraĵoj
+pri la privata vivo de la antikvaj egiptanoj. La ĉambro, el kiu nia
+specimeno portiĝis, oni diras, estis tre riĉa je tiaj ilustraĵoj
+-- la muroj starantaj plene kovritaj per freskopentraĵoj kaj
+bareliefoj; dum statuoj, vazoj, kaj mozaikaĵoj laŭ riĉaj desegnoj
+montris la riĉon de la mortinto.
+
+La trezoro estis demetita en la muzeon precize samstate kiel kapitano
+Sabropoŝo ĝin trovis -- t. e., el la ĉerko nenio estis elprenita.
+Dum ok jaroj ĝi tiel estis starinta subigita nur ekstere al publika
+ekzameno. Ni havis nun, sekve, la kompletan mumion disponebla; kaj
+por tiuj, kiuj scias, kiel tre malofte neprirabita antikvaĵo atingas
+al nia lando, evidentiĝos tuj ke ni posedis grandan kaŭzon por nin
+gratuli pri nia bonfortuno.
+
+Alproksimiĝante al la tablo, mi vidis sur ĝi grandan skatolon aŭ
+keston, longan je preskaŭ sep futoj kaj larĝan je eble tri, sur
+du kaj duona futoj da alteco. Ĝi estis oblonga, ne ĉerkoforma.
+La materialo, ni unue supozis, estas ligno platanacera, sed,
+tranĉante en ĝin, ni trovis ke ĝi estas kartono, aŭ pli korekte
+papermaĉaĵo, farita el papiruso. Ĝi estis dense ornamita per
+pentraĵoj, prezentantaj funebrajn scenojn kaj aliajn malĝojajn
+temojn -- intersemitaj inter kiuj, laŭ ĉiu speco de pozicio, estis
+certaj serioj da hieroglifaj skribsignoj, intencitaj sendube por la
+nomo de la mortinto. Bonfortune, sinjoro Glidono ĉeestis ĉe nia
+afero, kaj li sen malfacileco tradukis la literojn, kiuj estis nur
+fonetikaj, kaj prezentis la vorton „Ĉioeraro“.
+
+Ni malfacile malfermis tiun ĉi keston, ne difektante ĝin; sed, fine
+elfarinte la taskon, ni trovis duan, ĉerkoforman kaj multe malpli
+grandan ol la ekstera, sed similan al ĝi en ĉiu alia rilato. La
+interspaco inter la du estis plenigita per rezino, kiu iugrade estis
+difektinta la kolorojn de la interna kesto.
+
+Malfermante tiun ĉi (kion ni faris tute facile) ni alvenis al
+tria kesto, ankaŭ ĉerkoforma, kaj diferenca de la dua neniel,
+escepte pri ĝia materialo, kiu estis cedro, kaj ankoraŭ elsendis la
+kuriozan kaj forte aroman odoron de tiu ligno. Inter la dua kaj la
+tria kestoj ne troviĝis iu interspaco -- la unu akurate sidis en la
+alia.
+
+Forigante la trian keston ni trovis kaj elprenis la mumion mem. Ni
+estis ekspektintaj trovi ĝin, kiel ordinare, volvita per multaj
+vindaĵoj aŭ bandaĝoj el lintolo; sed, anstataŭ tiuj ĉi, ni
+trovis specon de ingo, farita el papiruso kaj kovrita per tavolo el
+gipso, dike orumita kaj pentrita. La pentraĵoj prezentis temojn
+rilatajn al la diversaj supozitaj devoj de la animo, kaj ĝia
+prezentado al kelkaj diaĵoj, kune kun numeraj identaj homaj figuroj,
+intencitaj tre kredeble kiel portretoj de la balzamito.
+
+Etendiĝante de la kapo ĝis la piedoj troviĝis kolona, aŭ
+vertikala surskribaĵo el fonetikaj hieroglifoj, donante denove liajn
+nomon kaj titolojn, kaj la nomojn kaj titolojn de liaj parencoj.
+Ĉirkaŭ la kolo tiele eningigita estis kolumo el cilindraj vitraj
+eroj, diverse kolorigitaj kaj tiamaniere aranĝitaj, ke ili formis
+bildojn de diaĵoj, de la skarabo ktp., kune kun la flugilhava
+globuso. Ĉirkaŭ la talio troviĝis simila kolumo aŭ zono.
+
+Depreninte la papiruson ni trovis la karnon bonege konservita
+kun neniu perceptebla odoro. La koloro estis ruĝeta. La haŭto
+estis malmola, glata kaj brileta. La dentoj kaj la haroj troviĝis
+bonstataj. La okuloj (ŝajne) estis forigitaj, kaj anstataŭigitaj
+per vitraj okuloj, kiuj estis tre belaj kaj mirinde vivosimilaj,
+esceptante ilian iom tro fiksitan rigardegon. La fingroj kaj la ungoj
+estis brile orumitaj.
+
+Sinjoro Glidono opiniis, pro la ruĝeco de la epidermo, ke la
+balzamado estis efektivigita tute per asfalto, sed skrapante la
+surfacon per ŝtala ilo, kaj ĵetante en la fajron iom de la pulvoro
+tiel formita, la aromon de kamforo kaj aliaj dolĉe odoraj gumoj ni
+rimarkis.
+
+Ni serĉis tre zorgeme sur la kadavro la kutimajn malfermaĵojn, tra
+kiuj oni eltiris la intestojn, sed, niamire, ni neniun povis trovi.
+Neniu membro el la ĉeestantaro en tiu tempo sciis, ke kompletajn,
+aŭ ne malfermitajn mumiojn oni sufiĉe ofte renkontas. La cerbo
+kutime estis eltirata tra la nazo, la intestoj tra tranĉo en la
+flanko; la kadavron tiam ili razis, lavis kaj salis, kaj poste
+kuŝigis flanke dum kelkaj semajnoj, ĝis la reala balzamada procedo
+komenciĝis.
+
+Ĉar nenia signo de malfermaĵo estis trovebla, D-ro Prohonoro estis
+pretiginta siajn instrumentojn por sekciado, kiam mi rimarkis,
+ke estas post la dua horo. Sekve, ni interkonsentis prokrasti la
+internan ekzamenon ĝis la proksima vespero, kaj ni estis disiĝontaj
+ĝisrevide, kiam iu sugestis unu-du eksperimentojn per la voltaika
+pilo.
+
+La almetado de elektro al mumio malpleje tri- ĝis kvarmiljara estis
+ideo, se ne tre saĝa, almenaŭ sufiĉe neordinara, kaj ni ĉiuj
+aprobis ĝin tuj. Proksimume unu dekono serioze, kaj naŭ dekonoj
+ŝerce, ni aranĝis baterion en la studejo de la doktoro kaj tien
+portis la egiptanon.
+
+Nur post multe da laboro ni sukcesis nudigi kelkajn partojn de la
+tempia muskolo, kiu ŝajnis malpli ŝtone rigida ol aliaj partoj
+de la korpo, sed kiu, kiel ni atendis, kompreneble, ne montris ian
+galvanan sentemecon, kiam ni tuŝigis ĝin al la elektra fadeno.
+Tiu ĉi, la unua provo, ŝajnis decidiga, kaj, kun kora rido je nia
+propra absurdeco, ni estis dirantaj bonan nokton reciproke, kiam miaj
+okuloj, okaze ekvidante tiujn de la mumio, fariĝis tuj fiksitaj tie
+pro mirego. Mia mallonga ekrigardo, fakte, sufiĉis certigi min, ke
+la okuloj, kiujn ni ĉiuj kredis estis el vitro, kaj kiuj unue estis
+rimarkindaj pro certa stranga rigardego, nun estas tiom kovritaj per
+la palpebroj, ke nur malgranda parto de la _tunica albuginea_ restas
+videbla.
+
+Per krio mi atentigis al la aliaj la fakton, kaj tuj ĝi evidentiĝis
+por ĉiu.
+
+Mi ne volas diri, ke mi estis _tima_ pri la fenomeno, ĉar „tima“
+estas, rilate min, ne precize la vorto. Estas eble tamen, ke, sen la
+bruna staŭto, mi povus esti iom timema. Pri la cetero de la aro,
+ili efektive ne penis kaŝi la kompletan timon, kiu ilin posedis.
+D-ro Prohonoro estis homo kompatinda. Sinjoro Glidono, per iu kurioza
+metodo, sin malaperigis. Sinjoro Silko Bukinhamo, mi opinias, apenaŭ
+estos sufiĉe senhonta nei, ke li iris, rampante, sub la tablon.
+
+Post la unua miriga ŝoko, tamen, ni decidis, kiel natura afero, tuj
+eksperimenti plu. Nia procedo nun direktiĝis kontraŭ la dikfingro
+de la dekstra piedo. Ni faris tranĉeton super la ekstero de la osto
+ekstera _sesamoideum pollicis pedis_, kaj tiel trovis la radikon de
+la _abductor_-muskolo. Rearanĝante la baterion, ni nun fluigis la
+elektron tra la tranĉitaj nervoj, kaj, per movo ekstreme vivsimila,
+la mumio unue tiris supren sian dekstran genuon, ĝis ĝi preskaŭ
+tuŝis la ventron, kaj tiam, rektigante la membron per nekonceptebla
+fortego, donis piedfrapon al D-ro Prohonoro, kiu efikis pafi tiun
+sinjoron, kiel sago el pafarko, tra la fenestro en la straton
+malsupre.
+
+Ni elrapidis amase por enporti la restaĵojn de la viktimo, sed
+feliĉe renkontis lin sur la ŝtuparo, suprenirantan per neklarigebla
+rapideco, plenan je la plej arda filozofio, kaj pli ol io impresitan
+pri la neceso daŭrigi niajn eksperimentojn per rigoro kaj fervoro.
+
+Laŭ lia konsilo, sekve, ni tuj faris profundan truon en la nazpinto
+de la subjekto, dum la doktoro mem, per fortegaj manoj, tiris ĝin al
+subita kontakto kun la elektra fadeno.
+
+Morale kaj fizike -- figure kaj absolute -- la efekto estis elektra.
+Unue, la kadavro malfermis la okulojn kaj palpebrumis rapide kelkajn
+minutojn, kiel sinjoro Barnes en la pantomimo; due ĝi ternis; trie
+ĝi sin levis; kvare ĝi svingis la pugnon antaŭ la vizaĝo de D-ro
+Prohonoro; kvine sin turnante al sinjoroj Glidono kaj Bukinhamo, ĝi
+ilin alparolis, per tre bona egipta lingvaĵo, jene:
+
+„Mi devas diri, sinjoroj, ke via konduto tiom surprizas, kiom
+dolorigas min. Pri D-ro Prohonoro nenion pli bonan mi atendis;
+li estas kompatinda eta grasa malsaĝulo, kiu ne _scias_ pli bonan
+konduton. Mi pardonas kaj kompatas lin. Sed vi, sinjoro Glidono --
+kaj vi, Silko -- kiuj estas vojaĝintaj kaj loĝintaj en Egiptujo
+ĝis oni povas imagi ke vi naskiĝis tie, -- vi, mi diras, kiuj tiom
+restis inter ni, ke vi parolas egipte egale bone, miaopinie, kiel vi
+skribas vian nacian lingvon -- vi, kiujn oni ĉiam rigardas kiel la
+firmajn amikojn de mumioj -- mi reale atendis pli ĝentilan konduton
+de _vi_. Kion mi povas pensi pri tio, ke vi staris apude kviete, kaj
+rigardis min tiel malbone traktatan? Kion mi devas supozi pri tio,
+ke vi permesis al iu ajn aĉulo senigi min de miaj ĉerkoj kaj miaj
+vestaĵoj, sub tiu ĉi treege malvarma klimato? Laŭ kiu vidpunkto
+(malmultvorte) devas mi rigardi vian helpadon kaj subtenadon al tiu
+senvalora friponeto, D-ro Prohonoro, kiam li tiris al mi la nazon?“
+
+Oni supozus, sendube, ke, aŭdante tiun ĉi parolon sub tiaj
+cirkonstancoj, ni ĉiuj aŭ iris rekte tra la pordo, aŭ histeriiĝis
+fortege, aŭ svenis kune. Unu el tiuj ĉi estis certe atendebla.
+Efektive iuj kaj ĉiuj ĉi specoj de konduto estus tre kontentige
+sekvataj. Kaj certe mi ne scias, kiel aŭ kial ni sekvis nek unu nek
+la aliajn. Sed eble la vera kialo estas trovebla en la spirito de la
+tempo, kiu agas tute laŭ la regulo de la malo, kaj estas nun kutime
+konfesata, kiel la solvo de ĉiu speco de paradokso kaj neeblaĵo.
+Aŭ eble, malgraŭ ĉio, nur la ekstreme natura kaj malfantazia mieno
+de la mumio elprenis ian teruron el liaj vortoj. Kiel ajn tio povis
+esti, la faktoj estas klaraj, ke neniu membro de nia aro montris
+iun tre apartan timon, aŭ ŝajnis opinii, ke io estas tre speciale
+erarinta.
+
+Miaparte mi konvinkiĝis, ke ĉio estas bona, kaj mi nur paŝis
+flanken el la atingo de liaj pugnoj. D-ro Prohonoro metis siajn
+manojn en siajn pantalonajn poŝojn, rigardis fikse la mumion,
+kaj treege ruĝiĝis je la vizaĝo. Sinjoro Glidono karesis siajn
+vangharojn kaj tiris la kolumon de sia ĉemizo. Sinjoro Bukinhamo
+malaltigis sian kapon kaj metis sian dekstran dikfingron en la
+maldekstran angulon de sia buŝo.
+
+La egiptano lin rigardis severvizaĝe kelkajn minutojn, kaj fine, kun
+rikano diris:
+
+„Kial vi ne parolas, sinjoro Bukinhamo? ĉu aŭ ne vi aŭdis tion,
+kion mi demandis? _Bonvole_ elprenu vian dikfingron el la buŝo.“
+
+Sinjoro Bukinhamo, je tio ĉi iom saltetis, elprenis sian dekstran
+dikfingron el la maldekstra angulo de sia buŝo, kaj, por kompenso,
+enmetis sian maldekstran dikfingron en la dekstran angulon de la jam
+menciita aperturo.
+
+Ne povante eltiri respondon el sinjoro Bukinhamo, la mumio sin turnis
+plendeme al sinjoro Glidono, kaj per ordona tono demandis, per tiom
+da vortoj, kion ni intencas fari.
+
+Sinjoro Glidono tre longe respondis per fonetikaĵoj, kaj, se ne
+mankus hieroglifaj presliteroj en presejoj, tre plaĉus al mi presigi
+ĉi tie, originallingve, ĉiom da lia tre bonega parolado. Mi povas
+kapti la okazon por diri, ke la tuta sekvonta konversacio, kiun
+la mumio partoprenis, okazis per antikve egipta lingvo, pere de
+(tiom, kiom rilatas al mi kaj la aliaj nevojaĝintaj membroj de la
+aro), pere de sinjoroj Glidono kaj Bukinhamo, kiel interpretantoj.
+Tiuj ĉi sinjoroj parolis la nacian lingvon de la mumio neimiteble
+flue kaj gracie; sed mi ne povis ne rimarki, ke (sendube pro la
+uzado de ideoj tute modernaj, kaj kompreneble, tute novecaj por la
+fremdulo) la du vojaĝantoj devas, foje, uzi skizojn por klarigi
+specialan signifon. Sinjoro Glidono, unufoje ekzemple, ne povis
+komprenigi al la Egipto la vorton „Politikon“, ĝis li skizis sur la
+muro, per peco da lignokarbo, etan karbunklo-nazan sinjoron, ĉifone
+vestitan, starantan sur stumpo, kun la maldekstra kruro tirita
+posten, la dekstra brako etendita antaŭen, kun fermita pugno, okuloj
+suprenturnitaj al la ĉielo kaj la buŝo malfermita ĝis rekta angulo...
+
+Oni facile komprenos, ke la alparolo de sinjoro Glidono pritraktis
+ĉefe la vastajn profitojn rezultajn al la scienco pro la malvolvado
+kaj senintestigado al mumioj. Li pardonpetis pri iu ĝeno, kiu eble
+okazis speciale al _li_, la individua mumio nomita Ĉioeraro, kaj
+finiĝis per nura aludeto (ĉar apenaŭ oni povis ĝin konsideri kiel
+pli ol tio) ke, ĉar tiuj ĉi etaj aferoj nun estas klarigitaj, eble
+estos bone daŭrigi la ekzamenon intencitan. Ĉe tio D-ro Prohonoro
+pretigis la instrumentojn.
+
+Pri la finaj sugestoj de la oratoro ŝajnis, ke Ĉioeraro posedas
+skrupulojn konsciajn, kies specon mi ne klare lernis; sed li esprimis
+sian kontenton pri la pardonpetoj prezentitaj, kaj, glitante de sur
+la tablo, premis la manon al ĉiu ĉeestanto.
+
+Fininte tiun ĉi ceremonion, ni tuj klopodis ripari la difektojn
+suferitajn de nia subjekto pro la skalpelo. Ni kunkudris la vundon
+en la tempio, bandaĝis lian piedon, kaj almetis kvadratan colon da
+nigra plastro sur lian nazpinton.
+
+Ni nun rimarkis, ke la grafo (ŝajne tio ĉi estis la titolo de
+Ĉioeraro) iom ektremas, sendube pro malvarmo. La doktoro tuj iris
+al sia vesttenejo, kaj baldaŭ revenis kun nigra frako, farita laŭ
+la plej bona stilo de Ĵenings, pantalono el ĉielblua tartano[10]
+kun rimenoj, rozkolora ĉemizo, klaphava veŝto el brokato, blanka
+sakforma palto, kanbastono kun hoko, ĉapelo sen rando, botoj el
+patenta ledo, pajlkoloraj kaproledoj gantoj, okulvitro, paro da
+vanghararoj kaj „akvofalo“-kravato. Pro la diferenco je grandeco
+inter la grafo kaj la doktoro (proporcie ili estis kiel du al unu),
+malfacile tiuj ĉi vestaĵoj surmetiĝis sur la korpo de la egiptano,
+sed, kiam ĉio estis aranĝita, oni povis diri, ke li estas vestita.
+Sinjoro Glidono tial prezentis al li sian brakon, kaj kondukis lin al
+komforta seĝo apud la fajro, dum la doktoro sonigis la tintilon tuj,
+kaj mendis provizon da cigaroj kaj vino.
+
+La konversacio baldaŭ vigliĝis. Multe da scivolo, kompreneble,
+montriĝis rilate al la iom rimarkinda fakto, ke Ĉioeraro ankoraŭ
+restas vivanta.
+
+„Mi estus kredinta“, diris sinjoro Bukinhamo, „ke antaŭ tiu ĉi
+tempo vi nepre estas mortinta.“
+
+„Kial?“ respondis la grafo, tre mire, „mi estas ne multe pli ol
+sepcentjara! Mia patro travivis jarmilon, kaj li neniel estis kaduka,
+kiam li mortis.“
+
+Nun okazis vigla serio da demandoj kaj kalkuloj, per kio evidentiĝis
+tio, ke la antikveco de la mumio estis tre misjuĝita. Estis kvin mil
+kvindek jaroj kaj kelkaj monatoj, de kiam li estis enmetita en la
+katakombojn ĉe Elejtiaso.
+
+„Sed mia diro“, rediris sinjoro Bukinhamo, „ne rilatis vian aĝon
+je via enteriĝa tempo (mi volonte konfesos, efektive, ke vi estas
+ankoraŭ junulo), kaj mi aludis la grandegan periodon dum kiu, laŭ
+via propra diro, vi restis envolvita per asfalto.“
+
+„Per kio?“ diris la grafo.
+
+„Per asfalto“, persistis sinjoro Bukinhamo.
+
+„Ha jes, mi nebule komprenas tion, kion vi volas diri; tio eble povas
+efiki iom, sendube; sed dum mia vivo ni apenaŭ uzis ion alian, krom
+hidrarga biklorido.“
+
+„Sed tio, kion ni speciale ne povas kompreni“, diris D-ro Prohonoro,
+„estas kiel okazas, ke, mortinte kaj enterigite en Egipto antaŭ
+kvin mil jaroj, vi troviĝas ĉi tie hodiaŭ, vivante kaj aspektante
+tiel aparte sana.“
+
+„Se mi tiam estus, kiel vi diras, _mortinta_“, respondis la grafo,
+„pli ol kredeble, mortinta mi ankoraŭ estus, ĉar mi rimarkas, ke
+vi ankoraŭ scias nur malmulton pri galvanizado kaj ne povas fari
+per ĝi tion, kio estis ordinara afero por ni je praaj tagoj. Sed
+laŭfakte, mi katalepsiiĝis, kaj miaj plej karaj amikoj konsideris,
+ke mi aŭ estas aŭ estos mortinta; sekve ili balzamis min tuj; mi
+supozas, ke vi scias la ĉefajn principojn el la balzamada procedo?“
+
+„Nu, ne tute.“
+
+„Ha, mi komprenas -- bedaŭrinda nescia stato! Mi ne povas detaligi
+aferojn nun, sed necesas diri, ke balzamado (prave uzante la vorton),
+en Egipto, haltigis por nedifinebla periodo _ĉiun_ animalan
+funkcion, kiu subiris la procedon. Mi uzas la vorton ‚animala‘
+laŭ ĝia plej vasta senco, ampleksante per ĝi ne pli la fizikan
+ol la moralan kaj _vivan_ estaĵon. Mi ripetas, la ĉefa principo
+de balzamado konsistis, ĉe ni, el tuj haltigi, kaj teni ĉiame
+_dormanta_, ĉiun animalan funkcion, kiu subiris la procedon.
+Mallonge, laŭ kiu ajn stato estis la individuo je la tempo de
+sia balzamiĝo, laŭ tiu stato li restis. Nu, ĉar estas la mia
+bonfortuno deveni el la sango de la Skarabo, mi balzamiĝis vivante,
+same kiel vi min vidas nun.“
+
+„La sango de la Skarabo?“ ekkriis D-ro Prohonoro.
+
+„Jes. La Skarabo estis la insigno aŭ blazono de tre eminenta kaj
+tre neordinara patricia familio. Esti el la sango de la Skarabo, nur
+estas esti el la familio kies insigno la Skarabo estis. Mi parolis
+figure.“
+
+„Sed kiel tiu efikas sur la fakton, ke vi ankoraŭ vivas?“
+
+„Nu, estis la ĝenerala kutimo en Egipto elpreni el kadavro, antaŭ
+ol ĝin balzami, ĝian cerbon kaj intestojn; sole la Skaraba gento ne
+sekvis tiun ĉi moron. Se mi ne estus el la Skaraboj, tial, mi nun
+troviĝus sen intestoj kaj cerbo; kaj sen tiuj ĉi, ne estas konvene
+vivi.“
+
+„Mi tion komprenas“, diris sinjoro Bukinhamo, „kaj mi supozas ke ĉiuj
+_kompletaj_ mumioj, kiuj estas trovitaj, devenas el la Skaraba gento.“
+
+„Sendube.“
+
+„Mi kredis“, diris sinjoro Glidono, tre humile, „ke la Skarabo estis
+unu el la egiptaj dioj“.
+
+„Unu el la egiptaj _kioj_?“ ekkriis la mumio salte stariĝante.
+
+„Dioj!“ ripetis la vojaĝinto.
+
+„Sinjoro Glidono, mi ja miregas, aŭdante vin paroli laŭ tiu ĉi
+stilo“, diris la grafo, residiĝante; „neniu nacio sur la surfaco de
+la tero iam konfesis pli ol _unu dio_. La Skarabo, la Ibiso, ktp.,
+ĉe ni estis (same kiel similaj kreitaĵoj estis ĉe aliaj), la
+simboloj, aŭ medioj, per kiuj ni prezentis adoradan al Kreinto tro
+majesta esti rigardata pli senpere.“
+
+Nun okazis paŭzo. Pli poste la konversacion denove komencis D-ro
+Prohonoro.
+
+„Ne estas nekredeble, do, laŭ tio, kion vi estas klariginta“ li
+diris, „ke inter la katakomboj apud la Nilo povas troviĝi aliaj
+mumioj el la Skaraba gento ankoraŭ en viva stato.“
+
+„Ne povas ekzisti dubo pri tio“, respondis la grafo, „ĉiu Skarabano
+balzamita vivante, estas vivanta. Eĉ iuj el tiuj _intence_ tiel
+balzamitaj eble estas forgesitaj de siaj administrantoj, kaj ankoraŭ
+restas en la tomboj.“
+
+„Ĉu vi estos sufiĉe kompleza klarigi“, mi diris, „kion vi volas
+diri per ‚intence tiel balzamitaj‘.“
+
+„Grandaplezure“, respondis la mumio, post kiam li malrapide
+rigardadis min per la okulvitro -- ĉar nun estis la unua fojo, ke
+mi demandis al li rekte. „Grandaplezure“, li diris, „la ordinara
+daŭro de la homa vivo, dum mia tempo, estis ĉirkaŭ okcent
+jaroj. Malmultaj homoj mortis, se ne pro eksterordinara akcidento,
+antaŭ ol iĝi sescentjaraj; malmultaj vivis pli longe ol dekon da
+centjaroj; sed okon ni konsideris kiel la natura daŭro. Eltrovinte
+la enbalzaman procedon, kiel mi jam priskribis ĝin al vi, trafis
+niajn filozofojn la ideo, ke laŭdinda scivolo povus efektiviĝi,
+kaj samtempe, la intereso de la scienco esti multe helpata, se oni
+elvivas tiun ĉi naturan periodon per partoj. Rilate la historion,
+efektive, la sperto montris, ke io kiel tio absolute necesas.
+Historiisto ekzemple, atinginte al kvincentjara aĝo kutime skribis
+libron per granda peno, kaj poste sin zorge balzamigis, lasante
+ordonojn al siaj dumtempaj administrantoj, ke ili igu, ke oni lin
+revivigu post certa periodo, ekzemple kvin- ĝis sescent jaroj.
+Denove ekekzistante post la fino de tiu periodo, li ĉiam trovis sian
+libron ŝanĝita al speco de laŭhazarda notolibro, t. e. al speco de
+literatura areno por la batalantaj divenaĵoj, enigmoj, kaj propraj
+kvereloj de tutaj aroj da koleremaj komentistoj. Tiuj divenaĵoj
+ktp., kiuj troviĝis sub la nomoj komentaĵoj aŭ korektigoj, tiel
+komplete estis envolvintaj, distordintaj kaj subigintaj la tekston,
+ke la aŭtoro devis serĉi per lanterno sian propran libron. Trovite,
+ĝi neniam egale valoris la ĝenon de la serĉo. Reskribante ĝin
+tute, oni konsideris kiel la solenan devon de la historiisto komenci
+labori tuj, kaj korektigi, laŭ sia propra scio kaj sperto, la
+tradiciojn de la tempo koncerne la epokon, en kiu li unue estis
+vivinta. Nu, tiu ĉi procedo de reskribado kaj persona korektigado,
+sekvata de diversaj individuaj saĝuloj foje kaj ree, efikis
+malhelpi, ke nia historio degeneru absolute en fablojn.“
+
+„Pardonu min“, diris D-ro Prohonoro ĉe tio ĉi, metante la manon
+mole sur la brakon de la egiptano, „pardonu min, sinjoro, sed ĉu mi
+povas interrompi vin unu momenton?“
+
+„Kompreneble, _sinjoro_“, respondis la grafo fiere.
+
+„Mi nure volis fari demandon al vi“, diris la doktoro, „vi menciis la
+meman korektigon de _tradicioj_ koncerne lian propran epokon. Sinjoro,
+meznombre, kiu proporcio el tiuj Kabaloj kutime troviĝis korekta?“
+
+„La Kabaloj, kiel vi prave nomas ilin, sinjoro, kutime troviĝis
+precize similaj al la faktoj kronikitaj en la nereskribitaj historioj
+mem -- tio estas, ke ne unu sola peceto el ambaŭ iam troviĝis, pro
+iaj cirkonstancoj, ne estante tute kaj absolute malprava.“
+
+„Sed, ĉar estas tute certe“, rediris la doktoro, „ke malpleje
+kvin mil jaroj estas forpasintaj de kiam vi entombiĝis, mi supozas,
+ke viaj historioj en tiu epoko, se ne viaj tradicioj, parolis sufiĉe
+precize pri tiu temo tutmonde interesa, la Kreo, kiu okazis, kiel mi
+supozas ke vi scias, nur ĉirkaŭ dek centjaroj antaŭe.“
+
+„Sinjoro?“ diris grafo Ĉioeraro.
+
+La doktoro ripetis siajn dirojn, sed nur post multaj aldonitaj
+klarigoj la fremdulon ni igis kompreni pri ili. Li fine diris hezite:
+
+„La ideo, kiun vi estas sugestinta, estas por mi, mi konfesas, tute
+noveca. Dum mia vivo mi ne konis iun, kiu iam kredis tian kuriozan
+fantazion, kiel tion, ke la universo (aŭ tiu ĉi mondo, se vi volas
+nomi ĝin tiele), iam iel ajn komenciĝis. Mi memoras, ke unufoje,
+kaj nur unufoje, mi aŭdis ion aludetata de viro kun multaj konjektoj
+koncerne je la diveno _de la homa raso_; kaj de tiu ĉi persono la
+vorto mem, _Adamo_ (aŭ Ruĝa Tero), kiun vi uzas, estis uzata. Li
+uzis ĝin, tamen, laŭ komuna senco, rilate al la spontana ĝermado
+el odoraĉa humo (ĝuste kiel milo de la plej malaltaj genroj de
+kreitaĵoj estis ĝermigitaj) -- la spontana ĝermado, mi diras, de
+kvin grandnombraj hordoj da homoj; kiuj samtempe ekaperis en kvin
+apartaj kaj preskaŭ egalaj partoj de la terglobo“.
+
+Tiam, kune, la ĉeestantoj ŝultrolevis, kaj unu aŭ du el ni tuŝis
+niajn fruntojn kun tre signifoplena mieno. Sinjoro Bukinhamo, unue
+iom ekrigardante la okcipiton kaj poste la verton de Ĉioeraro,
+parolis jene:
+
+„La longa daŭro de la homa vivo dum via epoko, kune kun la iafoja
+praktiko pasigi ĝin, kiel vi klarigis, per partoj, devis ja forte
+tendence al la ĝenerala kreskado kaj aglomeriĝo de la scio. Mi
+supozas, do, ke mi devas atribui la rimarkeblan malsuperecon de la
+antikvaj egiptanoj, kompare kun modernuloj, kaj pli speciale kun
+usonanoj, tute al la plia solideco de la egipta kranio.“
+
+„Mi denove konfesas“, respondis la grafo, tre kompleze, „ke mi
+malfacile povas kompreni vin; mi petas, kiujn detalojn de scienco vi
+aludas?“
+
+Jen nia tuta aro, kunigante la voĉojn, detalis tre longe la
+supozaĵojn de frenologio, kaj la mirindaĵojn de hipnotismo.
+
+Aŭdinte nin ĝisfine, la grafo rakontis kelkajn anekdotojn, kiuj
+evidentigis tion, ke la prototipoj de Gall kaj Spurzheim floris kaj
+velkis en Egipto antaŭ tiel longe, ke ili preskaŭ estis forgesitaj,
+kaj ke la procedoj de Mesmer estas nur malestimindaj lertaĵoj,
+kompare kun la absolutaj mirakloj de la tebaj kleruloj, kiuj kreis
+pedikojn kaj multajn aliajn similaĵojn.
+
+Mi demandis al la grafo, ĉu lia popolo sciis kalkuli eklipsojn. Li
+ridetis iom malestime, kaj diris, ke jes.
+
+Tio ĉi iom min embarasis, sed mi komencis fari aliajn demandojn pri
+lia scio el astronomio, kiam arano, kiu ĝis nun ne estis malferminta
+la buŝon, flustris en mia orelo, ke por ricevi informon pri tio, mi
+devas konsulti Ptolemeon (kiu ajn povis esti Ptolemeo), kaj ankaŭ
+iun Plutarĥon, _de facie lunae_ (pri fazoj de l’ luno).
+
+Mi tiam demandis la mumion pri lensoj kaj brulvitroj, kaj ĝenerale,
+pri la fabrikado de vitro; sed mi ne estis fininta miajn demandojn,
+kiam la silenta membro ree tuŝis min je la kubuto, kaj petis, pro
+Dio, ke mi enrigardu Diodorus Siculus. La grafo, por respondi, nur
+demandis ĉu ni modernuloj posedas iujn tiajn mikroskopojn, kiuj
+povigas nin skulpteti kameojn laŭ la stilo de la egiptanoj. Dum mi
+pripensis, kiel mi povas respondi tiun ĉi demandon, malgranda D-ro
+Prohonoro sin fordonis laŭ tre eksterordinara maniero.
+
+„Rigardu nian arkitekturon!“ li ekkriis; multe indignigante ambaŭ
+vojaĝintojn, kiuj pinĉis lin ĝis nigro kaj bluo sen rezulto.
+
+„Rigardu“, li kriis entuziasme, „la Bowling Green (Balludejan)
+Fontenon en Novjorko! aŭ, se tio estas tro vasta esti primeditata,
+rigardu momente la Kapitolon ĉe Waŝington D. C.!“ kaj la bonkora
+kuracisto daŭris priskribi tre detale la mezurojn de la konstruaĵo,
+kiun li aludis. Li klarigis, ke la portiko, sola, estas ornamita per
+ne malpli ol dudek kvar kolonoj, kvin futojn diametre kaj dek futojn
+interspace.
+
+La grafo diris, ke li bedaŭrinde ne povas memori je la momento la
+precizajn mezurojn de iu el la ĉefaj konstruaĵoj en la urbego
+Aznako, kies fundamentoj estis demetitaj dum la Nokto de l’ Tempo,
+sed kies ruinoj ankoraŭ staris, en la epoko de lia entombiĝo,
+sur vasta, sabla ebenaĵo okcidente de Tebo. Li memoris, tamen,
+(parolante pri portikoj) ke unu, fiksita al malsupera palaco en speco
+de antauŭrbo nomita Karnako, konsistis el cent kvardek kvar kolonoj,
+ĉiuj diametre tridek sep futojn kaj interspace dudek kvin. La alirejo
+al tiu ĉi portiko, de la Nilo, estis laŭ aleo, longe je du mejloj,
+konsistigita el sfinksoj, statuoj kaj obeliskoj, alte je dudek,
+sesdek kaj cent futoj. La palaco mem (tiom, kiom li povas memori)
+mezuris unulatere du mejlojn, kaj eble havis, entute, sep mejlojn da
+ĉirkaŭo. Ĝiaj muroj estis riĉe kovritaj, interne kaj ekstere, per
+hieroglifoj. Li ne pretendas _konstati_, ke eĉ kvindek aŭ sesdek
+kapitoloj, kiel la niaj, povis esti konstruitaj inter la muroj,
+sed li ne estas certa, ke du ĝis tri centoj da ili ne povis esti
+enpremitaj per iom da peno. La palaco ĉe Karnako estis nesignifa eta
+konstruaĵo, post ĉio. Li (la grafo) tamen, ne povas bone rifuzi
+konfesi la geniecon, grandiozecon kaj superecon de la Fonteno ĉe la
+Bowling-Green, kiel priskribita de la doktoro. Nenio simila al ĝi,
+li perforte devas konfesi, iam estas vidita en Egipto aŭ aliloke.
+
+Mi tiam demandis, kion li povas diri pri niaj fervojoj. „Nenion“,
+li respondis, „speciale“; ili estas iom malgrandaj, iom malbone
+projektitaj kaj mallerte konstruitaj. Ili ne povas kompariĝi,
+kompreneble, kun la vastaj, ebenaj, rektaj, ferkanelitaj ŝoseoj,
+sur kiuj la egiptanoj transportis kompletajn templojn kaj solidajn
+obeliskojn kun cent kvindek futoj da alteco.
+
+Mi parolis pri niaj gigantaj meĥanikaj fortoj. Li konsentis, ke
+ni scias iom pri tio, sed demandis, kiel mi komencus labori, por
+enlokigi la superaĵojn sur la pordtraboj eĉ de la malgranda palaco
+ĉe Karnako.
+
+Tiun demandon mi decidis ne aŭdi, kaj demandis ĉu li posedas ian
+ideon pri artezaj putoj; sed li nure levis la brovojn, dum sinjoro
+Glidono okulsignis al mi forte kaj diris mallaŭte, ke unu lastatempe
+estas trovinta la inĝenieroj senditaj por bori pro akvo en la Granda
+Oazo.
+
+Mi tiam aludis nian ŝtalon, sed la fremdulo suprenturnis sian nazon,
+kaj demandis ĉu nia ŝtalo povus esti farinta la klaran skulptaĵon
+vidatan sur la obeliskoj, kiu estis ĉizata tute per iloj el kupro.
+
+Tio ĉi tiom embarasis nin, ke ni opiniis konsilinde ŝanĝi la temon
+al la metafiziko. Ni alprenigis ekzempleron de libro nomata la „Dial“
+(ciferplato), kaj legis el ĝi ĉapitron aŭ du pri io, kio ne estis
+tre komprenebla, sed kion la Bostonanoj nomas la Granda Movado, aŭ
+Progresado.
+
+La grafo diris, ke Grandaj Movadoj estis treege oftaj aferoj dum lia
+vivo; kaj, rilate Progresadon, iafoje ĝi estis absoluta ĝenaĵo,
+sed ĝi neniam progresis.
+
+Ni tiam parolis pri la granda beleco kaj graveco de la demokratio,
+kaj multe klopodis por impresi al li justan sencon pri la profitoj,
+kiujn ni ĝuis, vivante kie troviĝis voĉrajtoj laŭvolaj kaj neniu
+reĝo.
+
+Li aŭskultis per evidenta intereso, kaj fakte ŝajnis ne malmulte
+amuzata. Kiam ni estis finiĝintaj, li diris, ke antaŭ tre longe
+okazis io tre simila. Dek tri egiptaj provincoj decidis subite, ke
+ili liberiĝos, kaj tiel montros grandiozan ekzemplon al la cetera
+homaro. Ili kunvenigis siajn saĝulojn, kaj projektis la plej genian
+konstitucion, kiun oni povas koncepti. Iom da tempo ili sukcesis
+mirinde bone; nur ilia kutimo fanfaroni estis monstra. La afero
+finiĝis, tamen, per la kunfirmiĝo de la dek tri ŝtatoj, kune
+kun dek kvin ĝis dudek aliaj, en la plej abomena kaj netolerebla
+despotismo, kiun iam oni konis sur la surfaco de la terglobo.
+
+Mi demandis, kiel estis nomita tiu uzurpa tirano. Tiom, kiom li povis
+memori, oni lin nomis _Amasaĉo_.
+
+Ne sciante kion diri pri tio ĉi, mi laŭtigis la voĉon, kaj
+plendis je la egipta nescio pri vaporo. La grafo min rigardis kun
+multe da miro, sed ne respondis. La silenta sinjoro, tamen, fortege
+puŝis min je la ripoj per sia kubuto -- diris al mi, ke mi sufiĉe
+estas fordoninta min tiufoje -- kaj demandis ĉu mi reale estas tia
+malsaĝulo, ke mi ne scias, ke la moderna vapormaŝino devenis de la
+inventaĵoj de Hero, tra tiuj de Salomon de Caus.
+
+Ni nun troviĝis sub proksimega danĝero de venkiĝo; sed bonŝance
+D-ro Prohonoro, refortiĝinte, revenis por nin savi, kaj demandis ĉu
+la popolo de Egipto serioze pretendas rivali la modernulojn pri la
+ĉiel grava detalo, la vestaj modoj.
+
+La grafo, je tio ĉi, ekrigardis malsupren al la rimenoj de sia
+pantalono, kaj tiam prenante la finon de unu el la baskoj de sia
+frako, li tenis ĝin apud siaj okuloj kelke da minutojn. Defaliginte
+ĝin, fine, lia buŝo etendiĝis malrapide de orelo al orelo; sed mi
+ne povas memori, ke li diris ion por iel respondi.
+
+Je tiu ĉi nia vervo refortiĝis, kaj la doktoro alproksimiĝante al
+la mumio tre digne, petis, ke li diru malkaŝe, je sia honoro kiel
+sinjoro, ĉu la egiptanoj konis, je _iu_ epoko, la fabrikadon de la
+pasteloj de Prohonoro, aŭ de la piloloj de Brandreto.
+
+Ni atendis profunde avide la respondon -- sed vane. Ĝi ne venis. La
+egiptano ruĝiĝis kaj malaltigis la kapon. Neniam estis triumfo pli
+kompleta; neniam venkiĝo estis suferata kun tiel malbona humoro.
+Efektive, mi ne povis elporti la vidon de la ĉagrenego de la
+kompatinda mumio. Mi prenis mian ĉapelon, riverencis al li rigide,
+kaj foriris.
+
+Alveninte hejmen, mi trovis, ke estas post la kvara, kaj iris tuj por
+enlitiĝi. Estas nun la deka matene. Mi estas el la lito de la sepa,
+skribante tiujn ĉi memorindaĵojn por la profito de miaj edzino
+kaj familio, kaj de la homaro. Tiujn mi ne vidos plu. Mia edzino
+estas megero. Vere, mi estas kore naŭza pri tiu ĉi vivo, kaj pri
+la deknaŭa jarcento ĝenerale. Mi estas konvinkita, ke ĉio estas
+eraranta. Krome, mi deziregas scii, kiu estos prezidanto (de Usono)
+je 2045. Sekve, tuj kiam mi estos min razinta, kaj glutinta tason
+da kafo, mi intencas iri rekte ĉe Prohonoron, kaj resti balzamita
+ducent jarojn.
+
+
+
+
+LA HOMO, KIU TROVIĜIS ELUZITA
+
+RAKONTO PRI LA BUGABUA KAJ KIKAPUA MILITIRO
+
+  Ploru, ho ploru, okuloj, droniĝu en akvo,
+  Ĉar metis la parto de mi la ceteron en tombo.
+    _El la franca lingvo de Corneille._
+
+
+Mi ne tute povas rememori nun, kiam aŭ kie mi unue konatiĝis kun
+tiu vere belaspekta viro, Brevet-brigadestro-generalo Johano A. B. C.
+Smith. Iu ja prezentis min al la sinjoro, mi estas certa -- ĉe
+iu publika kunveno, mi bone scias -- kunvokita pro io tre grava,
+sendube, -- ĉe iu aŭ alia loko, mi sentas min konvinkita -- kies
+nomon mi neklarigeble estas forgesinta. La vero estas tio, ke la
+prezento akompaniĝis, miaflanke, per tiagrade maltrankvila embaraso,
+kiel efikis malhelpi iun definitivan impreson pri tempo aŭ loko. Mi
+estas korpnature timema -- tio, ĉe mi, estas familia difekto, kaj mi
+ne povas malhelpi ĝin. Speciale, la plej iometa ŝajno de mistero --
+de iu punkto, kiun mi ne ĝuste povas kompreni -- tuj efikas meti min
+en kompatinde ekscititan staton.
+
+Estis io, iel, rimarkinda -- jes, _rimarkinda_, kvankam tiu ĉi
+estas nur malforta termino esprimi mian plenan ideon -- pri la tuta
+individueco de la dirita persono. Li staris, eble, alte je ses
+futoj, kaj posedis personecon aparte imponan. Plenigis la tutan
+viron eminenta mieno, kiu montris altan edukadon, kaj aludetis altan
+devenon. Pri ĉi tiu temo -- la persona aspekto de Smith -- estante
+detala, mi trovis specon de melankolia kontentiĝo. Lia hararo certe
+honorus iun ajn Bruton; nenio povis esti pli riĉe flua, aŭ posedi
+pli belan brilon. Ĝi estis gagate[11] nigra -- kiu ankaŭ estis la
+koloro, aŭ pli prave la nekoloro de liaj neimageblaj vangharoj. Oni
+rimarkos, ke mi ne povas paroli pri tiuj ĉi sen entuziasmo; eĉ ne
+estus troe; se mi dirus, ke ili estis la plej bela aro de vangharoj
+sub la suno. Iuokaze, ili ĉirkaŭis, kaj iafoje parte ombris buŝon
+absolute neegalitan. Jen estis la plej glate ebenaj, kaj la plej
+brile blankaj el ĉiuj imageblaj dentoj. De inter ili, je ĉiu propra
+okazo, elvenis voĉo kun superega klareco, melodio kaj forteco.
+Rilate la okulojn, ankaŭ, mia konatulo estis plejsupere provizita.
+Iu el tia paro egale valorus duon da ordinaraj okulaj organoj. Kolore
+ili estis avelaj, treege grandaj kaj lumaj, kaj perceptebliĝis en
+ili, foje kaj ree, ĝuste tiu kvanto da interesa oblikveco, kiu
+aldonas signifon al la esprimo.
+
+La brusto de la generalo estis sendube la plej bela brusto, kiun mi
+iam vidis. Eĉ por via vivo, vi ne povus trovi ian difekton ĉe ĝiaj
+mirindaj konturoj. Tiu ĉi malofta strangeco kontrastis tre bone
+paron da ŝultroj, kiu estus kaŭzinta ruĝiĝon eniri la vizaĝon
+de la marmora Apolo pro konscia malsupereco. Mi havas pasion por
+belegaj ŝultroj kaj povas diri, ke mi neniam vidis iujn perfektajn
+antaŭe. La tutaj brakoj estis admirinde formitaj. Kaj la malsupraj
+membroj ne estis malpli superegaj. Tiuj ĉi estis, efektive, la plej
+bonegaj el bonaj kruroj. Ĉiu spertulo pri tiaj aferoj konfesis, ke
+liaj kruroj estas bonaj. Ili havis nek tro multe nek tro malmulte
+da karno -- nek krudecon, nek trodelikatecon. Mi ne povis imagi pli
+gracian kurbon ol tiun de la _os femoris_, kaj troviĝis ĝuste
+tia elstaraĵo malantaŭ la fibulo, kiu necesas por formi korekte
+proporcian tibikarnon. Mi volas, pro Dio, ke mia juna kaj talenta
+amiko, la skulptisto Pecsurpeco, nur estus vidinta la krurojn de
+Brevet-brigadestro-generalo Johano A. B. C. Smith.
+
+Sed kvankam viroj tiel absolute belaspektaj ne troviĝas tiel
+abundaj kiel kialoj aŭ rubusoj, tamen mi ne povas igi al mi
+kredi, ke la _rimarkinda_ io, kion mi ĵus aludis -- ke la stranga
+„mi--ne--scias--kion“, kiu ĉirkaŭis mian novan konatulon --
+kuŝas tute, aŭ eĉ iom ajn, en la superega boneco de liaj korpaj
+naturdotoj. Eble oni povas rilatigi ĝin al la _mieno_ -- sed
+pri tio, ankaŭ, mi ne povas pretendi certecon. Montriĝis certe
+precizeco, aŭ eĉ eble, rigideco en lia sinteno -- grado de
+malrapida, kaj, se mi permesiĝas tiel esprimi ĝin, de orta
+precizeco en ĉiuj liaj movoj, kiu, rimarkite pri pli malgranda
+figuro, estus enhavinta la plej iometan nuancon de afekto, fiimponeco
+aŭ nelibereco, sed kiun, rimarkitan pri sinjoro kun liaj sendubaj
+mezuroj, volonte oni estus atribuanta al rezervemo, memfiero -- aŭ
+mallonge, al laŭdinda scio pri tio, kion meritas kolosaj proporcioj.
+
+La bonkora amiko, kiu min prezentis al generalo Smith, flustris
+en mia orelo kelkajn vortojn komentajn pri la viro. Li estas tre
+_rimarkinda_ viro -- _tre_ rimarkinda viro -- fakte, unu el la plej
+rimarkindaj viroj de sia propra periodo. Li estas aparta favorato
+ankaŭ de la sinjorinoj -- precipe pro sia alta reputacio pri
+kuraĝo.
+
+„Tiupunkte li staras sen rivalo -- efektive li estas nepra desperado
+-- absoluta fajrmanĝanto, senerare“, diris mia amiko, kaj treege
+mallaŭtigis sian voĉon, travibrigante min per la mistero en sia
+tono.
+
+„Absoluta fajrmanĝanto, sen _ia_ eraro. Li montris _tion_, mi opinias,
+efike dum la grandega marĉa batalo, sude, kontraŭ la Bugabuaj kaj
+Kikapuaj Indianoj.“ (Jen mia amiko malfermis larĝe siajn okulojn.)
+„Benu mia animo! sango kaj tondro! kaj ĉio tio! -- Mirindaĵoj de
+kuraĝo! -- vi estas aŭdinta, kompreneble? -- vi scias, li estas la
+homo --“
+
+„Homo viva! _kiel_ vi sanas? Nu! _kiel_ vi fartas? tre ĝojas vidi
+vin, treege!“ nun interrompe diris la generalo mem, ekprenante la
+manon de mia kunulo dum li alproksimiĝis, kaj kliniĝante rigide
+sed profunde, kiam mi estis prezentata. Mi tiam pensis, kaj mi
+ankoraŭ tiel opinias, ke mi neniam aŭdis pli fortan voĉon, nek
+vidis pli bonan aron da dentoj; sed mi _devas_ diri, ke mi bedaŭris
+interrompon je tiu momento, ĉar pro la flustroj kaj subsugestioj de
+mia amiko, mia intereso tre ekscitiĝis pri la heroo de la Bugabua
+kaj Kikapua militiro.
+
+Tamen, la rave klariga parolo de Brevet-brigadestro-generalo Johano
+A. B. C. Smith baldaŭ plene forpelis tiun ĉi ĉagrenon. Mia amiko
+nin forlasis tuj, kaj ni ĝuis sufiĉe longan konversacion, kaj mi
+troviĝis ne nur plaĉata sed _reale_ instruata. Mi neniam aŭdis pli
+fluan parolanton, nek viron kun pli da ĝenerala scio. Pro taŭga
+modesteco li neniam, spite tion, tuŝis la temon, kiun mi tiam plej
+deziris diskuti -- mi aludas la misterajn cirkonstancojn ĉirkaŭ la
+Bugabua milito -- kaj miaparte, tio, kio mi konjektas estas taŭga
+delikata sento, malpermesis ke mi komencu la temon, kvankam vere,
+mi treege estis tentata tion fari. Mi rimarkis ankaŭ, ke la brava
+soldato preferas temojn kun filozofia intereso, kaj ke li ĝojas
+speciale komenti pri la rapida antaŭeniro de meĥanika inventado.
+Efektive, kien ajn mi kondukis lin, al tiu ĉi punkto li revenis.
+
+„Tute ne estas io, kio similas ĝin“, li diradis, „ni estas mirinda
+popolo, kaj ni vivas dum mirinda epoko. Falŝirmiloj kaj fervojoj
+-- homkaptiloj kaj gardpafiloj! Niaj vaporŝipoj troviĝas sur
+ĉiu maro, kaj la Nassaŭa pakboata balono estas ekironta regulajn
+vojaĝojn (veturpago nur dudek funtojn sterlingajn) inter Londono
+kuj Timbuktuo. Kaj kiu povas kalkuli la grandegan influon sur socian
+vivon, sur la artojn, sur komercon, sur literaturon, kiu estos la
+tuja rezulto de la grandaj principoj de elektra magnetismo. Nek
+ankaŭ estas tio ĉi la tuto, mi certigu vin! Troviĝas efektive,
+neniu fino por la antaŭeniro de l’ inventado. La plej mirindaj,
+la plej geniaj -- kaj, mi aldiru, sinjoro -- sinjoro -- Tompsono,
+mi kredas, estas via nomo -- mi aldiru, mi diras, la plej _utilaj_,
+la plej vere _utilaj_ meĥanikaj elpensaĵoj ĉiutage ekaperas kiel
+agarikoj, se mi estas permesata tiel ĝin esprimi, aŭ pli figure,
+kiel -- a--akridoj -- kiel akridoj, sinjoro Tompsono -- ĉirkaŭ nin
+kaj -- a--a--a-- ĉirkaŭ nin.“
+
+Tompsono verdire, ne estas mia nomo, sed ne necesas diri, ke
+mi forlasis generalon Smith kun pliigita intereso pri li, kun
+pliigita estimo pri lia konversacia povo, kaj profunda sento pri la
+netakseblaj privilegioj, kiujn ni ĝuas, vivante dum tiu ĉi epoko de
+meĥanika inventado. Mia scivolo tamen, ne tute estis kontentigita,
+kaj mi decidis faradi tujan esploron inter miaj amikoj, koncerne je
+la Brevet-brigadestro-generalo mem, kaj aparte koncerne la grandegajn
+okazojn, _quorum pars magna fuit_[12], dum la Bugabua kaj Kikapua
+militiro.
+
+La unua oportuno, kiu sin prezentis, kaj kiun (bedaŭrinde) mi neniel
+skrupulis ekkapti, okazis ĉe la preĝejo de lia pastra moŝto,
+D-ro Tamburvokuilin, kie mi troviĝis unu dimanĉon, precize je
+predika tempo, ne nur sur la sidejo, sed ankaŭ flanke de tiu inda
+kaj informema mia amikino, fraŭlino Tabito T. Tiel sidante, mi
+min gratulis, kaj tre racie, pri la tre feliĉa aferstato. Se iu
+scias ion pri Brevet-brigadestro-generalo Johano A. B. C. Smith,
+tiu persono, por mi ŝajnis certe, estas fraŭlino Tabito T. Ni
+telegrafis kelkajn signalojn, kaj tiam komencis, subvoĉe, viglan
+konversacion.
+
+„Smith!“ ŝi diris, responde al mia tre serioza demando, „Smith!
+-- kio, ne generalo Johano A. B. C.? Benu min, mi kredis, ke vi
+_scias_ ĉion pri _li_! Tiu ĉi estas mirinde inventema epoko!
+Terura afero tio estis! Sangema aro da friponoj la Kikapuoj! Batalis
+kiel heroo -- mirindaĵoj de kuraĝo -- nemortebla fameco! Smith,
+Brevet-brigadestro-generalo Johano A. B. C.! Nu, vi scias, li estas
+la homo --“
+
+„La homo“, jen interrompis D-ro Tamburvokuilin laŭtegvoĉe, kaj kun
+pugnofrapo, kiu preskaŭ defaligis la katedron sur nin. „La homo,
+kiu naskiĝas de virino, havas nur mallongan tempon por travivi; li
+kreskas kaj estas detranĉita kiel floro!“ Mi glitis al la fino de la
+sidejo, kaj rimarkis per la koleretaj rigardoj de la pastro, ke la
+kolero, kiu preskaŭ estis fatala por la katedro, estas incitita de
+la flustroj de l’ fraŭlino kaj mi. Ne restis ia helprimedo; do ni
+submetiĝis sufiĉe kompleze kaj aŭskultis, per la tuta martiriĝo
+de digna silento, la ceteron de tiu tre bona prediko.
+
+La proksiman vesperon mi troviĝis iom malfrue, vizitante la
+Rantapolan teatron, kie mi kredis min certa tuj kontentigi mian
+scivolon, nur per paŝo en la loĝion de tiuj ravaj specimenoj de
+afableco kaj ĉionscieco, fraŭlinoj Arabelo kaj Mirando Konanto. Tiu
+bona tragediisto, Klimakso, estis ludanta tiun tagon al tre homplena
+teatro, kaj mi spertis iom da malfacileco, farante komprenitaj miajn
+dezirojn; speciale ĉar nia loĝio staris tute apud la kulisoj kaj
+plene superrigardis la scenejon.
+
+„Smith?“ diris fraŭlino Arabelo, kiam ŝi fine komprenis la kialon
+de mia demando; „Smith? kio, ne generalo Johano A. B. C.?“
+
+„Smith?“ demandis Mirando penseme. Dio min benu, ĉu vi iam vidis pli
+belan figuron?“
+
+„Neniam, fraŭlino, sed _nun_ diru al mi --“
+
+„Aŭ tiel neimiteblan gracion?“
+
+„Neniam, je mia vorto! sed, mi petas, informu min --“
+
+„Aŭ tiel justan ŝaton pri scenaj efektoj?“
+
+„Fraŭlino, --“
+
+„Aŭ pli delikatan senton pri la veraj belecoj de Shakespeare? Estu
+sufiĉe kompleza rigardi tiun kruron!“
+
+„La diablo!“ kaj mi turniĝis ree al ŝia fratino.
+
+„Smith!“ ŝi diris. „Kio, ne generalo Johano A. B. C.? Terura afero
+tiu estis, ĉu ne? Teruraj friponoj, tiuj Bugabuoj -- sovaĝaj, kaj
+tiel plu -- sed ni vivas dum mirinde inventema epoko! Smith! Ho, jes!
+eminenta viro! absoluta desperado -- nemortebla fameco -- mirindaĵoj
+de kuraĝo! Neniam aŭdis!“ (tiu ĉi dirata per akra krio). „Benu
+mian animon! Nu, li estas la _man_--[13]“.
+
+          „_Man_dragoro,
+  Kaj ĉiu dormigilo en la mondo
+  Ne lulos iam vin al tiu dolĉo --
+  La dormo de hieraŭ“ --
+
+ekkriegis jen Klimakso apud mia orelo, kaj svingis la tutan tempon
+sian pugnon antaŭ mia vizaĝo, laŭ maniero kiun mi ne _povis_
+toleri, nek _intencis_. Mi forlasis tuj la fraŭlinojn Konanton, iris
+rekte malantaŭ la scenejon, kaj donis al la fripono tian bategon,
+kian mi esperas, ke li memoros ĝis sia mortotago.
+
+Ĉe la vespera festeno de la rava vidvino sinjorino Katrino Atuto
+mi fidis, ke mi ne trafos similan ĉagrenon. Sekve, tuj kiam mi
+troviĝis kontraŭ mia bela gastigantino ĉe la kartluda tablo, mi
+faris tiujn demandojn, kies solvo estis iĝinta afero tiel necesa por
+mia animpaco.
+
+„Smith?“, diris mia kunludantino. „Kio! ne generalo Johano A. B. C.?
+Terura afero tiu estis, ĉu ne? Karooj, ĉu vi diris? Teruraj
+friponoj tiuj Kikapuoj! Ni ludas _viston_, se vi bonvolas, sinjoro
+Klaĉo -- tamen, tiu ĉi estas la epoko de l’ inventado, tre certe;
+_la_ epoko _par excellence_ -- ĉu parolas france? -- ho, absoluta
+heroo -- absoluta desperado? -- ĉu _neniun keron_, sinjoro Klaĉo?
+-- mi ne kredas tion -- nemortebla fameco, kaj tiel plu mirindaĵoj
+de kuraĝo! Neniam aŭdis!! Nu, benu min, li estas la homo --“.
+
+„Hommo? kapitano Hommo? jen kriegis iu eta ina entrudanto el la
+plej malproksima angulo de la ĉambro. „Ĉu vi parolas pri kapitano
+Hommo kaj la duelo? Ho, mi _devas_ aŭdi; diru, mi petas -- daŭrigu
+sinjorino Atuto! _bonvole_ daŭrigu!“ kaj daŭrigi sinjorino Atuto
+ja komencis, pri iu kapitano Hommo, kiu estis aŭ mortpafigita
+aŭ pendigita, aŭ devus esti kaj mortpafigita kaj pendigita.
+Jes, sinjorino Atuto daŭrigis, kaj mi -- mi finis -- la viziton.
+Ne okazus iu ŝanco por aŭdi plu tiun ĉi vesperon, rilate al
+Brevet-brigadestro-generalo Johano A. B. C. Smith.
+
+Tamen, mi min konsolis per la pripenso, ke la tajdo de malbonŝanco
+ne povas flui kontraŭ mi ĉiam, kaj tial mi decidis fari fortan
+penon pro informaĵo ĉe la balo de tiu sorĉa anĝeleto, la gracia
+sinjorino Pirueto.
+
+„Smith?“ diris sinjorino Pirueto, dum ni kirliĝis kune en la zefira
+danco, „Smith? kio! ne generalo Johano A. B. C.? Terura afero, tiu
+kontraŭ la Bugabuoj, ĉu ne? Teruraj kreitaĵoj, tiuj Indianoj!
+_Bonvole_ elturnu viajn piedfingrojn! Mi reale estas hontema pri
+vi -- homo kun granda kuraĝo, la kompatindulo! -- sed tiu ĉi
+estas mirinda epoko por inventado -- Ho! oho! mi estas spirmanka --
+absoluta desperado -- mirindaĵoj de kuraĝo! _Neniam aŭdis_!!. Ne
+povos kredi tion -- mi devas sidiĝi kaj informi vin -- Smith! nu, li
+estas la _man_ --“
+
+„Man_fred_, mi diras al vi!“ jen kriaĉis fraŭlino Klerulino,
+dum mi kondukis sinjorinon Pirueton al seĝo. „Ĉu iu iam aŭdis
+ion similan? Ĝi estas Man_fred_, mi diras, kaj tute neniel ajn
+Man_frajdej_[14].“ Jen fraŭlino Klerulino manvokis min, laŭ tre
+peremptora maniero; kaj mi deviĝis, ĉu aŭ ne volonte, forlasi
+sinjorinon Pirueton por decidigi disputon rilate la titolon de certa
+poezia dramo de Lordo Byron. Kvankam mi diris tre baldaŭ, ke la vera
+titolo estas Man_frajdej_, kaj tute neniel Man_fred_, tamen, kiam mi
+revenis por serĉi sinjorinon Pirueton, ŝi ne estis trovebla, kaj
+mi forlasis la domon, kun tre akre malamika sento kontraŭ la tuta
+klerulina gento.
+
+Aferoj nun estis alprenintaj reale seriozan aspekton, kaj mi decidis
+tuj viziti mian specialan amikon, sinjoron Teodoron Kavajon, ĉar mi
+sciis, ke almenaŭ ĉi tie mi ricevos ion kiel definitivan informon.
+
+„Smith?“ li diris per sia bonekonata kurioza maniero eltreni siajn
+silabojn, „Smith? kio, ne generalo Johano A. B. C.? Sovaĝa afero,
+tio kontraŭ la Kikapu--u--uoj, ĉu ne? Diru, ĉu vi ne opinias, ke
+jes? Absoluta despera--a--ado -- tre bedaŭrinde, pro mia honoro!
+Mirinde inventema epoko! -- mirinda--a--aĵoj de kuraĝo! Sed flanke
+tion, ĉu vi iam aŭdis pri kapitano Hommo?“
+
+„Kapitano Hommo estu kondamnita“, mi diris, „bonvolu daŭrigi vian
+rakonton.“
+
+„Hem! -- ho, nu! -- _toute la même cho--o--ose_, kiel ni diras en
+Francujo. Smith, ĉu? Brigadestro-generalo Johano A. B. C.? Sed vere
+(jen sinjoro Kavaĵo juĝis dece meti la fingron flanken de sia nazo)
+„vere, vi ne volas sugesti nun, reale kaj malkaŝe kaj honeste, ke vi
+ne scias ĉion pri tiu afero Smith-a, egale bone kiel mi, ĉu? Smith?
+Johano A. B. C.? Nu, min benu, li estas la ho--o--omo--.
+
+„Sinjoro Kavaĵo“, diris mi petege, „_ĉu_ li estas la homo kun la
+fera masko?“
+
+„N--e--e!“ li diris aspektigante sin sagaca, „nek la homo en la
+lu--u--uno.“
+
+Tiun ĉi respondon mi konsideris kiel signifa kaj absoluta insulto,
+kaj tial forlasis tuj la domon, tre kolere, kun firma decido devigi
+mian amikon, sinjoron Kavaĵon, al baldaŭa duelo pro lia nesinjora
+konduto kaj malĝentileco.
+
+Intertempe tamen, mi ne intencis esti malhelpata pri la informo
+dezirata de mi. Unu rimedo restis por mi ankoraŭ. Mi iros al la
+fonto de informo. Mi vizitos tuj la generalon mem, kaj postulos, per
+precizaj vortoj, solvon de tiu ĉi abomeninda peco da mistero. Jen,
+almenaŭ, ne troviĝos io oportuna por dubesenco. Mi estos klara,
+certa, peremptora -- tiel malmola, kiel pasteĉokrusto, tiel konciza,
+kiel Tacito aŭ Montesquieu.
+
+Estis frue kiam mi vizitis la generalon, kaj li estis vestiĝanta;
+sed mi pretekstis urĝajn aferojn kaj tuj alkondukiĝis en lian
+litĉambron per maljuna negra valeto, kiu atendis atente dum mia
+vizito. Enirante la ĉambron, mi ĉirkaŭrigardis, sed ne povis tuj
+lin rimarki. Kuŝis granda kaj ekstreme kuriozaspekta pakaĵo el io
+apud miaj piedoj sur la planko, kaj, ĉar mi ne sentiĝis la plej
+bonhumora en la mondo, mi piedfrapis ĝin el mia vojo.
+
+„Hem! Ahem! iom ĝentila tio estas, mi certe dirus!“ diris la
+pakaĵo, per unu el la plej malgrandaj, kaj tute la plej komika el
+voĉetoj, io inter knaro kaj fajfo, kiun mi iam aŭdis dum ĉiuj
+tagoj de mia ekzisto.
+
+„Ahem! iom ĝentila tio estas, mi opinias.“ Mi plene kriis pro teruro
+kaj iris tangente al la plej malproksima fino de la ĉambro.
+
+„Dio min benu, amiko mia“, denove fajfis la pakaĵo, „kio -- kio --
+kio -- nu, kio _estas_ grava? Mi efektive kredas, ke vi tute ne konas
+min.“
+
+Kion mi _povis_ diri pri ĉio ĉi -- kion mi _povis_ diri? Mi
+ŝanceliĝis al brakseĝo, kaj, kun rigardegaj okuloj kaj malfermita
+buŝo, atendis la solvon de la mirindaĵo.
+
+„Estas strange, ke vi ne konis min, tamen, ĉu ne?“ iom poste
+refajfis la neklasifikeblaĵo, kiu, mi nun rimarkis, faras sur la
+planko ian neklarigeblan manovron, tre analogia kun la surtirado de
+ŝtrumpo. Nur unu sola kruro, tamen, estis videbla.
+
+„Estas strange, ke vi ne konis min tamen, ĉu ne? Pompeo, alportu al
+mi tiun kruron!“ Ĉe tio Pompeo alportis al la pakaĵo tre bonegan
+korkan kvazŭ-kruron, jam vestitan, kiun ĝi alŝraŭbis al si rapide;
+kaj tiam ĝi stariĝis antaŭ miaj okuloj.
+
+„Kaj sanga batalo ĝi _estis_“ daŭris la aĵo, kvazaŭ monologe;
+„sed certe oni ne devus batali kontraŭ la Bugabuoj kaj Kikapuoj kaj
+atendi eliri el ĝi kun nura vundeto. Pompeo, mi dankos vin, se vi
+alportos tiun brakon. Thomas (turniĝante al mi) estas sendube la
+plej bona faristo de korkaj kruroj; sed, se vi iam bezonus brakon,
+amiko mia, vi efektive devus lasi min rekomendi al vi Bishop-on“. Ĉe
+tio Pompeo surŝraŭbis brakon.
+
+„Ni trovis tion sufiĉe varmega laboro, vi povas kompreni. Nun, vi
+hundo, surglitu miajn ŝultrojn kaj bruston. Petitt faras la plej
+bonajn ŝultrojn, sed por brusto vi devas iri al Ducrow.“
+
+„Brusto!“ mi diris.
+
+„Pompeo, ĉu vi neniam intencas preti kun tiu peruko? La skalpado
+estas kruda procedo malgraŭ ĉio; sed oni povas ricevi tiel bonan
+perukon de De l’ Orme.“
+
+„Peruko!“
+
+„Nun, vi negraĉo, miajn dentojn. Por bona aro de tiuj ĉi, vi plej
+bone agos irante tuj al Parmly; altaj prezoj sed bonega farado.
+Mi glutis aron da bonegaj objektoj, tamen, kiam la granda Bugabuo
+batfaligis min per la postaĵo de sia pafilo.“
+
+„Postaĵo! -- faligis vin!! -- mia okulo!!“
+
+„Ho jes, tio memorigas min! mia okulo; jen Pompeo, vi fripono,
+enŝraŭbu ĝin. Tiuj Kikapuoj povas rapide elfrapi okulojn; sed tiu
+D-ro Williams estas kalumniita viro malgraŭ ĉio; vi ne povas imagi
+kiel bone mi vidas per la okuloj de li faritaj.“
+
+Mi nun komencis percepti tre klare, ke la objekto antaŭ mi estas
+nenio pli aŭ malpli ol mia nova konatulo Brevet-brigadestro-generalo
+Johano A. B. C. Smith. La manipuloj de Pompeo estis kaŭzintaj, mi
+devas konfesi, tre frapantan diferencon al la aspekto de lia persono.
+La voĉo tamen, ankoraŭ perpleksis min, sed eĉ tiu ŝajna mistero
+rapide klariĝis.
+
+„Pompeo vi nigra fripono“, knardiris la generalo, „mi fakte kredas,
+ke vi lasus min eliri sen mia palato.“
+
+Je tio ĉi la negro, grumblante pardonpeton, iris al sia mastro,
+malfermis lian buŝon per la ruza mieno de ĉevalĵokeo kaj
+alĝustigis interne iom strangaspekan maŝinon, per tre lerta metodo,
+kiun mi ne tute povis kompreni. La aliiĝo tamen, de la tuta esprimo
+de la vizaĝo de la generalo estis tuja kaj surpriza. Kiam li denove
+parolis, lia voĉo realprenis ĉiom da tiu riĉa melodio kaj forto,
+kiun mi estis rimarkinta je nia unua konatiĝo.
+
+„Kondamnu la friponojn!“ li diris per tiel klara tono, ke mi absolute
+saltis pro la ŝanĝiĝo. „Kondamnu la friponojn! Ili ne nur frakasis
+al mi la palaton, sed ili ankaŭ klopodis fortranĉi malpleje sep
+okonojn de mia lango. Ne ekzistas egalulo, tamen, al Bonfante en
+Ameriko, por reale bonaj objektoj tiuspecaj. Mi povas rekomendi lin
+al vi kun fido (je tio la generalo kliniĝis) kaj certigi vin, ke mi
+sentas la plej grandan plezuron, farante tion.“
+
+Mi atestis lian bonkorecon laŭ mia plej bona maniero, kaj adiaŭis
+lin tuj, havante perfektan komprenon pri la vera aferstato
+-- kaj plenan scion pri la mistero, kiu estis min ĝeninta
+tiel longe. Ĝi estis evidenta. Ĝi estis komprenebla afero.
+Brevet-brigadestro-generalo Johano A. B. C. Smith estis la homo --
+estis la _homo, kiu troviĝis eluzita_.
+
+
+
+
+LA SILENTO -- FABELO
+
+La montaj pintsuproj dormas; valoj, rokoj kaj kavernoj _silentas_.
+    _El la greka lingvo de Alkmano._
+
+
+„Aŭskultu _min_“, diris la Demono, metante la manon sur mian kapon.
+„La regiono, pri kiu mi parolas, estas malgaja regiono en Libjo apud
+la bordo de la rivero Zairo. Kaj ne ekzistas tie la kvieto, nek la
+silento.
+
+La akvo de la rivero havas nuancon safranan kaj malsanecan, kaj ĝi
+fluas, ne antaŭen al la maro, sed tremas por ĉiam kaj por ĉiam sub
+la ruĝa okulo de la suno, per tumulta kaj konvulsia movo. Ĉe ambaŭ
+flankoj de la ŝlima lito de la rivero etendiĝas je multaj mejloj
+pala dezerto el nimfeoj gigantaj. Ili sopiras unu al la alia en tiu
+soleco, kaj streĉas al la ĉielo siajn longajn kaj palegajn kolojn,
+kaj balancas tien kaj reen siajn eternajn kapojn. Kaj de inter ili
+elvenas malklara murmuro, kiel la plaŭdo de subtera akvo. Kaj ili
+sopiras unu al la alia.
+
+Sed ekzistas limo al ilia lando, la limo de la malluma, terura,
+altega arbaro. Tie, same kiel la ondoj ĉirkaŭ la Hebridoj, la
+malalta subkreskaĵo agitiĝas konstante. Sed ne venas vento trans la
+ĉielon. Kaj la altaj praaj arboj svingiĝas ĉiame tien kaj reen,
+kun krakega kaj fortega sono. Kaj de iliaj altaj suproj, unu post unu
+gutas eternaj rosoj. Kaj ĉirkaŭ la radikoj strangaj venenaj floroj
+kuŝas, tordiĝante dum maltrankvila dormo. Kaj supre, kun susuro
+kaj laŭta bruo, la grizaj nuboj rapidas okcidenten ĉiame, ĝis ili
+ruliĝas, kiel kaskadego super la fajran muron de la horizonto. Sed
+ne venas vento trans la ĉielon. Kaj apud la bordo de la rivero Zairo
+ne troviĝas la kvieto, nek la silento.
+
+Nokte estis kaj la pluvo falis; kaj falante ĝi estis pluvo, sed
+falinte ĝi estis sango. Kaj mi staris sur la marĉo inter la altaj
+nimfeoj kaj pluvis sur mian kapon -- kaj la nimfeoj sopiris unu al la
+alia en la soleno de sia soleco.
+
+Kaj subite, la luno leviĝis tra la maldensa fantoma nebuleto, kaj
+aspektis el karmezina koloro. Kaj miaj okuloj ekvidis grandan grizan
+rokon, kiu staris apud la bordo de la rivero kaj estis lumigata de
+la lumo kaj de la luno. Kaj la roko estis griza, kaj fantoma, kaj
+alta -- kaj la roko estis griza. Sur ĝia antaŭo troviĝis literoj
+ĉizitaj en la ŝtono kaj mi marŝis tra la marĉo kaj la nimfeoj,
+ĝis mi alvenis apud la bordo, por ke mi legu la literojn sur la
+ŝtono. Sed mi ne povis deĉifri ilin. Kaj mi estis reironta en la
+marĉon, kiam la luno brilis per pli forta ruĝo, kaj mi turniĝis
+kaj rigardis denove la rokon kaj ankaŭ la literojn. Kaj la vorto
+estis ‚la soleco‘.
+
+Kaj mi rigardis supren kaj vidis viron sur la supro de la roko;
+kaj mi min kaŝis inter la nimfeoj, por ke mi eltrovu la agojn de
+la viro. Kaj la viro estis altkreska kaj majesta forme, kaj estis
+volvita de la ŝultroj ĝis la piedoj per la togo de antikva Romo.
+Kaj la konturoj de lia figuro estis malprecizaj, sed liaj trajtoj
+estis la trajtoj de diaĵo; ĉar la mantelo de la nokto, kaj de la
+nebulo, kaj de la luno, kaj de la roso, estis lasinta nekovritaj la
+trajtojn de lia vizaĝo. Kaj lia frunto estis alta pro penso, kaj lia
+okulo ekstaza pro mizero; kaj en la malmultaj sulkoj de lia vango mi
+legis la fabelojn pri malĝojo kaj lacego kaj abomeno pro la homaro,
+kaj dezirego al soleco.
+
+Kaj la viro sidiĝis sur la rokon kaj klinis sian kapon sur sian
+manon, kaj elrigardis sur la solecon. Li rigardis malsupren en la
+malaltan, maltrankvilan subkreskaĵon, kaj supren en la altegajn
+praajn arbojn, kaj pli supren al la susuranta ĉielo kaj en la
+karmezinan lunon. Kaj mi kuŝis kviete, ŝirmata de la nimfeoj; kaj
+observis la agojn de la viro; kaj la viro tremis en sia soleco -- sed
+la nokto ekforiĝis kaj li sidadis sur la roko.
+
+„Kaj la viro turnis sian rigardon for de la ĉielo kaj elrigardis sur
+la malgajan riveron Zairo, kaj sur la flavan, abomenan akvon, kaj sur
+la palajn legiojn de la nimfeoj. Kaj la viro aŭskultis la sopirojn
+de la nimfeoj, kaj la murmurojn, kiuj suprenvenis de inter ili. Kaj
+mi kuŝadis en mia kaŝejo kaj observis la agojn de la viro. Kaj la
+viro tremis en la soleco -- sed la nokto ekforiĝis kaj li sidadis
+sur la roko.
+
+Tiam mi iris malsupren en la internejojn de la marĉo, kaj vadis
+for inter la dezerto el nimfeoj, kaj vokis al la hipopotamoj, kiuj
+loĝis inter la lagetoj en la internejoj de la marĉo. Kaj la
+hipopotamoj aŭdis mian vokon kaj venis, kune kun la behemoto[15], al
+la malsupro de la roko, kaj muĝis laŭte kaj terure sub la luno. Kaj
+mi kuŝiĝis en mian kaŝejon kaj observis la agojn de la viro. Kaj
+la viro tremis en la soleco. Sed la nokto ekforiĝis kaj li sidadis
+sur la roko.
+
+Tiam mi malbenis la veteron per la malbeno de tumulto, kaj terura
+ventego kolektiĝis en la ĉielo tie, kie antaŭe ne blovis vento.
+Kaj la ĉielo paliĝis pro la forto de la ventego -- kaj la pluvo
+batis sur la kapon de la viro -- kaj la diluvoj de la rivero fluegis
+malsupren -- kaj la rivero turmentiĝis en ŝaŭmon -- kaj la nimfeoj
+akre kriis en siajn bedojn -- kaj la arbarego defalis antaŭ la vento
+-- kaj la tondro rulmuĝis, kaj la fulmo ekbrilis -- kaj la roko
+ŝancelis plene ĝis sia fundamento. Kaj mi kuŝadis en mia kaŝejo
+kaj observis la agojn de la viro. Kaj la viro tremis en la soleco;
+sed la nokto ekforiĝis kaj li sidadis sur la roko.
+
+Tiam mi koleriĝis kaj malbenis, per malbeno de _silento_, la
+riveron, kaj la nimfeojn, kaj la venton, kaj la arbaregon, kaj
+la ĉielon, kaj la tondron, kaj la sopirojn de la nimfeoj. Kaj
+ili fariĝis malbenitaj, kaj iĝis _silentaj_. Kaj la luno ĉesis
+ŝanceli supren laŭ sia vojo sur la ĉielo -- kaj la tondro mortis
+-- kaj la fulmo ne ekbrilis -- kaj la nuboj pendis senmove -- kaj la
+akvoj defalis ĝis sia ĝusta nivelo, kaj restis -- kaj laŭ arboj
+ĉesis svingiĝi -- kaj la nimfeoj ne plu sopiris -- kaj ne aŭdiĝis
+plu la murmuro de inter ili, nek ia nuanco de sono tute tra la
+vastega senlima dezerto. Kaj mi rigardis la literojn sur la roko, kaj
+ili estis ŝanĝitaj -- kaj la literoj estis ‚la silento‘.
+
+Kaj miaj okuloj ekvidis la vizaĝon de la viro, kaj lia vizaĝo
+aspektis pala pro teruro. Kaj rapide li levis la manon de sia kapo,
+kaj stariĝis sur la roko kaj aŭskultis. Sed aŭdiĝis nenia voĉo
+tute tra la vastega senlima dezerto, kaj la literoj sur la roko estis
+‚la silento‘. Kaj la viro tremegis kaj forturnis la vizaĝon kaj
+kuris for rapide, tiel, ke mi ne lin vidis plu.“
+
+   * * * * *
+
+Nu, troviĝas multaj belaj rakontoj en la libroj de la magiistoj,
+en la ferligitaj libroj de la magiistoj. En tiuj ĉi, mi diras,
+troviĝas gloraj historioj pri la ĉielo kaj pri la tero, kaj pri la
+fortega maro -- kaj pri la ĝenioj, kiuj superregas la maron, kaj la
+teron, kaj la altan ĉielon. Troviĝas ankaŭ multe da lernaĵo en la
+diroj, kiuj diriĝis per la Sibiloj, kaj sanktaj, sanktaj aĵoj estis
+aŭdataj antikvece de la mallumaj folioj, kiuj tremas ĉirkaŭ Dodono
+-- sed, kiel Alaho vivadas, tiun fabelon, kiun la Demono rakontis al
+mi, dum li sidis flanke de mi sub la ombro de la tombo, mi konsideras
+la plej mirinda el ĉiuj! Kaj, kiam la Demono finis sian rakonton,
+li falis reen en la kavon de la tombo kaj ridis. Kaj mi ne povis
+ridi kune kun la Demono, kaj li malbenis min pro tio, ke mi ne povas
+ridi. Kaj la linko, kiu loĝas eterne en la tombo, eliris el ĝi
+kaj kuŝiĝis ĉe la piedoj de la Demono, kaj rigardis fikse lian
+vizaĝon.
+
+
+
+
+Piednotoj de la tradukinto
+
+
+[1] Neniu Esperanta vorto havas la precizan signifon de ama respektego,
+kiun donas al „Lady“ la poetoj anglalingvaj. Proze ĝi estas titolo,
+sed poezie tio ne estas necesa. Elparolu Lejdi Liĝ-eja.
+
+[2] Hurio (el persa radiko), nimfo en la mahometana paradizo. F. L.
+
+[3] Bedlam, bone konata angla frenezulejo. Proverba vorto angle.
+
+[4] Valeto, persona servisto precipe por prizorgi vestaĵojn, tualeton
+ktp. F. L.
+
+[5] Amontilado -- vino; speco de palkolora „ŝereo“ (angle _sherry_, seka
+vino de sukcena koloro de Ĥeres en Hispanujo).
+
+[6] Medoko, franca ruĝa vino.
+
+[7] Vortludo netradukebla. Angle _mason_ = „framasono“ kaj „masonisto“.
+
+[8] _Welsh rabbit_ (aŭ _rarebit_), rostita fromaĝo; angla plado, tre
+nedigestebla.
+
+[9] Staŭto, forta speco de portero (biero). F. L.
+
+[10] Tartano, lana drapo, kun strekoj de diversaj koloroj; uzata kiel
+signo de gento de la Skotoj.
+
+[11] Gagato = mineralo treege nigra, angl. „_jet_“, franc. „_jais_“,
+germ. „_Pechkohle_“.
+
+[12] Latine: „kiujn li partoprenis kiel ĉefa parto“.
+
+[13] _man_ (angle) = homo.
+
+[14] Manfriday (homo-vendreda), la indiĝena servanto de Robinson Crusoe
+en la romano de De-foe.
+
+[15] Vidu Jobo XL 15-24.
+
+
+Noto de transskribinto:
+
+Mi senrimarke ĝustigis la formojn de nombraj vortoj. Mi registris
+aliajn ŝanĝojn per html-aj komentoj.
+
+
+
+
+
+End of the Project Gutenberg EBook of Ses noveloj el "Rakontoj de mistero
+kaj imago", by Edgar Allen Poe
+
+*** END OF THIS PROJECT GUTENBERG EBOOK SES NOVELOJ EL "RAKONTOJ DE ***
+
+***** This file should be named 62511-0.txt or 62511-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/2/5/1/62511/
+
+Produced by Andrew Sly
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

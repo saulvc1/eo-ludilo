@@ -1,0 +1,2022 @@
+﻿The Project Gutenberg EBook of Úplná učebnice mezinárodní řeči
+dra. Esperanta, by František Vladimír Lorenc
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away
+or re-use it under the terms of the Project Gutenberg License
+included with this eBook or online at www.gutenberg.org
+
+
+Title: Úplná učebnice mezinárodní řeči dra. Esperanta
+
+Author: František Vladimír Lorenc
+
+Release Date: February 11, 2008 [EBook #24575]
+
+Language: Czech, Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ÚPLNÁ UČEBNICE ***
+
+
+
+
+Produced by P. A. D.
+
+
+
+
+
+
+
+
+
+ÚPLNÁ UČEBNICE
+mezinárodní řeči dra. Esperanta.
+
+Napsal Fr. Vl. L.
+
+
+
+PLENA LERNOLIBRO
+de la lingvo internacia de dro. Esperanto.
+
+Por Bohemoj skribis
+Fr. Vl. L.
+
+V PARDUBICÍCH.
+Tiskem firmy F. Hoblík. — Nákladem vlastním.
+1890.
+
+
+
+*****
+
+
+
+Předmluva.
+
+Poněvadž vlasť člověku neposkytuje všeho, čeho mu třeba, jest mu jednati
+s lidmi národností jiných a znáti jazyk jejich. Každý však dobře ví, jaké
+námahy, píle a vytrvalosti a peněz nutno, by seznal důkladně řeč jednu,
+natož mnohé.
+
+Proto juž přes 300 let pokoušeli se muži učení, aby sestavili mluvu, která
+neobyčejně jsouc snadna i hodíc se všem národům vzdělaným, usnadňovala by
+jejich styky; řeč, která známa by byla jim všem, nesáhajíc v život jejich
+soukromý.
+
+Za nejzdařilejší pokus pokládají někteří Schleyerův volapük, který dosti
+značně je rozšířen. Avšak mnohé vady jeho brání, aby se stal skutečně řečí
+světovou. Schleyer totiž vymýšlel po chuti své tvary i slova, a výrazy
+jazyků národních přeměňoval tak, že s těží lze je poznati; na př.: advokát
+lavogel, figura füg, fysika füsüd, hotel loted, idea döl, kanál kanäd
+(kanal = umělec!), móda molad, oltář latab, pošta pot, růže lol…
+
+Množství přehlásek, skupiny dl, tl, bs, gs, ms… a příliš dlouhá slova činí
+volapük těžkým a nelibozvukým; př.: dlänüb, eimatabömetobös, ovinditobödok…
+
+Lepší daleko je mezinárodní řeč dra. Esperanta. Mluvnice její jest velmi
+jednoducha a pravidelna, slovník obsahuje výrazy z důležitějších řečí
+evropských, a pravidla tvořby slov zmenšujou počet základních asi na 900.
+Pro svou důležitosť, snadnosť a libozvučnosť „la lingvo internacia“
+nalezla hojně přívrženců, jichž počet denně vzrůstá.
+
+Nadějeme se, že knížka tato poslouží k poznání její a k oblibě i ve kruzích
+obecenstva našeho.
+
+Fr. Vl. L.
+
+
+
+*****
+
+
+
+Antaŭparolo.
+
+Char la patrujo ne donas al homo chiajn necesajhojn, li devas konversadi
+kun homoj de aliaj nacioj kaj koni ilian lingvon. Sed chiu certe scias,
+kiel grandan laboron, diligenton, eldaŭrecon kaj monon oni bezonas al la
+efektiva konado de unu lingvo, kaj kiel al la de multaj!
+
+Tial jam je pli multaj ol tricent jaroj sciviroj tentadis instrui lingvon,
+kiu estante tre facila kaj uzebla por chiaj popoloj civilizitaj, faciligus
+iliajn komunikighojn, ne premighante en ilian privatan vivon.
+
+Iuj kredas, ke plej bona provo estas la de Schleyer volapük kiu estas
+vastigita nemalmulte. Sed multaj eraroj ghiaj ne lasas, ke ghi farighos
+vere la mondlingvo. Schleyer elpensis laŭ sia gusto formojn kaj vortojn,
+kaj shanghis esprimojn de nacilingvoj tiel, ke oni povas ekkoni ilin
+malfacile; ekzemple: advokato lavogel, figuro füg, fiziko füsüd, hotelo
+loted, ideo döl, kanalo kanäd (kanal = artisto!), modo molad, altaro latab,
+poshto pot, rozo lol…
+
+Multego da sonoj ä, ö, ü, dl, tl, bs, gs, ms… kaj la longegaj vortoj faras
+volapükon malfacilan kaj malbelan; ekz.: dlänüb, eimatabömetobös,
+ovinditobödok…
+
+Pli bona estas la lingvo internacia de dro. Esperanto. La gramatiko ghia
+estas tre simpla kaj regula, la vortaro enhavas la vortojn el la antaŭaj
+lingvoj de Eŭropo, kaj la reguloj por la kreado de ľ vortoj malgrandigas
+la nombron de la radikesprimoj sur preskaŭ naŭcent. Por sia graveco,
+facileco kaj bonsonec’ la lingvo internacia trovis multegon da amikoj,
+de kiuj la nombro en chiu tago kreskas.
+
+Ni esperas, ke tia chi libreto helpos al la ekkono de ghi kaj al ghia
+placho ankaŭ en nia publiko.
+
+Fr. Vl. L.
+
+
+*****
+
+
+
+Úplná mluvnice. Plena gramatiko.
+
+1. Abeceda (abecedo au alfabeto): a, b, c, ch (= č), d, e, f, g, gh (= dž),
+h, i (= y), j, jh (= ž), k, l, m, n, o, p, r, s, sh (= š), t, u, ŭ (u ve
+dvouhláskách), v, z.
+
+2. Přízvuk (akcento) v úplných (t. j. neapostrofovaných) slovech padá na
+slabiku předposlední.
+
+3. Člen (artiklo) la klade se přede jméno podstatné, mluví-li se o známé
+bytosti; neskloňuje se. Př.: amiko venis = přítel (nějaký) přišel;
+la amiko venis = přítel (očekávaný, známý) přišel. Připouští-li libozvuk,
+lze la apostrofovati ve l’: l’ amiko.
+
+4. Podstatné jméno (substantivo) končí se na o, které se často může
+nahraditi apostrofem (potom přízvuk spočívá ne na předposlední, nýbrž na
+poslední slabice): amiko — amik’.
+
+Ve množném čísle připíná se j (oj): amikoj (přátelé).
+
+Přípona akkusativu je n, tedy: amikon = přítele, amikojn = přátely.
+
+Genitiv opisuje se předložkou de, dativ al, instrumental per s nominativem.
+Zní tedy vzorec sklonby:
+
+ 1. Beze členu: N. patro (otec), G. de patro, D. al patro, Ak. patron,
+V. patro! L. pri patro, I. per patro;
+množně: N. patroj, G. de patroj, D. al patroj, Ak. patrojn, V. patroj!,
+L. pri patroj, I. per patroj.
+
+ 2. Se členem: N. la patro, G. de la patro (de l’ patro), D. al la patro
+a t. d.
+
+5. Přídavné jméno (adjektivo) vychází na a; skloňuje se jako podstatné.
+Stupňování děje se slovem pli (= více) pro komparativ a plej (= nejvíce)
+pro superlativ; př.: bona = dobrý, pli bona = lepší, plej bona = nejlepší.
+Než = ol; tedy: bělejší než sníh = pli blanka ol negho.
+
+6. Číslovky (numeraloj) se nesklánějí. Základné jsou: 1 unu, 2 du, 3 tri,
+4 kvar, 5 kvin, 6 ses, 7 sep, 8 ok, 9 naŭ, 10 dek, 11 dek unu, 12 dek du…,
+20 dudek, 30 tridek…, 100 cent, 200 ducent…, 1000 mil…
+
+Př.: 1891 = (unu) mil okcent naŭdek unu.
+
+Řadové přibírají a, násobné obla, zlomkové ono, hromadné ope; na př.:
+prvý = unua, dvojnásobný = duobla, třetina = triono, čtyřmo = kvarope.
+
+Podílné opisujou se (j. v češt.) předložkou po: po pěti = po kvin.
+
+7. Náměstky osobné: já = mi, ty = ci, on = li, ona = shi, ono = ghi,
+my = ni, vy = vi, oni (ony, ona) = ili, se = si, německé man = oni.
+
+Pozn. 1. Místo ci (= ty) užívá se obyčejně Vi (= Vy).
+
+ 2. Pro zvířata a věci neživé platí ghi (ono) také místo českého on a ona.
+
+ 3. Náměstky přisvojovací tvoří se příponou a: mia (můj, má, mé),
+lia (jeho), shia (její) a t. d.
+
+8. Příslovce (adverbioj) utvořené ze příd. jmen přibírají e: bone dobře,
+pli bone lépe, plej bone nejlépe.
+
+9. Předložky (prepozicioj) spojujou se s nominativem; jen na otázku „kam?“
+s akkusativem; na př.: en ghardeno = v zahradě; en ghardenon = do zahrady.
+
+10. Sloveso (verbo) neoznačuje osoby a čísla příponami, nýbrž osobnými
+náměstkami; ku př.: mi kantas = zpívám, li kantas = (on) zpívá,
+ni kantas = zpíváme a t. d.
+
+Přípony časův a spůsobů:
+
+ 1. přítomný čas přibírá ke kmeni as: kantas zpívá (zpívají);
+
+ 2. minulý čas is: kantis zpíval (-a, -o, -i, -y, -a);
+
+ 3. budoucí os: kantos zazpívá;
+
+ 4. spojovací spůsob us: kantus zpíval by;
+
+ 5. rozkazovací spůsob u: kantu! (zpívej, zpívejte!)
+
+ 6. infinitiv i: kanti zpívati.
+
+Přechodníky:
+
+ a) činné: 1. přítomný končí se v ant- (anto, anta,ante),
+           2. minulý na int- (into, inta, inte),
+           3. budoucí na ont- (onto, onta, onte);
+
+ b) trpné: 1. přítomný na at- (ato, ata, ate),
+           2. minulý na it- (ito, ita, ite),
+           3. budoucí na ot- (oto, ota, ote).
+
+Příklady: amanto = milující (milovník);
+          amanta = milující; patro amanta = otec milující;
+          amante = miluje (milujíc, -íce);
+          amato = milovaný (milenec);
+          amata = milovaný; knabino amata = dívka milovaná;
+          amate = jsa (jsouc) milován…
+
+Trpný rod opisuje se, jako v češtině, slovesem esti = býti a přechodníkem
+trpným; na př.:
+
+shi estas amata de chiuj = (ona) jest milována ode všech.
+
+11. Zápor jen jednoduchý jest; na př.: mi vidis nenion = neviděl jsem nic
+(do slova: viděl jsem nic).
+
+12. Tak zvaná cizí slova, t. j. která přicházejí v podobném tvaru
+v důležitějších řečech evropských, nemění zvuku, nýbrž pouze pravopis
+a zakončení; na př.: grammatika = gramatiko, theatrum (divadlo) = teatro,
+doktor = doktoro…
+
+13. Má-li sloveso v různých jazycích různé vazby, užije se v řeči
+mezinárodní buď vazby kterékoli buď předložky je; na př.: radovati se
+čemu = ghoji je io; touha po vlasti = enuo je l’ patrujo.
+
+14. Tvořba slov předponami a příponami.
+
+ a) Předpony:
+
+ 1. ge značí oba rody: patro = otec, gepatroj = rodiče (otec a matka);
+
+ 2. bo stav povstalý sňatkem: bopatro = tchán;
+
+ 3. mal vyjadřuje opak: bona = dobrý, malbona = zlý; richa = bohatý,
+    malricha = chudý;
+
+ 4. re = zpět, opět: redoni = vrátiti (zpět dáti), revidi = shledati se
+    (opět spatřiti);
+
+ 5. dis = roz: disrompi = rozlomiti;
+
+ 6. ek značí děj počínavý nebo jednodobý: ekkrii = vykřiknouti,
+    eksoni = zazněti;
+
+ 7. ne = ne: nebela = nepěkný, neebla = nemožný;
+
+ 8. trans = pře(s): transpashi = překročiti;
+
+ 9. tra = pro (skrze): travidi = prohlédnouti;
+
+ 10. al = při (k): alsalti = přiskočiti, altiri = přitáhnouti;
+
+ 11. en = ve, do: eniri = vejíti, entiri = vtáhnouti.
+
+ b) Přípony:
+
+ 1. an = člen, přívrženec, obyvatel: klubano = člen spolku,
+    republikano = republikán, urbano = měšťan;
+
+ 2. id = potomek, dítě…: Napoleonido = Napoleonovic, katido = kotě;
+
+ 3. in = ženský rod: fratino = sestra, patrino = matka, hundino = psice;
+
+ 4. uj = držiště, též strom a vlasť, na př.: plumujo = držadlo péra,
+    pomujo = jabloň, Bohemujo = Čechy;
+
+ 5. ing značí předmět, do něhož se co zasazuje, j.: kandelingo = svícen;
+
+ 6. estr = předseda: klubestro = předseda spolku;
+
+ 7. er označuje čásť hromadného celku: monero = peníz,
+    sablero = zrno písku;
+
+ 8. ar souhrn, pojem hromadný: arbaro = les, montaro = pohoří;
+
+ 9. ul osoba vlastností se vyznamenávající: saghulo = mudřec;
+
+ 10. ind = hodný (cenný): kredinda = věrohodný;
+
+ 11. ebl = možný: manghebla = jedlý, videbla = viditelný;
+
+ 12. ajh slouží k označení věci dotyčné; j. verajho = pravda,
+     ferajho = věc železná, chirkaŭajho = okolí;
+
+ 13. ec pojem odtažitý: libereco = svoboda, fideleco = věrnosť;
+
+ 14. em zvyk, obyčej: lernema = učelivý, puremeco = čistotnosť;
+
+ 15. et zdrobňuje: monteto = pahor, frateto = bratříček;
+
+ 16. eg zveličuje: domego = palác, varmega = horký;
+
+ 17. il nástroj: tranchilo = nůž, sonorilo = zvon;
+
+ 18. ig činí výraz přechodným: purigi = čistiti, kulpigi = viniti;
+
+ 19. igh činí výraz zvratným: purighi = čistiti se,
+     rughighi = červenati se, farighi = stávati se;
+
+ 20. ej místo k…: preghejo = kostel, lernejo = škola;
+
+ 21. ist osoba zaměstnaná činností: botisto = obuvník, kuracisto = lékař,
+     ghardenisto = zahradník;
+
+ 22. ad značí trvání děje: promenado = procházka, kantado = zpěv,
+     servado = služba;
+
+ 23. nj a chj připojené prvým 2—5 hláskám tvoří jména osob zdrobnělá;
+     nj ženská, chj mužská; př.: Manjo = Marjánka, Kachjo = Karlíček,
+     Joanchjo = Jeníček.
+
+
+
+*****
+
+
+
+Lekturo.
+
+
+1. Patro nia.
+
+Patro nia, kiu estas en la chielo! Sankta estu Via nomo! Venu regheco Via!
+Estu volo Via, kiel en la chielo, tiel ankaŭ sur la tero! Panon nian
+chiutagan donu al ni hodiaŭ! Kaj pardonu al ni shuldojn niajn, kiel ni
+ankaŭ pardonas al niaj shuldantoj! Ne konduku nin en tenton, sed liberigu
+nin de la malvera; char Via estas la regado, la forto kaj la gloro eterne.
+Amen.
+
+***
+
+2. Psalmo 117.
+
+Laŭdu Sinjoron chiuj popoloj, glorigu Lin chiuj homoj! Char estas firmita
+super ni bonkoreco Lia, kaj la vero de Sinjor’ en eterne.
+
+***
+
+3. Joano 3, 16.
+
+Tiel Dio amis la mondon, ke Li donis Sian Filon ununaskitan, ke chiu, kiu
+kredas je Li, ne perdata estas, sed ke havas la vivon eternan.
+
+***
+
+4. La plej bela beligajho.
+
+Iam vizitis Kornelian, edzinon de glora Romano, grandestimata sinjorino.
+Kiam shi demandis je la beligajhoj de sia gastigantino, Kornelia
+alkondukis du siajn filojn, kiujn shi edukis zorge, kaj diris: „Jen miaj
+plej belaj beligajhoj!“
+
+***
+
+5. La richeco chiam daŭranta.
+
+Richa achetisto demandita de regho je la grandeco de sia richeco,
+respondis: „Mi havas nur mil florintojn.“ La regho ne volis kredi. Tial
+la achetisto ekklarigis: „Mil florintojn mi donacis al ia malrichdomo,
+kaj tiu sum’ estas mia havo. La restan monon mian mi perdos per mia morto,
+sed tiu sumo apartenos al mi eterne.“
+
+***
+
+6. Du kokoj.
+
+Du kokoj bataladis kune. La venkito kashis sin en angulo de l’ domo.
+Sed la venkinto ekflugis sur la tegmento, frapadis per la flugiloj
+kaj gloradis sian venkon. Lin vidis aglo, jhetis sin sur lin
+kaj disshiris lin.
+
+***
+
+7. La maljunulo kaj la morto.
+
+Maljunulo, kiu portadis lignon, ekmalforta dekushigis la portajhon,
+kaj memorante al si chiujn suferoin de sia vivo, alvokadis la morton.
+Tiu chi ekshajnis kaj demandis je la kaŭzo de lia voko. — „Mi petas vin,“
+la maljunulo respondis, „levu al mi la portajhon.“
+
+Tiu chi fabulo montras, ke chiu, ankaŭ malfelicho, amas sian vivon.
+
+***
+
+8. Lupo kaj pastoro.
+
+Pastoro perdis per malsaneco chiujn shafojn. Lupo sciinte tion, venis
+esprimi al li sian kompaton. „Pastoro, chu ghi estas vera, ke la tiel
+granda malfelicho farighis al vi? Mi aŭdis, ke chiuj shafoj viaj mortis.
+La karaj, piaj, grasaj shafoj! Mi bedaŭras vin tiom, ke mi plorus sangajn
+larmojn.“ „Mi dankas al vi, mia amiko,“ la pastoro respondis, „mi vidas,
+ke vi havas tre kompatan koron.“
+
+„Tian li havas vere,“ aldiris la hundo de l’ pastoro, „se per malfelicho
+de alio li sam dolorighas.“
+
+***
+
+9. La libro de l’ naturo.
+(Boleslav Jablonský.)
+
+Estas unu granda libro,
+kiun skribas, rektas Di’,
+granda libro de l’ naturo
+estas sankta nom’ de ghi.
+
+Se vi havas sentan koron,
+legu diligente ghin,
+en literoj ghiaj lernu
+koni Dion, mondon, sin.
+
+Tradukis F. V. L.
+
+***
+
+10. Ho, mia kor’!
+
+Ho, mia kor’, ne batu maltrankvile,
+el mia brusto ne saltu for!
+Jam teni min ne povas mi facile,
+ho, mia kor’!
+
+Ho, mia kor’! Post longa laborado
+chu mi ne venkos en decida hor’!
+Sufiche! trankvilighu de l’ batado,
+ho, mia kor’!
+
+Dro. Esperanto.
+
+***
+
+11. Kde domov můj?
+(Bohema kanto nacia.)
+
+Kie patruj’, mia patruj’?
+Akvoj fluas tra floraroj,
+montojn beligas arbaroj,
+multa ghardenon frukter’;
+tie paradiza ter’;
+kaj ter’ tia, tiel bela
+Bohemuj’, al mi patruj’.
+
+Kie patruj’, mia patruj’?
+Chu vi tiun teron konas,
+kie kantoj chiam sonas,
+kie sana la anim’,
+kie sencoj sen la tim’?
+De popol’ tiu la tero
+Bohemuj’, al mi patruj’.
+
+Tradukis F. V. L.
+
+***
+
+12. Laboro.
+
+Né el malghója okúl’, sed el mán’ diligénta elíras hélpo
+en málfelichtémp’: chíon bonígas labór.
+
+***
+
+13. La vero.
+(Kollár.)
+
+ 1. Frat’, ne malesperu, se starighas
+malamika kontraŭ vin envi’;
+ne fidela al ver’ kaj al si,
+kiu defendante ghin timighas.
+
+ 2. Vero ne deshtupas, se levighas
+ech ja tuta mondo kontraŭ ghi;
+estas laŭdata de kontraŭkri’,
+kaj de insultado ghi belighas.
+
+ 3. Ver’ al Liban-cedroj similighas:
+de la enblovantaj ventoj nur
+ghia agrabla odor’ vastighas.
+
+ 4. Ghia lang’ — glav’ estas, brusto — monto,
+kor’ — marmoro, mano — firma tur’,
+piedo — shtoneg’ sur kontraŭonto.
+
+Tradukis F. V. L.
+
+***
+
+14. L’ azenoreloj.
+
+Antaŭ longaj tempoj vivis en la Nigrachinujo, oriente de Indujo, regho
+Daibang, kiu havis unu filon; tiu chi regante neniam montris orelojn al
+homoj. Je chiu tago li volegis elkapti el la popolo belan junulon, kaj
+kiam tiu sam al li harojn ekkombis kaj barbon ekordigis, la regho lasis
+lin mortigi.
+
+Tiel ghi farighis en multaj jaroj. Fine la sorto venis je filo de malricha
+patrino, kiun shi tre amis. Shi donis al li novan veston kaj farinte
+panerojn, al kiuj shi metis lakton de patrinbrusto, endonis ilin al lia
+brusto dirante: „Kiam vi kombados harojn de l’ regho, manghu daŭre paneron.
+Tiel plej certe vi estos savata de la morto.“
+
+La junul’ iris al la regho. Kiam li al tiu chi harojn kombadis kun ora
+kombilo, li vidis, ke l’ oreloj de la regho estas similaj al la de azeno.
+Tial la regho mortigadis la junulojn, char li timadis, ke ili eldirus
+al la popolo tiun chi malbelecon. Laŭ la vortoj de la patrino la junulo
+manghis daŭre paneron. La regho vidinte lin demandis: „Kion vi manghas?“
+La junulo respondis: „Panerojn da orizo.“ „Donu al mi!“ petis la regho.
+La junulo donis paneron al la regho, kiu manghis kaj diris: „L’ odoro kaj
+la gusto de ghi estas agrablaj; chu vi ne scias la kaŭzon?“ — „Mia patrino
+metis al ili propran lakton brustan kaj donis ilin al mi por la vojon,“
+la demandito respondis.
+
+La regho pensis: „Mi ne povas lin mortigi, char ni trinkis lakton de tiu
+sam patrino.“
+
+Li diris al la junulo: „Mi ne mortigos vin; sed vi devas diri al neniu,
+nek al via patrino, kiaj estas miaj haroj.“ „Mi diros ghin al neniu,“
+la junulo promesis kaj estis vivigata.
+
+Oni miris, ke tiu junulo estis servata, kvankam chiuj alioj, kiuj antaŭe
+kaj poste la reghon kombadis, estis mortigataj; oni demandadis lin je
+la kaŭzo, sed li diris ghin al neniu. Sed ne povante nepensadi je sia
+sekreto, li ekmalsanighis. Kuraciloj ne helpadis, kaj la kuracisto diris:
+„Vi havas certe ian sekreton; tiun vi devas eldiri; alie vi ne eksanighos.“
+
+La junulo certigis, ke li ne havas ian sekreton; kiam post mallonga tempo
+la patrino voladis ekscii tion saman, la filo diris al shi: „Mi havas
+sekreton, sed se mi eldirus, la regho punus min per morto.“ La patrino
+konsilis: „Iru en dezerton kaj diru ghin en okaza loko, ke neniu ghin
+aŭdus.“
+
+La filo iris kaj ekmalkriis en truon de ia besto: „Nia regho havas azenajn
+orelojn.“ Post mallonga tempo li eksanighis.
+
+Sed la vento kaptis liajn vortojn kaj alportis ghis orelojn de la regho.
+Tiu chi sendis por la junulo kaj diris al li severe: „Mi volegis, ke vi
+diros al neniu, kiaj estas miaj oreloj. Sed vi ne konservis la promeson.“
+
+La junulo respondis: „Mi diris ghin al neniu. Sed kiam mi reiris de vi,
+mi ekmalsanighis; la kuracisto timigis min, ke mi mortos, se mi ne eldiros
+la sekreton, kiun mi certe tenas. La patrino konsilis al mi, eldiri ghin
+en dezerto; mi obeis kaj malkriis ghin en truon de ia besto; mi estis
+certa, ke neniu min aŭdis.“
+
+La regho diris: „Mi aŭdis la vortojn de l’ vento alportitajn. Mi ne
+mortigos vin, se vi scias, kiel mi kashus miajn orelojn.“ — „Lasu fari
+al vi chapon kun orelkushajhoj kaj portadu ghin,“ la junulo konsilis;
+„chiuj, kiuj vin tiel vidos, certe farigos kaj portados similajn chapojn.“
+
+La propono plachis al la regho. Li obeis kaj igis fari al si tian chapon.
+Chiuj ghin mirante rigardadis kaj laŭdadis. Neniu sciis, ke la regho havas
+azenajn orelojn, kaj la chapo farighis konata kaj uzata che chiuj.
+
+La junul’ estis nomata ministro, kaj la regho chesis mortigi homojn.
+Tial la popolo amis lin.
+
+Laŭ inde rakontas F. V. L.
+
+
+
+*****
+
+
+
+Vortareto. Slovníček.*)
+
+*) Ve slovníčku tomto uvedeny jsou všecky kmeny (asi 920) bez mluvnických
+přípon. Význam slůvek mluvnických a slovotvorných dán do závorek; na př. a,
+ad, ajh, an…
+
+
+A.
+
+a (přípona přídav. jména)
+acid, kyselý
+achet, kupovati
+ad (trvání děje)
+adiaŭ, s Bohem!
+aer, vzduch
+afer, věc, záležitosť
+agl, orel
+agrabl, příjemný
+agh, věk, stáří
+ajn, -koli
+ajh (věc)
+akompan, doprovod
+akr, ostrý
+akv, voda
+al, k [opisuje dativ]
+ali, jiný
+almenaŭ, aspoň
+alt, vysoký
+alumet, sirka
+am, milovati
+amas, zástup,hromada
+amik, přítel
+an (člen, obyvatel)
+angul, úhel, kout
+anghel, anděl
+anim, duše
+ankaŭ, také
+ankoraŭ, ještě
+anstataŭ, na místo
+ant (přech. přít. čin.)
+antaŭ, před
+apart, zvláště
+aparten, náležeti
+apenaŭ, sotva
+apud, u
+ar (sbírka, souhrn)
+arb, strom
+arghent, stříbro
+as (přít. čas)
+at (přech. přítom. trp.)
+atend, čekati
+aŭ, nebo, čili
+aŭd, slyšeti
+aŭskult, naslouchati
+aŭtun, podzim
+av, děd
+avar, lakomý
+azen, osel
+
+
+B.
+
+babil, chvástati
+bak, péci
+bala, zahazovati
+balanc, kolébati, klátiti
+baldaŭ, brzo
+ban, koupati
+bapt, křtíti
+bar, zavírati
+barb, brada, vous
+barel, sud
+baston, hůl
+bat, bíti
+batal, bojovati
+bedaŭr, litovati
+bel, krásný
+ben, žehnati
+benk, lavice
+best, zvíře
+bezon, potřeba
+bier, pivo
+bind, vázati (knihy)
+bird, pták
+blank, bílý
+blind, slepý
+blov, váti, douti
+blu, modrý
+bo (sňatkem se stavší)
+boj, štěkati
+bol, vříti, vařiti
+bon, dobrý
+bord, břeh
+bot, bota
+botel, láhev
+bov, vůl, býk
+branch, větev
+brand, kořalka
+bril, skvíti se
+bros, kartáč
+bru, bručeti, hučeti
+brul, hořeti, pláti
+brust, prsa
+brut, dobytek
+bush, ústa
+butr, máslo
+buton, knoflík
+
+
+C.
+
+cel, cíl
+cent, sto
+cert, jistý, známý
+ceter, ostatní
+ci, ty
+cigar, doutník
+cigared, cigaretta
+citron, citrón
+
+
+Ch (= č).
+
+chagren, rmoutiti
+chambr, pokoj, světnice
+chap, čepice
+chapel, klobouk
+char, poněvadž
+che, u, při
+chemiz, košile
+chen, řetěz
+cheriz, třešně
+cherk, rakev
+ches, přestati
+cheval, kůň
+chi, hle, tu
+chia, každý
+chiam, vždy
+chie, všude
+chiel, nebe
+chio, všecko
+chirkaŭ, okolo
+chiu, všechen
+chj (viz str. 11.)
+chu, zda, -li.
+
+
+D.
+
+da (opisuje genitiv dělivý, j.: kilogramo da viando = kg masa)
+danc, tanec
+dangher, nebezpeč
+dank, dík
+daŭr, trvati
+de, od (opisuje genitiv)
+decid, rozhodnouti
+defend, brániti
+dek, deset
+dekstr, pravý (ruka…)
+demand, otázka
+dens, hustý
+dent, zub
+detru, zbořiti
+dev, míti, býti povinen
+dezert, poušť
+dezir, přání, touha
+Di, Bůh
+dik, tlustý
+diligent, pilný
+dimanch, neděle
+dir, říci
+dis (roz-)
+disput, rozmluva
+divid, děliti
+dolch, sladký
+dolor, bolest
+dom, dům
+don, dar, dávati
+donac, darovati
+dorm, spáti
+dors, záda
+du, dva
+dum, zatím když
+
+
+E.
+
+e (příp. příslovce)
+eben, rovný
+ebl, možný
+ec (vlastnosť)
+ech, třebas
+eduk, vychovati
+edz, manžel
+efektiv, skutečný
+eg (zvětšení)
+egal, stejný
+ej (místo k…)
+ek (počínavý neb jednodobý děj)
+eks, bývalý
+ekster, mimo
+ekzempl, příklad
+el, z
+elekt, vybrati
+em, obyčejně (zvyk)
+en, v
+enu, nuda
+envi, závisť
+er (jediné)
+erar, blouditi
+escept, vyňati
+esper, důvěřovati, nadíti se
+esprim, vyjádřiti
+esting, zhasiti
+estr (předseda)
+et (zmenšení)
+etagh, patro
+etern, věčný
+
+
+F.
+
+facil, snadný, lehký
+faden, niť
+fajf, pískati
+fajr, oheň
+fal, padati
+fald, sepjati
+famili, rodina
+far, činiti
+fart, míti se
+felich, šťastný
+fend, štípati
+fenestr, okno
+fer, železo
+ferm, zavříti
+fest, svátek
+fianch, ženich
+fidel, věrný
+fier, pyšný
+fil, syn
+fin, konec
+fingr, prst
+firm, pevný
+fish, ryba
+flank, strana
+flar, voněti, čichati
+flav, žlutý
+flor, květina
+flu, téci
+flug, letěti
+fluid, tekutý
+foj, -krát
+fojn, seno
+foli, list
+fond, založiti
+font, pramen
+for, dále
+forges, zapomenouti
+forgh, kouti
+fork, vidlička
+forn, kamna
+fort, silný
+fos, kopati
+frap, tlouci, klepati
+frat, bratr
+fraŭlin, slečna
+fresh, čerstvý
+fromagh, sýr
+frost, mráz
+frot, tříti
+fru, časně, záhy
+frukt, plod
+frunt, čelo
+fulm, blesk
+fum, kouř
+fund, dno
+
+
+G.
+
+gaj, veselý
+gajn, získati
+gant, rukavička
+gard, stříci
+gast, hosť
+ge (obojí rod)
+genu, koleno
+glaci, led
+glas, sklenice
+glat, hladký
+glav, meč
+glit, klouzati
+glor, sláva
+glut, polykati
+gorgh, hrdlo
+grand, veliký
+gras, tučný
+grat, škrábnouti
+gratul, přáti
+grav, důležitý
+griz, šedý
+gust, chuť
+gut, kapka
+
+
+Gh (= dž).
+
+gharden, zahrada
+ghem, vzdychati
+ghentil, zdvořilý
+ghi, to
+ghis, až
+ghoj, těšiti se
+
+
+H.
+
+ha, ach
+hajl, krupobití
+haladz, výpar
+halt, držeti
+har, vlas
+haring, sleď
+haŭt, kůže
+hav, míti
+hejt, topiti
+help, pomoc
+herb, tráva
+hered, děditi
+hieraŭ, včera
+ho, ó
+hodiaŭ, dnes
+hom, člověk
+honest, počestný
+hont, styděti se
+hor, hodina
+horlogh, hodiny
+hotel, hostinec
+humil, ponížený, pokorný
+hund, pes
+
+
+I.
+
+i (infinitiv)
+ia, nějaký
+ial, pro něco
+iam, někdy
+id (-ovic, potomek)
+ie, někde
+ies, něčí
+ig (činiti nějakým)
+igh (státi se…)
+il (nástroj)
+ili, oni
+in (ženský rod)
+ind (hodný)
+infan, dítě
+ing (do čeho se dává…)
+ink, inkoust
+instru, učiti
+insul, ostrov
+insult, spílati
+int (přech. min. čin.)
+intenc, zamýšleti
+inter, mezi
+intern, vnitřní
+invit, pozvati
+io, něco
+iom, poněkud, kousek
+ir, jíti
+is (min. čas)
+ist (zaměstnaný)
+it (přech. min. trp.)
+iu, někdo
+
+
+J.
+
+j (množ. čís.)
+ja, ba, vždyť, přece
+jam, juž
+jar, rok
+je (všeobecná předložka)
+jen, hleď! [jen-jen = hned-hned]
+jes, ano
+ju-des, čím-tím
+jugh, souditi
+jun, mlád
+just, spravedliv
+
+
+Jh (= ž).
+
+jhaŭd, čtvrtek
+jhet, vrci, hoditi
+jhur, přísaha
+
+
+K.
+
+kaf, káva
+kaj, a
+kajer, sešit
+kaldron, kotel
+kalesh, vůz
+kalkul, počítati
+kamen, komín
+kamp, pole
+kanap, pohovka
+kandel, svíce
+kant, zpěv
+kap, hlava
+kapt, chytati
+kar, drahý
+karb, uhel, uhlí
+kares, celovati
+kash, skrývati
+kat, kočka
+kaŭz, příčina
+ke, že, aby
+kelk, několik
+kest, bedna
+kia, který, jaký
+kial, proč
+kiam, kdy, když
+kie, kde
+kiel, jak
+kies, čí
+kio, co
+kiom, kolik
+kis, líbati
+kiu, kdo
+klar, jasný
+knab, chlapec
+kok, kohout
+kol, krk
+koleg, druh
+kolekt, sbírati
+koler, hněv
+kolon, sloup
+kolor, barva
+komb, česati
+komenc, začati
+komerc, obchod
+kompat, soustrasť
+kompren, rozuměti
+kon, znáti
+kondich, podmínka
+konduk, vésti
+konfes, přiznati
+konsent, souhlas
+konserv, ušetřiti
+konsil, rada
+konsol, útěcha
+konstant, stálý
+konstru, stavěti
+kontent, spokojen
+kontraŭ, proti
+konven, spořádati
+kor, srdce
+korn, roh
+koron, věnec, koruna
+korp, tělo
+kort, dvůr
+kost, cena
+kovr, zahaliti
+krach, plíti
+krajon, tužka
+kravat, šálka
+kre, stvořiti
+kred, věřiti
+kresk, růsti
+kret, křída
+kri, křik
+kruc, kříž
+kudr, šíti
+kuir, vařiti, kuchtiti
+kuler, lžíce
+kulp, vina
+kun, s
+kupr, měď
+kur, běh
+kurac, léčiti
+kuragh, smělý
+kurten, záslona
+kusen, poduška
+kush, ležeti
+kutim, zvyknouti
+kuz, strýc
+kvankam, ač
+kvar, čtyři
+kvin, pět
+
+
+L.
+
+la (l’) (člen)
+labor, práce
+lac, únava
+lakt, mléko
+lam, chromý
+lamp, lampa
+land, země
+lang, jazyk
+lantern, lucerna
+largh, široký
+larm, slza
+las, nechati
+last, poslední
+laŭ, dle
+laŭd, chvála
+laŭt, nahlas
+lav, mýti
+lecion, lekce
+leg, čísti
+legh, zákon
+leon, lev
+lern, učiti se
+lert, obratný
+leter, dopis
+lev, zdvihnouti
+li, on
+liber, svobodný, volný
+libr, kniha
+lig, spojiti
+lign, dřevo
+lingv, řeč
+lip, ret
+lit, lůžko, postel
+liter, písmě
+logh, bydliti
+lok, místo
+long, dlouhý
+lud, hra
+lum, světlo, svítiti
+lun, luna, měsíc
+lund, pondělí
+
+
+M.
+
+magazen, sklad
+makul, skvrna
+mal (opak)
+malgraŭ, přes, přec, ač
+man, ruka
+mangh, jísti
+mar, moře
+mard, úterek
+mastr, mistr
+maten, jitro
+matur, zralý
+mem, sám
+memor, vzpomínati
+merit, zásluha
+merkred, středa
+met, přidati
+mez, střed
+mezur, míra
+mi, já
+miks, míchati
+mil, tisíc
+milit, vojsko
+mir, diviti se
+mizer, bída
+moder, střídmý
+modest, skromný
+mol, měkký
+mon, peníze
+monat, měsíc (doba)
+mond, svět
+mont, hora
+montr, ukázati
+mord, kousati
+morgaŭ, zítra
+mort, umříti
+mosht, milosti (titul)
+mov, pohyb
+mult, mnoho
+mur, zeď, stěna
+murmur, mumlati
+mush, moucha
+
+
+N.
+
+n (akkusativ)
+nagh, plouti
+najbar, soused
+nask, roditi
+naŭ, devět
+naz, nos
+ne, ne
+nebul, mha
+neces, potřebný, nutný
+negh, sníh
+nek, ani
+nenia, žádný
+neniam, nikdy
+nenie, nikde
+neniel, nijak
+nenies, ničí
+nenio, nic
+neniu, nikdo
+nep, vnuk
+nev, synovec
+ni, my
+nigr, černý
+nj (viz str. 11.)
+nobl, šlechetný
+nokt, noc
+nom, jméno
+nombr, číslo
+nov, nový
+nub, mrak
+nud, nahý, holý
+nuks, ořech
+nun, nyní
+nur, jen
+nutr, živiti
+
+
+O.
+
+o (podstat. jm.)
+obe, poslouchati
+objekt, předmět
+obl (-násobný)
+obstin, svéhlavý
+odor, vůně
+ofend, uraziti
+ofer, obětovati
+oft, často
+ok, osm
+okaz, přihoditi se
+okul, oko
+okup, obsaditi
+ol, než
+ole, olej
+ombr, stín
+ombrel, stinidlo
+on (zlomek)
+ond, vlna
+oni, man
+onkl, ujec
+ont (přech. bud. čin.)
+op (-mo, duope, dvojmo)
+oportun, příhodný
+or, zlato
+ord, pořádek
+ordinar, obyčejný
+ordon, poroučeti
+orel, ucho
+os (bud. čas)
+ost, kosť
+ot (přechod. bud. trp.)
+ov, vejce
+
+
+P.
+
+pac, mír
+paf, stříleti
+pag, plat
+pagh, stránka
+pajl, sláma
+pal, bled
+palac, palác, zámek
+palp, dotýkati se
+palpebr, oční víčka
+pan, chléb
+pantalon, kalhoty
+paper, papír
+pardon, odpustiti
+parenc, příbuzný
+parker, na paměť
+parol, mluviti
+part, část
+pas, minouti
+pastr, kněz
+pash, kráčeti
+patr, otec
+pec, kus
+pel, puditi, hnáti
+pen, námaha
+pend, viseti
+pens, mysliti
+pentr, malovati
+per, skrze
+perd, ztratiti
+permes, dovoliti
+pes, vážiti
+pet, prositi
+pez, vážiti
+pi, zbožný
+pied, noha
+pik, píchati
+pilk, míč
+pingl, jehlice
+pir, hruška
+plac, místo
+plach, líbiti se
+plafon, strop
+plank, podlaha
+plej, nejvíce
+plen, pln
+plend, stěžovati si
+plezur, zábava
+pli, více
+plor, pláč
+plum, péro, peří
+pluv, déšť
+po, po (po 2, 3…)
+polv, prach
+pom, jablko
+pont, most
+popol, národ, lid
+por, pro
+pord, dvéře
+port, nésti
+pork, prase
+post, po, za
+postul, žádati
+posh, kapsa
+posht, pošta
+pot, hrnec
+pov, moci
+prav, právo, pravý
+pregh, modlitba
+prem, tlačiti
+pren, bráti
+prepar, příprava
+preskaŭ, skoro
+pres, tisknouti
+pret, hotov
+prezent, představovati
+pri, o
+printemp, jaro
+pro, pro, za
+profund, hluboký
+proksim, blízký
+promen, procházka
+promes, slib
+propon, návrh
+propr, vlastní
+prov, pokus
+prudent, opatrn, rozumný
+prunt, půjčiti
+pulv, prach střelný
+pulvor, prášek [lék]
+pun, trest
+pup, loutka
+pur, čist
+push, strčiti, udeřiti
+putr, hníti
+
+
+R.
+
+rad, kolo
+radi, paprsk
+radik, kořen
+rakont, vyprávěti
+ramp, lézti
+rand, kraj
+rapid, rychlý
+raz, škrabati
+re, opět, zpět
+reg, panovati
+regn, království, říše
+regul, pravidlo
+regh, král
+rekt, přímý, správný
+rekompenc, odměna
+renkont, potkati
+renvers, přehoditi
+respond, odpověď
+rest, zůstati
+ricev, obdržeti
+rich, bohat
+rid, smích
+rigard, patřiti, hleděti
+ring, prsten
+ripet, opakovati
+ripoz, odpočívati
+river, řeka
+romp, lámati
+rond, kruh
+rost, péci
+roz, růže
+rugh, rudý, červený
+
+
+S.
+
+sabat, sobota
+sabl, písek
+sagh, moudrý
+sak, pytel
+sal, sůl
+salt, skok
+salut, pozdrav
+sam, sám
+san, zdráv
+sang, krev
+sankt, svatý
+sap, mýdlo
+sat, syt
+sav, zachrániti
+sci, věděti
+se, jestliže
+sed, ale
+segh, sesle
+sek, suchý
+sem, síti, símě
+semajn, týden
+sen, beze
+senc, mysl
+send, poslati
+sent, cit
+sep, sedm
+serch, hledati
+serpent, had
+serur, zámek (nástroj)
+serv, sloužiti
+ses, šest
+sever, přísný
+si, se
+sid, seděti
+sigel, pečetiti
+sign, znamení
+signif, označiti
+silent, mlčeti
+simil, podobný
+simpl, jednoduchý
+sinjor, pán
+skrib, psáti
+sku, třásti
+sobr, střízliv
+societ, spolek
+soif, žízeň
+sol, samojediný
+somer, léto
+son, zvuk
+songh, sen
+sonor, zníti
+sort, osud
+sovagh, divoký
+spec, druh, rod
+spegul, zrcadlo
+spir, dech
+sprit, vtip
+stal, stáj
+star, státi
+stel, hvězda
+stomak, žaludek
+strat, silnice, ulice
+sub, pod
+subit, náhlý
+such, ssáti
+sufer, trpěti
+sufich, dostačiti
+suk, šťáva
+suker, cukr
+sun, slunce
+sup, polévka
+super, nad
+supr, horní
+sur, na
+surd, hluchý
+surtut, kabát
+
+
+Sh.
+
+shajn, zdáti se
+shancel, hýbati
+shangh, měniti
+shaŭm, pěna
+shel, skořápka
+sherc, žert
+shi, ona
+ship, loď
+shir, trhati
+shlos, zavírati
+shmir, mazati
+shnur, šňůra
+shpar, šetřiti
+shpruc, prskati
+shrank, schránka
+shtal, ocel
+shtel, krásti
+shtof, látka
+shton, kámen
+shtop, cpáti
+shtrump, punčocha
+shtup, stupeň
+shu, střevíc
+shuld, dluh
+shut, sypati
+shvel, bobtnati
+shvit, potiti se
+
+
+T.
+
+tabl, stůl
+tabul, tabule
+tag, den
+tajlor, krejčí
+tamen, přece
+tapish, koberec
+taŭg, hoditi se
+te, thé, čaj
+tegment, střecha
+teler, talíř
+temp, čas
+ten, držeti
+tent, zkoušeti
+ter, země
+terur, hrůza
+tia, takový
+tial, proto
+tiam, tehdy, pak
+tie, tam
+tiel, tak
+tim, bázeň
+tio, to
+tiom, tolik
+tir, táhnouti
+tiu, ten, onen
+tol, plátno
+tomb, hrob
+tond, stříhati
+tondr, hřmíti
+tra, skrze, přes
+traduk, překlad
+tranch, krájeti
+trankvil, klidný
+trans, přes
+tre, velmi
+trem, třásti se
+tren, vléci
+tri, tři
+trink, píti
+tro, příliš
+tromp, klam
+trov, nalézti
+tru, díra
+tuj, brzo, hned, tu
+tuk, sukno
+tur, věž
+turment, muka
+turn, točiti
+tus, kašlati
+tush, dotýkati se
+tut, celý
+
+
+U.
+
+u (imperativ)
+uj (rostliny, vlasť)
+ul (osoba)
+um (-um)
+ung, nehet
+unu, jeden
+urb, město
+urs, medvěd
+us (konjunktiv)
+util, užitečný
+uz, užívati
+
+
+V.
+
+vaks, vosk
+van, marný
+vang, tvář
+vapor, pára
+varm, teplý
+vast, širý
+vaz, nádoba
+vek, buditi
+velk, vadnouti
+ven, přijiti
+vend, prodati
+vendred, pátek
+venen, jed
+vengh, pomsta
+venk, zvítěziti
+vent, vítr
+ventr, břicho
+ver, pravda
+verd, zelený
+verk, dílo
+verm, červ
+versh, líti
+vesper, večer
+vest, oděv
+veter, povětří, počas
+vetur, jeti
+vi, vy, ty
+viand, maso
+vid, viděti
+vilagh, ves
+vin, víno
+vintr, zima
+violon, housle
+vir, muž
+vish, čistiti
+vitr, sklo
+viv, žíti
+vizagh, obličej
+voch, hlas
+voj, cesta
+vok, volati
+vol, vůle
+vort, slovo
+vost, ocas, chvost
+vund, raniti
+
+
+Z.
+
+zorg, péče
+
+
+
+
+
+
+
+
+
+
+*************
+
+
+
+
+Atentigo (permane enskribita en la libro):
+
+Tiu ĉi verketo aperinta en la jaro 1890 estis eldonita en Pardubice
+(Bohemujo) kaj skribita de Fr. Vlad. Lorenz. (La aŭtoro loĝas
+en 1931 en Rio de Janeiro.)
+
+Ĝi estas la unua presaĵo skribita en ĉeka (bohema) lingvo pri Esperanto! 
+
+
+*****
+
+
+Překlad hořeního upozornění (v esperantu rukou vepsáno do knihy):
+
+Tato knížečka, jež se objevila roku 1890, byla vydána v Pardubicích
+(Čechy) a napsal ji Fr. Vlad. Lorenz. (Autor roku 1931 žije
+v Rio de Janeiro.)
+
+Je to první tisk v českém jazyce o Esperantu!
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Úplná učebnice mezinárodní
+řeči dra. Esperanta, by František Vladimír Lorenc
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ÚPLNÁ UČEBNICE ***
+
+***** This file should be named 24575-0.txt or 24575-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/4/5/7/24575/
+
+Produced by P. A. D.
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
