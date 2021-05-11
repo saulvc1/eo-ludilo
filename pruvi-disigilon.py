@@ -1,5 +1,5 @@
 from libraro.statiskaPrilaborilo import StatiskaPrilaborilo
-from libraro.disigilo import Disigilo
+from libraro.disigilo import Disigilo, NekonataVorto
 import unittest, json
 
 from collections import defaultdict
@@ -7,8 +7,10 @@ from random import shuffle
 
 
 disigilo = Disigilo(troviEnLaVortaro=False)
-with open('./datoj/vortaro/vortaro.json', 'r') as datumojFile:
-    radikoj, vortaro = json.load(datumojFile)
+with open('./datoj/vortaro/datumoj.json', 'r') as datumojFile:
+    prefiksoj, sufiksoj, radikoj, nedividebloj, vortaro_ = json.load(datumojFile)
+    vortaro = {k.lower():v for k,v in vortaro_.items()}
+    del vortaro['blabla!']
 
 vortoj = []
 
@@ -21,7 +23,8 @@ class TestSum(unittest.TestCase):
         #disigilo.vortaro = {}
 
         count = 0
-        for vorto, silaboj in vortaro.items():
+        print(f'1. Provo de disigado (op2 kaj op3). Nur 5 malsamaj disigoj (el {len(vortaro)}) estas permestaj.')
+        for vorto, (silaboj,origino) in vortaro.items():
             if vorto in ['ien']:
                 continue
 
@@ -34,36 +37,38 @@ class TestSum(unittest.TestCase):
                 silabo.lower()
                 for silabo in silaboj
             ]
-            b, _ = disigilo.disigiVorton(vorto)
+            #if vorto == 'abrahamo':
+            #    breakpoint()
+            try:
+                b, simplaVorto = disigilo.disigiVorton(vorto)
+            except NekonataVorto as error:
+                breakpoint()
 
             if a != b:
                 print(f'--- silaboj:{a} - disigxita {b} ---')
                 count += 1
             else:
-                vortoj.append(vorto)
+                vortoj.append(simplaVorto)
 
         self.assertTrue(count <= 5)
-        print(f'\nKontrolitaj vortoj: {count}. Farita!\n')
 
     def test_2(self):
         global vortoj
 
-        print('Provo de kalkulo.')
+        print('2. Provo de kalkulado de vortoj.')
 
         buffer = ''
         kalkulo = defaultdict(lambda: 0)
-        for silaboj in vortoj:
-            for silabo in silaboj:
-                kalkulo[silabo] += 1
-                buffer += silabo + ' '
-        
-        print('Kalkulanta.')
+        for vorto in vortoj:
+            if '-' not in vorto:
+                kalkulo[vorto] += 1
+                buffer += vorto + ' '
 
         sp = StatiskaPrilaborilo()
         disigilo.kuru(buffer, iloj = [sp])
         for k,v in kalkulo.items():
-            if len(k) > 1 and sp.statistikojDic[k] != v:
-                self.assertEqual(sp.statistikojDic[k], v, k)
+            if len(k) > 1 and sp.vortaro[k] != v:
+                self.assertEqual(sp.vortaro[k], v, k)
         
 
 if __name__ == '__main__':

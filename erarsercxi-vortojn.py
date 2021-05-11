@@ -8,6 +8,8 @@ sxablono = '''
 \tdisigiVorton      {disigiVorton} --> {cxuBone}
 \tvortaro['{vorto}']: '{EnLaVortaro}'
 \tlen(vortaro) {vortLongeco}
+
+Resulto: {resulto}
 '''
 
 class ErarSercxilo(Disigilo):
@@ -24,15 +26,19 @@ class ErarSercxilo(Disigilo):
                 'disigiVorton': self.disigiVorton(vorto),
                 'EnLaVortaro':  self.vortaro.get(vorto, None),
                 'vortLongeco':  len(self.vortaro),
+                'resulto':      '·'.join(self.disigiVorton(vorto)[0])
             }
 
             try:
-                d['mane'] = dd.maneDisigiVorton(vorto)
+                d['mane'] = self.maneDisigiVorton(vorto)
             except:
                 d['mane'] = 'Nekonata vorto'
-
-            if vorto in self.vortaro:
-                d['cxuBone'] = 'Bone' if self.vortaro[vorto] == c else 'Eraro'
+            
+            
+            if vorto in self.nedivideblajVortoj:
+                d['cxuBone'] = 'Bone' if vorto == d['disigiVorton'][0][0] else 'Eraro'
+            elif vorto in self.vortaro:
+                d['cxuBone'] = 'Bone' if self.vortaro[vorto] == d['disigiVorton'][0] else 'Eraro'
             else:
                 d['cxuBone'] = 'Ne ekzistas en vortaro. Cxu pravas?'
 
@@ -41,5 +47,6 @@ class ErarSercxilo(Disigilo):
 
 
 # ĵurio jakoben
-ErarSercxilo().erarSercxiVorton(['vian', 'viajn'])
+# ErarSercxilo().erarSercxiVorton(['malantaŭen', 'la', 'viajn'])
+ErarSercxilo().erarSercxiVorton(['aĉeti', 'aĉeti'])
 

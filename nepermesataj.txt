@@ -1,0 +1,2210 @@
+abelreĝino: 2: abel-re-ĝin-o, abel-reĝ-in-o
+abituriento: 2: abi-tur-i-ent-o, abiturient-o
+acetilkolino: 2: acetil-kol-in-o, acet-il-kol-in-o
+acetono: 2: acet-on-o, aceton-o
+aĉetĉareto: 2: aĉ-et-ĉar-et-o, aĉet-ĉar-et-o
+aĉetebla: 2: aĉ-et-ebl-a, aĉet-ebl-a
+aĉeti: 2: aĉ-et-i, aĉet-i
+aĉettaŝo: 2: aĉ-et-taŝ-o, aĉet-taŝ-o
+aerobia: 2: aer-obi-a, aerobi-a
+aerodromo: 2: aer-odr-om-o, aerodrom-o
+aerolito: 2: aer-o-lit-o, aerolit-o
+aerometro: 2: aer-o-metr-o, aerometr-o
+aeronaŭtiko: 2: aer-o-naŭ-tik-o, aeronaŭtik-o
+aeronaŭto: 2: aer-on-aŭt-o, aeronaŭt-o
+aeroplano: 2: aer-op-lan-o, aeroplan-o
+aerosolo: 2: aer-o-sol-o, aerosol-o
+aerostato: 2: aer-o-stat-o, aerostat-o
+aerpirato: 2: aer-pi-rat-o, aer-pirat-o
+aerpumpilo: 2: aer-pum-pil-o, aer-pump-il-o
+agentejo: 2: agent-ej-o, ag-ent-ej-o
+agitiĝo: 2: ag-i-tiĝ-o, agit-iĝ-o
+aglomeri: 3: ag-lom-er-i, agl-om-er-i, aglomer-i
+aglomero: 3: ag-lom-er-o, agl-om-er-o, aglomer-o
+aglutina: 3: ag-lu-tin-a, ag-lut-in-a, aglutin-a
+aglutini: 3: ag-lu-tin-i, ag-lut-in-i, aglutin-i
+agnio: 2: ag-ni-o, agni-o
+agnostika: 2: ag-no-stik-a, agnostik-a
+agnostikismo: 2: ag-no-stik-ism-o, agnostik-ism-o
+agnostikulo: 2: ag-no-stik-ul-o, agnostik-ul-o
+agonii: 2: ag-oni-i, agoni-i
+agonio: 2: ag-oni-o, agoni-o
+agorafobio: 2: ag-or-a-fobi-o, agorafobi-o
+agordi: 2: ag-ord-i, agord-i
+agordilo: 2: ag-ord-il-o, agord-il-o
+agordo: 2: ag-ord-o, agord-o
+agresema: 3: ag-re-sem-a, agres-em-a, agr-e-sem-a
+agresemo: 3: ag-re-sem-o, agres-em-o, agr-e-sem-o
+agronomio: 2: agr-on-o-mi-o, agronomi-o
+agronomo: 2: agr-on-om-o, agronom-o
+agropiro: 2: agr-op-ir-o, agropir-o
+aĥilo: 2: aĥ-il-o, aĥil-o
+akademiano: 2: akademi-an-o, akad-em-i-an-o
+akordiono: 2: akord-i-on-o, akordion-o
+akreditivo: 2: akredit-iv-o, akreditiv-o
+akrido: 2: akr-id-o, akrid-o
+akrilo: 2: akr-il-o, akril-o
+akrobato: 2: akr-o-bat-o, akrobat-o
+akromata: 2: akr-o-mat-a, akromat-a
+akropolo: 2: akr-o-pol-o, akropol-o
+akselo: 2: aks-el-o, aksel-o
+aksiomo: 2: aks-iom-o, aksiom-o
+aksono: 2: aks-on-o, akson-o
+aktiveco: 2: aktiv-ec-o, akt-iv-ec-o
+aktivigi: 2: aktiv-ig-i, akt-iv-ig-i
+aktiviĝi: 2: aktiv-iĝ-i, akt-iv-iĝ-i
+aktivismo: 2: aktiv-ism-o, akt-iv-ism-o
+aktivulo: 2: aktiv-ul-o, akt-iv-ul-o
+aktori: 2: akt-or-i, aktor-i
+aktorino: 2: akt-or-in-o, aktor-in-o
+aktoro: 2: akt-or-o, aktor-o
+akvilegio: 2: akv-i-legi-o, akvilegi-o
+akvolilio: 2: akv-o-li-li-o, akv-o-lili-o
+albanujo: 2: alban-uj-o, alb-an-uj-o
+alburno: 2: alb-urn-o, alburn-o
+aldviolono: 2: ald-viol-on-o, ald-violon-o
+alerono: 2: aler-on-o, aleron-o
+algoritmo: 2: alg-o-ritm-o, algoritm-o
+aliena: 2: ali-en-a, alien-a
+alieni: 2: ali-en-i, alien-i
+alieneco: 2: ali-en-ec-o, alien-ec-o
+alienulo: 2: ali-en-ul-o, alien-ul-o
+aligentano: 2: ali-gen-tan-o, ali-gent-an-o
+aligentulo: 2: ali-gen-tul-o, ali-gent-ul-o
+alimento: 2: ali-ment-o, aliment-o
+alineo: 2: ali-ne-o, aline-o
+alireligiano: 3: ali-re-lig-i-an-o, ali-religi-an-o, ali-rel-ig-i-an-o
+alireligiulo: 3: ali-re-lig-i-ul-o, ali-religi-ul-o, ali-rel-ig-i-ul-o
+aliseksema: 2: ali-sek-sem-a, ali-seks-em-a
+aliseksemo: 2: ali-sek-sem-o, ali-seks-em-o
+aliteracio: 2: ali-te-raci-o, aliteraci-o
+alkalkuli: 2: alkal-kul-i, alk-alk-ul-i
+alkaloido: 2: alkal-o-id-o, alkaloid-o
+alklimatigi: 2: alk-li-mat-ig-i, alk-lim-a-tig-i
+alklimatiĝi: 2: alk-li-mat-iĝ-i, alk-lim-a-tiĝ-i
+alkovo: 2: alk-ov-o, alkov-o
+alopekuro: 2: alo-pek-ur-o, alopekur-o
+alofona: 2: alo-fon-a, alofon-a
+alofono: 2: alo-fon-o, alofon-o
+altairo: 2: alt-a-ir-o, altair-o
+altano: 2: alt-an-o, altan-o
+altaro: 2: alt-ar-o, altar-o
+altnivela: 2: alt-ni-vel-a, alt-nivel-a
+altruismo: 2: alt-ru-ism-o, altruism-o
+altvalora: 2: alt-val-or-a, alt-valor-a
+amarilido: 2: amar-il-id-o, amarilid-o
+amasinformilo: 3: amas-inform-il-o, amas-in-form-il-o, am-a-sin-form-il-o
+amaskomunikilo: 5: amas-kom-unik-il-o, amas-kom-uni-kil-o, amas-komun-i-kil-o, amas-komuni-kil-o, amas-komunik-il-o
+amatoreca: 2: amator-ec-a, am-a-tor-ec-a
+ambasadorejo: 3: ambasad-or-ej-o, ambasador-ej-o, am-bas-ador-ej-o
+ambasadoro: 2: ambasad-or-o, ambasador-o
+ambaŭseksema: 2: am-baŭ-sek-sem-a, am-baŭ-seks-em-a
+ambaŭseksemo: 2: am-baŭ-sek-sem-o, am-baŭ-seks-em-o
+amerikano: 4: amerik-an-o, am-erik-an-o, am-eri-kan-o, am-er-i-kan-o
+amiantio: 2: am-i-an-ti-o, amianti-o
+amido: 2: am-id-o, amid-o
+amikino: 2: am-i-kin-o, amik-in-o
+aminacido: 2: am-in-acid-o, amin-acid-o
+amindumi: 2: am-in-dum-i, amin-dum-i
+amino: 2: am-in-o, amin-o
+amorantino: 2: am-or-an-tin-o, amor-an-tin-o
+amorfa: 2: am-orf-a, amorf-a
+amori: 2: am-or-i, amor-i
+amoro: 2: am-or-o, amor-o
+ampermetro: 2: am-per-metr-o, amper-metr-o
+ampero: 2: am-per-o, amper-o
+amplifilo: 2: am-pli-fil-o, amplif-il-o
+ampolingo: 2: am-pol-ing-o, ampol-ing-o
+ampolo: 2: am-pol-o, ampol-o
+amputi: 2: am-put-i, amput-i
+amuleto: 2: am-ul-et-o, amulet-o
+amuza: 2: am-uz-a, amuz-a
+amuzi: 2: am-uz-i, amuz-i
+amuziĝi: 2: am-uz-iĝ-i, amuz-iĝ-i
+amuzilo: 2: am-uz-il-o, amuz-il-o
+amuzparko: 2: am-uz-park-o, amuz-park-o
+analfabeteco: 4: analfabet-ec-o, anal-fab-et-ec-o, an-alfabet-ec-o, an-alf-a-bet-ec-o
+analizilo: 2: analiz-il-o, an-aliz-il-o
+analogeco: 2: analog-ec-o, an-a-log-ec-o
+anarkiismo: 2: anarki-ism-o, an-ark-i-ism-o
+anarkiulo: 2: anarki-ul-o, an-ark-i-ul-o
+anastigmata: 2: anas-tig-mat-a, anastigmat-a
+anastigmato: 2: anas-tig-mat-o, anastigmat-o
+anĉovo: 2: anĉ-ov-o, anĉov-o
+andoro: 2: and-or-o, andor-o
+andujo: 2: and-uj-o, anduj-o
+anglikanismo: 2: angl-i-kan-ism-o, anglikan-ism-o
+anglikano: 2: angl-i-kan-o, anglikan-o
+anglosaksa: 2: angl-o-saks-a, an-glos-aks-a
+anglosakso: 2: angl-o-saks-o, an-glos-aks-o
+angulmezurilo: 4: angul-mez-ur-il-o, angul-mezur-il-o, an-gul-mez-ur-il-o, an-gul-mezur-il-o
+anobio: 2: an-obi-o, anobi-o
+anomalia: 2: an-om-ali-a, anomali-a
+anomalio: 2: an-om-ali-o, anomali-o
+anoncisto: 2: an-on-cist-o, anon-cist-o
+anonctabulo: 2: anonc-tab-ul-o, anonc-tabul-o
+anonimulo: 4: an-oni-mul-o, an-on-i-mul-o, anonim-ul-o, anon-i-mul-o
+anono: 2: an-on-o, anon-o
+anorako: 2: an-o-rak-o, anorak-o
+anservice: 4: an-serv-ic-e, an-servic-e, anser-vic-e, ans-er-vic-e
+antagonismo: 2: an-tag-on-ism-o, antagonism-o
+antaŭdecidi: 2: antaŭ-dec-id-i, antaŭ-decid-i
+antaŭgardi: 2: an-taŭg-ard-i, antaŭ-gard-i
+antaŭmilita: 2: antaŭ-mi-lit-a, antaŭ-milit-a
+antecedento: 2: an-te-ced-ent-o, antecedent-o
+antemo: 2: an-tem-o, antem-o
+anteno: 2: an-ten-o, anten-o
+antibiotiko: 2: an-tibi-o-tik-o, antibiotik-o
+anticiklono: 3: an-ti-cikl-on-o, an-ti-ciklon-o, anticiklon-o
+antidoto: 2: an-ti-dot-o, antidot-o
+antikorpo: 2: an-ti-korp-o, antikorp-o
+antilopo: 3: an-ti-lop-o, antil-op-o, antilop-o
+antimono: 4: an-ti-mon-o, an-tim-on-o, an-timon-o, antimon-o
+antinomio: 3: an-ti-no-mi-o, an-tin-o-mi-o, antinomi-o
+antipartiklo: 5: an-ti-par-tikl-o, an-ti-partikl-o, an-tip-ar-tikl-o, an-tip-artikl-o, antipartikl-o
+antipatia: 2: an-tip-a-ti-a, antipati-a
+antipatio: 2: an-tip-a-ti-o, antipati-o
+antisepsa: 2: an-ti-seps-a, antiseps-a
+antisepsilo: 4: an-ti-sep-sil-o, an-ti-seps-il-o, antiseps-il-o, antisepsil-o
+antitezo: 2: an-ti-tez-o, antitez-o
+antropologo: 2: an-trop-o-log-o, antropolog-o
+apartamento: 2: apart-ament-o, apartament-o
+aparteni: 2: apart-en-i, aparten-i
+apertigi: 2: aper-tig-i, apert-ig-i
+aperturo: 3: aper-tur-o, apert-ur-o, apertur-o
+aproba: 2: apr-ob-a, aprob-a
+aprobi: 2: apr-ob-i, aprob-i
+aprobinda: 2: apr-ob-ind-a, aprob-ind-a
+aprobo: 2: apr-ob-o, aprob-o
+arbaro: 2: arb-ar-o, ar-bar-o
+arbareto: 2: arb-ar-et-o, ar-bar-et-o
+arbeto: 2: arb-et-o, ar-bet-o
+arbitraĝo: 2: arbitr-aĝ-o, arbitraĝ-o
+arĉinstrumento: 2: arĉ-instru-ment-o, arĉ-instrument-o
+arestejo: 2: arest-ej-o, ar-est-ej-o
+argentinano: 4: argentin-an-o, ar-gen-ti-nan-o, ar-gen-tin-an-o, ar-gent-in-an-o
+arĥitekturo: 2: arĥitekt-ur-o, arĥitektur-o
+ariergardo: 2: ari-er-gard-o, ar-i-er-gard-o
+aristofano: 2: arist-o-fan-o, aristofan-o
+aristokratio: 2: arist-okr-a-ti-o, aristokrati-o
+aristokrato: 3: ari-stok-rat-o, arist-ok-rat-o, aristokrat-o
+arizono: 2: ari-zon-o, arizon-o
+arkeologo: 2: arke-o-log-o, arkeolog-o
+arkeopterigo: 2: arke-op-ter-ig-o, arkeopterig-o
+arketipo: 2: arke-tip-o, arketip-o
+arkivejo: 3: arkiv-ej-o, ark-iv-ej-o, ar-kiv-ej-o
+arkitekturisto: 2: ark-i-tek-turist-o, ar-kit-ek-turist-o
+arkitekturo: 2: arkitekt-ur-o, arkitektur-o
+armenio: 2: arme-ni-o, arm-e-ni-o
+armenujo: 2: armen-uj-o, arm-en-uj-o
+armilaro: 2: arm-il-ar-o, ar-mi-lar-o
+arobo: 2: ar-ob-o, arob-o
+aroganta: 2: ar-o-gant-a, arogant-a
+aroki: 2: ar-ok-i, arok-i
+aromherbo: 2: ar-om-herb-o, arom-herb-o
+aromi: 2: ar-om-i, arom-i
+aromigi: 2: ar-om-ig-i, arom-ig-i
+aromo: 2: ar-om-o, arom-o
+artefakto: 3: ar-te-fakt-o, art-e-fakt-o, artefakt-o
+arterio: 2: art-eri-o, arteri-o
+arteza: 2: ar-tez-a, artez-a
+artifika: 3: ar-ti-fik-a, art-i-fik-a, artifik-a
+artifiki: 3: ar-ti-fik-i, art-i-fik-i, artifik-i
+artifiko: 3: ar-ti-fik-o, art-i-fik-o, artifik-o
+artiki: 2: ar-tik-i, artik-i
+artikigi: 2: ar-tik-ig-i, artik-ig-i
+artiklo: 2: ar-tikl-o, artikl-o
+artiko: 2: ar-tik-o, artik-o
+artikolo: 3: ar-ti-kol-o, art-i-kol-o, artikol-o
+artikpiedulo: 2: ar-tik-pied-ul-o, artik-pied-ul-o
+artikulo: 4: ar-ti-kul-o, ar-tik-ul-o, art-i-kul-o, artik-ul-o
+artileriano: 3: art-il-eri-an-o, art-il-er-i-an-o, artileri-an-o
+artilerio: 2: art-il-eri-o, artileri-o
+artiŝoko: 3: ar-ti-ŝok-o, art-i-ŝok-o, artiŝok-o
+artrito: 2: ar-trit-o, art-rit-o
+arturo: 3: ar-tur-o, art-ur-o, artur-o
+asimilado: 2: a-si-mi-lad-o, a-simi-lad-o
+aspirino: 2: aspir-in-o, aspirin-o
+asteroido: 2: aster-o-id-o, asteroid-o
+astronaŭto: 2: astr-on-aŭt-o, astronaŭt-o
+astronomia: 2: astr-on-o-mi-a, astronomi-a
+astronomio: 2: astr-on-o-mi-o, astronomi-o
+astronomo: 2: astr-on-om-o, astronom-o
+ataksio: 2: atak-si-o, ataksi-o
+atentigi: 2: aten-tig-i, atent-ig-i
+aŭditorio: 2: aŭd-i-tori-o, aŭditori-o
+aŭstralazio: 2: aŭstral-azi-o, aŭstralazi-o
+aŭtenta: 2: aŭt-ent-a, aŭtent-a
+aŭtenteco: 2: aŭt-ent-ec-o, aŭtent-ec-o
+aŭtentika: 2: aŭt-en-tik-a, aŭtentik-a
+aŭtentikeco: 2: aŭt-en-tik-ec-o, aŭtentik-ec-o
+aŭtentikigi: 2: aŭt-en-tik-ig-i, aŭtentik-ig-i
+aŭtismo: 2: aŭt-ism-o, aŭtism-o
+aŭtobiografio: 3: aŭt-obi-ogr-a-fi-o, aŭt-ob-i-ogr-a-fi-o, aŭtobiografi-o
+aŭtobuso: 2: aŭt-obus-o, aŭtobus-o
+aŭtografio: 2: aŭt-ogr-a-fi-o, aŭtografi-o
+aŭtografo: 2: aŭt-o-graf-o, aŭtograf-o
+aŭtokratio: 2: aŭt-okr-a-ti-o, aŭtokrati-o
+aŭtokratismo: 2: aŭt-ok-rat-ism-o, aŭtokrat-ism-o
+aŭtokrato: 2: aŭt-ok-rat-o, aŭtokrat-o
+aŭtoktona: 2: aŭt-ok-ton-a, aŭtokton-a
+aŭtoktono: 2: aŭt-ok-ton-o, aŭtokton-o
+aŭtomata: 2: aŭt-o-mat-a, aŭtomat-a
+aŭtomate: 2: aŭt-o-mat-e, aŭtomat-e
+aŭtomatigi: 2: aŭt-om-a-tig-i, aŭtomat-ig-i
+aŭtomatigo: 2: aŭt-om-a-tig-o, aŭtomat-ig-o
+aŭtomato: 2: aŭt-o-mat-o, aŭtomat-o
+aŭtomobilisto: 2: aŭt-om-obi-list-o, aŭt-om-ob-i-list-o
+aŭtomobilo: 2: aŭt-om-ob-il-o, aŭtomobil-o
+aŭtomorfio: 2: aŭt-om-or-fi-o, aŭtomorfi-o
+aŭtonoma: 2: aŭt-on-om-a, aŭtonom-a
+aŭtonomeco: 2: aŭt-on-om-ec-o, aŭtonom-ec-o
+aŭtonomio: 2: aŭt-on-o-mi-o, aŭtonomi-o
+aŭtopsio: 2: aŭt-op-si-o, aŭtopsi-o
+aŭtora: 2: aŭt-or-a, aŭtor-a
+aŭtori: 2: aŭt-or-i, aŭtor-i
+aŭtoritatulo: 2: aŭt-o-rit-a-tul-o, aŭtoritat-ul-o
+aŭtoro: 2: aŭt-or-o, aŭtor-o
+aŭtorrajto: 2: aŭt-or-rajt-o, aŭtor-rajt-o
+avarulo: 2: avar-ul-o, av-ar-ul-o
+avelujo: 2: avel-uj-o, av-el-uj-o
+aventurema: 4: aven-tur-em-a, aventur-em-a, av-en-tur-em-a, av-ent-ur-em-a
+aventuristo: 2: aven-turist-o, av-en-turist-o
+aventuro: 2: aven-tur-o, aventur-o
+aventurulo: 4: aven-tur-ul-o, aventur-ul-o, av-en-tur-ul-o, av-ent-ur-ul-o
+aviadisto: 2: avi-a-dist-o, av-ia-dist-o
+avidulo: 2: avid-ul-o, av-id-ul-o
+aviztabulo: 2: aviz-tab-ul-o, aviz-tabul-o
+babilonio: 2: babil-oni-o, babiloni-o
+babilono: 2: babil-on-o, babilon-o
+bakteriofaĝo: 3: bak-ter-i-o-faĝ-o, bakteri-o-faĝ-o, bakteriofaĝ-o
+bakteriologo: 2: bak-ter-i-o-log-o, bakteri-o-log-o
+baktrio: 2: bak-tri-o, baktri-o
+balailo: 2: bala-il-o, bal-a-il-o
+balanito: 2: bala-nit-o, bal-a-nit-o
+balenosto: 2: balen-ost-o, bal-en-ost-o
+baloneto: 2: bal-on-et-o, balonet-o
+balono: 2: bal-on-o, balon-o
+balotrajto: 2: bal-o-trajt-o, balot-rajt-o
+balotujo: 2: bal-o-tuj-o, balot-uj-o
+balteo: 2: bal-te-o, balte-o
+baltiko: 2: bal-tik-o, baltik-o
+balzamino: 2: balzam-in-o, balzamin-o
+bananmuŝo: 2: banan-muŝ-o, ban-an-muŝ-o
+bananujo: 2: banan-uj-o, ban-an-uj-o
+bandano: 2: band-an-o, ban-dan-o
+bandurio: 2: band-uri-o, banduri-o
+bankalsono: 2: ban-kal-son-o, ban-kalson-o
+bankoko: 3: ban-kok-o, bank-ok-o, bankok-o
+bankroti: 2: bank-rot-i, bankrot-i
+bankroto: 2: bank-rot-o, bankrot-o
+bankuvo: 2: ban-kuv-o, bank-uv-o
+baratano: 2: barat-an-o, bar-a-tan-o
+barbara: 2: barb-ar-a, barbar-a
+barbareco: 3: barb-ar-ec-o, barbar-ec-o, bar-bar-ec-o
+barbarismo: 3: barb-ar-ism-o, barbar-ism-o, bar-bar-ism-o
+barbaro: 2: barb-ar-o, barbar-o
+barbiro: 2: barb-ir-o, barbir-o
+barbulo: 2: barb-ul-o, bar-bul-o
+bareleto: 2: barel-et-o, bar-el-et-o
+bariero: 2: bar-i-er-o, barier-o
+bariono: 2: bar-i-on-o, barion-o
+baritona: 2: bar-i-ton-a, bariton-a
+baritono: 2: bar-i-ton-o, bariton-o
+baritonulo: 2: bar-i-ton-ul-o, bariton-ul-o
+barografo: 2: bar-o-graf-o, barograf-o
+baroka: 2: bar-ok-a, barok-a
+baroko: 2: bar-ok-o, barok-o
+barometro: 2: bar-o-metr-o, barometr-o
+barono: 2: bar-on-o, baron-o
+bartolomeo: 2: bart-o-lome-o, bartolome-o
+basbalo: 2: bas-bal-o, basbal-o
+baseno: 2: bas-en-o, basen-o
+baskuli: 3: bas-kul-i, bask-ul-i, baskul-i
+baskulkamiono: 3: bas-kul-kamion-o, bask-ul-kamion-o, baskul-kamion-o
+baskulo: 3: bas-kul-o, bask-ul-o, baskul-o
+baskulponto: 3: bas-kul-pont-o, bask-ul-pont-o, baskul-pont-o
+bastardeco: 2: bas-tar-dec-o, bastard-ec-o
+bastiano: 2: bas-ti-an-o, bastian-o
+bastiono: 2: bas-ti-on-o, bastion-o
+bastoni: 2: bas-ton-i, baston-i
+bastono: 2: bas-ton-o, baston-o
+bastoneto: 2: bas-ton-et-o, baston-et-o
+batalema: 2: bat-a-lem-a, batal-em-a
+batalilo: 2: bat-a-lil-o, batal-il-o
+bataliono: 3: bat-ali-on-o, batal-i-on-o, batalion-o
+baterio: 2: bat-eri-o, bateri-o
+baziliko: 2: baz-i-lik-o, bazilik-o
+bazilio: 2: baz-ili-o, bazili-o
+bazilo: 2: baz-il-o, bazil-o
+beatigo: 2: beat-ig-o, be-a-tig-o
+beatulo: 2: beat-ul-o, be-a-tul-o
+bedaŭrinda: 2: bedaŭr-ind-a, be-daŭr-ind-a
+bedaŭrinde: 2: bedaŭr-ind-e, be-daŭr-ind-e
+bekerelo: 2: be-ker-el-o, bekerel-o
+bekvadrato: 3: be-kvadrat-o, bek-vad-rat-o, bekvadrat-o
+beladono: 3: be-lad-on-o, bel-a-don-o, beladon-o
+belega: 2: be-leg-a, bel-eg-a
+beleta: 2: be-let-a, bel-et-a
+beletaĝo: 3: be-let-aĝ-o, bel-et-aĝ-o, bel-etaĝ-o
+beletristo: 2: be-le-trist-o, bel-e-trist-o
+belfasto: 2: bel-fast-o, belfast-o
+beloruso: 2: bel-o-rus-o, belorus-o
+belulo: 2: be-lul-o, bel-ul-o
+belvedero: 2: bel-ved-er-o, belveder-o
+bemolo: 2: be-mol-o, bemol-o
+benediktano: 3: be-ne-dik-tan-o, be-ne-dikt-an-o, ben-edikt-an-o
+benelukso: 2: be-ne-luks-o, beneluks-o
+benino: 2: ben-in-o, benin-o
+benzeno: 2: ben-zen-o, benzen-o
+benzoo: 2: ben-zo-o, benzo-o
+beotujo: 2: be-o-tuj-o, beot-uj-o
+beogrado: 2: be-o-grad-o, beograd-o
+bereto: 2: be-ret-o, beret-o
+beribero: 2: be-rib-er-o, beriber-o
+berlinanino: 3: berlin-an-in-o, ber-li-nan-in-o, ber-lin-an-in-o
+berlinano: 3: berlin-an-o, ber-li-nan-o, ber-lin-an-o
+betonmiksilo: 3: be-ton-miks-il-o, bet-on-miks-il-o, beton-miks-il-o
+betono: 3: be-ton-o, bet-on-o, beton-o
+betulo: 3: be-tul-o, bet-ul-o, betul-o
+beveli: 2: be-vel-i, bevel-i
+bevelo: 2: be-vel-o, bevel-o
+bezoaro: 2: be-zo-ar-o, bezoar-o
+bezona: 2: be-zon-a, bezon-a
+bezoni: 2: be-zon-i, bezon-i
+bezono: 2: be-zon-o, bezon-o
+bibliografio: 2: bibli-ogr-a-fi-o, bibliografi-o
+bibliografo: 2: bibli-o-graf-o, bibliograf-o
+biblioteko: 2: bibli-o-tek-o, bibliotek-o
+bilardejo: 2: bilard-ej-o, bil-ard-ej-o
+bildigi: 2: bild-ig-i, bil-dig-i
+bildigo: 2: bild-ig-o, bil-dig-o
+biletujo: 2: bilet-uj-o, bil-et-uj-o
+bisino: 2: bis-in-o, bisin-o
+biskvito: 2: bis-kvit-o, biskvit-o
+bismuto: 2: bis-mut-o, bismut-o
+bizanciano: 2: bizanci-an-o, bizanc-i-an-o
+blazono: 2: blaz-on-o, blazon-o
+blovestingi: 2: blov-est-ing-i, blov-esting-i
+blovinstrumento: 2: blov-instru-ment-o, blov-instrument-o
+bojkoti: 2: boj-kot-i, bojkot-i
+bojkoto: 2: boj-kot-o, bojkot-o
+bolido: 2: bol-id-o, bolid-o
+bombikso: 2: bomb-iks-o, bombiks-o
+bombokanono: 2: bomb-ok-an-on-o, bomb-ok-anon-o
+bombono: 2: bomb-on-o, bombon-o
+bonaero: 2: bon-aer-o, bonaer-o
+bonaventuro: 3: bon-aven-tur-o, bon-aventur-o, bonaventur-o
+bonfari: 2: bon-far-i, bonfar-i
+bonifaco: 2: bon-i-fac-o, bonifac-o
+bonifiko: 2: bon-i-fik-o, bonifik-o
+borneo: 2: bor-ne-o, borne-o
+boteleto: 2: botel-et-o, bot-el-et-o
+brakteo: 2: brak-te-o, brakte-o
+bramanismo: 2: braman-ism-o, bram-an-ism-o
+branĉaro: 2: branĉ-ar-o, bran-ĉar-o
+bretono: 2: bret-on-o, breton-o
+bretonujo: 2: bret-on-uj-o, breton-uj-o
+brodkasti: 2: brod-kast-i, brodkast-i
+brulego: 2: bru-leg-o, brul-eg-o
+brulema: 2: bru-lem-a, brul-em-a
+bruligebla: 2: bru-lig-ebl-a, brul-ig-ebl-a
+bruligi: 2: bru-lig-i, brul-ig-i
+brulilo: 2: bru-lil-o, brul-il-o
+brulofero: 2: bru-lof-er-o, brul-ofer-o
+brunejo: 2: brun-ej-o, brunej-o
+brunulino: 2: bru-nul-in-o, brun-ul-in-o
+bruselo: 2: bru-sel-o, brusel-o
+brutaro: 2: bru-tar-o, brut-ar-o
+brutigi: 2: bru-tig-i, brut-ig-i
+budhano: 2: budh-an-o, bud-han-o
+bufoni: 2: buf-on-i, bufon-i
+bufono: 2: buf-on-o, bufon-o
+bulteno: 2: bul-ten-o, bulten-o
+burĝonbrasiko: 2: burĝ-on-brasik-o, burĝon-brasik-o
+burĝoni: 2: burĝ-on-i, burĝon-i
+burĝono: 2: burĝ-on-o, burĝon-o
+burokrataro: 2: bu-rok-rat-ar-o, burokrat-ar-o
+burokratismo: 2: bu-rok-rat-ism-o, burokrat-ism-o
+burokrato: 2: bu-rok-rat-o, burokrat-o
+busprito: 2: bu-sprit-o, busprit-o
+buŝelo: 3: bu-ŝel-o, buŝ-el-o, buŝel-o
+buteo: 2: bu-te-o, bute-o
+buterigi: 2: bu-ter-ig-i, buter-ig-i
+butero: 2: bu-ter-o, buter-o
+butiko: 2: bu-tik-o, butik-o
+butoni: 2: bu-ton-i, buton-i
+butono: 2: bu-ton-o, buton-o
+butontruo: 2: bu-ton-tru-o, buton-tru-o
+cedrato: 2: ced-rat-o, cedrat-o
+cedratujo: 3: ced-rat-uj-o, cedrat-uj-o, cedr-a-tuj-o
+celerio: 2: cel-eri-o, celeri-o
+celkonscia: 2: cel-kon-sci-a, cel-konsci-a
+celofano: 2: cel-o-fan-o, celofan-o
+celsia: 2: cel-si-a, celsi-a
+celsio: 2: cel-si-o, celsi-o
+celtabulo: 2: cel-tab-ul-o, cel-tabul-o
+centralizi: 2: centr-aliz-i, centraliz-i
+centrifuga: 2: centr-i-fug-a, centrifug-a
+centrifugilo: 2: centr-i-fug-il-o, centrifug-il-o
+cicerono: 2: cicer-on-o, ciceron-o
+ciklono: 2: cikl-on-o, ciklon-o
+ciklopo: 2: cikl-op-o, ciklop-o
+ciklotrono: 2: cikl-o-tron-o, ciklotron-o
+cirkonstancaro: 5: cirk-on-stanc-ar-o, cirk-on-stan-car-o, cirkonstanc-ar-o, cir-kon-stanc-ar-o, cir-kon-stan-car-o
+cirkonstanco: 2: cirk-on-stanc-o, cirkonstanc-o
+cirkulero: 2: cirk-ul-er-o, cirkuler-o
+cirkuli: 2: cirk-ul-i, cirkul-i
+cirkvito: 2: cirk-vit-o, cirkvit-o
+citoplasmo: 2: cit-o-plasm-o, citoplasm-o
+citronarbo: 2: citr-on-arb-o, citron-arb-o
+citrono: 2: citr-on-o, citron-o
+citronujo: 2: citr-on-uj-o, citron-uj-o
+citruso: 2: cit-rus-o, citrus-o
+dampilo: 2: dam-pil-o, damp-il-o
+danielo: 2: dan-i-el-o, daniel-o
+datreveno: 2: dat-re-ven-o, dat-rev-en-o
+decida: 2: dec-id-a, decid-a
+decidema: 2: dec-id-em-a, decid-em-a
+decidi: 2: dec-id-i, decid-i
+decidigi: 2: dec-id-ig-i, decid-ig-i
+decido: 2: dec-id-o, decid-o
+decidua: 2: dec-i-du-a, decidu-a
+definitiva: 2: defi-nit-iv-a, definitiv-a
+dekstrino: 2: dekstr-in-o, dekstrin-o
+demokratiigi: 2: demokrati-ig-i, demokrat-i-ig-i
+demonstrativo: 2: demon-strat-iv-o, demonstrativ-o
+dentopikilo: 2: dent-op-i-kil-o, dent-opi-kil-o
+dializilo: 2: dializ-il-o, di-aliz-il-o
+difektiĝema: 3: difekt-iĝ-em-a, di-fek-ti-ĝem-a, di-fek-tiĝ-em-a
+difektiĝi: 2: difekt-iĝ-i, di-fek-tiĝ-i
+difuzilo: 2: difuz-il-o, di-fuz-il-o
+digestebla: 3: digest-ebl-a, dig-est-ebl-a, di-gest-ebl-a
+digestiga: 3: digest-ig-a, dig-est-ig-a, di-gest-ig-a
+digitalino: 2: dig-ital-in-o, digital-in-o
+digitalo: 2: dig-ital-o, digital-o
+diktatoreco: 2: diktator-ec-o, dikt-a-tor-ec-o
+diktatorema: 2: diktator-em-a, dikt-a-tor-em-a
+dilatiĝi: 2: dilat-iĝ-i, di-lat-iĝ-i
+dilatilo: 2: dilat-il-o, di-lat-il-o
+diligenteco: 3: diligent-ec-o, di-li-gent-ec-o, di-lig-ent-ec-o
+diligentulo: 5: diligent-ul-o, di-li-gen-tul-o, di-li-gent-ul-o, di-lig-en-tul-o, di-lig-ent-ul-o
+direkti: 2: di-rekt-i, direkt-i
+direktilisto: 3: di-rekt-i-list-o, direkt-i-list-o, dir-ek-ti-list-o
+direktilo: 2: di-rekt-il-o, direkt-il-o
+direkto: 2: di-rekt-o, direkt-o
+direktoro: 4: di-rekt-or-o, di-rektor-o, direkt-or-o, direktor-o
+disenterio: 3: di-sent-eri-o, dis-ent-eri-o, disenteri-o
+disfibriĝi: 2: dis-fi-briĝ-i, dis-fibr-iĝ-i
+disidento: 4: di-si-dent-o, di-sid-ent-o, dis-ident-o, disident-o
+diskografio: 2: disk-ogr-a-fi-o, diskografi-o
+diskonigi: 3: di-skon-ig-i, dis-kon-ig-i, disk-on-ig-i
+diskonti: 2: dis-kont-i, diskont-i
+diskonto: 2: dis-kont-o, diskont-o
+diskoteko: 3: dis-kot-ek-o, disk-o-tek-o, diskotek-o
+diskrediti: 2: dis-kredit-i, diskredit-i
+diskreta: 3: dis-kret-a, disk-ret-a, diskret-a
+diskriminacii: 4: dis-kri-mi-naci-i, dis-krim-i-naci-i, disk-rim-i-naci-i, diskriminaci-i
+diskriminacio: 4: dis-kri-mi-naci-o, dis-krim-i-naci-o, disk-rim-i-naci-o, diskriminaci-o
+diskrimini: 4: dis-kri-min-i, dis-krim-in-i, disk-rim-in-i, diskrimin-i
+diskrimino: 4: dis-kri-min-o, dis-krim-in-o, disk-rim-in-o, diskrimin-o
+diskuri: 2: dis-kur-i, disk-ur-i
+diskurso: 3: dis-kurs-o, disk-urs-o, diskurs-o
+diskutebla: 2: di-skut-ebl-a, diskut-ebl-a
+diskutgrupo: 2: di-skut-grup-o, diskut-grup-o
+diskuti: 2: di-skut-i, diskut-i
+diskutinda: 2: di-skut-ind-a, diskut-ind-a
+disleksio: 2: dis-lek-si-o, disleksi-o
+disocii: 2: di-soci-i, disoci-i
+disondo: 2: di-sond-o, dis-ond-o
+dispartigi: 4: di-spar-tig-i, di-spart-ig-i, dis-par-tig-i, dis-part-ig-i
+dispecigi: 2: di-spec-ig-i, dis-pec-ig-i
+dispepsio: 2: dis-pep-si-o, dispepsi-o
+dispersi: 2: dis-pers-i, dispers-i
+disperso: 2: dis-pers-o, dispers-o
+disporti: 2: di-sport-i, dis-port-i
+dispozicio: 2: dis-pozici-o, dispozici-o
+disputema: 3: di-sput-em-a, dis-put-em-a, disput-em-a
+disputi: 3: di-sput-i, dis-put-i, disput-i
+disputo: 3: di-sput-o, dis-put-o, disput-o
+distanco: 2: di-stanc-o, distanc-o
+distiko: 3: di-stik-o, dis-tik-o, distik-o
+distilado: 2: dis-ti-lad-o, dist-i-lad-o
+distilejo: 3: di-stil-ej-o, dist-il-ej-o, distil-ej-o
+distili: 3: di-stil-i, dist-il-i, distil-i
+distililo: 4: di-stil-il-o, dis-ti-lil-o, dist-il-il-o, distil-il-o
+distinga: 2: dist-ing-a, disting-a
+distingebla: 2: dist-ing-ebl-a, disting-ebl-a
+distingi: 2: dist-ing-i, disting-i
+distingiĝa: 2: dist-ing-iĝ-a, disting-iĝ-a
+distingiĝi: 2: dist-ing-iĝ-i, disting-iĝ-i
+distingilo: 2: dist-ing-il-o, disting-il-o
+distingo: 2: dist-ing-o, disting-o
+distordi: 2: dis-tord-i, dist-ord-i
+distordo: 2: dis-tord-o, dist-ord-o
+distribui: 4: di-stri-bu-i, dis-tri-bu-i, distr-i-bu-i, distribu-i
+distribuo: 4: di-stri-bu-o, dis-tri-bu-o, distr-i-bu-o, distribu-o
+distriĝema: 3: di-stri-ĝem-a, dis-tri-ĝem-a, distr-iĝ-em-a
+distrikto: 3: di-strikt-o, distr-ikt-o, distrikt-o
+diurna: 2: di-urn-a, diurn-a
+diurno: 2: di-urn-o, diurn-o
+divano: 2: di-van-o, divan-o
+diveni: 2: di-ven-i, diven-i
+divenprove: 2: di-ven-prov-e, diven-prov-e
+diversa: 2: di-vers-a, divers-a
+diverseco: 2: di-vers-ec-o, divers-ec-o
+diversigi: 2: di-vers-ig-i, divers-ig-i
+diverskolora: 5: di-ver-skol-or-a, di-vers-kol-or-a, di-vers-kolor-a, divers-kol-or-a, divers-kolor-a
+diversmaniere: 2: di-vers-manier-e, divers-manier-e
+dividebla: 2: di-vid-ebl-a, divid-ebl-a
+dividi: 2: di-vid-i, divid-i
+divido: 2: di-vid-o, divid-o
+dividstreko: 2: di-vid-strek-o, divid-strek-o
+divizio: 2: di-vizi-o, divizi-o
+doganejo: 2: dogan-ej-o, dog-an-ej-o
+dogmaro: 2: dogm-ar-o, dog-mar-o
+doktoro: 3: dok-tor-o, dokt-or-o, doktor-o
+dolĉamaro: 2: dolĉ-amar-o, dolĉamar-o
+dorsdirekte: 2: dors-di-rekt-e, dors-direkt-e
+dragmaŝino: 2: drag-maŝ-in-o, drag-maŝin-o
+dragono: 2: drag-on-o, dragon-o
+drakona: 2: drak-on-a, drakon-a
+draŝmaŝino: 2: draŝ-maŝ-in-o, draŝ-maŝin-o
+dubinda: 2: du-bind-a, dub-ind-a
+dublino: 3: dub-lin-o, dubl-in-o, dublin-o
+dubnio: 2: dub-ni-o, dubni-o
+duelo: 2: du-el-o, duel-o
+dukino: 2: du-kin-o, duk-in-o
+dunaskito: 2: du-nas-kit-o, dun-a-skit-o
+dungitaro: 2: dung-i-tar-o, dun-gitar-o
+dunombro: 2: du-nombr-o, dun-ombr-o
+duonfilino: 2: du-on-fi-lin-o, du-on-fil-in-o
+duonjaro: 2: du-onj-ar-o, du-on-jar-o
+duonkomprenigi: 2: du-on-kom-pren-ig-i, du-on-kompren-ig-i
+duonopero: 2: du-on-op-er-o, du-on-oper-o
+duplikato: 2: du-pli-kat-o, duplikat-o
+dupunkto: 2: du-punkt-o, dup-unkt-o
+duriarbo: 2: dur-i-arb-o, duri-arb-o
+duriujo: 2: dur-i-uj-o, duri-uj-o
+efektiva: 2: efekt-iv-a, efektiv-a
+efektive: 2: efekt-iv-e, efektiv-e
+efektivigi: 2: efekt-iv-ig-i, efektiv-ig-i
+efektiviĝi: 2: efekt-iv-iĝ-i, efektiv-iĝ-i
+efemerido: 2: efemer-id-o, efemerid-o
+egaligi: 2: eg-a-lig-i, egal-ig-i
+egido: 2: eg-id-o, egid-o
+egiptologo: 2: egipt-o-log-o, egiptolog-o
+eglanterio: 2: eg-lant-eri-o, eglanteri-o
+eglefino: 2: eg-le-fin-o, eglefin-o
+egocentra: 2: eg-o-centr-a, ego-centr-a
+egoisma: 2: eg-o-ism-a, ego-ism-a
+egoismo: 2: eg-o-ism-o, ego-ism-o
+egopodio: 3: eg-op-o-di-o, ego-podi-o, egopodi-o
+egreto: 2: eg-ret-o, egret-o
+ejakuli: 2: ej-a-kul-i, ejakul-i
+ejfelo: 2: ej-fel-o, ejfel-o
+ekbruligi: 2: ek-bru-lig-i, ek-brul-ig-i
+ekimozo: 2: ek-i-moz-o, ekimoz-o
+ekino: 2: ek-in-o, ekin-o
+ekkompreni: 2: ek-kom-pren-i, ek-kompren-i
+eklampsio: 2: ek-lamp-si-o, eklampsi-o
+eklektika: 2: ek-lek-tik-a, eklektik-a
+eklektikismo: 2: ek-lek-tik-ism-o, eklektik-ism-o
+ekleziano: 2: ek-lez-i-an-o, eklezi-an-o
+ekleziulo: 2: ek-lez-i-ul-o, eklezi-ul-o
+ekliptiko: 2: ek-lip-tik-o, ekliptik-o
+eklogo: 2: ek-log-o, eklog-o
+ekologiismo: 3: ek-o-log-i-ism-o, ekologi-ism-o, ekolog-i-ism-o
+ekologo: 2: ek-o-log-o, ekolog-o
+ekonomia: 2: ek-on-o-mi-a, ekonomi-a
+ekonomikisto: 3: ek-on-om-i-kist-o, ekonomi-kist-o, ekonom-i-kist-o
+ekonomio: 2: ek-on-o-mi-o, ekonomi-o
+ekonomo: 2: ek-on-om-o, ekonom-o
+ekranego: 2: ek-ran-eg-o, ekran-eg-o
+ekrano: 2: ek-ran-o, ekran-o
+ekscentriko: 2: ek-scen-trik-o, ekscentrik-o
+ekscitiĝema: 3: ek-sci-ti-ĝem-a, ek-sci-tiĝ-em-a, ekscit-iĝ-em-a
+ekscitiĝi: 2: ek-sci-tiĝ-i, ekscit-iĝ-i
+ekscitiĝo: 2: ek-sci-tiĝ-o, ekscit-iĝ-o
+ekspansio: 2: ek-span-si-o, ekspansi-o
+ekspekto: 2: ek-spekt-o, ekspekt-o
+ekspektori: 3: ek-spekt-or-i, ekspekt-or-i, ekspektor-i
+eksperto: 2: ek-spert-o, ekspert-o
+eksplodmotoro: 2: eksplod-mot-or-o, eksplod-motor-o
+eksporti: 2: ek-sport-i, eksport-i
+eksporto: 2: ek-sport-o, eksport-o
+eksterlandano: 2: ekster-land-an-o, ekster-lan-dan-o
+eksterordinara: 2: ekster-ord-in-ar-a, ekster-ordinar-a
+eksterpartia: 2: ekster-par-ti-a, ekster-parti-a
+eksterterano: 2: ekster-te-ran-o, ekster-ter-an-o
+ekstradicii: 2: ekstr-adici-i, ekstradici-i
+ekstradicio: 2: ekstr-adici-o, ekstradici-o
+ekstrakti: 2: ekstr-akt-i, ekstrakt-i
+ekstrakto: 2: ekstr-akt-o, ekstrakt-o
+ekstrapoli: 2: ekstr-a-pol-i, ekstrapol-i
+ekstrema: 2: ekstr-em-a, ekstrem-a
+ekstremeco: 2: ekstr-em-ec-o, ekstrem-ec-o
+ekstremismo: 2: ekstr-em-ism-o, ekstrem-ism-o
+ekstremo: 2: ekstr-em-o, ekstrem-o
+eksudi: 2: ek-sud-i, eksud-i
+ekvadoro: 2: ek-vad-or-o, ekvador-o
+ekvatoro: 2: ek-vat-or-o, ekvator-o
+ekvilibrigi: 2: ek-vil-i-brig-i, ekvilibr-ig-i
+ekvipolenta: 2: ek-vip-o-lent-a, ekvipolent-a
+ekvivalenta: 2: ek-viv-a-lent-a, ekvivalent-a
+ekvivalento: 2: ek-viv-a-lent-o, ekvivalent-o
+ekvizeto: 2: ek-viz-et-o, ekvizet-o
+ekzotika: 2: ek-zo-tik-a, ekzotik-a
+elaĉeti: 2: el-aĉ-et-i, el-aĉet-i
+elartikigi: 2: el-ar-tik-ig-i, el-artik-ig-i
+eleganteco: 2: elegant-ec-o, el-e-gant-ec-o
+elegantulo: 2: elegant-ul-o, el-eg-an-tul-o
+elektema: 2: elekt-em-a, el-ek-tem-a
+elektrismo: 2: elekt-rism-o, elektr-ism-o
+elektrocentralo: 2: elektr-o-central-o, el-ek-tro-central-o
+elektroforo: 2: elektr-o-for-o, elektrofor-o
+elektroĥemio: 2: elektr-o-ĥemi-o, el-ek-tro-ĥemi-o
+elektrokvanto: 3: elekt-rok-vant-o, elektr-ok-vant-o, el-ek-tro-kvant-o
+elektrolito: 2: elektr-o-lit-o, elektrolit-o
+elektromagneta: 3: elekt-rom-ag-net-a, elektr-om-ag-net-a, el-ek-tro-magnet-a
+elektromagnetismo: 4: elekt-rom-ag-net-ism-o, elektr-om-ag-net-ism-o, el-ek-tro-magnet-ism-o, el-ek-tro-mag-net-ism-o
+elektromagneto: 3: elekt-rom-ag-net-o, elektr-om-ag-net-o, el-ek-tro-magnet-o
+elektrono: 2: elektr-on-o, elektron-o
+elektrostatiko: 3: elekt-rost-a-tik-o, elektr-ost-a-tik-o, el-ek-tro-statik-o
+elektroŝoko: 2: elektr-o-ŝok-o, el-ek-tro-ŝok-o
+elektrotekniko: 2: elektr-o-teknik-o, el-ek-tro-teknik-o
+elektroterapio: 6: elekt-rot-era-pi-o, elekt-rot-er-api-o, elektr-o-terapi-o, el-ek-tro-terapi-o, el-ek-trot-era-pi-o, el-ek-trot-er-api-o
+elektrotipo: 2: elektr-o-tip-o, elektrotip-o
+elevatoro: 2: el-e-vat-or-o, elevator-o
+elfandi: 2: el-fand-i, elf-and-i
+elfari: 2: el-far-i, elf-ar-i
+elflui: 2: el-flu-i, elf-lu-i
+eliksiro: 2: el-iks-ir-o, eliksir-o
+elimini: 2: el-i-min-i, elimin-i
+elimino: 2: el-i-min-o, elimin-o
+elizeo: 2: el-i-ze-o, elize-o
+ellitiĝi: 2: el-li-tiĝ-i, el-lit-iĝ-i
+elokventa: 2: el-ok-vent-a, elokvent-a
+elokventeco: 2: el-ok-vent-ec-o, elokvent-ec-o
+elokvento: 2: el-ok-vent-o, elokvent-o
+elveturi: 3: el-ve-tur-i, el-vet-ur-i, el-vetur-i
+elzeviro: 2: el-ze-vir-o, elzevir-o
+emajli: 2: em-ajl-i, emajl-i
+emajlo: 2: em-ajl-o, emajl-o
+emani: 2: em-an-i, eman-i
+emanigi: 2: em-an-ig-i, eman-ig-i
+emberizo: 2: em-be-riz-o, emberiz-o
+embolo: 2: em-bol-o, embol-o
+emeritiĝi: 3: em-eri-tiĝ-i, em-er-i-tiĝ-i, emerit-iĝ-i
+emerito: 2: em-e-rit-o, emerit-o
+emerituro: 4: em-eri-tur-o, em-er-i-tur-o, emerit-ur-o, emeritur-o
+emfazi: 2: em-faz-i, emfaz-i
+emfazo: 2: em-faz-o, emfaz-o
+emilo: 2: em-il-o, emil-o
+emiro: 2: em-ir-o, emir-o
+emisii: 2: em-i-si-i, emisi-i
+emirujo: 2: em-ir-uj-o, emir-uj-o
+eminenta: 2: em-in-ent-a, eminent-a
+eminentularo: 3: em-in-en-tul-ar-o, em-in-ent-ul-ar-o, eminent-ul-ar-o
+eminentulo: 3: em-in-en-tul-o, em-in-ent-ul-o, eminent-ul-o
+emirlando: 3: em-ir-land-o, em-irland-o, emir-land-o
+emulsio: 2: em-ul-si-o, emulsi-o
+enciklopedia: 3: en-cikl-op-e-di-a, en-ciklop-e-di-a, enciklopedi-a
+enciklopedio: 3: en-cikl-op-e-di-o, en-ciklop-e-di-o, enciklopedi-o
+encirkuligi: 4: en-cirk-ul-ig-i, en-cirkul-ig-i, en-cir-kul-ig-i, en-cir-ku-lig-i
+enkalkuli: 3: en-kal-kul-i, en-kalk-ul-i, en-kalkul-i
+enkanonigi: 2: en-kan-on-ig-i, en-kanon-ig-i
+enkorpigi: 2: en-kor-pig-i, en-korp-ig-i
+enkorpigo: 2: en-kor-pig-o, en-korp-ig-o
+enlitigi: 2: en-li-tig-i, en-lit-ig-i
+enlitiĝi: 2: en-li-tiĝ-i, en-lit-iĝ-i
+enmemorigi: 2: en-mem-or-ig-i, en-memor-ig-i
+enpoŝtigi: 2: en-poŝt-ig-i, en-poŝ-tig-i
+enretiĝi: 2: en-re-tiĝ-i, en-ret-iĝ-i
+ensiligi: 2: en-si-lig-i, en-sil-ig-i
+entablemento: 4: en-tabl-em-ent-o, en-tab-lem-ent-o, en-tab-le-ment-o, entablement-o
+enteni: 2: en-ten-i, ent-en-i
+enterigi: 2: en-ter-ig-i, ent-er-ig-i
+enteriĝi: 2: en-ter-iĝ-i, ent-er-iĝ-i
+enterito: 2: en-te-rit-o, ent-e-rit-o
+entreprenema: 3: ent-re-pren-em-a, ent-rep-ren-em-a, entrepren-em-a
+entrepreni: 3: ent-re-pren-i, ent-rep-ren-i, entrepren-i
+entrepreno: 3: ent-re-pren-o, ent-rep-ren-o, entrepren-o
+envelopo: 3: en-ve-lop-o, en-vel-op-o, envelop-o
+enverguro: 2: en-verg-ur-o, envergur-o
+enveturi: 3: en-ve-tur-i, en-vet-ur-i, en-vetur-i
+erarema: 3: era-rem-a, erar-em-a, er-ar-em-a
+erarigi: 2: erar-ig-i, er-ar-ig-i
+erektiĝi: 2: erekt-iĝ-i, er-ek-tiĝ-i
+erektiĝo: 2: erekt-iĝ-o, er-ek-tiĝ-o
+erizipelo: 2: eri-zip-el-o, erizipel-o
+ermitejo: 2: ermit-ej-o, er-mit-ej-o
+erotiko: 2: er-o-tik-o, erotik-o
+erotika: 2: er-o-tik-a, erotik-a
+eskadrono: 2: eskadr-on-o, eskadron-o
+eskalopo: 2: eskal-op-o, eskalop-o
+estingi: 2: est-ing-i, esting-i
+estingiĝi: 2: est-ing-iĝ-i, esting-iĝ-i
+estona: 2: est-on-a, eston-a
+estono: 2: est-on-o, eston-o
+estonujo: 2: est-on-uj-o, eston-uj-o
+estrarano: 2: est-rar-an-o, estr-ar-an-o
+estraro: 2: est-rar-o, estr-ar-o
+etaĝero: 2: et-aĝ-er-o, etaĝer-o
+etaĝo: 2: et-aĝ-o, etaĝ-o
+eternulo: 3: et-er-nul-o, etern-ul-o, eter-nul-o
+etero: 2: et-er-o, eter-o
+etiketo: 2: etik-et-o, etiket-o
+etiopo: 2: et-i-op-o, etiop-o
+etnografio: 2: etn-ogr-a-fi-o, etnografi-o
+etnografo: 3: et-no-graf-o, etn-o-graf-o, etnograf-o
+etnologo: 2: et-no-log-o, etn-o-log-o
+eŭropa: 2: eŭr-op-a, eŭrop-a
+eŭropio: 2: eŭr-opi-o, eŭropi-o
+eŭropo: 2: eŭr-op-o, eŭrop-o
+fabelaro: 2: fabel-ar-o, fab-el-ar-o
+facilanima: 2: facil-anim-a, fac-il-anim-a
+facilanimeco: 2: facil-anim-ec-o, fac-il-anim-ec-o
+faciligi: 2: facil-ig-i, fac-il-ig-i
+faciliĝi: 2: facil-iĝ-i, fac-il-iĝ-i
+facilmova: 2: facil-mov-a, fac-il-mov-a
+fadenaro: 2: faden-ar-o, fad-en-ar-o
+fadenbulo: 2: faden-bul-o, fad-en-bul-o
+fadenero: 2: faden-er-o, fad-en-er-o
+fadenmontra: 2: faden-montr-a, fad-en-montr-a
+fadenpupo: 2: faden-pup-o, fad-en-pup-o
+fagocito: 2: fag-o-cit-o, fagocit-o
+fagopiro: 2: fag-op-ir-o, fagopir-o
+fajfilego: 3: fajf-il-eg-o, faj-fi-leg-o, faj-fil-eg-o
+fajfilo: 2: fajf-il-o, faj-fil-o
+fajlilo: 2: fajl-il-o, faj-lil-o
+fajrestingilo: 3: faj-rest-ing-il-o, fajr-est-ing-il-o, fajr-esting-il-o
+fajrestingisto: 2: faj-rest-in-gist-o, fajr-est-in-gist-o
+fajrobrigadano: 2: fajr-o-brigad-an-o, fajr-o-brig-a-dan-o
+faksilo: 2: fak-sil-o, faks-il-o
+faksimilo: 2: fak-simil-o, faksimil-o
+faktoreca: 3: fak-tor-ec-a, fakt-or-ec-a, faktor-ec-a
+faktorio: 2: fak-tori-o, faktori-o
+faktoro: 3: fak-tor-o, fakt-or-o, faktor-o
+fakturi: 3: fak-tur-i, fakt-ur-i, faktur-i
+fakturo: 3: fak-tur-o, fakt-ur-o, faktur-o
+falĉileto: 2: falĉ-il-et-o, fal-ĉil-et-o
+falĉilo: 2: falĉ-il-o, fal-ĉil-o
+familia: 2: fam-ili-a, famili-a
+familiano: 3: fam-ili-an-o, fam-il-i-an-o, famili-an-o
+familiara: 4: fam-ili-ar-a, fam-il-i-ar-a, famili-ar-a, familiar-a
+familiareco: 4: fam-ili-ar-ec-o, fam-il-i-ar-ec-o, famili-ar-ec-o, familiar-ec-o
+familiarulo: 4: fam-ili-ar-ul-o, fam-il-ia-rul-o, famili-ar-ul-o, familiar-ul-o
+familiestro: 3: fam-ili-estr-o, fam-il-i-estr-o, famili-estr-o
+familinomo: 3: fam-ili-nom-o, fam-il-in-om-o, famili-nom-o
+familio: 2: fam-ili-o, famili-o
+fanatikeco: 2: fanatik-ec-o, fan-a-tik-ec-o
+fanatikulo: 3: fanatik-ul-o, fan-a-ti-kul-o, fan-a-tik-ul-o
+fandigi: 2: fand-ig-i, fan-dig-i
+fanfaroni: 2: fanfar-on-i, fanfaron-i
+fanfaronulo: 3: fanfar-on-ul-o, fanfaron-ul-o, fan-far-on-ul-o
+faraono: 2: far-a-on-o, faraon-o
+farenhejta: 2: far-en-hejt-a, farenhejt-a
+farenhejto: 2: far-en-hejt-o, farenhejt-o
+faringo: 2: far-ing-o, faring-o
+farmobieno: 2: farm-obi-en-o, farm-ob-i-en-o
+farmulo: 2: far-mul-o, farm-ul-o
+fatraso: 2: fat-ras-o, fatras-o
+favora: 2: fav-or-a, favor-a
+favori: 2: fav-or-i, favor-i
+favorigi: 2: fav-or-ig-i, favor-ig-i
+favoro: 2: fav-or-o, favor-o
+februaro: 3: fe-bru-ar-o, feb-ru-ar-o, februar-o
+fekulo: 2: fe-kul-o, fekul-o
+fekundeco: 2: fe-kun-dec-o, fekund-ec-o
+fekundigi: 2: fe-kun-dig-i, fekund-ig-i
+feliĉigi: 2: feliĉ-ig-i, fel-iĉ-ig-i
+felietono: 2: fe-li-et-on-o, felieton-o
+feluko: 2: fe-luk-o, feluk-o
+feminismo: 2: fe-min-ism-o, femin-ism-o
+femino: 2: fe-min-o, femin-o
+femuro: 2: fe-mur-o, femur-o
+fenestreto: 5: fe-ne-stret-o, fe-nest-ret-o, fenestr-et-o, fen-est-ret-o, fen-estr-et-o
+fenestrobreto: 4: fe-nest-rob-ret-o, fenestr-ob-ret-o, fen-est-rob-ret-o, fen-estr-ob-ret-o
+fenikso: 2: fe-niks-o, feniks-o
+fenikuro: 2: fe-ni-kur-o, fenikur-o
+fenomena: 3: fe-nom-en-a, fen-om-en-a, fenomen-a
+fenomeno: 3: fe-nom-en-o, fen-om-en-o, fenomen-o
+fenotipo: 3: fe-no-tip-o, fen-o-tip-o, fenotip-o
+fermato: 2: fer-mat-o, fermat-o
+fermenti: 2: fer-ment-i, ferment-i
+fermento: 2: fer-ment-o, ferment-o
+fermio: 2: fer-mi-o, fermi-o
+fervora: 2: fer-vor-a, fervor-a
+fervori: 2: fer-vor-i, fervor-i
+fervorigi: 2: fer-vor-ig-i, fervor-ig-i
+fervoro: 2: fer-vor-o, fervor-o
+festeni: 2: fe-sten-i, festen-i
+festeno: 2: fe-sten-o, festen-o
+festivalo: 2: fest-i-val-o, festival-o
+festono: 2: fest-on-o, feston-o
+festuko: 2: fe-stuk-o, festuk-o
+fetora: 3: fe-tor-a, fet-or-a, fetor-a
+fetori: 3: fe-tor-i, fet-or-i, fetor-i
+fetoro: 3: fe-tor-o, fet-or-o, fetor-o
+fiakro: 2: fi-akr-o, fiakr-o
+fianĉigi: 2: fi-anĉ-ig-i, fianĉ-ig-i
+fianĉiĝi: 2: fi-anĉ-iĝ-i, fianĉ-iĝ-i
+fianĉiniĝi: 3: fi-anĉ-in-iĝ-i, fi-an-ĉin-iĝ-i, fianĉ-in-iĝ-i
+fianĉiniĝo: 3: fi-anĉ-in-iĝ-o, fi-an-ĉin-iĝ-o, fianĉ-in-iĝ-o
+fianĉino: 3: fi-anĉ-in-o, fi-an-ĉin-o, fianĉ-in-o
+fianĉo: 2: fi-anĉ-o, fianĉ-o
+fibreto: 2: fi-bret-o, fibr-et-o
+fibulo: 2: fi-bul-o, fibul-o
+fideleco: 2: fidel-ec-o, fid-el-ec-o
+fidelulo: 2: fidel-ul-o, fid-el-ul-o
+fiera: 2: fi-er-a, fier-a
+fiereco: 2: fi-er-ec-o, fier-ec-o
+fieri: 2: fi-er-i, fier-i
+fierinda: 2: fi-er-ind-a, fier-ind-a
+fiero: 2: fi-er-o, fier-o
+fierulo: 2: fi-er-ul-o, fier-ul-o
+figarbo: 2: fi-garb-o, fig-arb-o
+figokakto: 2: fi-go-kakt-o, fig-ok-akt-o
+figura: 2: fig-ur-a, figur-a
+figuri: 2: fig-ur-i, figur-i
+figuro: 2: fig-ur-o, figur-o
+fiksilo: 2: fik-sil-o, fiks-il-o
+filamento: 3: fi-lam-ent-o, fi-lament-o, filament-o
+filantropio: 2: fi-lan-tro-pi-o, filantropi-o
+filantropo: 2: fi-lan-trop-o, filantrop-o
+filatelio: 2: fi-lat-e-li-o, filateli-o
+filatelisto: 2: fi-lat-e-list-o, fil-a-te-list-o
+filatelo: 2: fi-lat-el-o, filatel-o
+filigi: 2: fi-lig-i, fil-ig-i
+filigrani: 2: fi-lig-ran-i, filigran-i
+filigrano: 2: fi-lig-ran-o, filigran-o
+filiko: 2: fi-lik-o, filik-o
+filino: 2: fi-lin-o, fil-in-o
+filio: 2: fi-li-o, fili-o
+filipinoj: 5: fi-li-pi-no-j, fi-lip-i-no-j, fili-pi-no-j, filip-i-no-j, fil-i-pi-no-j
+filipo: 2: fi-lip-o, filip-o
+filmaktoro: 2: film-akt-or-o, film-aktor-o
+filologo: 2: fil-o-log-o, filolog-o
+filozofii: 3: fi-loz-o-fi-i, fil-o-zo-fi-i, filozofi-i
+filozofio: 3: fi-loz-o-fi-o, fil-o-zo-fi-o, filozofi-o
+filtrilo: 2: fil-tril-o, filtr-il-o
+financisto: 2: fi-nan-cist-o, fin-an-cist-o
+finia: 2: fi-ni-a, fini-a
+firmamento: 2: firm-ament-o, firmament-o
+firstolinio: 2: first-o-li-ni-o, first-o-lini-o
+fisio: 2: fi-si-o, fisi-o
+fiŝerco: 2: fi-ŝerc-o, fiŝ-erc-o
+flagreti: 2: flag-ret-i, flagr-et-i
+flakono: 2: flak-on-o, flakon-o
+flakurtio: 2: flak-ur-ti-o, flakurti-o
+flankeniĝi: 2: flank-en-iĝ-i, flan-ken-iĝ-i
+flankeniri: 2: flank-en-ir-i, flan-ken-ir-i
+flavbekulo: 2: flav-be-kul-o, flav-bek-ul-o
+flegmono: 3: fleg-mon-o, flegm-on-o, flegmon-o
+florido: 2: flor-id-o, florid-o
+floslinio: 2: flos-li-ni-o, flos-lini-o
+flughaveno: 2: flug-hav-en-o, flug-haven-o
+flugmaŝino: 2: flug-maŝ-in-o, flug-maŝin-o
+flugsciuro: 2: flug-sci-ur-o, flug-sciur-o
+fluida: 2: flu-id-a, fluid-a
+fluidigi: 2: flu-id-ig-i, fluid-ig-i
+fluidiĝi: 2: flu-id-iĝ-i, fluid-iĝ-i
+fluido: 2: flu-id-o, fluid-o
+fluoro: 2: flu-or-o, fluor-o
+fojnofebro: 2: foj-no-febr-o, fojn-o-febr-o
+foliaro: 2: fol-i-ar-o, foli-ar-o
+folklora: 2: fol-klor-a, folklor-a
+folkloro: 2: fol-klor-o, folklor-o
+fonduo: 2: fon-du-o, fondu-o
+fonemo: 2: fon-em-o, fonem-o
+fonetika: 2: fon-etik-a, fonetik-a
+fonetiko: 2: fon-etik-o, fonetik-o
+fonografo: 2: fon-o-graf-o, fonograf-o
+fontanelo: 2: fon-tan-el-o, fontanel-o
+fontano: 2: fon-tan-o, fontan-o
+foraĉeti: 2: for-aĉ-et-i, for-aĉet-i
+fordecidi: 2: for-dec-id-i, for-decid-i
+forfikulo: 3: for-fi-kul-o, for-fik-ul-o, forfikul-o
+forklini: 2: for-klin-i, fork-lin-i
+forkonduki: 2: for-konduk-i, fork-on-duk-i
+forkonsumi: 3: for-kon-sum-i, for-konsum-i, fork-on-sum-i
+forkurigi: 2: for-kur-ig-i, fork-ur-ig-i
+forliberigi: 2: for-li-ber-ig-i, for-liber-ig-i
+formalino: 2: formal-in-o, formalin-o
+formato: 2: for-mat-o, format-o
+formeti: 2: for-met-i, form-et-i
+formolo: 2: for-mol-o, formol-o
+formorti: 2: for-mort-i, form-ort-i
+formortigi: 4: for-mor-tig-i, for-mort-ig-i, form-or-tig-i, form-ort-ig-i
+formularo: 3: for-mul-ar-o, form-ul-ar-o, formul-ar-o
+formuli: 3: for-mul-i, form-ul-i, formul-i
+formulo: 3: for-mul-o, form-ul-o, formul-o
+fornego: 2: for-neg-o, forn-eg-o
+fornikso: 2: for-niks-o, forniks-o
+fornomi: 2: for-nom-i, forn-om-i
+forpermesi: 2: for-per-mes-i, for-permes-i
+forregali: 2: for-re-gal-i, for-regal-i
+forrifuzi: 2: for-rif-uz-i, for-rifuz-i
+forsitio: 2: for-si-ti-o, forsiti-o
+forteni: 2: for-ten-i, fort-en-i
+forteno: 2: for-ten-o, fort-en-o
+fortepiano: 5: for-te-pi-an-o, for-te-pian-o, fort-e-pi-an-o, fort-e-pian-o, fortepian-o
+fortega: 2: for-teg-a, fort-eg-a
+fortika: 2: for-tik-a, fortik-a
+fortikigi: 2: for-tik-ig-i, fortik-ig-i
+fortuno: 2: for-tun-o, fortun-o
+forturni: 2: for-turn-i, fort-urn-i
+forveturi: 3: for-ve-tur-i, for-vet-ur-i, for-vetur-i
+fosilio: 2: fos-ili-o, fosili-o
+fotografi: 2: fot-o-graf-i, fotograf-i
+fotografilo: 2: fot-ogr-a-fil-o, fotograf-il-o
+fotografio: 2: fot-ogr-a-fi-o, fotografi-o
+fotografo: 2: fot-o-graf-o, fotograf-o
+fotokopiilo: 2: fot-ok-op-i-il-o, fot-ok-opi-il-o
+franciskano: 2: franc-i-skan-o, francisk-an-o
+frapinstrumento: 2: frap-instru-ment-o, frap-instrument-o
+frezmaŝino: 2: frez-maŝ-in-o, frez-maŝin-o
+fritilario: 2: frit-il-ari-o, fritilari-o
+frontono: 2: front-on-o, fronton-o
+fuksio: 2: fuk-si-o, fuksi-o
+fumario: 2: fum-ari-o, fumari-o
+fundamentismo: 3: fundament-ism-o, fund-ament-ism-o, fund-am-ent-ism-o
+furori: 2: fur-or-i, furor-i
+furoro: 2: fur-or-o, furor-o
+futbalo: 2: fut-bal-o, futbal-o
+futurismo: 2: fut-ur-ism-o, futur-ism-o
+futuro: 2: fut-ur-o, futur-o
+fuzelaĝo: 2: fuz-el-aĝ-o, fuzelaĝ-o
+fuziliero: 3: fuz-ili-er-o, fuz-il-i-er-o, fuzilier-o
+gadolinio: 3: gad-o-li-ni-o, gad-o-lini-o, gadolini-o
+galanterio: 2: galant-eri-o, galanteri-o
+galantino: 2: galant-in-o, galantin-o
+galiono: 2: gali-on-o, galion-o
+galono: 2: gal-on-o, galon-o
+galope: 2: gal-op-e, galop-e
+galopi: 2: gal-op-i, galop-i
+galopo: 2: gal-op-o, galop-o
+galvanaplastiko: 2: gal-van-a-plastik-o, galvanaplastik-o
+gangliono: 2: gangli-on-o, ganglion-o
+gangreniĝi: 2: gang-ren-iĝ-i, gangren-iĝ-i
+gangreno: 2: gang-ren-o, gangren-o
+garnituro: 2: garn-i-tur-o, garnitur-o
+garnizono: 2: garn-i-zon-o, garnizon-o
+gasometro: 2: gas-o-metr-o, gasometr-o
+gastiganto: 2: gas-ti-gant-o, gast-i-gant-o
+gastigi: 2: gas-tig-i, gast-ig-i
+gastono: 3: gas-ton-o, gast-on-o, gaston-o
+gastronomio: 3: gas-tro-no-mi-o, gas-tron-o-mi-o, gastronomi-o
+gastronomo: 3: gas-tro-nom-o, gas-tron-om-o, gastronom-o
+gazetaro: 2: gazet-ar-o, gaz-et-ar-o
+gazono: 2: gaz-on-o, gazon-o
+gazontondilo: 2: gaz-on-tond-il-o, gazon-tond-il-o
+geniulo: 2: geni-ul-o, gen-i-ul-o
+gibono: 2: gib-on-o, gibon-o
+gimnastikilo: 2: gimnastik-il-o, gimnast-i-kil-o
+glaceigi: 2: glace-ig-i, glac-e-ig-i
+glaciaro: 2: glaci-ar-o, glac-i-ar-o
+glacianaso: 2: glaci-anas-o, glac-ia-nas-o
+glaciejo: 2: glaci-ej-o, glac-i-ej-o
+glaciigi: 2: glaci-ig-i, glac-i-ig-i
+glaciiĝi: 2: glaci-iĝ-i, glac-i-iĝ-i
+glaciinsulo: 2: glaci-insul-o, glac-i-insul-o
+glacimonto: 2: glaci-mont-o, glac-i-mont-o
+glacipluvo: 2: glaci-pluv-o, glac-i-pluv-o
+glacirivero: 2: glaci-river-o, glac-ir-iv-er-o
+gladiatoro: 2: glad-ia-tor-o, gladiator-o
+gladotabulo: 2: glad-o-tab-ul-o, glad-o-tabul-o
+glitveturilo: 3: glit-ve-tur-il-o, glit-vet-ur-il-o, glit-vetur-il-o
+globulario: 2: glob-ul-ari-o, globulari-o
+gluteo: 2: glu-te-o, glute-o
+glutema: 2: glu-tem-a, glut-em-a
+glutamato: 2: glut-a-mat-o, glutamat-o
+gluteno: 3: glu-ten-o, glut-en-o, gluten-o
+golfeto: 2: golf-et-o, gol-fet-o
+golulo: 2: gol-ul-o, go-lul-o
+gotika: 2: go-tik-a, gotik-a
+gracieco: 2: graci-ec-o, grac-i-ec-o
+gradiento: 2: grad-i-ent-o, gradient-o
+grafemo: 2: graf-em-o, grafem-o
+grafismo: 2: graf-ism-o, grafism-o
+grafitio: 2: graf-i-ti-o, grafiti-o
+grafologo: 2: graf-o-log-o, grafolog-o
+gramofondisko: 2: gram-o-fon-disk-o, gramofon-disk-o
+gramofono: 2: gram-o-fon-o, gramofon-o
+grandvalora: 2: grand-val-or-a, grand-valor-a
+gratifiki: 2: grat-i-fik-i, gratifik-i
+gratifiko: 2: grat-i-fik-o, gratifik-o
+gratuli: 2: grat-ul-i, gratul-i
+gratulo: 2: grat-ul-o, gratul-o
+gravedeco: 2: grav-e-dec-o, graved-ec-o
+gravedigi: 2: grav-e-dig-i, graved-ig-i
+gravuri: 2: grav-ur-i, gravur-i
+gravurilo: 2: grav-ur-il-o, gravur-il-o
+grenatkolora: 2: grenat-kol-or-a, grenat-kolor-a
+grupeto: 2: gru-pet-o, grup-et-o
+grupigi: 2: gru-pig-i, grup-ig-i
+gumiguto: 2: gum-i-gut-o, gumigut-o
+gutaperko: 2: gut-a-perk-o, gutaperk-o
+guturalo: 2: gut-ural-o, gutural-o
+gvatemalano: 2: gvatemal-an-o, gvat-em-a-lan-o
+haktabulo: 2: hak-tab-ul-o, hak-tabul-o
+halogeno: 2: hal-o-gen-o, halogen-o
+haloveno: 3: hal-ov-en-o, halo-ven-o, haloven-o
+haltero: 2: hal-ter-o, halter-o
+haltigi: 2: hal-tig-i, halt-ig-i
+haltigilo: 2: hal-tig-il-o, halt-ig-il-o
+handikapulo: 3: handikap-ul-o, han-dik-a-pul-o, han-di-kap-ul-o
+hardeco: 2: har-dec-o, hard-ec-o
+haremo: 2: har-em-o, harem-o
+haringo: 2: har-ing-o, haring-o
+harmona: 2: har-mon-a, harmon-a
+harmoniigi: 3: har-mon-i-ig-i, harmon-i-ig-i, harmoni-ig-i
+harmono: 2: har-mon-o, harmon-o
+harpio: 2: har-pi-o, harpi-o
+harpuno: 2: har-pun-o, harpun-o
+havano: 2: hav-an-o, havan-o
+havenimposto: 2: hav-en-impost-o, haven-impost-o
+haveno: 2: hav-en-o, haven-o
+heleboro: 2: hel-e-bor-o, helebor-o
+heleno: 2: hel-en-o, helen-o
+helero: 2: hel-er-o, heler-o
+helico: 2: hel-ic-o, helic-o
+helikoptero: 2: helik-op-ter-o, helikopter-o
+helikrizo: 3: hel-i-kriz-o, helik-riz-o, helikriz-o
+helikso: 2: hel-iks-o, heliks-o
+heliografo: 2: hel-i-o-graf-o, heliograf-o
+heliostato: 2: hel-i-o-stat-o, heliostat-o
+heliotropo: 2: hel-i-o-trop-o, heliotrop-o
+helpilo: 2: hel-pil-o, help-il-o
+helsinko: 2: hel-sink-o, helsink-o
+helvelo: 2: hel-vel-o, helvel-o
+heroino: 2: hero-in-o, heroin-o
+hidalgo: 2: hid-alg-o, hidalg-o
+hidrokarbono: 3: hid-rok-arb-on-o, hid-rok-ar-bon-o, hidrokarbon-o
+hinduismo: 2: hindu-ism-o, hin-du-ism-o
+hisopo: 2: his-op-o, hisop-o
+hispana: 2: his-pan-a, hispan-a
+hispano: 2: his-pan-o, hispan-o
+hispanujo: 2: his-pan-uj-o, hispan-uj-o
+histeriulo: 4: his-ter-i-ul-o, histeri-ul-o, hist-eri-ul-o, hist-er-i-ul-o
+historia: 2: his-tori-a, histori-a
+historio: 2: his-tori-o, histori-o
+histriko: 2: his-trik-o, histrik-o
+histriono: 2: his-tri-on-o, histrion-o
+homero: 2: hom-er-o, homer-o
+homologa: 2: hom-o-log-a, homolog-a
+homologeco: 2: hom-o-log-ec-o, homolog-ec-o
+homogena: 2: hom-o-gen-a, homogen-a
+honorario: 2: honor-ari-o, honorari-o
+horloĝbombo: 2: horloĝ-bomb-o, hor-loĝ-bomb-o
+horora: 2: hor-or-a, horor-a
+horori: 2: hor-or-i, horor-i
+hororo: 2: hor-or-o, horor-o
+hortensio: 3: hor-ten-si-o, hor-tensi-o, hortensi-o
+hortikulturo: 5: hor-ti-kul-tur-o, hor-ti-kult-ur-o, hor-ti-kultur-o, hor-tik-ul-tur-o, hortikultur-o
+hortulano: 2: hor-tul-an-o, hortulan-o
+hostimontrilo: 6: hos-ti-mon-tril-o, hos-ti-montr-il-o, hos-tim-on-tril-o, hos-timon-tril-o, hosti-mon-tril-o, hosti-montr-il-o
+hostio: 2: hos-ti-o, hosti-o
+huligano: 2: hu-lig-an-o, huligan-o
+humana: 2: hu-man-a, human-a
+humiligi: 2: hu-mi-lig-i, humil-ig-i
+humoro: 2: hu-mor-o, humor-o
+humura: 2: hu-mur-a, humur-a
+humuri: 2: hu-mur-i, humur-i
+humuro: 2: hu-mur-o, humur-o
+iamaniere: 2: ia-manier-e, iam-an-i-er-e
+idealisto: 2: ide-a-list-o, id-e-a-list-o
+idearo: 2: ide-ar-o, id-e-ar-o
+ideismo: 2: ide-ism-o, id-e-ism-o
+identeco: 2: ident-ec-o, id-ent-ec-o
+identigi: 3: ident-ig-i, id-en-tig-i, id-ent-ig-i
+identiĝi: 3: ident-iĝ-i, id-en-tiĝ-i, id-ent-iĝ-i
+identigilo: 3: ident-ig-il-o, id-en-tig-il-o, id-ent-ig-il-o
+ideografio: 2: ide-ogr-a-fi-o, ideografi-o
+ideogramo: 2: ide-ogr-am-o, ideogram-o
+idiotigi: 2: idiot-ig-i, id-i-o-tig-i
+idiotiĝi: 2: idiot-iĝ-i, id-i-o-tiĝ-i
+idolano: 2: id-o-lan-o, idol-an-o
+igvano: 2: ig-van-o, igvan-o
+ilmaŝino: 2: il-maŝ-in-o, il-maŝin-o
+imaginara: 2: imag-in-ar-a, imaginar-a
+imaginaro: 2: imag-in-ar-o, imaginar-o
+imperialismo: 2: imperial-ism-o, imperialism-o
+impresario: 2: impres-ari-o, impresari-o
+impresionismo: 2: impres-i-on-ism-o, impresionism-o
+inciteti: 2: incit-et-i, in-cit-et-i
+incitiĝi: 2: incit-iĝ-i, in-cit-iĝ-i
+indeco: 2: ind-ec-o, in-dec-o
+indiana: 3: ind-i-an-a, indi-an-a, indian-a
+indiano: 3: ind-i-an-o, indi-an-o, indian-o
+indico: 2: ind-ic-o, indic-o
+indieno: 3: ind-i-en-o, indi-en-o, indien-o
+indiferenta: 5: ind-i-fe-rent-a, ind-i-fer-ent-a, indi-fe-rent-a, indi-fer-ent-a, indiferent-a
+indiferente: 5: ind-i-fe-rent-e, ind-i-fer-ent-e, indi-fe-rent-e, indi-fer-ent-e, indiferent-e
+indiferenteco: 7: ind-i-fe-rent-ec-o, ind-i-fer-ent-ec-o, indi-fe-rent-ec-o, indi-fer-ent-ec-o, indiferent-ec-o, in-di-fe-rent-ec-o, in-di-fer-ent-ec-o
+indignigi: 2: indign-ig-i, in-dign-ig-i
+indiĝena: 3: ind-iĝ-en-a, indi-ĝen-a, indiĝen-a
+indiĝeno: 3: ind-iĝ-en-o, indi-ĝen-o, indiĝen-o
+indikativo: 3: ind-i-kat-iv-o, indi-kat-iv-o, indikativ-o
+indikatoro: 4: ind-i-kat-or-o, indi-kat-or-o, indik-a-tor-o, indikator-o
+indikilo: 5: ind-i-kil-o, indi-kil-o, indik-il-o, in-dik-il-o, in-di-kil-o
+individualisto: 2: ind-iv-i-du-a-list-o, individualist-o
+individualismo: 2: ind-iv-i-dual-ism-o, individualism-o
+individueco: 2: ind-iv-i-du-ec-o, individu-ec-o
+individuismo: 2: ind-iv-i-du-ism-o, individu-ism-o
+individuo: 2: ind-iv-i-du-o, individu-o
+indulgema: 2: ind-ul-gem-a, indulg-em-a
+infanaĝo: 2: infan-aĝ-o, in-fan-aĝ-o
+infanĉareto: 2: infan-ĉar-et-o, in-fan-ĉar-et-o
+infaneco: 2: infan-ec-o, in-fan-ec-o
+infaneto: 2: infan-et-o, in-fan-et-o
+infanĝardeno: 2: infan-ĝarden-o, in-fan-ĝarden-o
+infanteriano: 3: infan-ter-i-an-o, infanteri-an-o, in-fan-ter-i-an-o
+inflamigi: 2: inflam-ig-i, in-flam-ig-i
+informadiko: 2: inform-a-dik-o, in-form-a-dik-o
+informatiko: 2: inform-a-tik-o, informatik-o
+informejo: 2: inform-ej-o, in-form-ej-o
+informiĝi: 2: inform-iĝ-i, in-form-iĝ-i
+informilo: 2: inform-il-o, in-form-il-o
+infuziĝi: 2: infuz-iĝ-i, in-fuz-iĝ-i
+ingveno: 2: ing-ven-o, ingven-o
+inĝeniero: 2: inĝeni-er-o, inĝenier-o
+inhalilo: 2: inhal-il-o, in-hal-il-o
+iniciatemo: 3: inic-ia-tem-o, iniciat-em-o, in-ic-ia-tem-o
+iniciatinto: 2: inic-ia-tint-o, in-ic-ia-tint-o
+iniciativo: 2: iniciat-iv-o, iniciativ-o
+iniciatoro: 3: inic-ia-tor-o, iniciat-or-o, iniciator-o
+injektoro: 2: injekt-or-o, injektor-o
+inkliniĝi: 3: inklin-iĝ-i, ink-lin-iĝ-i, in-klin-iĝ-i
+inkrusti: 2: ink-rust-i, inkrust-i
+inokuli: 3: in-ok-ul-i, in-okul-i, inokul-i
+insekticido: 2: in-sekt-ic-id-o, insekt-ic-id-o
+insekto: 2: in-sekt-o, insekt-o
+insida: 2: in-sid-a, insid-a
+insidi: 2: in-sid-i, insid-i
+insido: 2: in-sid-o, insid-o
+insigno: 2: in-sign-o, insign-o
+insolenta: 2: in-sol-ent-a, insolent-a
+inspekti: 2: in-spekt-i, inspekt-i
+inspektoro: 3: in-spekt-or-o, inspekt-or-o, inspektor-o
+inspiri: 2: in-spir-i, inspir-i
+inspiriĝi: 2: in-spir-iĝ-i, inspir-iĝ-i
+inspiro: 2: in-spir-o, inspir-o
+instali: 2: in-stal-i, instal-i
+instanco: 2: in-stanc-o, instanc-o
+instrumento: 2: instru-ment-o, instrument-o
+insultema: 2: insul-tem-a, insult-em-a
+integrado: 2: in-teg-rad-o, in-te-grad-o
+integralo: 2: in-teg-ral-o, integral-o
+integrismo: 2: in-teg-rism-o, integr-ism-o
+intelekta: 2: in-te-lekt-a, intelekt-a
+intelekto: 2: in-te-lekt-o, intelekt-o
+intelektularo: 3: in-te-lek-tul-ar-o, in-te-lekt-ul-ar-o, intelekt-ul-ar-o
+intelektulo: 3: in-te-lek-tul-o, in-te-lekt-ul-o, intelekt-ul-o
+inteligenta: 3: in-te-li-gent-a, in-te-lig-ent-a, inteligent-a
+inteligenteco: 3: in-te-li-gent-ec-o, in-te-lig-ent-ec-o, inteligent-ec-o
+inteligento: 3: in-te-li-gent-o, in-te-lig-ent-o, inteligent-o
+interdikto: 2: in-ter-dikt-o, interdikt-o
+interferi: 2: in-ter-fer-i, interfer-i
+interfero: 2: in-ter-fer-o, interfer-o
+interkompreniĝi: 2: in-ter-kom-pren-iĝ-i, in-ter-kompren-iĝ-i
+interkomuniki: 2: in-ter-kom-unik-i, in-ter-komunik-i
+interkomunikigi: 2: in-ter-kom-unik-ig-i, in-ter-komunik-ig-i
+interkonformigi: 2: in-ter-konform-ig-i, in-ter-kon-form-ig-i
+interkonformiĝi: 2: in-ter-konform-iĝ-i, in-ter-kon-form-iĝ-i
+interkonsenti: 2: in-ter-kon-sent-i, in-ter-konsent-i
+interkonsento: 2: in-ter-kon-sent-o, in-ter-konsent-o
+interlingvistiko: 3: in-ter-lingv-i-stik-o, in-ter-lingvistik-o, interlingvistik-o
+intermiksi: 2: in-term-iks-i, in-ter-miks-i
+intermita: 2: in-termit-a, intermit-a
+intermiti: 2: in-termit-i, intermit-i
+interna: 2: in-tern-a, intern-a
+interne: 2: in-tern-e, intern-e
+internigi: 2: in-tern-ig-i, intern-ig-i
+interno: 2: in-tern-o, intern-o
+internulejo: 3: in-tern-ul-ej-o, in-ter-nul-ej-o, intern-ul-ej-o
+internulo: 3: in-tern-ul-o, in-ter-nul-o, intern-ul-o
+interpoli: 2: in-ter-pol-i, interpol-i
+interpreti: 2: in-ter-pret-i, interpret-i
+interpretilo: 2: in-ter-pret-il-o, interpret-il-o
+interpreto: 2: in-ter-pret-o, interpret-o
+intervalo: 2: in-ter-val-o, interval-o
+intestaro: 3: in-te-star-o, in-test-ar-o, intest-ar-o
+intesto: 2: in-test-o, intest-o
+intima: 2: in-tim-a, intim-a
+intimeco: 2: in-tim-ec-o, intim-ec-o
+invadi: 2: in-vad-i, invad-i
+invado: 2: in-vad-o, invad-o
+invalideco: 3: in-valid-ec-o, in-val-id-ec-o, invalid-ec-o
+invalido: 2: in-valid-o, invalid-o
+inventari: 3: in-ven-tar-i, in-vent-ar-i, inventar-i
+inventaro: 3: in-ven-tar-o, in-vent-ar-o, inventar-o
+inventi: 2: in-vent-i, invent-i
+invento: 2: in-vent-o, invent-o
+inversa: 2: in-vers-a, invers-a
+inverse: 2: in-vers-e, invers-e
+inversigi: 2: in-vers-ig-i, invers-ig-i
+investi: 2: in-vest-i, invest-i
+investituri: 3: in-vest-i-tur-i, invest-i-tur-i, investitur-i
+investituro: 3: in-vest-i-tur-o, invest-i-tur-o, investitur-o
+investo: 2: in-vest-o, invest-o
+inviti: 2: in-vit-i, invit-i
+invitilo: 2: in-vit-il-o, invit-il-o
+invito: 2: in-vit-o, invit-o
+irakano: 2: irak-an-o, ir-a-kan-o
+iranano: 2: iran-an-o, ir-an-an-o
+iridio: 2: ir-i-di-o, iridi-o
+irido: 2: ir-id-o, irid-o
+irlanda: 2: ir-land-a, irland-a
+irlandano: 3: ir-land-an-o, ir-lan-dan-o, irland-an-o
+irlando: 2: ir-land-o, irland-o
+ironia: 2: ir-oni-a, ironi-a
+ironii: 2: ir-oni-i, ironi-i
+ironio: 2: ir-oni-o, ironi-o
+jakobeno: 2: jak-ob-en-o, jakoben-o
+jakobo: 2: jak-ob-o, jakob-o
+ĵetono: 2: ĵet-on-o, ĵeton-o
+jodoformo: 2: jod-o-form-o, jodoform-o
+judaismo: 2: jud-a-ism-o, judaism-o
+juglandarbo: 2: jugland-arb-o, jug-land-arb-o
+juglandujo: 2: jugland-uj-o, jug-land-uj-o
+jugoslava: 2: jug-osl-av-a, jugoslav-a
+jugoslavo: 2: jug-osl-av-o, jugoslav-o
+jugoslavujo: 2: jug-osl-av-uj-o, jugoslav-uj-o
+jukono: 2: juk-on-o, jukon-o
+jungitaro: 2: jun-gitar-o, jung-i-tar-o
+juniperbrando: 3: jun-i-per-brand-o, juni-per-brand-o, juniper-brand-o
+junipero: 3: jun-i-per-o, juni-per-o, juniper-o
+justico: 2: just-ic-o, justic-o
+kablogramo: 2: kabl-ogr-am-o, kablogram-o
+kaboverdo: 2: kab-o-verd-o, kaboverd-o
+kabulo: 2: kab-ul-o, kabul-o
+kaĉaloto: 2: kaĉ-a-lot-o, kaĉalot-o
+kafpulvoro: 3: kaf-pul-vor-o, kaf-pulv-or-o, kaf-pulvor-o
+kaftano: 2: kaf-tan-o, kaftan-o
+kalabaso: 2: kal-a-bas-o, kalabas-o
+kalandrilo: 2: kal-an-dril-o, kalandr-il-o
+kalcedono: 2: kal-ced-on-o, kalcedon-o
+kalcitri: 2: kal-citr-i, kalcitr-i
+kaldronego: 2: kal-dron-eg-o, kaldron-eg-o
+kaldrono: 2: kal-dron-o, kaldron-o
+kalendulo: 2: kalend-ul-o, kalendul-o
+kalibrigi: 3: kal-i-brig-i, kalibr-ig-i, kali-brig-i
+kalibrilo: 3: kal-i-bril-o, kalibr-il-o, kali-bril-o
+kalifornio: 3: kal-i-for-ni-o, kalif-or-ni-o, kaliforni-o
+kaligrafo: 2: kal-i-graf-o, kaligraf-o
+kalikoto: 2: kal-i-kot-o, kalikot-o
+kaliningrado: 3: kal-in-ing-rad-o, kal-in-in-grad-o, kaliningrad-o
+kalkano: 2: kal-kan-o, kalkan-o
+kalkuli: 3: kal-kul-i, kalk-ul-i, kalkul-i
+kalkulilo: 4: kal-kul-il-o, kal-ku-lil-o, kalk-ul-il-o, kalkul-il-o
+kalkulo: 3: kal-kul-o, kalk-ul-o, kalkul-o
+kalmaro: 2: kal-mar-o, kalmar-o
+kalmuko: 2: kal-muk-o, kalmuk-o
+kalomelo: 2: kal-om-el-o, kalomel-o
+kalpako: 2: kal-pak-o, kalpak-o
+kalsono: 2: kal-son-o, kalson-o
+kalvario: 3: kal-vari-o, kalv-ari-o, kalvari-o
+kalvinano: 3: kal-vin-an-o, kalv-in-an-o, kalvin-an-o
+kalvinismo: 3: kal-vin-ism-o, kalv-in-ism-o, kalvin-ism-o
+kalvino: 3: kal-vin-o, kalv-in-o, kalvin-o
+kamaradino: 2: kamarad-in-o, kam-a-rad-in-o
+kamenkapuĉo: 2: kamen-kapuĉ-o, kam-en-kapuĉ-o
+kamentubo: 2: kamen-tub-o, kam-en-tub-o
+kameruno: 2: kame-run-o, kamerun-o
+kamioneto: 2: kamion-et-o, kam-i-on-et-o
+kamomilo: 2: kam-om-il-o, kamomil-o
+kampalo: 2: kam-pal-o, kampal-o
+kampanilo: 2: kam-pan-il-o, kampanil-o
+kampanji: 2: kam-panj-i, kampanj-i
+kampanjo: 2: kam-panj-o, kampanj-o
+kampanulo: 2: kam-pan-ul-o, kampanul-o
+kamparano: 2: kam-par-an-o, kamp-ar-an-o
+kamparo: 2: kam-par-o, kamp-ar-o
+kampeĉo: 2: kam-peĉ-o, kampeĉ-o
+kampulo: 2: kam-pul-o, kamp-ul-o
+kanadano: 3: kanad-an-o, kana-dan-o, kan-a-dan-o
+kanajlaro: 2: kanajl-ar-o, kan-ajl-ar-o
+kanaligi: 3: kanal-ig-i, kana-lig-i, kan-a-lig-i
+kandelfesto: 3: kandel-fest-o, kand-el-fest-o, kand-elf-est-o
+kandelingo: 2: kandel-ing-o, kand-el-ing-o
+kanibalismo: 2: kanibal-ism-o, kan-i-bal-ism-o
+kanona: 2: kan-on-a, kanon-a
+kanoni: 2: kan-on-i, kanon-i
+kanonizi: 2: kan-o-niz-i, kanoniz-i
+kanono: 2: kan-on-o, kanon-o
+kantarelo: 2: kan-tar-el-o, kantarel-o
+kantarido: 2: kan-tar-id-o, kantarid-o
+kantiko: 2: kan-tik-o, kantik-o
+kantino: 3: kan-tin-o, kant-in-o, kantin-o
+kantio: 2: kan-ti-o, kanti-o
+kantono: 3: kan-ton-o, kant-on-o, kanton-o
+kantoro: 3: kan-tor-o, kant-or-o, kantor-o
+kantonmento: 4: kan-ton-ment-o, kant-on-ment-o, kanton-ment-o, kantonment-o
+kanulo: 2: kan-ul-o, kanul-o
+kanzono: 2: kan-zon-o, kanzon-o
+kapelestro: 2: kapel-estr-o, kap-el-estr-o
+kapilareco: 2: kapilar-ec-o, kap-il-ar-ec-o
+kapitalismo: 2: kapital-ism-o, kap-ital-ism-o
+kapoko: 2: kap-ok-o, kapok-o
+kapokujo: 2: kap-ok-uj-o, kapok-uj-o
+kapono: 2: kap-on-o, kapon-o
+kaporalo: 2: kap-o-ral-o, kaporal-o
+kaporo: 2: kap-or-o, kapor-o
+kaprido: 2: kap-rid-o, kapr-id-o
+kaprifolio: 2: kap-rif-o-li-o, kaprifoli-o
+kaptiĝi: 2: kap-tiĝ-i, kapt-iĝ-i
+kapturniĝo: 2: kap-turn-iĝ-o, kapt-urn-iĝ-o
+kapturno: 2: kap-turn-o, kapt-urn-o
+karabeno: 2: kar-a-ben-o, karaben-o
+karakaso: 2: kar-a-kas-o, karakas-o
+karakoli: 2: kar-a-kol-i, karakol-i
+karakteriza: 2: kar-akt-e-riz-a, karakteriz-a
+karakterizi: 2: kar-akt-e-riz-i, karakteriz-i
+karakterizo: 2: kar-akt-e-riz-o, karakteriz-o
+karaktero: 2: kar-akt-er-o, karakter-o
+karamboli: 2: kar-am-bol-i, karambol-i
+karamelo: 2: kar-amel-o, karamel-o
+karapaco: 2: kar-a-pac-o, karapac-o
+karateo: 2: kar-a-te-o, karate-o
+karavanejo: 2: kar-av-an-ej-o, karavan-ej-o
+karavano: 2: kar-av-an-o, karavan-o
+karavelo: 2: kar-avel-o, karavel-o
+karbolo: 2: kar-bol-o, karbol-o
+karbonhidrato: 3: kar-bon-hid-rat-o, karb-on-hid-rat-o, karbon-hid-rat-o
+karbono: 3: kar-bon-o, karb-on-o, karbon-o
+kardamomo: 2: kar-dam-om-o, kardamom-o
+kardio: 2: kar-di-o, kardi-o
+kardono: 3: kar-don-o, kard-on-o, kardon-o
+kareno: 2: kar-en-o, karen-o
+karierismo: 3: kar-i-er-ism-o, karier-ism-o, kari-er-ism-o
+kariero: 2: kar-i-er-o, karier-o
+karikaturi: 2: kar-i-kat-ur-i, karikatur-i
+karikaturo: 2: kar-i-kat-ur-o, karikatur-o
+kariljono: 2: kar-il-jon-o, kariljon-o
+karintio: 2: kar-in-ti-o, karinti-o
+kariofilaco: 2: kar-i-o-fi-lac-o, kari-o-fi-lac-o
+kariofilo: 3: kar-i-o-fil-o, kari-o-fil-o, kariofil-o
+kariofilujo: 3: kar-i-o-fil-uj-o, kari-o-fil-uj-o, kariofil-uj-o
+karismo: 2: kar-ism-o, karism-o
+karmemora: 3: kar-mem-or-a, kar-memor-a, karm-em-or-a
+karmezina: 2: kar-mez-in-a, karmezin-a
+karmezino: 2: kar-mez-in-o, karmezin-o
+karmino: 2: kar-min-o, karmin-o
+karnokoloro: 4: kar-no-kol-or-o, kar-no-kolor-o, karn-o-kol-or-o, karn-o-kolor-o
+karnulo: 2: kar-nul-o, karn-ul-o
+karobo: 2: kar-ob-o, karob-o
+karolino: 2: kar-o-lin-o, karolin-o
+karono: 2: kar-on-o, karon-o
+karoserio: 3: kar-o-seri-o, karo-seri-o, karoseri-o
+karpeno: 2: kar-pen-o, karpen-o
+kartaro: 2: kar-tar-o, kart-ar-o
+kartono: 3: kar-ton-o, kart-on-o, karton-o
+kartuŝo: 2: kar-tuŝ-o, kartuŝ-o
+kartuziano: 2: kart-uz-i-an-o, kartuzi-an-o
+kartvelo: 2: kart-vel-o, kartvel-o
+kartvelujo: 2: kart-vel-uj-o, kartvel-uj-o
+kasono: 2: kas-on-o, kason-o
+kaspio: 2: kas-pi-o, kaspi-o
+kastoro: 3: kas-tor-o, kast-or-o, kastor-o
+kaŝmiro: 2: kaŝ-mir-o, kaŝmir-o
+kaŝobservi: 2: kaŝ-ob-serv-i, kaŝ-observ-i
+kaŝtanarbo: 2: kaŝ-tan-arb-o, kaŝtan-arb-o
+kaŝtankolora: 4: kaŝ-tan-kol-or-a, kaŝ-tan-kolor-a, kaŝtan-kol-or-a, kaŝtan-kolor-a
+kaŝtano: 2: kaŝ-tan-o, kaŝtan-o
+kaŝtanujo: 2: kaŝ-tan-uj-o, kaŝtan-uj-o
+katalizilo: 2: kataliz-il-o, kat-aliz-il-o
+katalunujo: 2: katalun-uj-o, kat-alun-uj-o
+katarakto: 2: katar-akt-o, katarakt-o
+katolikaro: 3: kat-o-li-kar-o, kat-o-lik-ar-o, katolik-ar-o
+katoliko: 2: kat-o-lik-o, katolik-o
+kavaleriano: 2: kavaleri-an-o, kav-aler-i-an-o
+kavalireca: 2: kavalir-ec-a, kav-a-lir-ec-a
+kavalireco: 2: kavalir-ec-o, kav-a-lir-ec-o
+kaviaro: 2: kav-i-ar-o, kaviar-o
+kazaĥujo: 2: kazaĥ-uj-o, kaz-aĥ-uj-o
+kazeiĝi: 2: kaze-iĝ-i, kaz-e-iĝ-i
+kazeino: 2: kaze-in-o, kaz-e-in-o
+keletaĝo: 2: kel-et-aĝ-o, kel-etaĝ-o
+kelvino: 2: kel-vin-o, kelvin-o
+kernofrukto: 2: kern-o-frukt-o, ker-no-frukt-o
+kinkonino: 2: kinkon-in-o, kin-kon-in-o
+kitono: 2: kit-on-o, kiton-o
+klariona: 2: klar-i-on-a, klarion-a
+klarioni: 2: klar-i-on-i, klarion-i
+klariono: 2: klar-i-on-o, klarion-o
+klarneto: 2: klar-net-o, klarnet-o
+klasifiki: 2: klas-i-fik-i, klasifik-i
+klasifiko: 2: klas-i-fik-o, klasifik-o
+klasikulo: 2: klas-i-kul-o, klasik-ul-o
+klavikordo: 2: klav-i-kord-o, klavikord-o
+klorofilo: 2: klor-o-fil-o, klorofil-o
+kloroformo: 2: klor-o-form-o, kloroform-o
+knedliko: 2: kned-lik-o, knedlik-o
+kokainismo: 3: kokain-ism-o, koka-in-ism-o, kok-ain-ism-o
+kokono: 2: kok-on-o, kokon-o
+kolerema: 2: koler-em-a, kol-er-em-a
+koleretigi: 2: koler-et-ig-i, kol-er-et-ig-i
+kolerigi: 2: koler-ig-i, kol-er-ig-i
+koleriĝi: 2: koler-iĝ-i, kol-er-iĝ-i
+kolerikulo: 5: koler-i-kul-o, kolerik-ul-o, kol-erik-ul-o, kol-eri-kul-o, kol-er-i-kul-o
+kolofono: 2: kol-o-fon-o, kolofon-o
+kolonaro: 2: kol-on-ar-o, kolon-ar-o
+kolonelo: 2: kol-on-el-o, kolonel-o
+koloniano: 4: kol-oni-an-o, kol-on-i-an-o, koloni-an-o, kolon-i-an-o
+koloniismo: 4: kol-oni-ism-o, kol-on-i-ism-o, koloni-ism-o, kolon-i-ism-o
+koloniigi: 4: kol-oni-ig-i, kol-on-i-ig-i, koloni-ig-i, kolon-i-ig-i
+kolonio: 2: kol-oni-o, koloni-o
+kolonjo: 2: kol-onj-o, kolonj-o
+kolono: 2: kol-on-o, kolon-o
+kolorado: 2: kol-o-rad-o, kolorad-o
+koloradio: 2: kol-or-a-di-o, kolor-a-di-o
+kolorigi: 2: kol-or-ig-i, kolor-ig-i
+koloro: 2: kol-or-o, kolor-o
+kolostro: 2: kol-ostr-o, kolostr-o
+kolporti: 2: kol-port-i, kolport-i
+komandoro: 2: komand-or-o, komandor-o
+kombilo: 2: komb-il-o, kom-bil-o
+kombineo: 2: komb-i-ne-o, kombine-o
+kombini: 2: komb-in-i, kombin-i
+kombino: 2: komb-in-o, kombin-o
+komfortigi: 3: komfort-ig-i, kom-for-tig-i, kom-fort-ig-i
+komisiono: 2: komisi-on-o, komision-o
+kompakta: 2: kom-pakt-a, kompakt-a
+kompaniano: 2: kom-pan-i-an-o, kompani-an-o
+kompari: 2: kom-par-i, kompar-i
+komparo: 2: kom-par-o, kompar-o
+kompaso: 2: kom-pas-o, kompas-o
+kompata: 2: kom-pat-a, kompat-a
+kompatema: 2: kom-pat-em-a, kompat-em-a
+kompatemo: 2: kom-pat-em-o, kompat-em-o
+kompati: 2: kom-pat-i, kompat-i
+kompatigi: 2: kom-pat-ig-i, kompat-ig-i
+kompatinda: 2: kom-pat-ind-a, kompat-ind-a
+kompatindulo: 2: kom-pat-ind-ul-o, kompat-ind-ul-o
+kompato: 2: kom-pat-o, kompat-o
+kompendio: 2: kom-pen-di-o, kompendi-o
+kompensi: 2: kom-pens-i, kompens-i
+kompensodevo: 2: kom-pens-o-dev-o, kompens-o-dev-o
+kompetenta: 2: kom-pet-ent-a, kompetent-a
+kompetenteco: 2: kom-pet-ent-ec-o, kompetent-ec-o
+kompetentulo: 3: kom-pet-en-tul-o, kom-pet-ent-ul-o, kompetent-ul-o
+kompili: 2: kom-pil-i, kompil-i
+kompilo: 2: kom-pil-o, kompil-o
+kompleta: 2: kom-plet-a, komplet-a
+kompleteco: 2: kom-plet-ec-o, komplet-ec-o
+kompletigi: 2: kom-plet-ig-i, komplet-ig-i
+kompleto: 2: kom-plet-o, komplet-o
+komplika: 2: kom-plik-a, komplik-a
+kompliki: 2: kom-plik-i, komplik-i
+komplikiĝi: 2: kom-plik-iĝ-i, komplik-iĝ-i
+komplimenti: 2: kom-pli-ment-i, kompliment-i
+komplimento: 2: kom-pli-ment-o, kompliment-o
+kompostejo: 2: kom-post-ej-o, kompost-ej-o
+komposti: 2: kom-post-i, kompost-i
+kompoŝti: 2: kom-poŝt-i, kompoŝt-i
+kompostilo: 2: kom-post-il-o, kompost-il-o
+kompoŝto: 2: kom-poŝt-o, kompoŝt-o
+kompoto: 2: kom-pot-o, kompot-o
+kompozicio: 2: kom-pozici-o, kompozici-o
+komprenebla: 2: kom-pren-ebl-a, kompren-ebl-a
+kompreneble: 2: kom-pren-ebl-e, kompren-ebl-e
+komprenema: 2: kom-pren-em-a, kompren-em-a
+kompreneti: 2: kom-pren-et-i, kompren-et-i
+kompreni: 2: kom-pren-i, kompren-i
+komprenigi: 2: kom-pren-ig-i, kompren-ig-i
+kompreniĝilo: 2: kom-pren-iĝ-il-o, kompren-iĝ-il-o
+komprenilo: 2: kom-pren-il-o, kompren-il-o
+kompreno: 2: kom-pren-o, kompren-o
+komprenpovo: 2: kom-pren-pov-o, kompren-pov-o
+kompreso: 2: kom-pres-o, kompres-o
+komputi: 2: kom-put-i, komput-i
+komputilo: 2: kom-put-il-o, komput-il-o
+komunii: 2: kom-uni-i, komuni-i
+komuniiĝi: 3: kom-uni-iĝ-i, komun-i-iĝ-i, komuni-iĝ-i
+komuniki: 2: kom-unik-i, komunik-i
+komunikilo: 5: kom-unik-il-o, kom-uni-kil-o, komun-i-kil-o, komuni-kil-o, komunik-il-o
+komuniko: 2: kom-unik-o, komunik-o
+komunio: 2: kom-uni-o, komuni-o
+komutilo: 2: kom-util-o, komut-il-o
+koncentrejo: 2: koncentr-ej-o, kon-centr-ej-o
+koncentriĝi: 2: koncentr-iĝ-i, kon-centr-iĝ-i
+koncertejo: 2: koncert-ej-o, kon-cert-ej-o
+kondamninda: 2: kondamn-ind-a, kon-damn-ind-a
+kondukilo: 3: konduk-il-o, kon-du-kil-o, kon-duk-il-o
+kondukpermesilo: 4: konduk-per-mes-il-o, konduk-permes-il-o, kon-duk-per-mes-il-o, kon-duk-permes-il-o
+konduktoro: 3: konduk-tor-o, kondukt-or-o, konduktor-o
+kondutismo: 2: kondut-ism-o, kon-dut-ism-o
+konfidebla: 2: konfid-ebl-a, kon-fid-ebl-a
+konfidigi: 3: konfid-ig-i, kon-fi-dig-i, kon-fid-ig-i
+konfidinda: 2: konfid-ind-a, kon-fid-ind-a
+konfirmiĝi: 2: konfirm-iĝ-i, kon-firm-iĝ-i
+konformigi: 2: konform-ig-i, kon-form-ig-i
+konformiĝi: 2: konform-iĝ-i, kon-form-iĝ-i
+kongresano: 3: kong-re-san-o, kongres-an-o, kon-gres-an-o
+kongresejo: 2: kongres-ej-o, kon-gres-ej-o
+kongrua: 2: kong-ru-a, kongru-a
+kongrui: 2: kong-ru-i, kongru-i
+konifero: 2: kon-i-fer-o, konifer-o
+konjako: 2: kon-jak-o, konjak-o
+konjugi: 2: kon-jug-i, konjug-i
+konjunkturo: 2: kon-junk-tur-o, konjunktur-o
+konkava: 2: kon-kav-a, konkav-a
+konkeri: 2: kon-ker-i, konker-i
+konkero: 2: kon-ker-o, konker-o
+konklavo: 2: kon-klav-o, konklav-o
+konkludiga: 3: konklud-ig-a, konk-lud-ig-a, konk-lu-dig-a
+konkordo: 3: kon-kord-o, konk-ord-o, konkord-o
+konkreta: 3: kon-kret-a, konk-ret-a, konkret-a
+konkretiĝi: 5: kon-kre-tiĝ-i, kon-kret-iĝ-i, konk-re-tiĝ-i, konk-ret-iĝ-i, konkret-iĝ-i
+konkure: 3: kon-kur-e, konk-ur-e, konkur-e
+konkuri: 3: kon-kur-i, konk-ur-i, konkur-i
+konkuro: 3: kon-kur-o, konk-ur-o, konkur-o
+konkurso: 3: kon-kurs-o, konk-urs-o, konkurs-o
+konosamento: 2: kon-o-sam-ent-o, konosament-o
+konscia: 2: kon-sci-a, konsci-a
+konscienca: 2: kon-scienc-a, konscienc-a
+konscienco: 2: kon-scienc-o, konscienc-o
+konscii: 2: kon-sci-i, konsci-i
+konscio: 2: kon-sci-o, konsci-o
+konsenta: 2: kon-sent-a, konsent-a
+konsentema: 2: kon-sent-em-a, konsent-em-a
+konsenti: 2: kon-sent-i, konsent-i
+konsento: 2: kon-sent-o, konsent-o
+konservatorio: 2: kon-serv-a-tori-o, konservatori-o
+konservejo: 2: kon-serv-ej-o, konserv-ej-o
+konservema: 2: kon-serv-em-a, konserv-em-a
+konservi: 2: kon-serv-i, konserv-i
+konserviĝi: 2: kon-serv-iĝ-i, konserv-iĝ-i
+konservo: 2: kon-serv-o, konserv-o
+konsiderema: 2: kon-sid-er-em-a, konsider-em-a
+konsideri: 2: kon-sid-er-i, konsider-i
+konsiderinda: 2: kon-sid-er-ind-a, konsider-ind-a
+konsidero: 2: kon-sid-er-o, konsider-o
+konsilantaro: 4: kon-si-lan-tar-o, kon-si-lant-ar-o, kon-sil-an-tar-o, konsil-an-tar-o
+konsili: 2: kon-sil-i, konsil-i
+konsiliano: 5: kon-si-li-an-o, kon-si-lian-o, kon-sil-i-an-o, konsil-i-an-o, konsili-an-o
+konsiliĝi: 2: kon-sil-iĝ-i, konsil-iĝ-i
+konsilio: 2: kon-si-li-o, konsili-o
+konsilistaro: 5: kon-si-li-star-o, kon-si-list-ar-o, kon-sil-i-star-o, konsil-i-star-o, konsili-star-o
+konsilo: 2: kon-sil-o, konsil-o
+konsoli: 2: kon-sol-i, konsol-i
+konsoliĝi: 2: kon-sol-iĝ-i, konsol-iĝ-i
+konsolo: 2: kon-sol-o, konsol-o
+konspiri: 2: kon-spir-i, konspir-i
+konspiro: 2: kon-spir-o, konspir-o
+konstanteno: 3: kon-stan-ten-o, konstant-en-o, konstanten-o
+konstati: 2: kon-stat-i, konstat-i
+konsterna: 2: kon-stern-a, konstern-a
+konsterni: 2: kon-stern-i, konstern-i
+konsterno: 2: kon-stern-o, konstern-o
+konsumi: 2: kon-sum-i, konsum-i
+kontakti: 2: kon-takt-i, kontakt-i
+kontaktiĝi: 3: kon-takt-iĝ-i, kontakt-iĝ-i, kont-akt-iĝ-i
+kontakto: 2: kon-takt-o, kontakt-o
+kontemplado: 3: kon-tem-plad-o, kon-temp-lad-o, kont-em-plad-o
+kontempli: 2: kon-templ-i, kontempl-i
+kontenero: 2: kon-tener-o, kontener-o
+kontenta: 2: kon-tent-a, kontent-a
+kontentigi: 5: kon-ten-tig-i, kon-tent-ig-i, kontent-ig-i, kont-en-tig-i, kont-ent-ig-i
+kontentiĝi: 5: kon-ten-tiĝ-i, kon-tent-iĝ-i, kontent-iĝ-i, kont-en-tiĝ-i, kont-ent-iĝ-i
+kontentulo: 5: kon-ten-tul-o, kon-tent-ul-o, kontent-ul-o, kont-en-tul-o, kont-ent-ul-o
+kontesti: 2: kon-test-i, kontest-i
+kontinenta: 2: kon-tin-ent-a, kontinent-a
+kontinento: 2: kon-tin-ent-o, kontinent-o
+kontoro: 3: kon-tor-o, kont-or-o, kontor-o
+kontrabandi: 3: kon-trab-and-i, kont-rab-and-i, kontraband-i
+kontrabandisto: 2: kon-trab-an-dist-o, kont-rab-an-dist-o
+kontrabando: 3: kon-trab-and-o, kont-rab-and-o, kontraband-o
+kontradmiralo: 2: kont-rad-mi-ral-o, kontradmiral-o
+kontrakti: 2: kon-trakt-i, kontrakt-i
+kontrakto: 2: kon-trakt-o, kontrakt-o
+kontrasti: 2: kont-rast-i, kontrast-i
+kontrastigi: 3: kont-ras-tig-i, kont-rast-ig-i, kontrast-ig-i
+kontrasto: 2: kont-rast-o, kontrast-o
+kontraŭciklono: 2: kontraŭ-cikl-on-o, kontraŭ-ciklon-o
+kontribui: 2: kon-tri-bu-i, kontribu-i
+kontroli: 3: kon-trol-i, kont-rol-i, kontrol-i
+kontrolospuro: 3: kon-trol-o-spur-o, kont-rol-o-spur-o, kontrol-o-spur-o
+kontrolturo: 3: kon-trol-tur-o, kont-rol-tur-o, kontrol-tur-o
+konturi: 3: kon-tur-i, kont-ur-i, kontur-i
+konturiĝi: 3: kon-tur-iĝ-i, kont-ur-iĝ-i, kontur-iĝ-i
+konturo: 3: kon-tur-o, kont-ur-o, kontur-o
+kontuzi: 2: kont-uz-i, kontuz-i
+kontuzo: 2: kont-uz-o, kontuz-o
+konuro: 2: kon-ur-o, konur-o
+konvalo: 2: kon-val-o, konval-o
+konvena: 2: kon-ven-a, konven-a
+konvene: 2: kon-ven-e, konven-e
+konveneco: 2: kon-ven-ec-o, konven-ec-o
+konveni: 2: kon-ven-i, konven-i
+konverĝigi: 2: kon-ver-ĝig-i, konverĝ-ig-i
+konversi: 2: kon-vers-i, konvers-i
+konverti: 2: kon-vert-i, konvert-i
+konvertiĝi: 3: kon-ver-tiĝ-i, kon-vertiĝ-i, konvert-iĝ-i
+konvertiĝo: 3: kon-ver-tiĝ-o, kon-vertiĝ-o, konvert-iĝ-o
+konvojo: 2: kon-voj-o, konvoj-o
+konvolvulo: 2: kon-volv-ul-o, konvolvul-o
+koramikino: 2: kor-am-i-kin-o, kor-amik-in-o
+kordinstrumento: 2: kord-instru-ment-o, kord-instrument-o
+kordono: 2: kord-on-o, kordon-o
+kordovo: 2: kord-ov-o, kordov-o
+korelativa: 2: kore-lat-iv-a, korelativ-a
+koreujo: 2: kore-uj-o, kor-e-uj-o
+korfavoro: 2: kor-fav-or-o, kor-favor-o
+korkotirilo: 2: kork-o-tir-il-o, kor-kot-ir-il-o
+korporaciema: 2: korp-oraci-em-a, korporaci-em-a
+korporacio: 2: korp-oraci-o, korporaci-o
+korpremo: 2: kor-prem-o, korp-rem-o
+korpulenta: 3: kor-pul-ent-a, korp-ul-ent-a, korpulent-a
+korpuso: 2: kor-pus-o, korpus-o
+kortegano: 2: kor-teg-an-o, kort-eg-an-o
+kortego: 2: kor-teg-o, kort-eg-o
+kortiko: 2: kor-tik-o, kortik-o
+korveto: 2: kor-vet-o, korvet-o
+kosmetiko: 2: kosm-etik-o, kosmetik-o
+kosmonaŭtiko: 2: kosm-o-naŭ-tik-o, kosmonaŭtik-o
+kosmonaŭto: 2: kosm-on-aŭt-o, kosmonaŭt-o
+kostarikano: 3: kostarik-an-o, kost-ari-kan-o, kost-ar-i-kan-o
+koterio: 2: kot-eri-o, koteri-o
+kotiljono: 2: kot-il-jon-o, kotiljon-o
+kotleto: 2: kot-let-o, kotlet-o
+kotono: 2: kot-on-o, koton-o
+kotonujo: 2: kot-on-uj-o, koton-uj-o
+koturno: 2: kot-urn-o, koturn-o
+krakeno: 2: krak-en-o, kraken-o
+kredigi: 2: kred-ig-i, kre-dig-i
+kreditigi: 3: kred-i-tig-i, kredit-ig-i, kre-di-tig-i
+kreditoro: 3: kred-i-tor-o, kredit-or-o, kreditor-o
+krestomatio: 2: krest-om-a-ti-o, krestomati-o
+kreteno: 2: kre-ten-o, kreten-o
+kribriĝi: 2: kribr-iĝ-i, kri-briĝ-i
+kribrilo: 2: kribr-il-o, kri-bril-o
+krimeto: 2: kri-met-o, krim-et-o
+kriminalisto: 2: kri-min-a-list-o, krim-in-a-list-o
+krimulo: 2: kri-mul-o, krim-ul-o
+krinolino: 2: kri-no-lin-o, krinolin-o
+kripligi: 2: kripl-ig-i, krip-lig-i
+kriplulo: 2: kripl-ul-o, krip-lul-o
+kriptono: 3: krip-ton-o, kript-on-o, kripton-o
+krisolo: 2: kri-sol-o, krisol-o
+kristaligi: 2: kri-stal-ig-i, kristal-ig-i
+kristaliĝi: 2: kri-stal-iĝ-i, kristal-iĝ-i
+kristalo: 2: kri-stal-o, kristal-o
+kristalografia: 2: kri-stal-ogr-a-fi-a, kristal-ogr-a-fi-a
+kristalografio: 2: kri-stal-ogr-a-fi-o, kristal-ogr-a-fi-o
+kritika: 2: kri-tik-a, kritik-a
+kritikaĉi: 3: kri-ti-kaĉ-i, kri-tik-aĉ-i, kritik-aĉ-i
+kritiki: 2: kri-tik-i, kritik-i
+kritiko: 2: kri-tik-o, kritik-o
+krizokalo: 3: kri-zo-kal-o, kriz-o-kal-o, krizokal-o
+krizolito: 3: kri-zo-lit-o, kriz-o-lit-o, krizolit-o
+kromatografio: 2: kromat-ogr-a-fi-o, kromatografi-o
+kronometro: 2: kron-o-metr-o, kronometr-o
+krucifero: 2: kruc-i-fer-o, krucifer-o
+krucifikso: 2: kruc-i-fiks-o, krucifiks-o
+krucmilito: 2: kruc-mi-lit-o, kruc-milit-o
+kudrilo: 2: kudr-il-o, ku-dril-o
+kudromaŝino: 2: kudr-o-maŝ-in-o, kudr-o-maŝin-o
+kuirarta: 2: kuir-art-a, ku-ir-art-a
+kuirarto: 2: kuir-art-o, ku-ir-art-o
+kuirejo: 2: kuir-ej-o, ku-ir-ej-o
+kuirforno: 2: kuir-forn-o, ku-ir-forn-o
+kuiriĝi: 2: kuir-iĝ-i, ku-ir-iĝ-i
+kuirmaŝino: 4: kuir-maŝ-in-o, kuir-maŝin-o, ku-ir-maŝ-in-o, ku-ir-maŝin-o
+kuirpoto: 2: kuir-pot-o, ku-ir-pot-o
+kukoledo: 2: kuk-o-led-o, kukoled-o
+kukolhorloĝo: 2: kukol-horloĝ-o, ku-kol-horloĝ-o
+kukoloforma: 2: kukol-o-form-a, ku-kol-o-form-a
+kukumeto: 3: kuku-met-o, kukum-et-o, ku-ku-met-o
+kukurbo: 2: kuk-urb-o, kukurb-o
+kulpigi: 2: kul-pig-i, kulp-ig-i
+kulpigo: 2: kul-pig-o, kulp-ig-o
+kulpulo: 2: kul-pul-o, kulp-ul-o
+kultivejo: 2: kult-iv-ej-o, kultiv-ej-o
+kultivi: 2: kult-iv-i, kultiv-i
+kultivisto: 2: kul-ti-vist-o, kult-i-vist-o
+kultivo: 2: kult-iv-o, kultiv-o
+kultura: 3: kul-tur-a, kult-ur-a, kultur-a
+kulturi: 3: kul-tur-i, kult-ur-i, kultur-i
+kulturo: 3: kul-tur-o, kult-ur-o, kultur-o
+kunaŭtoro: 4: kun-aŭt-or-o, kun-aŭtor-o, ku-naŭ-tor-o, ku-naŭt-or-o
+kunordigi: 3: kun-ord-ig-i, kun-or-dig-i, ku-nord-ig-i
+kunulo: 2: kun-ul-o, ku-nul-o
+kupolo: 2: ku-pol-o, kupol-o
+kupulo: 2: ku-pul-o, kupul-o
+kuraĝa: 2: ku-raĝ-a, kuraĝ-a
+kuraĝi: 2: ku-raĝ-i, kuraĝ-i
+kuraĝigi: 3: ku-raĝ-ig-i, kuraĝ-ig-i, kur-aĝ-ig-i
+kuraĝiĝi: 3: ku-raĝ-iĝ-i, kuraĝ-iĝ-i, kur-aĝ-iĝ-i
+kuraĝo: 2: ku-raĝ-o, kuraĝ-o
+kuraĝulo: 3: ku-raĝ-ul-o, kuraĝ-ul-o, kur-aĝ-ul-o
+kuratingi: 2: ku-rat-ing-i, kur-ating-i
+kuratoreco: 3: ku-rat-or-ec-o, kurator-ec-o, kur-a-tor-ec-o
+kuratoro: 2: ku-rat-or-o, kurator-o
+kurento: 2: ku-rent-o, kurent-o
+kuriero: 2: kur-i-er-o, kurier-o
+kurkulio: 2: kur-kuli-o, kurkuli-o
+kursano: 2: kur-san-o, kurs-an-o
+kurtaĝo: 2: kurt-aĝ-o, kurtaĝ-o
+kurteno: 3: kur-ten-o, kurt-en-o, kurten-o
+kurtino: 3: kur-tin-o, kurt-in-o, kurtin-o
+kurzofalo: 2: kur-zo-fal-o, kurz-o-fal-o
+kusentegilo: 2: ku-sent-eg-il-o, kusen-teg-il-o
+kutima: 2: ku-tim-a, kutim-a
+kutimi: 2: ku-tim-i, kutim-i
+kutimigi: 2: ku-tim-ig-i, kutim-ig-i
+kutimiĝi: 2: ku-tim-iĝ-i, kutim-iĝ-i
+kutimjuro: 2: ku-tim-jur-o, kutim-jur-o
+kutimo: 2: ku-tim-o, kutim-o
+kvadraturo: 2: kvadrat-ur-o, kvadratur-o
+kvakera: 2: kvak-er-a, kvaker-a
+kvakero: 2: kvak-er-o, kvaker-o
+kvaranteno: 3: kvar-an-ten-o, kvar-anten-o, kvaranten-o
+kvartiro: 2: kvar-tir-o, kvartir-o
+kverelema: 2: kverel-em-a, kver-el-em-a
+lagopo: 2: lag-op-o, lagop-o
+lakmuso: 2: lak-mus-o, lakmus-o
+lakona: 2: lak-on-a, lakon-a
+laktofrato: 2: lak-tof-rat-o, lakt-o-frat-o
+laktuko: 2: lak-tuk-o, laktuk-o
+lambastono: 2: lam-bas-ton-o, lam-baston-o
+lamenfungo: 2: lam-en-fung-o, lamen-fung-o
+lameno: 2: lam-en-o, lamen-o
+lamenti: 2: lam-ent-i, lament-i
+lampiono: 2: lam-pi-on-o, lampion-o
+lampiro: 2: lam-pir-o, lampir-o
+landano: 2: land-an-o, lan-dan-o
+langorompilo: 3: lang-or-om-pil-o, lan-go-rom-pil-o, lan-go-romp-il-o
+langrompilo: 2: lang-rom-pil-o, lang-romp-il-o
+langvori: 2: lang-vor-i, langvor-i
+langvoro: 2: lang-vor-o, langvor-o
+lantano: 2: lan-tan-o, lantan-o
+lanterno: 2: lan-tern-o, lantern-o
+lapona: 2: lap-on-a, lapon-a
+lapono: 2: lap-on-o, lapon-o
+laponujo: 2: lap-on-uj-o, lapon-uj-o
+latinida: 2: latin-id-a, lat-in-id-a
+latkurteno: 3: lat-kur-ten-o, lat-kurt-en-o, lat-kurten-o
+laŭdano: 2: laŭ-dan-o, laŭdan-o
+laŭdire: 2: laŭ-dir-e, laŭd-ir-e
+laŭlitera: 2: laŭ-li-ter-a, laŭ-liter-a
+laŭmezura: 2: laŭ-mez-ur-a, laŭ-mezur-a
+laŭtigi: 2: laŭ-tig-i, laŭt-ig-i
+laŭtparolilo: 2: laŭt-par-o-lil-o, laŭt-parol-il-o
+lavmaŝino: 2: lav-maŝ-in-o, lav-maŝin-o
+lavpulvoro: 3: lav-pul-vor-o, lav-pulv-or-o, lav-pulvor-o
+lazura: 2: laz-ur-a, lazur-a
+lazuro: 2: laz-ur-o, lazur-o
+lazurŝtono: 2: laz-ur-ŝton-o, lazur-ŝton-o
+legaleco: 2: legal-ec-o, le-gal-ec-o
+legitima: 3: leg-i-tim-a, legi-tim-a, legitim-a
+legitimi: 3: leg-i-tim-i, legi-tim-i, legitim-i
+legitimilo: 3: leg-i-tim-il-o, legi-tim-il-o, legitim-il-o
+legomĝardeno: 2: leg-om-ĝarden-o, legom-ĝarden-o
+legomo: 2: leg-om-o, legom-o
+legosalono: 4: leg-o-sal-on-o, leg-o-salon-o, le-go-sal-on-o, le-go-salon-o
+leĝigi: 2: leĝ-ig-i, le-ĝig-i
+lekanteto: 2: lekant-et-o, le-kant-et-o
+leksemo: 2: lek-sem-o, leksem-o
+lektoro: 3: lek-tor-o, lekt-or-o, lektor-o
+leonardo: 2: le-on-ard-o, leonard-o
+leono: 2: le-on-o, leon-o
+leopardo: 2: le-op-ard-o, leopard-o
+leporhundo: 2: le-por-hund-o, lepor-hund-o
+leporo: 2: le-por-o, lepor-o
+leporulo: 2: le-por-ul-o, lepor-ul-o
+leteo: 2: le-te-o, lete-o
+leteri: 2: le-ter-i, leter-i
+leterkesto: 3: le-ter-kest-o, leter-kest-o, let-er-kest-o
+letero: 2: le-ter-o, leter-o
+levido: 2: le-vid-o, lev-id-o
+leviero: 2: lev-i-er-o, levier-o
+levilo: 2: le-vil-o, lev-il-o
+levrelo: 2: lev-rel-o, levrel-o
+liano: 2: li-an-o, lian-o
+libana: 2: li-ban-a, liban-a
+libanano: 2: li-banan-o, liban-an-o
+libano: 2: li-ban-o, liban-o
+libelo: 2: li-bel-o, libel-o
+libera: 2: li-ber-a, liber-a
+liberala: 2: li-be-ral-a, liberal-a
+libereco: 2: li-ber-ec-o, liber-ec-o
+liberiano: 3: li-ber-i-an-o, liber-i-an-o, liberi-an-o
+liberigi: 2: li-ber-ig-i, liber-ig-i
+liberiĝi: 2: li-ber-iĝ-i, liber-iĝ-i
+libero: 2: li-ber-o, liber-o
+liberpensulo: 2: li-ber-pens-ul-o, liber-pens-ul-o
+libertempi: 2: li-ber-temp-i, liber-temp-i
+libertempo: 2: li-ber-temp-o, liber-temp-o
+libertinismo: 2: li-ber-tin-ism-o, liber-tin-ism-o
+libreto: 2: li-bret-o, libr-et-o
+librobretaro: 2: libr-ob-re-tar-o, libr-ob-ret-ar-o
+lieno: 2: li-en-o, lien-o
+ligamento: 2: li-gam-ent-o, ligament-o
+lignito: 2: lig-nit-o, lignit-o
+lignofajro: 2: lig-no-fajr-o, lign-o-fajr-o
+lignokarbo: 2: lig-no-karb-o, lign-ok-arb-o
+lignonajlo: 2: lig-no-najl-o, lign-on-ajl-o
+lignoŝuo: 2: lig-no-ŝu-o, lign-o-ŝu-o
+likeno: 2: li-ken-o, liken-o
+likvidi: 3: lik-vid-i, likv-id-i, likvid-i
+likvido: 3: lik-vid-o, likv-id-o, likvid-o
+likvoro: 3: lik-vor-o, likv-or-o, likvor-o
+lilako: 2: li-lak-o, lilak-o
+lilio: 2: li-li-o, lili-o
+liliputa: 4: li-li-put-a, lil-i-put-a, lili-put-a, liliput-a
+limeso: 2: li-mes-o, limes-o
+limonado: 2: li-monad-o, limonad-o
+lineo: 2: li-ne-o, line-o
+lingvistika: 2: lingv-i-stik-a, lingvistik-a
+lingvistiko: 2: lingv-i-stik-o, lingvistik-o
+lingvofamilio: 2: lingv-o-fam-ili-o, lingv-o-famili-o
+linifaldo: 4: li-ni-fald-o, li-nif-ald-o, lini-fald-o, lin-i-fald-o
+liniilo: 3: li-ni-il-o, lini-il-o, lin-i-il-o
+linio: 2: li-ni-o, lini-o
+linoleo: 2: li-no-le-o, lin-ole-o
+linukso: 2: li-nuks-o, linuks-o
+liono: 2: li-on-o, lion-o
+listelo: 2: li-stel-o, listel-o
+literatoro: 3: li-te-rat-or-o, li-ter-a-tor-o, literator-o
+literaturisto: 4: li-ter-a-turist-o, liter-a-turist-o, lit-era-turist-o, lit-er-a-turist-o
+literaturo: 3: li-te-rat-ur-o, li-ter-a-tur-o, literatur-o
+literaturscienco: 6: li-te-rat-ur-scienc-o, li-ter-a-tur-scienc-o, literatur-scienc-o, liter-a-tur-scienc-o, lit-era-tur-scienc-o, lit-er-a-tur-scienc-o
+litero: 2: li-ter-o, liter-o
+literumi: 2: li-te-rum-i, lit-e-rum-i
+litino: 2: li-tin-o, litin-o
+litio: 2: li-ti-o, liti-o
+litografi: 2: lit-o-graf-i, litograf-i
+litografio: 2: lit-ogr-a-fi-o, litografi-o
+litorino: 3: li-torin-o, lit-or-in-o, litorin-o
+litova: 2: lit-ov-a, litov-a
+litovo: 2: lit-ov-o, litov-o
+litovujo: 2: lit-ov-uj-o, litov-uj-o
+liveri: 3: li-ver-i, liv-er-i, liver-i
+logistiko: 2: log-i-stik-o, logistik-o
+loĝistiko: 2: loĝ-i-stik-o, loĝistik-o
+logogrifo: 2: log-o-grif-o, logogrif-o
+lokomotivo: 2: lok-o-motiv-o, lokomotiv-o
+loksio: 2: lok-si-o, loksi-o
+lombardejo: 2: lombard-ej-o, lom-bard-ej-o
+lombardujo: 2: lombard-uj-o, lom-bard-uj-o
+longanarbo: 2: long-an-arb-o, longan-arb-o
+longano: 2: long-an-o, longan-o
+lubrikilo: 2: lubrik-il-o, lu-brik-il-o
+ludoni: 2: lud-on-i, lu-don-i
+luidoro: 2: lu-id-or-o, luidor-o
+lukano: 2: lu-kan-o, lukan-o
+lulilo: 2: lu-lil-o, lul-il-o
+lumbriko: 2: lum-brik-o, lumbrik-o
+lupino: 2: lu-pin-o, lupin-o
+lupolo: 2: lu-pol-o, lupol-o
+lupreni: 2: lu-pren-i, lup-ren-i
+lupuso: 2: lu-pus-o, lupus-o
+lutero: 2: lu-ter-o, luter-o
+maĉeto: 2: maĉ-et-o, maĉet-o
+magazenego: 2: magazen-eg-o, mag-azen-eg-o
+magistrato: 2: magi-strat-o, magistrat-o
+magnetigi: 3: magnet-ig-i, mag-ne-tig-i, mag-net-ig-i
+magnetismo: 2: magnet-ism-o, mag-net-ism-o
+magnetofono: 2: magnet-o-fon-o, magnetofon-o
+magrebano: 3: mag-re-ban-o, magr-e-ban-o, magreb-an-o
+majoliko: 2: maj-o-lik-o, majolik-o
+majorano: 2: maj-or-an-o, majoran-o
+majordomo: 3: maj-ord-om-o, maj-or-dom-o, majordom-o
+majoro: 2: maj-or-o, major-o
+malvarmeta: 2: malv-arm-et-a, malv-ar-met-a
+mamono: 2: mam-on-o, mamon-o
+manartiko: 2: man-ar-tik-o, man-artik-o
+manĝobastoneto: 2: manĝ-o-bas-ton-et-o, manĝ-o-baston-et-o
+manĝbastoneto: 2: manĝ-bas-ton-et-o, manĝ-baston-et-o
+manĝeti: 2: manĝ-et-i, man-ĝet-i
+manĝigi: 2: manĝ-ig-i, man-ĝig-i
+manĝilaro: 2: manĝ-il-ar-o, man-ĝi-lar-o
+manĝosalono: 2: manĝ-o-sal-on-o, manĝ-o-salon-o
+manĝvagono: 2: manĝ-vag-on-o, manĝ-vagon-o
+manifestiĝi: 3: manifest-iĝ-i, mani-fest-iĝ-i, man-i-fest-iĝ-i
+manikuri: 2: manik-ur-i, manikur-i
+manikuro: 2: manik-ur-o, manikur-o
+manioko: 2: mani-ok-o, maniok-o
+manipulatoro: 2: mani-pul-a-tor-o, manipulator-o
+manipuli: 2: mani-pul-i, manipul-i
+mankateno: 2: mank-aten-o, man-katen-o
+manometro: 2: man-o-metr-o, manometr-o
+manovri: 2: man-ovr-i, manovr-i
+manovro: 2: man-ovr-o, manovr-o
+mansardo: 2: man-sard-o, mansard-o
+marĝenulo: 2: marĝen-ul-o, mar-ĝen-ul-o
+markaŝtano: 2: mar-kaŝ-tan-o, mar-kaŝtan-o
+markizoj: 2: marki-zo-j, mark-i-zo-j
+marksismo: 2: mark-sism-o, marks-ism-o
+marnivelo: 2: mar-ni-vel-o, mar-nivel-o
+maroka: 2: mar-ok-a, marok-a
+marokano: 2: mar-ok-an-o, marok-an-o
+maroko: 2: mar-ok-o, marok-o
+marono: 2: mar-on-o, maron-o
+marsano: 2: mar-san-o, mars-an-o
+marŝalo: 2: mar-ŝal-o, marŝal-o
+marsoldato: 2: mar-sol-dat-o, mar-soldat-o
+marsupiulo: 2: mar-sup-i-ul-o, marsupi-ul-o
+martagono: 2: mar-tag-on-o, martagon-o
+martirigi: 3: mar-tir-ig-i, martir-ig-i, mart-ir-ig-i
+martiro: 2: mar-tir-o, martir-o
+masklismo: 2: maskl-ism-o, masklism-o
+masoni: 2: mas-on-i, mason-i
+masoro: 2: mas-or-o, masor-o
+mastiki: 2: mas-tik-i, mastik-i
+mastiko: 2: mas-tik-o, mastik-o
+mastrostriko: 3: mas-tro-strik-o, mast-ros-trik-o, mastr-o-strik-o
+mastrumi: 2: mas-trum-i, mast-rum-i
+mastrumsistemo: 2: mas-trum-sistem-o, mast-rum-sistem-o
+maŝinaro: 2: maŝ-in-ar-o, maŝin-ar-o
+maŝinĉambro: 2: maŝ-in-ĉambr-o, maŝin-ĉambr-o
+maŝine: 2: maŝ-in-e, maŝin-e
+maŝino: 2: maŝ-in-o, maŝin-o
+maŝinpafilo: 2: maŝ-in-paf-il-o, maŝin-paf-il-o
+matematikisto: 2: mate-mat-i-kist-o, mat-em-a-ti-kist-o
+matenmanĝi: 2: maten-manĝ-i, mat-en-manĝ-i
+matenmanĝo: 2: maten-manĝ-o, mat-en-manĝ-o
+matenruĝo: 2: maten-ruĝ-o, mat-en-ruĝ-o
+matenstelo: 2: maten-stel-o, mat-en-stel-o
+materialisto: 3: materi-a-list-o, mat-eri-a-list-o, mat-er-ia-list-o
+materiismo: 3: materi-ism-o, mat-eri-ism-o, mat-er-i-ism-o
+matura: 2: mat-ur-a, matur-a
+matureco: 2: mat-ur-ec-o, matur-ec-o
+maturiĝi: 2: mat-ur-iĝ-i, matur-iĝ-i
+maŭrico: 2: maŭr-ic-o, maŭric-o
+medaliono: 2: medal-i-on-o, medalion-o
+meditema: 3: medi-tem-a, medit-em-a, med-i-tem-a
+mediteranea: 2: medi-ter-a-ne-a, mediterane-a
+mediteraneo: 2: medi-ter-a-ne-o, mediterane-o
+meduzo: 2: med-uz-o, meduz-o
+mekanismo: 2: mek-an-ism-o, mekanism-o
+meksikano: 2: mek-si-kan-o, meksik-an-o
+meksikiano: 2: meksik-i-an-o, meksiki-an-o
+meksikurbo: 2: mek-si-kurb-o, meksik-urb-o
+melodia: 2: mel-o-di-a, melodi-a
+melodio: 2: mel-o-di-o, melodi-o
+melodramo: 2: mel-odr-am-o, melodram-o
+melongeno: 2: mel-on-gen-o, melongen-o
+melono: 2: mel-on-o, melon-o
+melopepo: 2: mel-o-pep-o, melopep-o
+membrano: 2: mem-bran-o, membran-o
+memkomprenebla: 2: mem-kom-pren-ebl-a, mem-kompren-ebl-a
+memkompreneble: 2: mem-kom-pren-ebl-e, mem-kompren-ebl-e
+memkritiko: 2: mem-kri-tik-o, mem-kritik-o
+memori: 2: mem-or-i, memor-i
+memorando: 3: mem-or-and-o, memor-and-o, memorand-o
+memorebla: 2: mem-or-ebl-a, memor-ebl-a
+memorigi: 2: mem-or-ig-i, memor-ig-i
+memorinda: 2: mem-or-ind-a, memor-ind-a
+memorlibro: 2: mem-or-libr-o, memor-libr-o
+memoro: 2: mem-or-o, memor-o
+mensogulo: 2: mens-o-gul-o, mensog-ul-o
+menstruo: 2: mens-tru-o, menstru-o
+mentono: 2: ment-on-o, menton-o
+merkatekonomio: 2: merkat-ek-on-o-mi-o, merkat-ekonomi-o
+mespilarbo: 2: mes-pil-arb-o, mespil-arb-o
+mespilo: 2: mes-pil-o, mespil-o
+mespilujo: 2: mes-pil-uj-o, mespil-uj-o
+meteorologo: 2: meteor-o-log-o, meteorolog-o
+meteorŝtono: 2: meteor-ŝton-o, met-e-or-ŝton-o
+metiejo: 2: met-i-ej-o, meti-ej-o
+metronomo: 2: metr-on-om-o, metronom-o
+metropoliteno: 4: metr-op-o-li-ten-o, metr-op-o-lit-en-o, metro-pol-i-ten-o, metropoliten-o
+metropolito: 2: metr-op-o-lit-o, metropolit-o
+metropolo: 3: metr-o-pol-o, metro-pol-o, metropol-o
+metrostacio: 2: metr-o-staci-o, metro-staci-o
+mezalianco: 2: mez-alianc-o, mezalianc-o
+mezopotamio: 2: mez-o-pot-a-mi-o, mezopotami-o
+mezurebla: 2: mez-ur-ebl-a, mezur-ebl-a
+mezuri: 2: mez-ur-i, mezur-i
+mezurilo: 2: mez-ur-il-o, mezur-il-o
+mezuro: 2: mez-ur-o, mezur-o
+mezurunuo: 2: mez-ur-unu-o, mezur-unu-o
+miaopinie: 2: mi-a-op-i-ni-e, mi-a-opini-e
+miela: 2: mi-el-a, miel-a
+mielĉelaro: 2: mi-el-ĉel-ar-o, miel-ĉel-ar-o
+mielmonato: 2: mi-el-monat-o, miel-monat-o
+mielo: 2: mi-el-o, miel-o
+mieni: 2: mi-en-i, mien-i
+mieno: 2: mi-en-o, mien-o
+miensimbolo: 2: mi-en-simbol-o, mien-simbol-o
+mienvinjeto: 2: mi-en-vinjet-o, mien-vinjet-o
+migreno: 2: mi-gren-o, migren-o
+miksopero: 2: miks-op-er-o, miks-oper-o
+milano: 2: mi-lan-o, milan-o
+miliardo: 2: mi-li-ard-o, miliard-o
+milicio: 2: mi-lici-o, milici-o
+milico: 2: mi-lic-o, milic-o
+miligramo: 2: mi-li-gram-o, mili-gram-o
+milimetro: 2: mi-li-metr-o, mili-metr-o
+milio: 2: mi-li-o, mili-o
+miliono: 4: mi-li-on-o, mi-lion-o, mili-on-o, milion-o
+milionulo: 4: mi-li-on-ul-o, mi-lion-ul-o, mili-on-ul-o, milion-ul-o
+milita: 2: mi-lit-a, milit-a
+militdeklaro: 2: mi-lit-deklar-o, milit-deklar-o
+militestro: 2: mi-lit-estr-o, milit-estr-o
+militi: 2: mi-lit-i, milit-i
+militistaro: 5: mi-li-ti-star-o, mi-liti-star-o, mi-lit-i-star-o, mili-ti-star-o, milit-i-star-o
+milito: 2: mi-lit-o, milit-o
+militservi: 2: mi-lit-serv-i, milit-serv-i
+militservo: 2: mi-lit-serv-o, milit-serv-o
+militŝiparo: 4: mi-lit-ŝi-par-o, mi-lit-ŝip-ar-o, milit-ŝi-par-o, milit-ŝip-ar-o
+mimozo: 2: mi-moz-o, mimoz-o
+mineralo: 2: mi-ne-ral-o, mineral-o
+miniaturigi: 3: mi-ni-a-tur-ig-i, min-ia-tur-ig-i, miniatur-ig-i
+miniaturo: 3: mi-ni-a-tur-o, min-ia-tur-o, miniatur-o
+minora: 2: min-or-a, minor-a
+minotaŭro: 3: mi-no-taŭr-o, min-o-taŭr-o, minotaŭr-o
+miopa: 2: mi-op-a, miop-a
+mirabelo: 2: mi-rab-el-o, mirabel-o
+miraĝo: 2: mi-raĝ-o, miraĝ-o
+miregi: 2: mi-reg-i, mir-eg-i
+miriado: 2: mi-riad-o, miriad-o
+mirmeleono: 2: mir-mel-eon-o, mirmeleon-o
+misalo: 2: mi-sal-o, misal-o
+misio: 2: mi-si-o, misi-o
+misisipio: 2: mi-si-si-pi-o, misi-si-pi-o
+mistika: 2: mi-stik-a, mistik-a
+mistikismo: 2: mi-stik-ism-o, mistik-ism-o
+mitingo: 2: mit-ing-o, miting-o
+mitralo: 2: mit-ral-o, mitral-o
+mitulo: 3: mi-tul-o, mit-ul-o, mitul-o
+mizerikordo: 2: mizer-i-kord-o, mizerikord-o
+mizerulo: 2: mi-ze-rul-o, mizer-ul-o
+modeli: 2: mod-el-i, model-i
+modelo: 2: mod-el-o, model-o
+modemo: 2: mod-em-o, modem-o
+modera: 2: mod-er-a, moder-a
+modereco: 2: mod-er-ec-o, moder-ec-o
+moderigi: 2: mod-er-ig-i, moder-ig-i
+modero: 2: mod-er-o, moder-o
+modesta: 2: mod-est-a, modest-a
+modluro: 2: modl-ur-o, modlur-o
+moduli: 2: mod-ul-i, modul-i
+molaro: 2: mol-ar-o, molar-o
+molekulo: 2: mol-ek-ul-o, molekul-o
+molesti: 2: mol-est-i, molest-i
+monaĥejo: 2: monaĥ-ej-o, mon-aĥ-ej-o
+monaĥestro: 2: monaĥ-estr-o, mon-aĥ-estr-o
+monaĥinejo: 2: monaĥ-in-ej-o, mon-aĥ-in-ej-o
+monaĥino: 2: monaĥ-in-o, mon-aĥ-in-o
+monarkismo: 2: monark-ism-o, mon-ark-ism-o
+mondmilito: 2: mond-mi-lit-o, mond-milit-o
+mongolujo: 2: mongol-uj-o, mon-gol-uj-o
+monolito: 2: mon-o-lit-o, monolit-o
+monologi: 2: mon-o-log-i, monolog-i
+monologo: 2: mon-o-log-o, monolog-o
+monomanio: 2: mon-om-a-ni-o, monomani-o
+monopoligi: 2: mon-op-o-lig-i, monopol-ig-i
+monopolo: 2: mon-o-pol-o, monopol-o
+monotona: 2: mon-o-ton-a, monoton-a
+montano: 2: mon-tan-o, montan-o
+montaro: 2: mon-tar-o, mont-ar-o
+montenegro: 2: mon-te-negr-o, montenegr-o
+montevideo: 2: mon-te-vide-o, montevide-o
+montrilo: 2: mon-tril-o, montr-il-o
+montrofenestro: 2: mon-tro-fenestr-o, montr-o-fenestr-o
+montrofingro: 2: mon-tro-fingr-o, montr-o-fingr-o
+mortema: 2: mor-tem-a, mort-em-a
+mortemulo: 3: mor-tem-ul-o, mor-te-mul-o, mort-em-ul-o
+mortero: 2: mor-ter-o, morter-o
+mortezo: 2: mor-tez-o, mortez-o
+mortiga: 2: mor-tig-a, mort-ig-a
+mortigi: 2: mor-tig-i, mort-ig-i
+mortiĝi: 2: mor-tiĝ-i, mort-iĝ-i
+mortigo: 2: mor-tig-o, mort-ig-o
+moskvano: 2: mosk-van-o, moskv-an-o
+motorboato: 2: mot-or-boat-o, motor-boat-o
+motorciklo: 2: mot-or-cikl-o, motor-cikl-o
+motoro: 2: mot-or-o, motor-o
+mudeĥara: 2: mud-eĥ-ar-a, mudeĥar-a
+mudeĥaro: 2: mud-eĥ-ar-o, mudeĥar-o
+muftio: 2: muf-ti-o, mufti-o
+mukmembrano: 2: muk-mem-bran-o, muk-membran-o
+multangula: 3: mul-tang-ul-a, mul-tan-gul-a, mult-angul-a
+multekosta: 3: mul-tek-ost-a, mul-te-kost-a, mult-ek-ost-a
+multenombra: 3: mul-ten-ombr-a, mul-te-nombr-a, mult-en-ombr-a
+multenombro: 3: mul-ten-ombr-o, mul-te-nombr-o, mult-en-ombr-o
+multesignifa: 2: mul-te-signif-a, mult-e-signif-a
+multipliki: 4: mul-ti-plik-i, mul-tip-lik-i, mult-i-plik-i, multiplik-i
+multigi: 2: mul-tig-i, mult-ig-i
+multiĝi: 2: mul-tiĝ-i, mult-iĝ-i
+multkolora: 2: mult-kol-or-a, mult-kolor-a
+multobligi: 2: mult-obl-ig-i, mult-ob-lig-i
+multvalora: 2: mult-val-or-a, mult-valor-a
+murrompilo: 2: mur-rom-pil-o, mur-romp-il-o
+muskatarbo: 2: mus-kat-arb-o, muskat-arb-o
+muskato: 2: mus-kat-o, muskat-o
+muskatujo: 3: mus-kat-uj-o, muskat-uj-o, musk-a-tuj-o
+muskatvino: 2: mus-kat-vin-o, muskat-vin-o
+muskola: 2: mus-kol-a, muskol-a
+muskolo: 2: mus-kol-o, muskol-o
+muslino: 2: mus-lin-o, muslin-o
+musono: 2: mus-on-o, muson-o
+mutili: 2: mut-il-i, mutil-i
+muzelingo: 2: muz-el-ing-o, muzel-ing-o
+muzelo: 2: muz-el-o, muzel-o
+muzikalo: 2: muz-i-kal-o, muzikal-o
+muzikistaro: 3: muz-i-kis-tar-o, muz-i-kist-ar-o, muzik-i-star-o
+muzikilo: 2: muz-i-kil-o, muzik-il-o
+muzikinstrumento: 2: muzik-instru-ment-o, muzik-instrument-o
+muzulmano: 3: muz-ulm-an-o, muz-ul-man-o, muzulman-o
+naĝbaseno: 2: naĝ-bas-en-o, naĝ-basen-o
+nankeno: 2: nan-ken-o, nanken-o
+napoleono: 2: napol-eon-o, napoleon-o
+naskantino: 4: nask-an-tin-o, nas-kan-tin-o, nas-kant-in-o, nas-kantin-o
+naskitaro: 2: nask-i-tar-o, nas-kit-ar-o
+naskolando: 2: nask-o-land-o, nas-kol-and-o
+naskokvanto: 2: nask-ok-vant-o, nas-kok-vant-o
+naturhistorio: 2: natur-his-tori-o, natur-histori-o
+navigebla: 2: navig-ebl-a, nav-ig-ebl-a
+navigilo: 2: navig-il-o, nav-ig-il-o
+naziismo: 2: nazi-ism-o, naz-i-ism-o
+nebulastro: 2: nebul-astr-o, ne-bul-astr-o
+nebuligi: 3: nebul-ig-i, ne-bul-ig-i, ne-bu-lig-i
+nedecidema: 2: ne-dec-id-em-a, ne-decid-em-a
+nedigestebla: 3: ne-digest-ebl-a, ne-dig-est-ebl-a, ne-di-gest-ebl-a
+nedisputebla: 3: ne-di-sput-ebl-a, ne-dis-put-ebl-a, ne-disput-ebl-a
+neglektema: 3: neg-lek-tem-a, neg-lekt-em-a, neglekt-em-a
+neglekti: 2: neg-lekt-i, neglekt-i
+neglekto: 2: neg-lekt-o, neglekt-o
+negocisto: 2: neg-o-cist-o, ne-go-cist-o
+neĝtabulo: 2: neĝ-tab-ul-o, neĝ-tabul-o
+neĝulino: 2: neĝ-ul-in-o, ne-ĝu-lin-o
+nehaltigebla: 2: ne-hal-tig-ebl-a, ne-halt-ig-ebl-a
+nekomparebla: 2: ne-kom-par-ebl-a, ne-kompar-ebl-a
+nekompetenta: 2: ne-kom-pet-ent-a, ne-kompetent-a
+nekompleta: 2: ne-kom-plet-a, ne-komplet-a
+nekomprenebla: 2: ne-kom-pren-ebl-a, ne-kompren-ebl-a
+nekonsolebla: 2: ne-kon-sol-ebl-a, ne-konsol-ebl-a
+nekontestebla: 3: ne-kon-test-ebl-a, ne-kontest-ebl-a, ne-kont-est-ebl-a
+nekropsio: 2: ne-krop-si-o, nekropsi-o
+nememorebla: 2: ne-mem-or-ebl-a, ne-memor-ebl-a
+nemetiulo: 2: ne-met-i-ul-o, ne-meti-ul-o
+nenia: 2: ne-ni-a, neni-a
+neniiĝi: 2: ne-ni-iĝ-i, neni-iĝ-i
+nenio: 2: ne-ni-o, neni-o
+neono: 2: ne-on-o, neon-o
+neordinara: 2: ne-ord-in-ar-a, ne-ordinar-a
+nepalo: 2: ne-pal-o, nepal-o
+nepara: 2: ne-par-a, nep-ar-a
+nepardonebla: 4: ne-pardon-ebl-a, ne-par-don-ebl-a, nep-ard-on-ebl-a, nep-ar-don-ebl-a
+nepero: 2: ne-per-o, neper-o
+nepino: 2: ne-pin-o, nep-in-o
+neplenaĝa: 3: ne-plen-aĝ-a, nep-len-aĝ-a, nep-le-naĝ-a
+neprofitema: 2: ne-profit-em-a, nepr-o-fi-tem-a
+neptuno: 2: nep-tun-o, neptun-o
+neŝancelebla: 2: ne-ŝancel-ebl-a, ne-ŝanc-el-ebl-a
+netaksebla: 2: ne-taks-ebl-a, net-aks-ebl-a
+netolerebla: 2: ne-toler-ebl-a, ne-tol-er-ebl-a
+netolerema: 3: ne-toler-em-a, ne-tol-er-em-a, net-ole-rem-a
+neŭtrino: 2: neŭtr-in-o, neŭtrin-o
+neŭtrono: 2: neŭtr-on-o, neŭtron-o
+nevado: 2: ne-vad-o, nevad-o
+nevino: 2: ne-vin-o, nev-in-o
+nikaragvano: 2: ni-kar-ag-van-o, nikaragv-an-o
+nikelo: 2: ni-kel-o, nikel-o
+nikotino: 2: ni-kot-in-o, nikotin-o

@@ -1,29 +1,5 @@
 import pickle, os, re, pathlib, json, collections
 
-pre_vortoj = (
-    "al anstataŭ antaŭ apud ĉe ĉirkaŭ da de dum ekster el en ĝis inter je kontraŭ "    #preposizioj
-    "krom kun laŭ malgraŭ per po por post preter pri pro sen sub super sur trans tra " #preposizioj
-    "ĉi for ankoraŭ baldaŭ hodiaŭ hieraŭ morgaŭ jam ĵus nun plu tuj ajn almenaŭ "      #advs
-    "ankaŭ apenaŭ des do eĉ ja jen jes ju kvazaŭ mem nur preskaŭ tamen tre tro sen "   #advs
-    "al el en mis dis eks ek bo fi ge mal pra re"                                     #prefiksoj
-    # "mi ni vi li ŝi ĝi ili oni si ci"                                                  #pronomoj
-).strip().split(' ')
-
-
-pronomoj = "mi ni vi li ŝi ĝi ili oni si ci "
-konjuncioj = 'aŭ kaj ke kvankam nek ol se sed ĉar '
-prefiksoj = 'al el en mis dis eks ek bo fi ge mal pra re '
-aliajVortoj = (
-    "ne ĉu ho nu"
-    "al anstataŭ antaŭ apud ĉe ĉirkaŭ da de dum ekster el en ĝis inter je kontraŭ "    #preposizioj
-    "krom kun laŭ malgraŭ per po por post preter pri pro sen sub super sur trans tra " #preposizioj
-    "ĉi for ankoraŭ baldaŭ hodiaŭ hieraŭ morgaŭ jam ĵus nun plu tuj ajn almenaŭ "      #advs
-    "ankaŭ apenaŭ des do eĉ ja jen jes ju kvazaŭ mem nur preskaŭ tamen tre tro sen"   #advs
-)
-
-pre_vortoj = (aliajVortoj + prefiksoj + pronomoj).strip().split(' ')
-nedivideblajVortoj = ('la en ' + aliajVortoj + prefiksoj + pronomoj + konjuncioj).strip().split(' ')
-
 
 class NekonataVorto(Exception):
     def __init__(self, message):
@@ -33,7 +9,7 @@ re_verbo = re.compile('(\w+?)([ioa]n{0,1}t){0,1}(is|as|os|us|u|i)$', re.UNICODE)
 re_malverbo = re.compile('(\w+?)([aeio])(j{0,1})(n{0,1})$', re.UNICODE)
 re_ajnaFinajxo = re.compile('(\w+?)((?:[ioa]n{0,1}t){0,1}(?:is|as|os|us|[ao]jn|[ao]j|[ao]n|en|[aeio])){0,1}$', re.UNICODE)
 re_teksto = re.compile("(\S+)(\s*)", re.U|re.IGNORECASE|re.DOTALL|re.MULTILINE)
-re_orto = re.compile("(\W*)(\w+?)(\W*)$", re.U|re.I)
+re_orto = re.compile("(\W*)([\wĉĝĥĵŝŭ’']+)(\W*)$", re.U|re.I)
 
 
 re_literoj = [
@@ -43,20 +19,29 @@ re_literoj = [
     (re.compile("j[hx]"), 'ĵ'),
     (re.compile("sx"), 'ŝ'),
     (re.compile("ux"), 'ŭ'),
+
+    (re.compile("ĉ"), 'ĉ'), # c+̂
+    (re.compile("ĝ"), 'ĝ'), # g+̂
+    (re.compile("ĥ"), 'ĥ'), # h+̂
+    (re.compile("ĵ"), 'ĵ'), # j+̂
+    (re.compile("ŝ"), 'ŝ'), # s+̂
+    (re.compile("ŭ"), 'ŭ'), # u+̆
 ]
-def simpligiLitero(vorto):
+def simpligiLiteron(vorto):
     for re_litero, litero in re_literoj:
         vorto = re_litero.sub(litero, vorto)
     return vorto
-
-
 
 class Disigilo:
     def __init__(self, aliajVortoj={}, aliajRadikoj=None, troviEnLaVortaro=True):
         self.log = ''
 
-        with open('./datoj/vortaro/vortaro.json', 'r') as datumojFile:
-            radikoj, vortaro_ = json.load(datumojFile)
+        datumDosiero = pathlib.Path(__file__).parent.parent / 'datoj' / 'vortaro' / 'datumoj.json'
+        with datumDosiero.open('r') as datumojFile:
+            self.prefiksoj, self.sufiksoj, radikoj, self.nedivideblajVortoj, vortaro_ = json.load(datumojFile)
+            # radikoj, vortaro_ = json.load(datumojFile)
+            vortaro_ = {k.lower():[x.lower() for x in v] for k,(v,w) in vortaro_.items()}
+            radikoj = [x.lower() for x in radikoj]
 
         for k, v in aliajVortoj.items():
             radikaro_[k.lower()] = v
@@ -115,15 +100,18 @@ class Disigilo:
                     vorto = vv[0]
                     vortaro[vorto] = vortaro_[vorto]
 
-        for vorto in nedivideblajVortoj:
+        for vorto in self.nedivideblajVortoj:
             vortaro[vorto] = [vorto]
 
+        # Ambaux "am" ne havas la saman signifon: Ki-am kaj am-i
+        '''
         for ant in ['ki', 'ti', 'i', 'ĉi', 'neni']: #ali
             for post in ['u', 'o', 'a', 'e', 'es', 'en', 'am', 'al', 'el', 'om']:
                 vorto = ant+post
                 if post in 'uoa':
                     radikaro[vorto] = [vorto]
                 vortaro[vorto] = [vorto]
+        '''
 
         self.radikaro = radikaro
         self.modelaKorpoj = sorted(radikaro.keys(), key=len, reverse=True)
@@ -136,20 +124,15 @@ class Disigilo:
     
     def simpligi(self, vorto):
         litero = ''
+        
+        if len(vorto) == 1:
+            return [vorto], None
 
         self.log += f"+Simpligi(vorto='{vorto}')\n"
 
         finajxoj = []
         bazo = ''
         simplaVorto = vorto
-
-        bazo, finajxo = vorto[:-3], vorto[-3:]
-        for x in ['ĉjo', 'njo']:
-            if finajxo in x:
-                finajxoj.insert(0, finajxo)
-                self.log += f"-forigi '{vorto}' --> bazo={bazo}, finajxo='{finajxo}' in ['ĉjo', 'njo']\n"
-                return
-                yield bazo, finajxoj, vorto
 
         cxuVerbo = False
         for x in ['is', 'as', 'os', 'us']:
@@ -163,17 +146,23 @@ class Disigilo:
                 yield bazo, finajxoj, bazo + litero
 
         if not cxuVerbo:
-            for x in ['n', 'j']:
+            if vorto[-1] == 'n':
                 bazo, finajxo = vorto[:-1], vorto[-1]
-                if finajxo in x:
-                    finajxoj.insert(0, finajxo)
-                    self.log += f"-forigi '{x}' --> bazo='{bazo}', finajxo='{finajxo}' in ['n', 'j', 'aeiou']\n"
-                    litero = x
-                    simplaVorto = bazo
-                    yield bazo, finajxoj, simplaVorto
-            
-            bazo, finajxo = vorto[:-1], vorto[-1]
-            if finajxo in 'aeiou':
+                finajxoj.insert(0, finajxo)
+                self.log += f"-forigi '{x}' --> bazo='{bazo}', finajxo='{finajxo}'=='n'\n"
+            else:
+                bazo = vorto
+            #print('========', vorto, bazo)
+            if bazo[-1] == 'j':
+                bazo, finajxo = bazo[:-1], bazo[-1]
+                finajxoj.insert(0, finajxo)
+                self.log += f"-forigi '{x}' --> bazo='{bazo}', finajxo='{finajxo}'=='j'\n"
+
+            if len(finajxoj) > 0:
+                yield bazo, finajxoj, bazo
+
+            bazo, finajxo = bazo[:-1], bazo[-1]
+            if finajxo in "aeiou'’":
                 finajxoj.insert(0, finajxo)
                 self.log += f"-forigi '{x}' --> bazo='{bazo}', finajxo='{finajxo}' in ['n', 'j', 'aeiou']\n"
                 litero = finajxo
@@ -208,26 +197,30 @@ class Disigilo:
             self.log += f"-recursive('{vorto}')\n"
             return self.maneDisigiVorton(cetero)
 
-        for pre in pre_vortoj:
+        for pre in self.prefiksoj:
             if bazo.startswith(pre):
                 try:
                     self.log += f"-trovi_pre('{pre}', ('{pre}', '{bazo}'))\n"
                     return [pre, *recursive(pre, bazo)]
                 except NekonataVorto:
                     pass
-        for rad in self.radikoj:
-            if bazo.startswith(rad):
-                try:
-                    self.log += f"-trovi_rad('{rad}', ('{rad}', '{bazo}'))\n"
-                    return [rad, *recursive(rad, bazo)]
-                except NekonataVorto:
-                    litero = bazo[len(rad)]
-                    if litero in 'aeoi':
-                        try:
-                            self.log += f"-trovi_rad_litero('{rad}', '{litero}', ('{rad+litero}', '{bazo}'))\n"
-                            return [rad, litero, *recursive(rad+litero, bazo)]
-                        except NekonataVorto:
-                            pass
+        for morfemoj in [self.radikoj, self.sufiksoj]:
+            for rad in morfemoj:
+                if bazo.startswith(rad):
+                    try:
+                        self.log += f"-trovi_rad('{rad}', ('{rad}', '{bazo}'))\n"
+                        return [rad, *recursive(rad, bazo)]
+                    except NekonataVorto:
+                        litero = bazo[len(rad)]
+                        if litero in 'aeoi':
+                            try:
+                                self.log += f"-trovi_rad_litero('{rad}', '{litero}', ('{rad+litero}', '{bazo}'))\n"
+                                return [rad, litero, *recursive(rad+litero, bazo)]
+                            except NekonataVorto:
+                                pass
+        if bazo in self.nedivideblajVortoj:
+            self.log += f"-uzi_ne_dividebla -->'{bazo}'\n"
+            return [bazo]
         raise NekonataVorto(bazo)
 
     def simplegigi(self, simplaVorto):
@@ -240,29 +233,34 @@ class Disigilo:
         return simplaVorto
 
     def disigiVorton(self, vorto):
-        vorto = simpligiLitero(vorto)
+        vorto = simpligiLiteron(vorto)
 
         if vorto[-1] == "'":
-            vorto[-1] = 'o'
+            vorto = vorto[:-1] + 'o'
         self.log = "+disigiVorto('vorto')\n"
         
-        self.log += f"-DisVorto Op1.a: {vorto} --> vortaro['{vorto}'] --> {self.vortaro.get(vorto, None)}\n"
+        
+        if vorto in self.nedivideblajVortoj:
+            self.log += f"-DisVorto Op1.a nedividebla: --> '{vorto}'\n"
+            return [vorto], vorto
         try:
             silaboj = self.vortaro[vorto]
-            return silaboj, vorto if len(silaboj) == 1 else self.simplegigi(vorto)
+            self.log += f"-DisVorto Op1.b: {vorto} --> vortaro['{vorto}'] --> {self.vortaro.get(vorto, None)}\n"
+            # return silaboj, vorto if len(silaboj) == 1 else self.simplegigi(vorto)
+            return silaboj, vorto
         except KeyError:
             pass
 
         # Opcio 1: vortaro.
         for bazo, finajxoj, simplaVorto in self.simpligi(vorto):
             try:
-                self.log += f"-DisVorto Op1.a: {vorto} --> radikaro['{bazo}'], {finajxoj}'"
+                self.log += f"-DisVorto Op1.c: {vorto} --> radikaro['{bazo}'], {finajxoj}'"
                 rezulto = [*self.radikaro[bazo], *finajxoj]
                 self.log += f" --> {rezulto}\n"
                 return rezulto, self.simplegigi(simplaVorto)
             except KeyError:
                 try:
-                    self.log += f"\n-DisVorto Op1.b: {vorto} --> vortaro['{simplaVorto}'], {finajxoj}"
+                    self.log += f"\n-DisVorto Op1.d: {vorto} --> vortaro['{simplaVorto}'], {finajxoj}"
                     rezulto = [*self.vortaro[simplaVorto], *finajxoj]
                     self.log += f" --> {rezulto}'\n"
                     return rezulto, self.simplegigi(simplaVorto)
@@ -294,8 +292,6 @@ class Disigilo:
         return self.maneDisigiVorton(vorto), self.simplegigi(vorto)
 
     def kuru(self, teksto, iloj=[]):
-        frzKomenco = True
-
         for ilo in iloj:
             ilo.disigilo = self
         result = ''
@@ -305,7 +301,7 @@ class Disigilo:
                 for ilo in iloj:
                     ilo.aldoniAlianVorton(parto, '')
             else:
-                orto1, vorto, orto2 = re_orto.search(parto).groups()
+                orto1, vorto, orto2 = trovitaResulto.groups()
                 if orto1 != '':
                     for ilo in iloj:
                         ilo.aldoniSpacojn(orto1)    
@@ -323,4 +319,26 @@ class Disigilo:
         for ilo in iloj:
             ilo.process()
         return result
+
+'''
+class BL_Disigilo(Disigilo):
+    def __init__(self):
+        self.blMorfemaro = {}
+        with open('./datoj/vortaro/datumoj.json', 'r') as datumojFile:
+            self.blVortaro = {}
+            for k, v in json.load(datumojFile).items():
+                self.blVortaro[k] = v[1][0] if len(v[1]) == 1 else [*v[1][0], f'(BL:{k})']
+        for k,v in self.blVortaro.items():
+            if len(v[0]) <= 2:
+                self.blMorfemaro[v[0]] = self.blVortaro[k] = v[0] if len(v) == 1 else [*v[0], f'(BL:{k})']
+        super.__init__(self)
+
+    def disigiVorton(self, vorto):
+        silaboj, simplaVorto = super().disigiVorton(vorto.lower())
+        for i in range(len(silaboj)):
+            if silaboj[i] in blMorfemoj:
+                silaboj[i] = blMorfemoj[silaboj[i]]
+        return silaboj, simplaVorto
+'''
+
 
